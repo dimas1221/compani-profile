@@ -6,7 +6,7 @@ import { IconMoon, IconSearch, IconSun } from "./icons/InlineIcons";
 import { getMenuItems } from "./utils/dataObject";
 import GlobalButton from "./GlobalButton";
 
-export default function Header({ toggleTheme, darkMode, lang }) {
+export default function Header({ toggleTheme, darkMode, lang, topBarVisible }) {
   const [openSearch, setOpenSearch] = useState(false);
   const [openDropdown, setOpenDropdown] = useState(false);
   const location = useLocation();
@@ -26,7 +26,7 @@ export default function Header({ toggleTheme, darkMode, lang }) {
   }, []);
   return (
     <>
-      <header
+      {/* <header
         className="fixed top-[38px] left-0 w-full z-40 
     bg-transparent border-none transition-all duration-300 font-[Inter]"
       >
@@ -34,6 +34,23 @@ export default function Header({ toggleTheme, darkMode, lang }) {
           className="max-w-7xl mx-auto px-8 md:px-12 py-5 flex justify-between items-center
       rounded-2xl shadow-sm border border-white/20 dark:border-gray-700/40
       bg-white dark:bg-gray-900/60 backdrop-blur-md mt-3 mb-3"
+        > */}
+      <header
+        className={`fixed left-0 w-full z-40
+          bg-transparent border-none transition-all duration-300 font-[Inter]
+          ease-in-out
+          ${topBarVisible ? "top-[38px]" : "top-0"}
+        `}
+        style={{
+          transitionProperty: "top",
+          transitionDuration: "300ms",
+          transitionTimingFunction: "ease-in-out",
+        }}
+      >
+        <div
+          className="max-w-7xl mx-auto px-8 md:px-12 py-5 flex justify-between items-center
+        rounded-2xl shadow-sm border border-white/20 dark:border-gray-700/40
+        bg-white dark:bg-gray-900/60 backdrop-blur-md mt-3 mb-3"
         >
           {/* Left menu */}
           <nav className="hidden md:flex space-x-10 font-semibold text-lg tracking-wide text-gray-700 dark:text-gray-200">
