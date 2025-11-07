@@ -1,0 +1,182 @@
+[
+  {
+    "id": "p-001",
+    "name_en": "Edge AI Camera",
+    "name_id": "Kamera Edge AI",
+    "short_en": "Compact AI-powered CCTV with analytics",
+    "short_id": "CCTV ringkas bertenaga AI dengan analitik",
+    "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39e?auto=format&fit=crop&w=400&q=60",
+    "price": 499
+  },
+  {
+    "id": "p-002",
+    "name_en": "Smart Fingerprint",
+    "name_id": "Fingerprint Pintar",
+    "short_en": "High-accuracy fingerprint access device",
+    "short_id": "Perangkat akses sidik jari akurat",
+    "image": "https://images.unsplash.com/photo-1524253482453-3fed8d2fe12b?auto=format&fit=crop&w=400&q=60",
+    "price": 129
+  },
+  {
+    "id": "p-003",
+    "name_en": "Palm Access Terminal",
+    "name_id": "Terminal Akses Palm",
+    "short_en": "Contactless palm recognition terminal",
+    "short_id": "Terminal pengenalan telapak tanpa sentuh",
+    "image": "https://images.unsplash.com/photo-1573164574397-92b364d74852?auto=format&fit=crop&w=400&q=60",
+    "price": 229
+  },
+  {
+    "id": "p-004",
+    "name_en": "AI NVR",
+    "name_id": "AI NVR",
+    "short_en": "Network video recorder with AI engine",
+    "short_id": "Perekam video jaringan dengan engine AI",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=60",
+    "price": 799
+  },
+  {
+    "id": "p-005",
+    "name_en": "IoT Sensor Pack",
+    "name_id": "Paket Sensor IoT",
+    "short_en": "Environmental sensors for smart sites",
+    "short_id": "Sensor lingkungan untuk lokasi cerdas",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=400&q=60",
+    "price": 199
+  },
+  {
+    "id": "p-006",
+    "name_en": "Access Control Hub",
+    "name_id": "Hub Kontrol Akses",
+    "short_en": "Centralized management for access devices",
+    "short_id": "Manajemen terpusat untuk perangkat akses",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=60",
+    "price": 349
+  },
+  {
+    "id": "p-007",
+    "name_en": "Analytics Suite",
+    "name_id": "Suite Analitik",
+    "short_en": "Cloud analytics & reports dashboard",
+    "short_id": "Dasbor analitik & laporan berbasis cloud",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=60",
+    "price": 59
+  },
+  {
+    "id": "p-008",
+    "name_en": "Smart Doorbell",
+    "name_id": "Bel Pintar",
+    "short_en": "2-way audio doorbell with camera",
+    "short_id": "Bel 2-arah dengan kamera",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=400&q=60",
+    "price": 89
+  },
+  {
+    "id": "p-009",
+    "name_en": "Cloud Gateway",
+    "name_id": "Gateway Cloud",
+    "short_en": "Secure edge-cloud gateway",
+    "short_id": "Gateway edge-cloud aman",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=60",
+    "price": 159
+  },
+  {
+    "id": "p-010",
+    "name_en": "Smart Lock",
+    "name_id": "Kunci Pintar",
+    "short_en": "Keyless lock for smart buildings",
+    "short_id": "Kunci tanpa kunci untuk bangunan pintar",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=400&q=60",
+    "price": 129
+  },
+  {
+    "id": "p-011",
+    "name_en": "Thermal Camera",
+    "name_id": "Kamera Termal",
+    "short_en": "Thermal imaging for safety & monitoring",
+    "short_id": "Pencitraan termal untuk keamanan & pemantauan",
+    "image": "https://images.unsplash.com/photo-1493244040629-496f6d136cc3?auto=format&fit=crop&w=400&q=60",
+    "price": 999
+  },
+  {
+    "id": "p-012",
+    "name_en": "VMS Pro",
+    "name_id": "VMS Pro",
+    "short_en": "Video management system for enterprises",
+    "short_id": "Sistem manajemen video untuk perusahaan",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=60",
+    "price": 499
+  },
+  {
+    "id": "p-013",
+    "name_en": "Edge AI Module",
+    "name_id": "Modul Edge AI",
+    "short_en": "Plug-in AI module for cameras",
+    "short_id": "Modul AI plug-in untuk kamera",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=400&q=60",
+    "price": 149
+  },
+  {
+    "id": "p-014",
+    "name_en": "Smart Sensor Node",
+    "name_id": "Node Sensor Pintar",
+    "short_en": "Battery-powered sensor with LoRa",
+    "short_id": "Sensor bertenaga baterai dengan LoRa",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=400&q=60",
+    "price": 79
+  },
+  {
+    "id": "p-015",
+    "name_en": "Cloud Backup",
+    "name_id": "Backup Cloud",
+    "short_en": "Secure cloud backup for recordings",
+    "short_id": "Backup cloud aman untuk rekaman",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=400&q=60",
+    "price": 29
+  },
+  {
+    "id": "p-016",
+    "name_en": "Smart PoE Switch",
+    "name_id": "Switch PoE Pintar",
+    "short_en": "Managed PoE switch for devices",
+    "short_id": "Switch PoE terkelola untuk perangkat",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=60",
+    "price": 249
+  },
+  {
+    "id": "p-017",
+    "name_en": "Mobile App",
+    "name_id": "Aplikasi Mobile",
+    "short_en": "App for on-the-go monitoring",
+    "short_id": "Aplikasi untuk pemantauan on-the-go",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=400&q=60",
+    "price": 0
+  },
+  {
+    "id": "p-018",
+    "name_en": "Smart Controller",
+    "name_id": "Kontroler Pintar",
+    "short_en": "Controller for automation scenarios",
+    "short_id": "Kontroler untuk skenario otomasi",
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=400&q=60",
+    "price": 399
+  },
+  {
+    "id": "p-019",
+    "name_en": "Installer Kit",
+    "name_id": "Kit Installer",
+    "short_en": "Tools bundle for quick deploy",
+    "short_id": "Bundel alat untuk deploy cepat",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=400&q=60",
+    "price": 49
+  },
+  {
+    "id": "p-020",
+    "name_en": "Enterprise Suite",
+    "name_id": "Suite Enterprise",
+    "short_en": "Full enterprise package service",
+    "short_id": "Paket layanan enterprise lengkap",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=60",
+    "price": 1299
+  }
+]
