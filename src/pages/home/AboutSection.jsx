@@ -1,6 +1,8 @@
 import React from "react";
+import { useI18n } from "../../i18n/I18nProvider";
 
-export default function AboutSection({ t, lang }) {
+export default function AboutSection() {
+  const { lang, setLang, t } = useI18n();
   const items = [
     lang === "en"
       ? "Deliver secure digital solutions"

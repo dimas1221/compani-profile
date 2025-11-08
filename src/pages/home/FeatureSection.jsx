@@ -1,9 +1,11 @@
 import React from "react";
-import GlobalSectionTitle from "../components/GlobalSectionTitle";
-import { featuresData } from "../components/utils/dataObject";
-import FeatureCard from "../components/FeatureCard";
+import FeatureCard from "../../components/FeatureCard";
+import GlobalSectionTitle from "../../components/GlobalSectionTitle";
+import { featuresData } from "../../components/utils/dataObject";
+import { useI18n } from "../../i18n/I18nProvider";
 
-export default function FeatureSection({ lang, t }) {
+export default function FeatureSection() {
+  const { lang, setLang, t } = useI18n();
   return (
     <section className="max-w-7xl mx-auto px-6 mt-14 mb-14">
       <GlobalSectionTitle

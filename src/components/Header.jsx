@@ -1,17 +1,19 @@
 import { useEffect, useRef, useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import SearchModal from "./SearchModal";
-import { translations } from "../i18n/translation";
 import { IconMoon, IconSearch, IconSun } from "./icons/InlineIcons";
 import { getMenuItems } from "./utils/dataObject";
 import GlobalButton from "./GlobalButton";
+import { useApp } from "../context/AppContext";
+import { useI18n } from "../i18n/I18nProvider";
 
-export default function Header({ toggleTheme, darkMode, lang, topBarVisible }) {
+export default function Header({ topBarVisible }) {
+  const { darkMode, toggleTheme } = useApp();
+  const { lang, setLang, t } = useI18n();
   const [openSearch, setOpenSearch] = useState(false);
   const [openDropdown, setOpenDropdown] = useState(false);
   const location = useLocation();
-  const t = translations[lang];
-  const menu = getMenuItems(lang);
+  const menu = getMenuItems();
   const dropdownRef = useRef(null);
 
   // close dropdown jika klik di luar
@@ -26,15 +28,6 @@ export default function Header({ toggleTheme, darkMode, lang, topBarVisible }) {
   }, []);
   return (
     <>
-      {/* <header
-        className="fixed top-[38px] left-0 w-full z-40 
-    bg-transparent border-none transition-all duration-300 font-[Inter]"
-      >
-        <div
-          className="max-w-7xl mx-auto px-8 md:px-12 py-5 flex justify-between items-center
-      rounded-2xl shadow-sm border border-white/20 dark:border-gray-700/40
-      bg-white dark:bg-gray-900/60 backdrop-blur-md mt-3 mb-3"
-        > */}
       <header
         className={`fixed left-0 w-full z-40
           bg-transparent border-none transition-all duration-300 font-[Inter]

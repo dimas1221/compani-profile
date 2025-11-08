@@ -4,9 +4,7 @@ const AppContext = createContext();
 
 export function AppProvider({ children }) {
   const [darkMode, setDarkMode] = useState(false);
-  const [lang, setLang] = useState("en");
 
-  // Update class <html> setiap kali darkMode berubah
   useEffect(() => {
     document.documentElement.classList.toggle("dark", darkMode);
   }, [darkMode]);
@@ -14,7 +12,7 @@ export function AppProvider({ children }) {
   const toggleTheme = () => setDarkMode((prev) => !prev);
 
   return (
-    <AppContext.Provider value={{ darkMode, toggleTheme, lang, setLang }}>
+    <AppContext.Provider value={{ darkMode, toggleTheme }}>
       {children}
     </AppContext.Provider>
   );

@@ -2,9 +2,10 @@ import React, { useState } from "react";
 import { Mail, Twitter, Linkedin, Instagram } from "lucide-react";
 import { translations } from "../i18n/translation";
 import GlobalButton from "./GlobalButton";
+import { useI18n } from "../i18n/I18nProvider";
 
-export default function Footer({ lang }) {
-  const t = translations[lang];
+export default function Footer() {
+  const { lang, setLang, t } = useI18n();
   const [email, setEmail] = useState("");
   const [sent, setSent] = useState(false);
 

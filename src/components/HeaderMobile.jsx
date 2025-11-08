@@ -1,14 +1,18 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import SearchModal from "./SearchModal";
-import { translations } from "../i18n/translation";
 import { IconMoon, IconSearch, IconSun } from "./icons/InlineIcons";
 import { getMenuItems } from "./utils/dataObject";
-export default function HeaderMobile({ toggleTheme, darkMode, lang, setLang }) {
+import { useApp } from "../context/AppContext";
+import { useI18n } from "../i18n/I18nProvider";
+
+export default function HeaderMobile() {
+  const { darkMode, toggleTheme } = useApp();
+  const { lang, setLang, t } = useI18n();
   const [openMenu, setOpenMenu] = useState(false);
   const [openSearch, setOpenSearch] = useState(false);
-  const t = (key) => translations[lang][key] || key;
-  const menu = getMenuItems(lang);
+  const menu = getMenuItems();
+
   return (
     <>
       {/* === HEADER MOBILE === */}
@@ -18,7 +22,6 @@ export default function HeaderMobile({ toggleTheme, darkMode, lang, setLang }) {
         font-[Inter] transition-all duration-300"
       >
         {/* Company Name */}
-
         <div className="w-32 h-auto select-none">
           <img
             src={
@@ -98,7 +101,7 @@ export default function HeaderMobile({ toggleTheme, darkMode, lang, setLang }) {
           {/* Footer */}
           <div className="p-6 border-t border-gray-100 dark:border-gray-800 text-center">
             <p className="text-sm text-gray-500 dark:text-gray-400 tracking-wide">
-              © 2025 {t("company")}. All rights reserved.
+              © 2025 {t.company}. All rights reserved.
             </p>
           </div>
         </div>

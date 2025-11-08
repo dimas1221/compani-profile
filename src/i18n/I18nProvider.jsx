@@ -18,7 +18,7 @@ export function I18nProvider({ children }) {
     } catch {}
   }, [lang]);
 
-  const t = (key) => translations[lang][key] ?? key;
+  const t = translations[lang];
 
   return (
     <I18nContext.Provider value={{ lang, setLang, t }}>

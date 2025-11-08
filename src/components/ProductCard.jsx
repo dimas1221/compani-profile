@@ -1,7 +1,9 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { useI18n } from "../i18n/I18nProvider";
 
-export default function ProductCard({ product, lang }) {
+export default function ProductCard({ product }) {
+  const { lang, setLang, t } = useI18n();
   const name = lang === "en" ? product.name_en : product.name_id;
   const short = lang === "en" ? product.short_en : product.short_id;
 

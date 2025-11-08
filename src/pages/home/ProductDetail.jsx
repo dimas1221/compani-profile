@@ -1,11 +1,12 @@
 import React, { useEffect } from "react";
 import { useParams, useNavigate } from "react-router-dom";
-import products from "../data/contoh_response_api.json";
+import products from "../../data/contoh_response_api.json";
+import { useI18n } from "../../i18n/I18nProvider";
 
-export default function ProductDetail({ lang }) {
+export default function ProductDetail() {
   const { id } = useParams();
   const navigate = useNavigate();
-
+  const { lang, setLang, t } = useI18n();
   // 🔹 Auto scroll ke atas saat halaman ini dibuka
   useEffect(() => {
     window.scrollTo({ top: 0, behavior: "smooth" });

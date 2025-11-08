@@ -1,16 +1,14 @@
 import { useState, useRef } from "react";
-import ProductCarousel from "../components/ProductCarousel";
+import ProductCarousel from "../../components/ProductCarousel";
+import { dataFilterProduct } from "../../components/utils/dataObject";
+import { useI18n } from "../../i18n/I18nProvider";
 
-export default function ProductSection({ products = [], lang }) {
+export default function ProductSection({ products = [] }) {
+  const { lang, setLang, t } = useI18n();
   const [activeFilter, setActiveFilter] = useState("all");
   const carouselRef = useRef(null);
 
-  const filters = [
-    { key: "all", label_en: "All", label_id: "Semua" },
-    { key: "ai", label_en: "AI", label_id: "AI" },
-    { key: "iot", label_en: "IoT", label_id: "IoT" },
-    { key: "software", label_en: "Software", label_id: "Perangkat Lunak" },
-  ];
+  const filters = dataFilterProduct;
 
   const scroll = (direction) => {
     if (!carouselRef.current) return;
@@ -83,11 +81,7 @@ export default function ProductSection({ products = [], lang }) {
           </svg>
         </button>
 
-        <ProductCarousel
-          products={products}
-          lang={lang}
-          carouselRef={carouselRef}
-        />
+        <ProductCarousel products={products} carouselRef={carouselRef} />
 
         <button
           aria-label="Scroll right"

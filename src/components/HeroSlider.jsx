@@ -4,13 +4,15 @@ import { dataSlides } from "./utils/dataObject";
 import { useApp } from "../context/AppContext"; // ambil global lang & dark mode
 import GlobalButton from "./GlobalButton";
 import { translations } from "../i18n/translation";
+import { useI18n } from "../i18n/I18nProvider";
 
 const slides = dataSlides;
 
 export default function HeroSlider({ stats = [] }) {
-  const { lang, darkMode } = useApp();
+  const { darkMode } = useApp();
+  const { lang, setLang, t } = useI18n();
   const [idx, setIdx] = useState(0);
-  const t = translations[lang];
+
   // 🔹 Auto slide tiap 5 detik
   useEffect(() => {
     const interval = setInterval(
