@@ -3,14 +3,6 @@ import { useI18n } from "../../i18n/I18nProvider";
 // Fungsi pembuat menu agar reusable di komponen manapun
 export const getMenuItems = () => {
   const { lang, setLang, t } = useI18n();
-
-  // return [
-  //   // { name: t.home, path: "/" },
-  //   { name: t.product, path: "/product" },
-  //   { name: t.about, path: "/about" },
-  //   { name: t.solution, path: "/solution" },
-  //   { name: t.contact, path: "/contact" },
-  // ];
   return {
     mainMenu: [
       { name: t.product, path: "/product" },
@@ -20,7 +12,7 @@ export const getMenuItems = () => {
     ],
     extraMenu: [
       { name: t.partners, path: "/principle" },
-      { name: t.corporate, path: "/corporate" },
+      { name: t.corporate, path: "/success-story" },
       { name: t.helpResources, path: "/help" },
     ],
   };

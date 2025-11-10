@@ -23,7 +23,7 @@ export default function TopBar({ onVisibilityChange }) {
       className={`fixed top-0 left-0 w-full z-50
         bg-gradient-to-r from-blue-700/80 to-sky-600/80 dark:from-gray-900/80 dark:to-gray-800/80
         backdrop-blur-sm shadow-lg
-        flex justify-end items-center px-6 py-3
+        flex justify-end items-center px-6 py-1
         transition-opacity duration-300 ease-in-out
         ${visible ? "opacity-100 translate-y-0" : "-translate-y-full opacity-0"}
       `}

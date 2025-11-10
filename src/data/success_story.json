@@ -1,0 +1,143 @@
+{
+  "en": {
+    "success_story_title": "Success Stories",
+    "success_story_subtitle": "Innovation that drives transformation.",
+    "success_story_items": [
+      {
+        "id": 1,
+        "date": "2024-08-02",
+        "title": "Plaza Low Yat, Malaysia",
+        "subtitle": "Smart retail system powered by Jovision AI cameras.",
+        "description": "Jovision Deepcloud smart retailing system and face capture Camera (Model: JVS-FR3022) have been deployed successfully in Plaza Low Yat — the most famous IT mall in Kuala Lumpur, Malaysia. The solution enables human flow analytics, age and gender recognition, and intelligent marketing insights.",
+        "image": "https://images.unsplash.com/photo-1582560475093-2f9b6dcb1d3f?auto=format&fit=crop&w=900&q=60"
+      },
+      {
+        "id": 2,
+        "date": "2024-08-02",
+        "title": "Smart Kitchen Solution – Paris Baguette, Malaysia",
+        "subtitle": "AI-based monitoring for kitchen hygiene and safety.",
+        "description": "Jovision Smart Kitchen Solution monitors staff behavior and hygiene compliance in real time, detecting chef uniform status, mask wearing, garbage conditions, and smoking violations — ensuring food safety and consistent brand image for Paris Baguette branches in Malaysia.",
+        "image": "https://images.unsplash.com/photo-1565958011705-44e211bff3e1?auto=format&fit=crop&w=900&q=60"
+      },
+      {
+        "id": 3,
+        "date": "2024-08-02",
+        "title": "Panchdona Sir K.G Gupta High School, Bangladesh",
+        "subtitle": "Smart surveillance ensuring safety in education environments.",
+        "description": "Jovision 3MP and 5MP Full-Color IP Cameras with 32ch NVRs are installed at Panchdona Sir K.G Gupta High School, Bangladesh — enhancing the safety of students and staff through high-definition monitoring and sound recording.",
+        "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=900&q=60"
+      },
+      {
+        "id": 4,
+        "date": "2024-08-02",
+        "title": "Suvarnabhumi Airport, Thailand",
+        "subtitle": "AI-powered monitoring for aviation infrastructure.",
+        "description": "Jovision PTZ and Starlight IP cameras are installed throughout Suvarnabhumi Airport to strengthen airport security systems and support the country’s move toward smarter, more secure international transportation.",
+        "image": "https://images.unsplash.com/photo-1504198266285-165a94c9b8e6?auto=format&fit=crop&w=900&q=60"
+      },
+      {
+        "id": 5,
+        "date": "2024-08-02",
+        "title": "Kogi State Project, Nigeria",
+        "subtitle": "Centralized smart monitoring for government infrastructure.",
+        "description": "Jovision 9ch Decoder (Model: JVS-D6016-9HD) and VMS-6100 software were deployed for the Kogi State Government in Nigeria, enabling intelligent decoding, real-time monitoring, and improved video wall management.",
+        "image": "https://images.unsplash.com/photo-1576765607924-3f7b9e4a1b48?auto=format&fit=crop&w=900&q=60"
+      },
+      {
+        "id": 6,
+        "date": "2024-08-02",
+        "title": "Əli-94 Super Market, Azerbaijan",
+        "subtitle": "Complete surveillance overhaul for large retail area.",
+        "description": "Over 100 Jovision PoE Starlight IP Cameras and 32ch NVRs replaced the old analog system across a 10,000 sqm retail space — delivering clearer, smarter, and more reliable video coverage for ‘Əli-94’ Super Market, Azerbaijan.",
+        "image": "https://images.unsplash.com/photo-1583744946564-b52ac1c389c5?auto=format&fit=crop&w=900&q=60"
+      },
+      {
+        "id": 7,
+        "date": "2024-08-02",
+        "title": "Colosseum, Italy",
+        "subtitle": "Advanced access control and health monitoring integration.",
+        "description": "Jovision 4-in-1 Access Control System (facial recognition, temperature, mask detection) and VMS-6100 platform were installed in the Colosseum, Italy to enhance visitor management and public safety.",
+        "image": "https://images.unsplash.com/photo-1504805572947-34fad45aed93?auto=format&fit=crop&w=900&q=60"
+      },
+      {
+        "id": 8,
+        "date": "2024-08-02",
+        "title": "KEB Bank, Korea",
+        "subtitle": "AI-based access control for secure banking operations.",
+        "description": "Jovision JVS-FRT-P8 and VMS-6100 systems are used at KEB Bank in Korea to support smart access control, risk management, and secure branch entry — enhancing both safety and efficiency.",
+        "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=900&q=60"
+      }
+    ]
+  },
+
+  "id": {
+    "success_story_title": "Kisah Sukses",
+    "success_story_subtitle": "Inovasi yang mendorong transformasi.",
+    "success_story_items": [
+      {
+        "id": 1,
+        "date": "2024-08-02",
+        "title": "Plaza Low Yat, Malaysia",
+        "subtitle": "Sistem ritel pintar dengan kamera AI Jovision.",
+        "description": "Sistem ritel pintar Deepcloud dan kamera pengenal wajah Jovision (Model: JVS-FR3022) berhasil diterapkan di Plaza Low Yat — pusat IT paling terkenal di Kuala Lumpur, Malaysia. Solusi ini memungkinkan analisis lalu lintas pengunjung, pengenalan usia dan gender, serta wawasan pemasaran cerdas.",
+        "image": "https://images.unsplash.com/photo-1582560475093-2f9b6dcb1d3f?auto=format&fit=crop&w=900&q=60"
+      },
+      {
+        "id": 2,
+        "date": "2024-08-02",
+        "title": "Solusi Dapur Pintar – Paris Baguette, Malaysia",
+        "subtitle": "Pemantauan kebersihan dapur berbasis AI.",
+        "description": "Solusi Dapur Pintar Jovision digunakan untuk memantau perilaku staf dan kepatuhan higienitas secara real-time, termasuk pakaian koki, masker, kondisi tempat sampah, dan larangan merokok — memastikan keamanan pangan dan citra merek Paris Baguette di Malaysia.",
+        "image": "https://images.unsplash.com/photo-1565958011705-44e211bff3e1?auto=format&fit=crop&w=900&q=60"
+      },
+      {
+        "id": 3,
+        "date": "2024-08-02",
+        "title": "Sekolah Panchdona Sir K.G Gupta, Bangladesh",
+        "subtitle": "Sistem pengawasan pintar untuk keamanan pendidikan.",
+        "description": "Kamera IP Jovision 3MP dan 5MP Full-Color serta NVR 32ch diterapkan di Sekolah Panchdona Sir K.G Gupta, Bangladesh untuk meningkatkan keamanan siswa dan staf dengan rekaman berkualitas tinggi.",
+        "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?auto=format&fit=crop&w=900&q=60"
+      },
+      {
+        "id": 4,
+        "date": "2024-08-02",
+        "title": "Bandara Suvarnabhumi, Thailand",
+        "subtitle": "Pemantauan cerdas berbasis AI untuk infrastruktur penerbangan.",
+        "description": "Kamera PTZ dan Starlight IP Jovision diterapkan di seluruh Bandara Suvarnabhumi, Thailand untuk memperkuat sistem keamanan dan mendukung langkah menuju transportasi internasional yang lebih aman dan efisien.",
+        "image": "https://images.unsplash.com/photo-1504198266285-165a94c9b8e6?auto=format&fit=crop&w=900&q=60"
+      },
+      {
+        "id": 5,
+        "date": "2024-08-02",
+        "title": "Proyek Negara Bagian Kogi, Nigeria",
+        "subtitle": "Pemantauan terpusat untuk infrastruktur pemerintahan.",
+        "description": "Decoder Jovision 9ch (Model: JVS-D6016-9HD) bersama perangkat lunak VMS-6100 digunakan untuk mendukung Pemerintah Negara Bagian Kogi, Nigeria dalam pengelolaan video wall dan pemantauan real-time yang cerdas.",
+        "image": "https://images.unsplash.com/photo-1576765607924-3f7b9e4a1b48?auto=format&fit=crop&w=900&q=60"
+      },
+      {
+        "id": 6,
+        "date": "2024-08-02",
+        "title": "Əli-94 Super Market, Azerbaijan",
+        "subtitle": "Pembaruan total sistem pengawasan di area ritel besar.",
+        "description": "Lebih dari 100 Kamera IP PoE Starlight Jovision dan NVR 32ch menggantikan sistem analog lama di area ritel seluas 10.000 m² — memberikan pengawasan yang lebih jernih, cerdas, dan andal di ‘Əli-94’ Super Market, Azerbaijan.",
+        "image": "https://images.unsplash.com/photo-1583744946564-b52ac1c389c5?auto=format&fit=crop&w=900&q=60"
+      },
+      {
+        "id": 7,
+        "date": "2024-08-02",
+        "title": "Colosseum, Italia",
+        "subtitle": "Integrasi kontrol akses dan pemantauan kesehatan canggih.",
+        "description": "Sistem Kontrol Akses 4-in-1 Jovision (pengenalan wajah, suhu, deteksi masker) serta platform VMS-6100 diterapkan di Colosseum, Italia untuk meningkatkan manajemen pengunjung dan keamanan publik.",
+        "image": "https://images.unsplash.com/photo-1504805572947-34fad45aed93?auto=format&fit=crop&w=900&q=60"
+      },
+      {
+        "id": 8,
+        "date": "2024-08-02",
+        "title": "KEB Bank, Korea",
+        "subtitle": "Kontrol akses berbasis AI untuk keamanan perbankan.",
+        "description": "Sistem JVS-FRT-P8 dan VMS-6100 Jovision digunakan di KEB Bank, Korea untuk mendukung kontrol akses cerdas, manajemen risiko, dan keamanan kantor cabang secara efisien.",
+        "image": "https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=900&q=60"
+      }
+    ]
+  }
+}

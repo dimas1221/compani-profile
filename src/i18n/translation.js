@@ -6,7 +6,7 @@ export const translations = {
     product: "Product",
     solution: "Solution",
     contact: "Contact",
-    partners: "principle",
+    partners: "Principle",
     corporate: "Success Story",
     helpResources: "Help & Resources",
     footer_desc:

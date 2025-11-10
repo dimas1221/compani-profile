@@ -16,6 +16,8 @@ const Solution = lazy(() => import("./pages/solution/Solution"));
 const Contact = lazy(() => import("./pages/contact/Contact"));
 const ProductDetail = lazy(() => import("./pages/home/ProductDetail"));
 const Principle = lazy(() => import("./pages/principle/Principle"));
+const SuccessStory = lazy(() => import("./pages/successStory/SuccessStory"));
+const StoryDetail = lazy(() => import("./pages/successStory/StoryDetail"));
 
 export default function App() {
   const { darkMode, toggleTheme } = useApp();
@@ -26,11 +28,30 @@ export default function App() {
   const topOffset = topBarVisible ? 110 : 72; // px
 
   return (
+    // <div
+    //   className={`min-h-screen flex flex-col transition-colors duration-300 ${
+    //     darkMode
+    //       ? "dark bg-gray-950 text-gray-100"
+    //       : "bg-gradient-to-b from-[#f9fafc] via-[#f5f8ff] to-[#eef2f7] text-gray-800"
+    //   }`}
+    //   style={{ transition: "padding-top 0.3s ease" }}
+    // >
     <div
-      className={`min-h-screen flex flex-col transition-colors duration-300 ${
-        darkMode ? "dark bg-gray-950 text-gray-100" : "bg-white text-gray-800"
+      className={`min-h-screen flex flex-col transition-colors duration-500 ${
+        darkMode
+          ? "dark bg-gray-950 text-gray-100"
+          : "bg-gradient-to-b from-[#fdfdfd] via-[#f8fbff] to-[#f1f4fa] text-gray-800"
       }`}
-      style={{ transition: "padding-top 0.3s ease" }}
+      style={{
+        backgroundImage: !darkMode
+          ? `
+        radial-gradient(at 20% 20%, rgba(230, 245, 255, 0.6) 0px, transparent 50%),
+        radial-gradient(at 80% 0%, rgba(245, 250, 255, 0.6) 0px, transparent 50%),
+        radial-gradient(at 50% 100%, rgba(230, 240, 255, 0.5) 0px, transparent 50%)
+      `
+          : "none",
+        transition: "all 0.5s ease",
+      }}
     >
       <MobileLandscapeVideo />
       {/* Header */}
@@ -46,8 +67,7 @@ export default function App() {
       {/* Main */}
       <main
         className="flex-1 transition-all duration-300
-        bg-gradient-to-b from-[#f9fafc] via-[#f5f8ff] to-[#eef2f7]
-        dark:from-gray-950 dark:via-gray-900 dark:to-gray-950
+        
         "
         style={{ paddingTop: topOffset }}
       >
@@ -60,6 +80,8 @@ export default function App() {
             <Route path="/solution" element={<Solution />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/principle" element={<Principle />} />
+            <Route path="/success-story" element={<SuccessStory />} />
+            <Route path="/success-story/:id" element={<StoryDetail />} />
           </Routes>
         </Suspense>
       </main>

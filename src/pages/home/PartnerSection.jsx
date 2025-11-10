@@ -48,13 +48,13 @@ export default function PartnerSection() {
       : "We are proud to collaborate with leading institutions and organizations";
 
   return (
-    <section className="relative py-24 bg-gradient-to-b from-white to-gray-50 dark:from-gray-950 dark:to-gray-900 transition-colors duration-500 overflow-hidden">
+    <section className="relative mx-auto px-6 py-10 bg-gradient-to-b from-white to-gray-50 dark:from-gray-950 dark:to-gray-900 transition-colors duration-500 overflow-hidden">
       <div className="max-w-6xl mx-auto px-6 text-center">
         <GlobalSectionTitle title={titleText} subtitle={subtitleText} />
       </div>
 
       {/* ====== DOUBLE ROW MARQUEE ====== */}
-      <div className="relative mt-16 space-y-10 overflow-hidden">
+      <div className="relative mt-16 space-y-10 px-6 overflow-hidden">
         {/* Row 1 - Left to Right */}
         <motion.div
           className="flex gap-6 sm:gap-10"
