@@ -168,7 +168,7 @@ export default function FeatureSection() {
       {/* === MOBILE === */}
       <div
         className="flex sm:hidden flex-col gap-2 max-w-7xl mx-auto 
-                   overflow-hidden rounded-2xl shadow-md border border-gray-100 dark:border-gray-800 px-3"
+                   overflow-hidden rounded-2xl shadow-md border border-gray-100 dark:border-gray-800"
       >
         {data.map((f) => {
           const isActive = f.id === active;
