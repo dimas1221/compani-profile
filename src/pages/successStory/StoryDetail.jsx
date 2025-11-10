@@ -27,8 +27,7 @@ export default function StoryDetail() {
   return (
     <article
       className="min-h-screen relative overflow-hidden
-                 bg-gradient-to-b from-[#f9fafc] via-[#f4f7fb] to-[#eef2f7]
-                 dark:from-gray-950 dark:via-gray-900 dark:to-gray-950
+                 
                  transition-all duration-700 px-6 py-20 sm:py-28"
     >
       {/* Decorative glow */}
