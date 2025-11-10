@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import { Mail, Twitter, Linkedin, Instagram } from "lucide-react";
 import { useI18n } from "../i18n/I18nProvider";
 import GlobalButton from "./GlobalButton";
-import { motion } from "framer-motion";
 
 export default function Footer() {
   const { t } = useI18n();
@@ -33,11 +32,7 @@ export default function Footer() {
       {/* === Main Footer Content === */}
       <div className="relative max-w-7xl mx-auto px-6 sm:px-10 py-16 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-10 z-10">
         {/* --- Brand Column --- */}
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.5 }}
-        >
+        <div className="transition-all duration-500 hover:translate-y-[-2px]">
           <h4
             className="
               text-2xl sm:text-3xl font-extrabold mb-3
@@ -51,14 +46,10 @@ export default function Footer() {
           <p className="text-gray-600 dark:text-gray-400 text-sm sm:text-base leading-relaxed max-w-xs">
             {t.footer_desc}
           </p>
-        </motion.div>
+        </div>
 
         {/* --- Quick Links --- */}
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6 }}
-        >
+        <div className="transition-all duration-500 hover:translate-y-[-2px]">
           <h5 className="text-lg font-semibold mb-4">{t.quick_links}</h5>
           <ul className="space-y-2.5 text-gray-600 dark:text-gray-400 text-sm sm:text-base">
             {[
@@ -72,7 +63,8 @@ export default function Footer() {
                   href={link.href}
                   className="
                     group inline-flex items-center gap-2
-                    hover:text-blue-600 dark:hover:text-cyan-400 transition-all duration-300
+                    hover:text-blue-600 dark:hover:text-cyan-400
+                    transition-all duration-300
                   "
                 >
                   <span className="group-hover:translate-x-1 transition-transform">
@@ -82,14 +74,10 @@ export default function Footer() {
               </li>
             ))}
           </ul>
-        </motion.div>
+        </div>
 
         {/* --- Contact Info --- */}
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.7 }}
-        >
+        <div className="transition-all duration-500 hover:translate-y-[-2px]">
           <h5 className="text-lg font-semibold mb-4">{t.footer_contact}</h5>
           <ul className="space-y-2 text-sm sm:text-base">
             <li className="flex items-center gap-2">
@@ -120,6 +108,7 @@ export default function Footer() {
                   bg-white/70 dark:bg-gray-800/70
                   hover:border-blue-500 dark:hover:border-cyan-400
                   hover:text-blue-600 dark:hover:text-cyan-400
+                  shadow-sm hover:shadow-md
                   transition-all duration-300
                 "
               >
@@ -127,14 +116,10 @@ export default function Footer() {
               </a>
             ))}
           </div>
-        </motion.div>
+        </div>
 
         {/* --- Subscribe Section --- */}
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8 }}
-        >
+        <div className="transition-all duration-500 hover:translate-y-[-2px]">
           <h5 className="text-lg font-semibold mb-4">{t.footer_subscribe}</h5>
           <form
             onSubmit={submit}
@@ -166,7 +151,7 @@ export default function Footer() {
               {t.subscribed_message}
             </p>
           )}
-        </motion.div>
+        </div>
       </div>
 
       {/* === Footer Bottom === */}
