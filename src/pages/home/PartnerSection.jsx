@@ -36,34 +36,10 @@ const partners = [
   },
 ];
 
-// const partners = [
-//   {
-//     name: "DPRI",
-//     logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Logo_DPR_RI.svg/512px-Logo_DPR_RI.svg.png",
-//     url: "https://www.dpr.go.id/",
-//   },
-//   {
-//     name: "Imigrasi RI",
-//     logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_Imigrasi.svg/512px-Logo_Imigrasi.svg.png",
-//     url: "https://www.imigrasi.go.id/",
-//   },
-//   {
-//     name: "TransJakarta",
-//     logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Transjakarta_logo.svg/512px-Transjakarta_logo.svg.png",
-//     url: "https://www.transjakarta.co.id/",
-//   },
-//   {
-//     name: "Soekarno-Hatta Airport",
-//     logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Angkasa_Pura_II_logo.svg/512px-Angkasa_Pura_II_logo.svg.png",
-//     url: "https://soekarnohatta-airport.co.id/",
-//   },
-// ];
-
-// 🌀 duplicate array supaya looping halus (infinite scroll illusion)
 const duplicatedPartners = [...partners, ...partners, ...partners];
 
 export default function PartnerSection() {
-  const { t, lang } = useI18n();
+  const { lang } = useI18n();
 
   const titleText = lang === "id" ? "Mitra Kami" : "Our Partners";
   const subtitleText =
@@ -72,45 +48,82 @@ export default function PartnerSection() {
       : "We are proud to collaborate with leading institutions and organizations";
 
   return (
-    <section className="relative py-20 bg-gradient-to-b from-white to-gray-50 dark:from-gray-950 dark:to-gray-900 transition-colors duration-500 overflow-hidden">
+    <section className="relative py-24 bg-gradient-to-b from-white to-gray-50 dark:from-gray-950 dark:to-gray-900 transition-colors duration-500 overflow-hidden">
       <div className="max-w-6xl mx-auto px-6 text-center">
         <GlobalSectionTitle title={titleText} subtitle={subtitleText} />
       </div>
 
-      {/* Carousel container */}
-      <div className="relative mt-10 overflow-hidden">
+      {/* ====== DOUBLE ROW MARQUEE ====== */}
+      <div className="relative mt-16 space-y-10 overflow-hidden">
+        {/* Row 1 - Left to Right */}
         <motion.div
-          className="flex gap-10"
-          animate={{ x: ["0%", "-50%"] }}
+          className="flex gap-6 sm:gap-10"
+          animate={{ x: ["-50%", "0%"] }}
           transition={{
-            duration: 25,
+            duration: 35,
             ease: "linear",
             repeat: Infinity,
           }}
         >
-          {duplicatedPartners.map((partner, index) => (
+          {[...duplicatedPartners].reverse().map((partner, index) => (
             <motion.a
-              key={`${partner.name}-${index}`}
+              key={`top-${partner.name}-${index}`}
               href={partner.url}
               target="_blank"
               rel="noopener noreferrer"
-              className="flex-shrink-0 w-44 h-32 bg-white dark:bg-gray-800 rounded-2xl shadow-md hover:shadow-lg dark:hover:shadow-blue-900/30
-                         flex items-center justify-center border border-gray-100 dark:border-gray-700
+              className="flex-shrink-0 w-28 h-20 sm:w-44 sm:h-32
+                         bg-white dark:bg-gray-800
+                         rounded-2xl shadow-md hover:shadow-lg dark:hover:shadow-blue-900/30
+                         flex items-center justify-center
+                         border border-gray-100 dark:border-gray-700
                          hover:-translate-y-1 transition-all duration-300 group"
             >
               <img
                 src={partner.logo}
                 alt={partner.name}
                 loading="lazy"
-                className="w-24 h-24 object-contain grayscale group-hover:grayscale-0 transition-all duration-500"
+                className="w-16 h-10 sm:w-24 sm:h-24 object-contain grayscale group-hover:grayscale-0 transition-all duration-500"
               />
             </motion.a>
           ))}
         </motion.div>
 
-        {/* Gradient overlay kiri-kanan agar smooth fade seperti Apple */}
-        <div className="absolute top-0 left-0 w-24 h-full bg-gradient-to-r from-white dark:from-gray-950 to-transparent pointer-events-none" />
-        <div className="absolute top-0 right-0 w-24 h-full bg-gradient-to-l from-white dark:from-gray-950 to-transparent pointer-events-none" />
+        {/* Row 2 - Right to Left */}
+        <motion.div
+          className="flex gap-6 sm:gap-10"
+          animate={{ x: ["0%", "-50%"] }}
+          transition={{
+            duration: 35,
+            ease: "linear",
+            repeat: Infinity,
+          }}
+        >
+          {duplicatedPartners.map((partner, index) => (
+            <motion.a
+              key={`bottom-${partner.name}-${index}`}
+              href={partner.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex-shrink-0 w-28 h-20 sm:w-44 sm:h-32
+                         bg-white dark:bg-gray-800
+                         rounded-2xl shadow-md hover:shadow-lg dark:hover:shadow-blue-900/30
+                         flex items-center justify-center
+                         border border-gray-100 dark:border-gray-700
+                         hover:-translate-y-1 transition-all duration-300 group"
+            >
+              <img
+                src={partner.logo}
+                alt={partner.name}
+                loading="lazy"
+                className="w-16 h-10 sm:w-24 sm:h-24 object-contain grayscale group-hover:grayscale-0 transition-all duration-500"
+              />
+            </motion.a>
+          ))}
+        </motion.div>
+
+        {/* Fade Overlay (kiri & kanan) */}
+        <div className="absolute top-0 left-0 w-20 sm:w-24 h-full bg-gradient-to-r from-white dark:from-gray-950 to-transparent pointer-events-none" />
+        <div className="absolute top-0 right-0 w-20 sm:w-24 h-full bg-gradient-to-l from-white dark:from-gray-950 to-transparent pointer-events-none" />
       </div>
     </section>
   );

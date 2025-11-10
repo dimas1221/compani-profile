@@ -54,7 +54,7 @@ export default function HeroSlider({ stats = [] }) {
           <p className="mt-3 text-white/80 text-sm sm:text-base max-w-xl mx-auto">
             {t.description_main}
           </p>
-          <div className="mt-6">
+          {/* <div className="mt-6">
             <GlobalButton
               size="large"
               className={"rounded-full"}
@@ -62,39 +62,13 @@ export default function HeroSlider({ stats = [] }) {
             >
               {t.more_info}
             </GlobalButton>
-          </div>
+          </div> */}
         </div>
       </div>
 
       {/* ==== Counter section (keluar dari bawah hero) ==== */}
+
       {/* <div
-        className="absolute bottom-0 left-1/2 -translate-x-1/2 translate-y-1/2
-             w-[92%] sm:w-[80%] max-w-5xl z-[20]"
-      >
-        <div
-          className="
-      flex flex-row gap-4 px-2 py-4
-      sm:grid sm:grid-cols-4 sm:gap-6 sm:p-6
-      bg-white dark:bg-gray-900
-      text-gray-800 dark:text-gray-100
-      rounded-2xl shadow-xl border border-gray-200 dark:border-gray-800
-      backdrop-blur-md
-      overflow-hidden
-    "
-        >
-          {stats.map((s) => (
-            <div key={s.key} className="flex-1 min-w-0 flex justify-center">
-              <CounterStat
-                value={s.value}
-                duration={1200}
-                label={s.label}
-                iconKey={s.key}
-              />
-            </div>
-          ))}
-        </div>
-      </div> */}
-      <div
         className="absolute bottom-0 left-1/2 -translate-x-1/2 translate-y-1/2 
              w-[92%] sm:w-[80%] max-w-5xl z-[20]"
       >
@@ -111,10 +85,10 @@ export default function HeroSlider({ stats = [] }) {
       relative overflow-hidden transition-all duration-700
     "
         >
-          {/* Subtle light reflection overlay */}
+     
           <div className="absolute inset-0 bg-gradient-to-tr from-cyan-100/30 via-transparent to-transparent dark:from-cyan-500/10 opacity-70 pointer-events-none" />
 
-          {/* Glow border effect */}
+       
           <div className="absolute inset-0 rounded-3xl border border-transparent group-hover:border-cyan-300/30 transition-all duration-700" />
 
           {stats.map((s) => (
@@ -135,7 +109,7 @@ export default function HeroSlider({ stats = [] }) {
             </div>
           ))}
         </div>
-      </div>
+      </div> */}
     </section>
   );
 }

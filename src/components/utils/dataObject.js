@@ -19,7 +19,7 @@ export const getMenuItems = () => {
       { name: t.contact, path: "/contact" },
     ],
     extraMenu: [
-      { name: t.partners, path: "/partners" },
+      { name: t.partners, path: "/principle" },
       { name: t.corporate, path: "/corporate" },
       { name: t.helpResources, path: "/help" },
     ],

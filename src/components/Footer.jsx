@@ -19,7 +19,7 @@ export default function Footer() {
   return (
     <footer
       className="
-        relative mt-20 border-t border-gray-200 dark:border-gray-800
+        relative mt-20
         bg-gradient-to-b from-white via-gray-50 to-gray-100
         dark:from-gray-950 dark:via-gray-900 dark:to-gray-950
         backdrop-blur-md transition-colors duration-500

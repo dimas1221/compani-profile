@@ -35,20 +35,20 @@ export default function Header({ topBarVisible }) {
         `}
       >
         <div
-          className="max-w-7xl mx-auto px-8 md:px-12 py-5 flex justify-between items-center
+          className="relative max-w-7xl mx-auto px-6 md:px-12 py-4
+          flex items-center justify-between
           rounded-2xl shadow-sm border border-white/20 dark:border-gray-700/40
-          bg-white dark:bg-gray-900/60 backdrop-blur-md mt-3 mb-3"
+          bg-white/80 dark:bg-gray-900/60 backdrop-blur-md mt-3 mb-3"
         >
-          {/* === LEFT MENU === */}
-          <nav className="hidden md:flex space-x-10 font-semibold text-sm tracking-wide">
+          {/* === LEFT SECTION (main menu) === */}
+          <nav className="hidden md:flex items-center space-x-10 font-semibold text-sm tracking-wide flex-1 justify-start">
             {mainMenu.map((item) => {
               const isActive = location.pathname === item.path;
               return (
                 <Link
                   key={item.path}
                   to={item.path}
-                  className={`
-                    relative group transition-all duration-300 ease-in-out 
+                  className={`relative group transition-all duration-300 ease-in-out 
                     ${
                       darkMode
                         ? "text-gray-100 hover:text-white"
@@ -77,40 +77,52 @@ export default function Header({ topBarVisible }) {
             })}
           </nav>
 
-          {/* === LOGO === */}
-          <Link to="/" className="w-40 h-auto select-none">
-            <img
-              src={
-                darkMode
-                  ? "/images/logo/logodark.png"
-                  : "/images/logo/logolight.png"
-              }
-              alt={t.company}
-              className="w-full h-auto object-contain cursor-pointer hover:opacity-90 transition-all duration-200"
-              draggable={false}
-            />
-          </Link>
-          {/* === EXTRA MENU (Right side of logo) === */}
-          <nav className="hidden md:flex space-x-10 font-semibold text-sm tracking-wide">
-            {extraMenu.map((item) => (
-              <Link
-                key={item.path}
-                to={item.path}
-                className={`transition-all duration-200 relative group ${
+          {/* === LOGO (selalu di tengah absolut) === */}
+          <div className="absolute left-1/2 -translate-x-1/2 flex justify-center items-center">
+            <Link to="/" className="w-36 sm:w-44 h-auto select-none">
+              <img
+                src={
                   darkMode
-                    ? "text-gray-100 hover:text-white"
-                    : "text-gray-800 hover:text-black"
-                } ${location.pathname === item.path ? "font-bold" : ""}`}
-              >
-                {item.name}
-                <span className="absolute left-0 -bottom-1 w-0 h-[2px] bg-gradient-to-r from-blue-500 to-sky-400 transition-all duration-300 group-hover:w-full" />
-              </Link>
-            ))}
-          </nav>
+                    ? "/images/logo/logodark.png"
+                    : "/images/logo/logolight.png"
+                }
+                alt={t.company}
+                className="w-full h-auto object-contain cursor-pointer hover:opacity-90 transition-all duration-300"
+                draggable={false}
+              />
+            </Link>
+          </div>
 
-          {/* === RIGHT ACTIONS === */}
-          <div className="flex items-center space-x-6 md:space-x-8">
-            {/* Search */}
+          {/* === RIGHT SECTION (extra menu + actions) === */}
+          <div className="hidden md:flex items-center justify-end flex-1 space-x-8">
+            {extraMenu.map((item) => {
+              const isActive = location.pathname === item.path;
+              return (
+                <Link
+                  key={item.path}
+                  to={item.path}
+                  className={`relative group transition-all duration-300 font-semibold text-sm
+                    ${
+                      darkMode
+                        ? "text-gray-100 hover:text-white"
+                        : "text-gray-800 hover:text-black"
+                    } ${location.pathname === item.path ? "font-bold" : ""}`}
+                >
+                  <span
+                    className={`pb-1 ${
+                      isActive
+                        ? "font-bold bg-gradient-to-r from-blue-500 to-sky-400 bg-clip-text text-transparent"
+                        : ""
+                    }`}
+                  >
+                    {item.name}
+                  </span>
+                  <span className="absolute left-0 -bottom-1 w-0 h-[2px] bg-gradient-to-r from-blue-500 to-sky-400 transition-all duration-300 group-hover:w-full" />
+                </Link>
+              );
+            })}
+
+            {/* Search Button */}
             <button
               onClick={() => setOpenSearch(true)}
               className="text-gray-600 dark:text-gray-300 hover:text-blue-600 transition-all duration-200"
