@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import HeroSlider from "../../components/HeroSlider";
 import products from "../../data/contoh_response_api.json";
 import { translations } from "../../i18n/translation";
@@ -9,6 +9,9 @@ import { dataStats } from "../../components/utils/dataObject";
 import PartnerSection from "./PartnerSection";
 
 export default function Home() {
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }, []);
   // example stats (keys and labels via translations)
   const stats = dataStats;
 
