@@ -1,30 +1,157 @@
-import React from "react";
-import FeatureCard from "../../components/FeatureCard";
+import React, { useState } from "react";
+import { motion, AnimatePresence } from "framer-motion";
 import GlobalSectionTitle from "../../components/GlobalSectionTitle";
-import { featuresData } from "../../components/utils/dataObject";
 import { useI18n } from "../../i18n/I18nProvider";
 
+import { Cpu, Wifi, Home, Server, Code } from "lucide-react";
+import { features } from "../../components/utils/dataObject";
+
 export default function FeatureSection() {
-  const { lang, setLang, t } = useI18n();
+  const [active, setActive] = useState(5);
+  const { lang, t } = useI18n();
+  const data = features[lang] || features.en;
+
   return (
-    <section className="py-20 bg-gradient-to-b from-white to-gray-50 dark:from-gray-950 dark:to-gray-900 transition-colors duration-700">
+    <section className="relative py-3 transition-colors duration-700 px-6">
       <GlobalSectionTitle
         title={t.ourApproach}
         subtitle={t.ourApproach_subtitle}
       />
-      <div className="max-w-6xl mx-auto px-6">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 sm:gap-10">
-          {featuresData.map((feature) => (
-            <FeatureCard
-              key={feature.id}
-              title={lang === "en" ? feature.title_en : feature.title_id}
-              subtitle={
-                lang === "en" ? feature.subtitle_en : feature.subtitle_id
-              }
-              image={feature.image}
-            />
-          ))}
-        </div>
+
+      {/* === DESKTOP / TABLET === */}
+      <div
+        className="hidden sm:flex max-w-7xl mx-auto flex-row gap-3
+                   overflow-hidden rounded-[2rem] shadow-xl
+                   border border-gray-100 dark:border-gray-800"
+      >
+        {data.map((f) => {
+          const isActive = f.id === active;
+          return (
+            <motion.div
+              key={f.id}
+              layout
+              onMouseEnter={() => setActive(f.id)}
+              transition={{ type: "spring", stiffness: 100, damping: 22 }}
+              className={`relative cursor-pointer overflow-hidden
+                ${isActive ? "flex-[3]" : "flex-[0.8]"}
+                h-[420px] transition-[flex] duration-700 ease-in-out
+                rounded-[1.5rem] bg-black/5
+              `}
+            >
+              <motion.img
+                src={f.img}
+                alt={f.title}
+                loading="lazy"
+                className="absolute inset-0 w-full h-full object-cover object-center brightness-[0.75]"
+              />
+              <div
+                className={`absolute inset-0 ${
+                  isActive ? "bg-black/30" : "bg-black/60"
+                } transition-all duration-700`}
+              />
+              <div
+                className={`absolute inset-0 flex flex-col items-center justify-center text-center px-6 transition-all duration-700 ${
+                  isActive ? "opacity-100" : "opacity-70"
+                }`}
+              >
+                <div className="mb-4 text-white">{f.icon}</div>
+                <h3
+                  className={`font-bold ${
+                    isActive ? "text-2xl" : "text-lg"
+                  } text-white transition-all duration-500`}
+                >
+                  {f.title}
+                </h3>
+                <AnimatePresence>
+                  {isActive && (
+                    <motion.div
+                      initial={{ opacity: 0, y: 20 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      exit={{ opacity: 0, y: 20 }}
+                      transition={{ duration: 0.5 }}
+                      className="mt-3 max-w-sm text-sm text-gray-200 leading-relaxed"
+                    >
+                      {f.desc}
+                      <div className="mt-5">
+                        <button className="px-5 py-2 border border-white/70 rounded-full text-sm font-medium hover:bg-white hover:text-black transition">
+                          {lang === "id"
+                            ? "Pelajari lebih lanjut"
+                            : "Learn more"}
+                        </button>
+                      </div>
+                    </motion.div>
+                  )}
+                </AnimatePresence>
+              </div>
+            </motion.div>
+          );
+        })}
+      </div>
+
+      {/* === MOBILE === */}
+      <div
+        className="flex sm:hidden flex-col gap-2 max-w-7xl mx-auto 
+                   overflow-hidden rounded-2xl shadow-md border border-gray-100 dark:border-gray-800 px-3"
+      >
+        {data.map((f) => {
+          const isActive = f.id === active;
+          return (
+            <motion.div
+              key={f.id}
+              layout
+              onClick={() => setActive(f.id)}
+              transition={{ type: "spring", stiffness: 100, damping: 22 }}
+              className={`relative cursor-pointer overflow-hidden
+                ${isActive ? "h-[260px]" : "h-[120px]"}
+                transition-all duration-700 ease-in-out rounded-xl
+              `}
+            >
+              <motion.img
+                src={f.img}
+                alt={f.title}
+                loading="lazy"
+                className="absolute inset-0 w-full h-full object-cover object-center brightness-[0.75]"
+              />
+              <div
+                className={`absolute inset-0 ${
+                  isActive ? "bg-black/30" : "bg-black/65"
+                } transition-all duration-700`}
+              />
+              <div
+                className={`absolute inset-0 flex flex-col items-center justify-center text-center px-4 transition-all duration-700 ${
+                  isActive ? "opacity-100" : "opacity-70"
+                }`}
+              >
+                <div className="mb-1 text-white scale-90">{f.icon}</div>
+                <h3
+                  className={`font-semibold ${
+                    isActive ? "text-base" : "text-sm"
+                  } text-white transition-all duration-500`}
+                >
+                  {f.title}
+                </h3>
+                <AnimatePresence>
+                  {isActive && (
+                    <motion.div
+                      initial={{ opacity: 0, y: 10 }}
+                      animate={{ opacity: 1, y: 0 }}
+                      exit={{ opacity: 0, y: 10 }}
+                      transition={{ duration: 0.4 }}
+                      className="mt-2 max-w-xs text-xs text-gray-200 leading-relaxed"
+                    >
+                      {f.desc}
+                      <div className="mt-3">
+                        <button className="px-3 py-1 border border-white/70 rounded-full text-[11px] hover:bg-white hover:text-black transition">
+                          {lang === "id" ? "Pelajari" : "Learn more"}
+                        </button>
+                      </div>
+                    </motion.div>
+                  )}
+                </AnimatePresence>
+              </div>
+            </motion.div>
+          );
+        })}
       </div>
     </section>
   );

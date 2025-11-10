@@ -72,10 +72,10 @@ export default function PartnerSection() {
               target="_blank"
               rel="noopener noreferrer"
               className="flex-shrink-0 w-28 h-20 sm:w-44 sm:h-32
-                         bg-white dark:bg-gray-800
+                         
                          rounded-2xl shadow-md hover:shadow-lg dark:hover:shadow-blue-900/30
                          flex items-center justify-center
-                         border border-gray-100 dark:border-gray-700
+                         
                          hover:-translate-y-1 transition-all duration-300 group"
             >
               <img

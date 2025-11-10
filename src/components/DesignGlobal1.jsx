@@ -64,6 +64,7 @@ export default function DesignGlobal1({
               key={i}
               title={item.title}
               subtitle={item.subtitle}
+              date={item?.date}
               icon={useIcon ? item.icon : undefined}
               onClick={item.onClick}
               image={useImage ? item.image : undefined}

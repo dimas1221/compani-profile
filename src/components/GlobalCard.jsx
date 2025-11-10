@@ -18,7 +18,15 @@ export default function GlobalCard({
   icon,
   className = "",
   onClick,
+  date,
 }) {
+  const formattedDate = date
+    ? new Date(date).toLocaleDateString("en-US", {
+        day: "numeric",
+        month: "short",
+        year: "numeric",
+      })
+    : null;
   return (
     <motion.div
       onClick={onClick}
@@ -48,6 +56,13 @@ export default function GlobalCard({
         {/* Icon */}
         {icon && (
           <div className="text-blue-600 dark:text-cyan-400 mb-4">{icon}</div>
+        )}
+        {formattedDate && (
+          <div className="flex justify-end">
+            <p className="mt-3 text-xs text-gray-500 dark:text-gray-400 italic">
+              {formattedDate}
+            </p>
+          </div>
         )}
 
         {/* Title */}
