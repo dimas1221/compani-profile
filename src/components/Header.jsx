@@ -9,14 +9,14 @@ import { useI18n } from "../i18n/I18nProvider";
 
 export default function Header({ topBarVisible }) {
   const { darkMode, toggleTheme } = useApp();
-  const { lang, setLang, t } = useI18n();
+  const { t } = useI18n();
   const [openSearch, setOpenSearch] = useState(false);
   const [openDropdown, setOpenDropdown] = useState(false);
   const location = useLocation();
-  const menu = getMenuItems();
+  const { mainMenu, extraMenu } = getMenuItems();
   const dropdownRef = useRef(null);
 
-  // close dropdown jika klik di luar
+  // Tutup dropdown jika klik di luar area
   useEffect(() => {
     function handleClickOutside(event) {
       if (dropdownRef.current && !dropdownRef.current.contains(event.target)) {
@@ -26,44 +26,59 @@ export default function Header({ topBarVisible }) {
     document.addEventListener("mousedown", handleClickOutside);
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, []);
+
   return (
     <>
       <header
-        className={`fixed left-0 w-full z-40
-          bg-transparent border-none transition-all duration-300 font-[Inter]
-          ease-in-out
+        className={`fixed left-0 w-full z-40 bg-transparent border-none transition-all duration-300 font-[Inter]
           ${topBarVisible ? "top-[38px]" : "top-0"}
         `}
-        style={{
-          transitionProperty: "top",
-          transitionDuration: "300ms",
-          transitionTimingFunction: "ease-in-out",
-        }}
       >
         <div
           className="max-w-7xl mx-auto px-8 md:px-12 py-5 flex justify-between items-center
-        rounded-2xl shadow-sm border border-white/20 dark:border-gray-700/40
-        bg-white dark:bg-gray-900/60 backdrop-blur-md mt-3 mb-3"
+          rounded-2xl shadow-sm border border-white/20 dark:border-gray-700/40
+          bg-white dark:bg-gray-900/60 backdrop-blur-md mt-3 mb-3"
         >
-          {/* Left menu */}
-          <nav className="hidden md:flex space-x-10 font-semibold text-lg tracking-wide text-gray-700 dark:text-gray-200">
-            {menu.map((item) => (
-              <Link
-                key={item.path}
-                to={item.path}
-                className={`transition-colors duration-200 ${
-                  location.pathname === item.path
-                    ? "text-blue-600 font-bold"
-                    : "hover:text-blue-600"
-                }`}
-              >
-                {item.name}
-              </Link>
-            ))}
+          {/* === LEFT MENU === */}
+          <nav className="hidden md:flex space-x-10 font-semibold text-sm tracking-wide">
+            {mainMenu.map((item) => {
+              const isActive = location.pathname === item.path;
+              return (
+                <Link
+                  key={item.path}
+                  to={item.path}
+                  className={`
+                    relative group transition-all duration-300 ease-in-out 
+                    ${
+                      darkMode
+                        ? "text-gray-100 hover:text-white"
+                        : "text-gray-700 hover:text-black"
+                    }
+                    ${isActive ? "font-bold" : ""}
+                  `}
+                >
+                  <span
+                    className={`pb-1 ${
+                      isActive
+                        ? "font-bold bg-gradient-to-r from-blue-500 to-sky-400 bg-clip-text text-transparent"
+                        : ""
+                    }`}
+                  >
+                    {item.name}
+                  </span>
+
+                  {/* Animated underline */}
+                  <span
+                    className={`absolute left-1/2 -bottom-[3px] w-0 h-[2px] bg-gradient-to-r from-blue-500 to-sky-400 
+                    rounded-full transition-all duration-300 group-hover:w-full group-hover:left-0`}
+                  />
+                </Link>
+              );
+            })}
           </nav>
 
-          {/* Logo */}
-          <div className="w-40 h-auto select-none">
+          {/* === LOGO === */}
+          <Link to="/" className="w-40 h-auto select-none">
             <img
               src={
                 darkMode
@@ -71,51 +86,31 @@ export default function Header({ topBarVisible }) {
                   : "/images/logo/logolight.png"
               }
               alt={t.company}
-              className="w-full h-auto object-contain"
+              className="w-full h-auto object-contain cursor-pointer hover:opacity-90 transition-all duration-200"
               draggable={false}
             />
-          </div>
-
-          {/* Right actions */}
-          <div className="flex items-center space-x-6 md:space-x-8">
-            {/* Dropdown Our Teams */}
-            <div className="relative" ref={dropdownRef}>
-              <GlobalButton
-                onClick={() => setOpenDropdown((v) => !v)}
-                variant="primary"
-                size="medium"
-                aria-haspopup="true"
-                aria-expanded={openDropdown}
-                aria-controls="teams-menu"
-                className="hidden md:inline"
+          </Link>
+          {/* === EXTRA MENU (Right side of logo) === */}
+          <nav className="hidden md:flex space-x-10 font-semibold text-sm tracking-wide">
+            {extraMenu.map((item) => (
+              <Link
+                key={item.path}
+                to={item.path}
+                className={`transition-all duration-200 relative group ${
+                  darkMode
+                    ? "text-gray-100 hover:text-white"
+                    : "text-gray-800 hover:text-black"
+                } ${location.pathname === item.path ? "font-bold" : ""}`}
               >
-                {t.ourTeams}
-              </GlobalButton>
+                {item.name}
+                <span className="absolute left-0 -bottom-1 w-0 h-[2px] bg-gradient-to-r from-blue-500 to-sky-400 transition-all duration-300 group-hover:w-full" />
+              </Link>
+            ))}
+          </nav>
 
-              {openDropdown && (
-                <ul
-                  id="teams-menu"
-                  role="menu"
-                  className="absolute right-0 mt-2 w-48 bg-white dark:bg-gray-800 rounded-md shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none z-50"
-                >
-                  {t.team_members.map((member, i) => (
-                    <li
-                      key={i}
-                      role="menuitem"
-                      tabIndex={-1}
-                      className="cursor-pointer px-4 py-2 text-gray-700 dark:text-gray-200 hover:bg-blue-600 hover:text-white"
-                      onClick={() => {
-                        setOpenDropdown(false);
-                        alert(`Selected team: ${member}`);
-                      }}
-                    >
-                      {member}
-                    </li>
-                  ))}
-                </ul>
-              )}
-            </div>
-
+          {/* === RIGHT ACTIONS === */}
+          <div className="flex items-center space-x-6 md:space-x-8">
+            {/* Search */}
             <button
               onClick={() => setOpenSearch(true)}
               className="text-gray-600 dark:text-gray-300 hover:text-blue-600 transition-all duration-200"
@@ -124,12 +119,13 @@ export default function Header({ topBarVisible }) {
               <IconSearch className="w-6 h-6" />
             </button>
 
+            {/* Theme Toggle */}
             <button
               onClick={toggleTheme}
               className="text-gray-600 dark:text-gray-300 hover:text-blue-600 transition-all duration-200"
               aria-label="Toggle Theme"
             >
-              {darkMode ? (
+              {!darkMode ? (
                 <IconSun className="w-6 h-6" />
               ) : (
                 <IconMoon className="w-6 h-6" />

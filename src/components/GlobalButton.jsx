@@ -2,13 +2,14 @@ import React from "react";
 import clsx from "clsx";
 
 const baseStyles =
-  "font-semibold rounded-lg focus:outline-none focus:ring-2 focus:ring-offset-2 transition";
+  "font-semibold rounded-lg focus:outline-none focus:ring-2 focus:ring-offset-2 transition-all duration-300 ease-in-out transform";
 
 const variantStyles = {
   primary:
-    "text-white bg-gradient-to-r from-blue-600 to-sky-500 hover:opacity-90 focus:ring-blue-500",
-  secondary: "text-gray-700 bg-gray-200 hover:bg-gray-300 focus:ring-gray-400",
-  // Bisa tambah variant lain di sini
+    "text-white bg-gradient-to-r from-blue-600 to-sky-500 hover:shadow-lg hover:scale-[1.03] focus:ring-blue-500",
+  secondary:
+    "text-gray-700 bg-gray-200 hover:bg-gray-300 hover:shadow-md hover:scale-[1.02] focus:ring-gray-400",
+  // Tambahkan varian lain jika diperlukan
 };
 
 const sizeStyles = {
@@ -36,7 +37,8 @@ export default function GlobalButton({
         baseStyles,
         variantStyles[variant],
         sizeStyles[size],
-        disabled && "opacity-50 cursor-not-allowed",
+        disabled &&
+          "opacity-50 cursor-not-allowed hover:scale-100 hover:shadow-none",
         className
       )}
       {...props}

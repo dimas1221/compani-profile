@@ -1,182 +1,123 @@
 [
   {
     "id": "p-001",
-    "name_en": "Edge AI Camera",
-    "name_id": "Kamera Edge AI",
-    "short_en": "Compact AI-powered CCTV with analytics",
-    "short_id": "CCTV ringkas bertenaga AI dengan analitik",
-    "image": "https://images.unsplash.com/photo-1518779578993-ec3579fee39e?auto=format&fit=crop&w=400&q=60",
-    "price": 499
+    "name_en": "Smart CCTV",
+    "name_id": "Kamera Cerdas",
+    "short_en": "High-definition AI-powered CCTV with motion detection and mobile monitoring.",
+    "short_id": "Kamera CCTV beresolusi tinggi dengan AI pendeteksi gerakan dan pemantauan melalui ponsel.",
+    "desc_en": "A high-resolution AI-powered security camera with motion tracking and remote access. Supports real-time alerts, night vision, and cloud recording via Wi-Fi or MQTT integration.",
+    "desc_id": "Kamera keamanan beresolusi tinggi dengan dukungan AI, pelacakan gerakan, dan akses jarak jauh. Mendukung notifikasi waktu nyata, penglihatan malam, serta perekaman cloud melalui Wi-Fi atau MQTT.",
+    "image": "/images/product/cctv1.png",
+    "category": "ai",
+    "compatibility": ["wifi", "mqtt"]
   },
   {
     "id": "p-002",
-    "name_en": "Smart Fingerprint",
-    "name_id": "Fingerprint Pintar",
-    "short_en": "High-accuracy fingerprint access device",
-    "short_id": "Perangkat akses sidik jari akurat",
-    "image": "https://images.unsplash.com/photo-1524253482453-3fed8d2fe12b?auto=format&fit=crop&w=400&q=60",
-    "price": 129
+    "name_en": "Dual Gate Controller",
+    "name_id": "Kontroler Gerbang Ganda",
+    "short_en": "Smart controller for dual automatic gates, compatible with Wi-Fi and Bluetooth apps.",
+    "short_id": "Kontroler pintar untuk dua gerbang otomatis, kompatibel dengan aplikasi Wi-Fi dan Bluetooth.",
+    "desc_en": "A dual-channel smart gate controller designed for automatic dual gates. Offers wireless control through Wi-Fi or Bluetooth, ideal for synchronized operation and remote management.",
+    "desc_id": "Kontroler gerbang pintar dua saluran yang dirancang untuk gerbang otomatis ganda. Menawarkan kontrol nirkabel melalui Wi-Fi atau Bluetooth, ideal untuk pengoperasian sinkron dan pengelolaan jarak jauh.",
+    "image": "/images/product/dualgate.png",
+    "category": "iot",
+    "compatibility": ["wifi", "bluetooth"]
   },
   {
     "id": "p-003",
-    "name_en": "Palm Access Terminal",
-    "name_id": "Terminal Akses Palm",
-    "short_en": "Contactless palm recognition terminal",
-    "short_id": "Terminal pengenalan telapak tanpa sentuh",
-    "image": "https://images.unsplash.com/photo-1573164574397-92b364d74852?auto=format&fit=crop&w=400&q=60",
-    "price": 229
+    "name_en": "Smart Projector Mini",
+    "name_id": "Proyektor Pintar Mini",
+    "short_en": "Compact wireless projector with smart app control and vibrant full-HD display.",
+    "short_id": "Proyektor nirkabel ringkas dengan kontrol aplikasi pintar dan tampilan full-HD yang cerah.",
+    "desc_en": "A portable smart projector that delivers a sharp Full-HD image with wireless connectivity. Easily controlled via a mobile app, perfect for home cinema or presentations.",
+    "desc_id": "Proyektor pintar portabel yang menampilkan gambar tajam Full-HD dengan konektivitas nirkabel. Dapat dikontrol melalui aplikasi ponsel, ideal untuk hiburan rumah atau presentasi.",
+    "image": "/images/product/smartprojector.png",
+    "category": "software",
+    "compatibility": ["wifi"]
   },
   {
     "id": "p-004",
-    "name_en": "AI NVR",
-    "name_id": "AI NVR",
-    "short_en": "Network video recorder with AI engine",
-    "short_id": "Perekam video jaringan dengan engine AI",
-    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=60",
-    "price": 799
+    "name_en": "MaxVision Display Hub",
+    "name_id": "Pusat Tampilan MaxVision",
+    "short_en": "Central smart display hub for monitoring, control, and energy management.",
+    "short_id": "Pusat tampilan pintar untuk pemantauan, kontrol, dan manajemen energi.",
+    "desc_en": "An intelligent display hub that integrates multiple IoT systems into one visual dashboard. Supports real-time monitoring, automation control, and energy optimization.",
+    "desc_id": "Pusat tampilan pintar yang mengintegrasikan berbagai sistem IoT ke dalam satu dasbor visual. Mendukung pemantauan waktu nyata, kontrol otomatisasi, dan optimasi energi.",
+    "image": "/images/product/maxvision.png",
+    "category": "iot",
+    "compatibility": ["wifi", "mqtt"]
   },
   {
     "id": "p-005",
-    "name_en": "IoT Sensor Pack",
-    "name_id": "Paket Sensor IoT",
-    "short_en": "Environmental sensors for smart sites",
-    "short_id": "Sensor lingkungan untuk lokasi cerdas",
-    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=400&q=60",
-    "price": 199
+    "name_en": "Single Gate Controller 2",
+    "name_id": "Kontroler Gerbang Tunggal 2",
+    "short_en": "Next-generation smart single gate controller with Bluetooth and MQTT support.",
+    "short_id": "Kontroler gerbang tunggal generasi baru dengan dukungan Bluetooth dan MQTT.",
+    "desc_en": "A new-generation single gate controller offering advanced automation, BLE pairing, and MQTT connectivity for seamless integration with smart home systems.",
+    "desc_id": "Kontroler gerbang tunggal generasi baru dengan otomatisasi canggih, koneksi BLE, dan dukungan MQTT untuk integrasi yang mulus dengan sistem rumah pintar.",
+    "image": "/images/product/singglegate2.png",
+    "category": "iot",
+    "compatibility": ["bluetooth", "mqtt"]
+  },
+
+  {
+    "id": "p-0011",
+    "name_en": "Smart CCTV",
+    "name_id": "Kamera Cerdas",
+    "short_en": "High-definition AI-powered CCTV with motion detection and mobile monitoring.",
+    "short_id": "Kamera CCTV beresolusi tinggi dengan AI pendeteksi gerakan dan pemantauan melalui ponsel.",
+    "desc_en": "A high-resolution AI-powered security camera with motion tracking and remote access. Supports real-time alerts, night vision, and cloud recording via Wi-Fi or MQTT integration.",
+    "desc_id": "Kamera keamanan beresolusi tinggi dengan dukungan AI, pelacakan gerakan, dan akses jarak jauh. Mendukung notifikasi waktu nyata, penglihatan malam, serta perekaman cloud melalui Wi-Fi atau MQTT.",
+    "image": "/images/product/cctv1.png",
+    "category": "ai",
+    "compatibility": ["wifi", "mqtt"]
   },
   {
-    "id": "p-006",
-    "name_en": "Access Control Hub",
-    "name_id": "Hub Kontrol Akses",
-    "short_en": "Centralized management for access devices",
-    "short_id": "Manajemen terpusat untuk perangkat akses",
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=60",
-    "price": 349
+    "id": "p-0012",
+    "name_en": "Dual Gate Controller",
+    "name_id": "Kontroler Gerbang Ganda",
+    "short_en": "Smart controller for dual automatic gates, compatible with Wi-Fi and Bluetooth apps.",
+    "short_id": "Kontroler pintar untuk dua gerbang otomatis, kompatibel dengan aplikasi Wi-Fi dan Bluetooth.",
+    "desc_en": "A dual-channel smart gate controller designed for automatic dual gates. Offers wireless control through Wi-Fi or Bluetooth, ideal for synchronized operation and remote management.",
+    "desc_id": "Kontroler gerbang pintar dua saluran yang dirancang untuk gerbang otomatis ganda. Menawarkan kontrol nirkabel melalui Wi-Fi atau Bluetooth, ideal untuk pengoperasian sinkron dan pengelolaan jarak jauh.",
+    "image": "/images/product/dualgate.png",
+    "category": "iot",
+    "compatibility": ["wifi", "bluetooth"]
   },
   {
-    "id": "p-007",
-    "name_en": "Analytics Suite",
-    "name_id": "Suite Analitik",
-    "short_en": "Cloud analytics & reports dashboard",
-    "short_id": "Dasbor analitik & laporan berbasis cloud",
-    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=60",
-    "price": 59
+    "id": "p-0013",
+    "name_en": "Smart Projector Mini",
+    "name_id": "Proyektor Pintar Mini",
+    "short_en": "Compact wireless projector with smart app control and vibrant full-HD display.",
+    "short_id": "Proyektor nirkabel ringkas dengan kontrol aplikasi pintar dan tampilan full-HD yang cerah.",
+    "desc_en": "A portable smart projector that delivers a sharp Full-HD image with wireless connectivity. Easily controlled via a mobile app, perfect for home cinema or presentations.",
+    "desc_id": "Proyektor pintar portabel yang menampilkan gambar tajam Full-HD dengan konektivitas nirkabel. Dapat dikontrol melalui aplikasi ponsel, ideal untuk hiburan rumah atau presentasi.",
+    "image": "/images/product/smartprojector.png",
+    "category": "software",
+    "compatibility": ["wifi"]
   },
   {
-    "id": "p-008",
-    "name_en": "Smart Doorbell",
-    "name_id": "Bel Pintar",
-    "short_en": "2-way audio doorbell with camera",
-    "short_id": "Bel 2-arah dengan kamera",
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=400&q=60",
-    "price": 89
+    "id": "p-0014",
+    "name_en": "MaxVision Display Hub",
+    "name_id": "MaxVision Display Hub",
+    "short_en": "Central smart display hub for monitoring, control, and energy management.",
+    "short_id": "Pusat tampilan pintar untuk pemantauan, kontrol, dan manajemen energi.",
+    "desc_en": "An intelligent display hub that integrates multiple IoT systems into one visual dashboard. Supports real-time monitoring, automation control, and energy optimization.",
+    "desc_id": "Pusat tampilan pintar yang mengintegrasikan berbagai sistem IoT ke dalam satu dasbor visual. Mendukung pemantauan waktu nyata, kontrol otomatisasi, dan optimasi energi.",
+    "image": "/images/product/maxvision.png",
+    "category": "iot",
+    "compatibility": ["wifi", "mqtt"]
   },
   {
-    "id": "p-009",
-    "name_en": "Cloud Gateway",
-    "name_id": "Gateway Cloud",
-    "short_en": "Secure edge-cloud gateway",
-    "short_id": "Gateway edge-cloud aman",
-    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=60",
-    "price": 159
-  },
-  {
-    "id": "p-010",
-    "name_en": "Smart Lock",
-    "name_id": "Kunci Pintar",
-    "short_en": "Keyless lock for smart buildings",
-    "short_id": "Kunci tanpa kunci untuk bangunan pintar",
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=400&q=60",
-    "price": 129
-  },
-  {
-    "id": "p-011",
-    "name_en": "Thermal Camera",
-    "name_id": "Kamera Termal",
-    "short_en": "Thermal imaging for safety & monitoring",
-    "short_id": "Pencitraan termal untuk keamanan & pemantauan",
-    "image": "https://images.unsplash.com/photo-1493244040629-496f6d136cc3?auto=format&fit=crop&w=400&q=60",
-    "price": 999
-  },
-  {
-    "id": "p-012",
-    "name_en": "VMS Pro",
-    "name_id": "VMS Pro",
-    "short_en": "Video management system for enterprises",
-    "short_id": "Sistem manajemen video untuk perusahaan",
-    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=60",
-    "price": 499
-  },
-  {
-    "id": "p-013",
-    "name_en": "Edge AI Module",
-    "name_id": "Modul Edge AI",
-    "short_en": "Plug-in AI module for cameras",
-    "short_id": "Modul AI plug-in untuk kamera",
-    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=400&q=60",
-    "price": 149
-  },
-  {
-    "id": "p-014",
-    "name_en": "Smart Sensor Node",
-    "name_id": "Node Sensor Pintar",
-    "short_en": "Battery-powered sensor with LoRa",
-    "short_id": "Sensor bertenaga baterai dengan LoRa",
-    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=400&q=60",
-    "price": 79
-  },
-  {
-    "id": "p-015",
-    "name_en": "Cloud Backup",
-    "name_id": "Backup Cloud",
-    "short_en": "Secure cloud backup for recordings",
-    "short_id": "Backup cloud aman untuk rekaman",
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=400&q=60",
-    "price": 29
-  },
-  {
-    "id": "p-016",
-    "name_en": "Smart PoE Switch",
-    "name_id": "Switch PoE Pintar",
-    "short_en": "Managed PoE switch for devices",
-    "short_id": "Switch PoE terkelola untuk perangkat",
-    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=60",
-    "price": 249
-  },
-  {
-    "id": "p-017",
-    "name_en": "Mobile App",
-    "name_id": "Aplikasi Mobile",
-    "short_en": "App for on-the-go monitoring",
-    "short_id": "Aplikasi untuk pemantauan on-the-go",
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=400&q=60",
-    "price": 0
-  },
-  {
-    "id": "p-018",
-    "name_en": "Smart Controller",
-    "name_id": "Kontroler Pintar",
-    "short_en": "Controller for automation scenarios",
-    "short_id": "Kontroler untuk skenario otomasi",
-    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=400&q=60",
-    "price": 399
-  },
-  {
-    "id": "p-019",
-    "name_en": "Installer Kit",
-    "name_id": "Kit Installer",
-    "short_en": "Tools bundle for quick deploy",
-    "short_id": "Bundel alat untuk deploy cepat",
-    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=400&q=60",
-    "price": 49
-  },
-  {
-    "id": "p-020",
-    "name_en": "Enterprise Suite",
-    "name_id": "Suite Enterprise",
-    "short_en": "Full enterprise package service",
-    "short_id": "Paket layanan enterprise lengkap",
-    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=400&q=60",
-    "price": 1299
+    "id": "p-0015",
+    "name_en": "Single Gate Controller 2",
+    "name_id": "Kontroler Gerbang Tunggal 2",
+    "short_en": "Next-generation smart single gate controller with Bluetooth and MQTT support.",
+    "short_id": "Kontroler gerbang tunggal generasi baru dengan dukungan Bluetooth dan MQTT.",
+    "desc_en": "A new-generation single gate controller offering advanced automation, BLE pairing, and MQTT connectivity for seamless integration with smart home systems.",
+    "desc_id": "Kontroler gerbang tunggal generasi baru dengan otomatisasi canggih, koneksi BLE, dan dukungan MQTT untuk integrasi yang mulus dengan sistem rumah pintar.",
+    "image": "/images/product/singglegate2.png",
+    "category": "iot",
+    "compatibility": ["bluetooth", "mqtt"]
   }
 ]

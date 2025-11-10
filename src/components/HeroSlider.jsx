@@ -67,7 +67,7 @@ export default function HeroSlider({ stats = [] }) {
       </div>
 
       {/* ==== Counter section (keluar dari bawah hero) ==== */}
-      <div
+      {/* <div
         className="absolute bottom-0 left-1/2 -translate-x-1/2 translate-y-1/2
              w-[92%] sm:w-[80%] max-w-5xl z-[20]"
       >
@@ -84,6 +84,48 @@ export default function HeroSlider({ stats = [] }) {
         >
           {stats.map((s) => (
             <div key={s.key} className="flex-1 min-w-0 flex justify-center">
+              <CounterStat
+                value={s.value}
+                duration={1200}
+                label={s.label}
+                iconKey={s.key}
+              />
+            </div>
+          ))}
+        </div>
+      </div> */}
+      <div
+        className="absolute bottom-0 left-1/2 -translate-x-1/2 translate-y-1/2 
+             w-[92%] sm:w-[80%] max-w-5xl z-[20]"
+      >
+        <div
+          className="
+      flex flex-row gap-4 px-2 py-4
+      sm:grid sm:grid-cols-4 sm:gap-6 sm:p-6
+      bg-gradient-to-br from-white/90 via-white/70 to-gray-50/80
+      dark:from-gray-900/90 dark:via-gray-800/80 dark:to-cyan-950/80
+      text-gray-800 dark:text-gray-100
+      rounded-3xl border border-gray-200/60 dark:border-gray-800/60
+      shadow-[0_8px_32px_rgba(0,0,0,0.08)] dark:shadow-[0_8px_32px_rgba(0,0,0,0.5)]
+      backdrop-blur-2xl
+      relative overflow-hidden transition-all duration-700
+    "
+        >
+          {/* Subtle light reflection overlay */}
+          <div className="absolute inset-0 bg-gradient-to-tr from-cyan-100/30 via-transparent to-transparent dark:from-cyan-500/10 opacity-70 pointer-events-none" />
+
+          {/* Glow border effect */}
+          <div className="absolute inset-0 rounded-3xl border border-transparent group-hover:border-cyan-300/30 transition-all duration-700" />
+
+          {stats.map((s) => (
+            <div
+              key={s.key}
+              className="
+          flex-1 min-w-0 flex justify-center items-center
+          relative z-10
+          hover:scale-[1.03] transition-transform duration-500
+        "
+            >
               <CounterStat
                 value={s.value}
                 duration={1200}

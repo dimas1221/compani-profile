@@ -11,7 +11,7 @@ export default function HeaderMobile() {
   const { lang, setLang, t } = useI18n();
   const [openMenu, setOpenMenu] = useState(false);
   const [openSearch, setOpenSearch] = useState(false);
-  const menu = getMenuItems();
+  const { mainMenu, extraMenu } = getMenuItems();
 
   return (
     <>
@@ -22,7 +22,9 @@ export default function HeaderMobile() {
         font-[Inter] transition-all duration-300"
       >
         {/* Company Name */}
-        <div className="w-32 h-auto select-none">
+
+        {/* === LOGO === */}
+        <Link to="/" className="w-32 h-auto select-none">
           <img
             src={
               darkMode
@@ -30,10 +32,10 @@ export default function HeaderMobile() {
                 : "/images/logo/logolight.png"
             }
             alt={t.company}
-            className="w-full h-auto object-contain"
+            className="w-full h-auto object-contain cursor-pointer hover:opacity-90 transition-all duration-200"
             draggable={false}
           />
-        </div>
+        </Link>
 
         {/* Right Icons */}
         <div className="flex items-center space-x-4">
@@ -47,7 +49,7 @@ export default function HeaderMobile() {
             onClick={toggleTheme}
             className="text-gray-700 dark:text-gray-200 hover:text-blue-600 transition-all duration-200 text-[18px]"
           >
-            {darkMode ? <IconSun /> : <IconMoon />}
+            {!darkMode ? <IconSun /> : <IconMoon />}
           </button>
           <button
             onClick={() => setOpenMenu(true)}
@@ -86,7 +88,7 @@ export default function HeaderMobile() {
 
           {/* Navigation Menu */}
           <nav className="flex-1 flex flex-col justify-start mt-6 space-y-1">
-            {menu.map((item) => (
+            {[...mainMenu, ...extraMenu].map((item) => (
               <Link
                 key={item.path}
                 to={item.path}

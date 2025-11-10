@@ -6,6 +6,7 @@ import FeatureSection from "./FeatureSection";
 import ProductSection from "./ProductSection";
 import AboutSection from "./AboutSection";
 import { dataStats } from "../../components/utils/dataObject";
+import PartnerSection from "./PartnerSection";
 
 export default function Home() {
   // example stats (keys and labels via translations)
@@ -26,6 +27,7 @@ export default function Home() {
 
       {/* Section 4: Product carousel */}
       <ProductSection products={products} />
+      <PartnerSection />
     </div>
   );
 }

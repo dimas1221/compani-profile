@@ -33,14 +33,13 @@ export default function App() {
     >
       <MobileLandscapeVideo />
       {/* Header */}
-      <div>
-        <div className="hidden md:block">
-          <TopBar onVisibilityChange={setTopBarVisible} />
-          <Header topBarVisible={topBarVisible} />
-        </div>
-        <div className="block md:hidden">
-          <HeaderMobile />
-        </div>
+      <div className="hidden lg:block">
+        <TopBar onVisibilityChange={setTopBarVisible} />
+        <Header topBarVisible={topBarVisible} />
+      </div>
+
+      <div className="block lg:hidden">
+        <HeaderMobile />
       </div>
 
       {/* Main */}
