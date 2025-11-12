@@ -8,11 +8,13 @@ export default function ProductCarousel({
   loading = false,
   carouselRef,
 }) {
-  const lastScroll = useRef(0);
+  const localRef = useRef();
+  const ref = carouselRef || localRef;
   const controls = useAnimation();
+  const lastScroll = useRef(0);
 
   useEffect(() => {
-    const el = carouselRef?.current;
+    const el = ref.current;
     if (!el) return;
 
     let ticking = false;
@@ -36,34 +38,16 @@ export default function ProductCarousel({
 
     el.addEventListener("scroll", handleScroll);
     return () => el.removeEventListener("scroll", handleScroll);
-  }, [carouselRef]);
-
-  const GradientEdge = ({ side }) => (
-    <div
-      className={`absolute top-0 ${side}-0 h-full w-16 pointer-events-none z-10 
-      bg-gradient-to-${side === "left" ? "r" : "l"} 
-      from-white/80 via-white/40 to-transparent 
-      dark:from-gray-950/80 dark:via-gray-900/40 dark:to-transparent`}
-    />
-  );
+  }, [ref]);
 
   return (
     <div className="relative w-full select-none">
-      {/* Gradient edges for visual depth */}
-      <GradientEdge side="left" />
-      <GradientEdge side="right" />
-
       <motion.div
-        ref={carouselRef}
+        ref={ref}
         animate={controls}
         transition={{ type: "spring", stiffness: 120, damping: 18 }}
-        className="flex items-stretch gap-6 overflow-x-auto px-4 py-6 snap-x snap-mandatory scroll-smooth 
-                   scrollbar-none hide-scrollbar
-                   cursor-grab active:cursor-grabbing"
-        style={{
-          WebkitOverflowScrolling: "touch",
-          scrollBehavior: "smooth",
-        }}
+        className="flex items-stretch gap-6 overflow-x-auto px-4 py-6 snap-x snap-mandatory scroll-smooth
+                   scrollbar-none hide-scrollbar cursor-grab active:cursor-grabbing"
       >
         {loading
           ? Array(5)
@@ -72,8 +56,7 @@ export default function ProductCarousel({
           : products.map((p) => (
               <motion.div
                 key={p.id}
-                className="product-card flex-shrink-0 w-[260px] sm:w-[300px] md:w-[320px] 
-                           transition-transform duration-500 ease-out"
+                className="product-card flex-shrink-0 w-[220px] sm:w-[240px] md:w-[260px] transition-transform duration-500 ease-out"
                 whileHover={{ scale: 1.04, y: -4 }}
                 whileTap={{ scale: 0.98 }}
               >
@@ -83,9 +66,11 @@ export default function ProductCarousel({
       </motion.div>
 
       {/* Scroll hint */}
-      <div className="absolute bottom-2 left-1/2 -translate-x-1/2 text-xs text-gray-500 dark:text-gray-400 opacity-70">
-        ⇆ Scroll
-      </div>
+      {products.length > 4 && (
+        <div className="absolute bottom-2 left-1/2 -translate-x-1/2 text-xs text-gray-500 dark:text-gray-400 opacity-70">
+          ⇆ Scroll
+        </div>
+      )}
     </div>
   );
 }

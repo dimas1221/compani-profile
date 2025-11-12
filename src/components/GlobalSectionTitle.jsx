@@ -20,7 +20,7 @@ export default function GlobalSectionTitle({
           bg-gradient-to-r from-blue-600 via-cyan-500 to-sky-400
           text-transparent bg-clip-text
           dark:from-cyan-400 dark:via-sky-400 dark:to-blue-600
-          leading-tight
+          leading-tight font-calsans
         "
       >
         {title}
@@ -36,7 +36,7 @@ export default function GlobalSectionTitle({
             mt-2 sm:mt-4
             text-gray-600 dark:text-gray-300
             text-sm sm:text-lg
-            leading-snug sm:leading-relaxed
+            leading-snug sm:leading-relaxed font-light
           "
         >
           {subtitle}

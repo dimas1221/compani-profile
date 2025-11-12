@@ -1,6 +1,5 @@
 import React, { useEffect } from "react";
 import HeroSlider from "../../components/HeroSlider";
-import products from "../../data/contoh_response_api.json";
 import { translations } from "../../i18n/translation";
 import FeatureSection from "./FeatureSection";
 import ProductSection from "./ProductSection";
@@ -22,14 +21,13 @@ export default function Home() {
       <br />
       <br />
       <br />
+      {/* Section 3: About & Vision */}
+      <AboutSection />
       {/* Section 2: Feature cards */}
       <FeatureSection />
 
-      {/* Section 3: About & Vision */}
-      <AboutSection />
-
       {/* Section 4: Product carousel */}
-      <ProductSection products={products} />
+      <ProductSection />
       <PartnerSection />
     </div>
   );

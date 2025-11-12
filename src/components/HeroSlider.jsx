@@ -178,7 +178,7 @@ export default function HeroSlider() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
-          className="text-3xl sm:text-5xl md:text-6xl font-extrabold text-white drop-shadow-lg leading-tight"
+          className="text-3xl sm:text-5xl md:text-6xl font-extrabold text-white drop-shadow-lg leading-tight font-calsans"
         >
           {t.title_main}
         </motion.h2>
@@ -188,7 +188,7 @@ export default function HeroSlider() {
           initial={{ opacity: 0, y: 10 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.3, duration: 0.8 }}
-          className="mt-5 text-white/90 text-sm sm:text-lg max-w-2xl leading-relaxed"
+          className="mt-5 text-white/90 text-sm sm:text-lg max-w-2xl leading-relaxed font-light"
         >
           {t.description_main}
         </motion.p>

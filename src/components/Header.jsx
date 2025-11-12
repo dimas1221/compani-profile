@@ -30,7 +30,7 @@ export default function Header({ topBarVisible }) {
   return (
     <>
       <header
-        className={`fixed left-0 w-full z-40 bg-transparent border-none transition-all duration-300 font-[Inter]
+        className={`fixed left-0 w-full z-40 bg-transparent border-none transition-all duration-300 font-calsans
           ${topBarVisible ? "top-[38px]" : "top-0"}
         `}
       >

@@ -1,123 +1,135 @@
 [
   {
-    "id": "p-001",
-    "name_en": "Smart CCTV",
-    "name_id": "Kamera Cerdas",
-    "short_en": "High-definition AI-powered CCTV with motion detection and mobile monitoring.",
-    "short_id": "Kamera CCTV beresolusi tinggi dengan AI pendeteksi gerakan dan pemantauan melalui ponsel.",
-    "desc_en": "A high-resolution AI-powered security camera with motion tracking and remote access. Supports real-time alerts, night vision, and cloud recording via Wi-Fi or MQTT integration.",
-    "desc_id": "Kamera keamanan beresolusi tinggi dengan dukungan AI, pelacakan gerakan, dan akses jarak jauh. Mendukung notifikasi waktu nyata, penglihatan malam, serta perekaman cloud melalui Wi-Fi atau MQTT.",
-    "image": "/images/product/cctv1.png",
-    "category": "ai",
-    "compatibility": ["wifi", "mqtt"]
+    "main_category": {
+      "id": "identity-auth",
+      "name_en": "Identity Authentication",
+      "name_id": "Otentikasi Identitas"
+    },
+    "sub_categories": [
+      {
+        "id": "face-recognition",
+        "name_en": "Face Recognition Terminal",
+        "name_id": "Terminal Pengenalan Wajah",
+        "products": [
+          {
+            "id": "p-001",
+            "name_en": "Facial Recognition Terminal - 208CD",
+            "name_id": "Terminal Pengenalan Wajah - 208CD",
+            "short_en": "Advanced face recognition with anti-spoofing and temperature detection.",
+            "short_id": "Pengenalan wajah canggih dengan deteksi suhu dan anti-spoofing.",
+            "desc_en": "A professional face recognition terminal supporting high accuracy under diverse lighting. Features infrared and temperature sensors.",
+            "desc_id": "Terminal pengenalan wajah profesional dengan akurasi tinggi di berbagai kondisi cahaya, dilengkapi sensor inframerah dan suhu.",
+            "image": "/images/product/208CD.png",
+            "compatibility": ["wifi", "mqtt"]
+          },
+          {
+            "id": "p-002",
+            "name_en": "Facial Recognition Terminal - 205AG",
+            "name_id": "Terminal Pengenalan Wajah - 205AG",
+            "short_en": "Compact terminal for secure access control with dual-camera verification.",
+            "short_id": "Terminal kompak untuk kontrol akses aman dengan verifikasi kamera ganda.",
+            "desc_en": "Designed for offices and public areas with advanced biometric validation and optional card reader integration.",
+            "desc_id": "Dirancang untuk area publik dan kantor dengan validasi biometrik canggih serta dukungan pembaca kartu opsional.",
+            "image": "/images/product/205AG.png",
+            "compatibility": ["wifi"]
+          }
+        ]
+      },
+      {
+        "id": "fingerprint-capture",
+        "name_en": "Fingerprint Capture",
+        "name_id": "Pemindaian Sidik Jari",
+        "products": [
+          {
+            "id": "p-003",
+            "name_en": "Fingerprint Capture Device",
+            "name_id": "Perangkat Pemindaian Sidik Jari",
+            "short_en": "Portable fingerprint scanner for identity verification.",
+            "short_id": "Pemindai sidik jari portabel untuk verifikasi identitas.",
+            "desc_en": "High-accuracy fingerprint scanner with USB and Bluetooth connectivity, ideal for registration and border systems.",
+            "desc_id": "Pemindai sidik jari akurat dengan koneksi USB dan Bluetooth, cocok untuk sistem registrasi dan perbatasan.",
+            "image": "/images/product/fingerprint.png",
+            "compatibility": ["bluetooth"]
+          }
+        ]
+      },
+      {
+        "id": "biometric-capture",
+        "name_en": "Biometric Information Capture",
+        "name_id": "Penangkapan Informasi Biometrik",
+        "products": [
+          {
+            "id": "p-004",
+            "name_en": "Multi-Biometric Capture Terminal (Face)",
+            "name_id": "Terminal Penangkap Multi-Biometrik (Wajah)",
+            "short_en": "Integrated face biometric data capture terminal.",
+            "short_id": "Terminal penangkap data biometrik wajah terintegrasi.",
+            "desc_en": "Combines AI face capture with real-time analysis for identity systems.",
+            "desc_id": "Menggabungkan pengenalan wajah berbasis AI dengan analisis waktu nyata untuk sistem identitas.",
+            "image": "/images/product/biometric-face.png",
+            "compatibility": ["wifi"]
+          },
+          {
+            "id": "p-005",
+            "name_en": "Multi-Biometric Capture Terminal (Iris)",
+            "name_id": "Terminal Penangkap Multi-Biometrik (Iris)",
+            "short_en": "High-precision iris recognition terminal for identity verification.",
+            "short_id": "Terminal pengenalan iris berpresisi tinggi untuk verifikasi identitas.",
+            "desc_en": "Captures detailed iris data for secure identity systems, compliant with ICAO standards.",
+            "desc_id": "Menangkap data iris secara detail untuk sistem identitas aman, sesuai standar ICAO.",
+            "image": "/images/product/biometric-iris.png",
+            "compatibility": ["wifi", "mqtt"]
+          }
+        ]
+      }
+    ]
   },
   {
-    "id": "p-002",
-    "name_en": "Dual Gate Controller",
-    "name_id": "Kontroler Gerbang Ganda",
-    "short_en": "Smart controller for dual automatic gates, compatible with Wi-Fi and Bluetooth apps.",
-    "short_id": "Kontroler pintar untuk dua gerbang otomatis, kompatibel dengan aplikasi Wi-Fi dan Bluetooth.",
-    "desc_en": "A dual-channel smart gate controller designed for automatic dual gates. Offers wireless control through Wi-Fi or Bluetooth, ideal for synchronized operation and remote management.",
-    "desc_id": "Kontroler gerbang pintar dua saluran yang dirancang untuk gerbang otomatis ganda. Menawarkan kontrol nirkabel melalui Wi-Fi atau Bluetooth, ideal untuk pengoperasian sinkron dan pengelolaan jarak jauh.",
-    "image": "/images/product/dualgate.png",
-    "category": "iot",
-    "compatibility": ["wifi", "bluetooth"]
+    "main_category": {
+      "id": "passenger-security",
+      "name_en": "Passenger Security",
+      "name_id": "Keamanan Penumpang"
+    },
+    "sub_categories": []
   },
   {
-    "id": "p-003",
-    "name_en": "Smart Projector Mini",
-    "name_id": "Proyektor Pintar Mini",
-    "short_en": "Compact wireless projector with smart app control and vibrant full-HD display.",
-    "short_id": "Proyektor nirkabel ringkas dengan kontrol aplikasi pintar dan tampilan full-HD yang cerah.",
-    "desc_en": "A portable smart projector that delivers a sharp Full-HD image with wireless connectivity. Easily controlled via a mobile app, perfect for home cinema or presentations.",
-    "desc_id": "Proyektor pintar portabel yang menampilkan gambar tajam Full-HD dengan konektivitas nirkabel. Dapat dikontrol melalui aplikasi ponsel, ideal untuk hiburan rumah atau presentasi.",
-    "image": "/images/product/smartprojector.png",
-    "category": "software",
-    "compatibility": ["wifi"]
+    "main_category": {
+      "id": "vehicle-security",
+      "name_en": "Vehicle Security",
+      "name_id": "Keamanan Kendaraan"
+    },
+    "sub_categories": []
   },
   {
-    "id": "p-004",
-    "name_en": "MaxVision Display Hub",
-    "name_id": "Pusat Tampilan MaxVision",
-    "short_en": "Central smart display hub for monitoring, control, and energy management.",
-    "short_id": "Pusat tampilan pintar untuk pemantauan, kontrol, dan manajemen energi.",
-    "desc_en": "An intelligent display hub that integrates multiple IoT systems into one visual dashboard. Supports real-time monitoring, automation control, and energy optimization.",
-    "desc_id": "Pusat tampilan pintar yang mengintegrasikan berbagai sistem IoT ke dalam satu dasbor visual. Mendukung pemantauan waktu nyata, kontrol otomatisasi, dan optimasi energi.",
-    "image": "/images/product/maxvision.png",
-    "category": "iot",
-    "compatibility": ["wifi", "mqtt"]
+    "main_category": {
+      "id": "intelligent-algorithms",
+      "name_en": "Intelligent Algorithms",
+      "name_id": "Algoritma Cerdas"
+    },
+    "sub_categories": []
   },
   {
-    "id": "p-005",
-    "name_en": "Single Gate Controller 2",
-    "name_id": "Kontroler Gerbang Tunggal 2",
-    "short_en": "Next-generation smart single gate controller with Bluetooth and MQTT support.",
-    "short_id": "Kontroler gerbang tunggal generasi baru dengan dukungan Bluetooth dan MQTT.",
-    "desc_en": "A new-generation single gate controller offering advanced automation, BLE pairing, and MQTT connectivity for seamless integration with smart home systems.",
-    "desc_id": "Kontroler gerbang tunggal generasi baru dengan otomatisasi canggih, koneksi BLE, dan dukungan MQTT untuk integrasi yang mulus dengan sistem rumah pintar.",
-    "image": "/images/product/singglegate2.png",
-    "category": "iot",
-    "compatibility": ["bluetooth", "mqtt"]
-  },
-
-  {
-    "id": "p-0011",
-    "name_en": "Smart CCTV",
-    "name_id": "Kamera Cerdas",
-    "short_en": "High-definition AI-powered CCTV with motion detection and mobile monitoring.",
-    "short_id": "Kamera CCTV beresolusi tinggi dengan AI pendeteksi gerakan dan pemantauan melalui ponsel.",
-    "desc_en": "A high-resolution AI-powered security camera with motion tracking and remote access. Supports real-time alerts, night vision, and cloud recording via Wi-Fi or MQTT integration.",
-    "desc_id": "Kamera keamanan beresolusi tinggi dengan dukungan AI, pelacakan gerakan, dan akses jarak jauh. Mendukung notifikasi waktu nyata, penglihatan malam, serta perekaman cloud melalui Wi-Fi atau MQTT.",
-    "image": "/images/product/cctv1.png",
-    "category": "ai",
-    "compatibility": ["wifi", "mqtt"]
+    "main_category": {
+      "id": "intelligent-transportation",
+      "name_en": "Intelligent Transportation",
+      "name_id": "Transportasi Cerdas"
+    },
+    "sub_categories": []
   },
   {
-    "id": "p-0012",
-    "name_en": "Dual Gate Controller",
-    "name_id": "Kontroler Gerbang Ganda",
-    "short_en": "Smart controller for dual automatic gates, compatible with Wi-Fi and Bluetooth apps.",
-    "short_id": "Kontroler pintar untuk dua gerbang otomatis, kompatibel dengan aplikasi Wi-Fi dan Bluetooth.",
-    "desc_en": "A dual-channel smart gate controller designed for automatic dual gates. Offers wireless control through Wi-Fi or Bluetooth, ideal for synchronized operation and remote management.",
-    "desc_id": "Kontroler gerbang pintar dua saluran yang dirancang untuk gerbang otomatis ganda. Menawarkan kontrol nirkabel melalui Wi-Fi atau Bluetooth, ideal untuk pengoperasian sinkron dan pengelolaan jarak jauh.",
-    "image": "/images/product/dualgate.png",
-    "category": "iot",
-    "compatibility": ["wifi", "bluetooth"]
+    "main_category": {
+      "id": "intelligent-robot",
+      "name_en": "Intelligent Robot",
+      "name_id": "Robot Cerdas"
+    },
+    "sub_categories": []
   },
   {
-    "id": "p-0013",
-    "name_en": "Smart Projector Mini",
-    "name_id": "Proyektor Pintar Mini",
-    "short_en": "Compact wireless projector with smart app control and vibrant full-HD display.",
-    "short_id": "Proyektor nirkabel ringkas dengan kontrol aplikasi pintar dan tampilan full-HD yang cerah.",
-    "desc_en": "A portable smart projector that delivers a sharp Full-HD image with wireless connectivity. Easily controlled via a mobile app, perfect for home cinema or presentations.",
-    "desc_id": "Proyektor pintar portabel yang menampilkan gambar tajam Full-HD dengan konektivitas nirkabel. Dapat dikontrol melalui aplikasi ponsel, ideal untuk hiburan rumah atau presentasi.",
-    "image": "/images/product/smartprojector.png",
-    "category": "software",
-    "compatibility": ["wifi"]
-  },
-  {
-    "id": "p-0014",
-    "name_en": "MaxVision Display Hub",
-    "name_id": "MaxVision Display Hub",
-    "short_en": "Central smart display hub for monitoring, control, and energy management.",
-    "short_id": "Pusat tampilan pintar untuk pemantauan, kontrol, dan manajemen energi.",
-    "desc_en": "An intelligent display hub that integrates multiple IoT systems into one visual dashboard. Supports real-time monitoring, automation control, and energy optimization.",
-    "desc_id": "Pusat tampilan pintar yang mengintegrasikan berbagai sistem IoT ke dalam satu dasbor visual. Mendukung pemantauan waktu nyata, kontrol otomatisasi, dan optimasi energi.",
-    "image": "/images/product/maxvision.png",
-    "category": "iot",
-    "compatibility": ["wifi", "mqtt"]
-  },
-  {
-    "id": "p-0015",
-    "name_en": "Single Gate Controller 2",
-    "name_id": "Kontroler Gerbang Tunggal 2",
-    "short_en": "Next-generation smart single gate controller with Bluetooth and MQTT support.",
-    "short_id": "Kontroler gerbang tunggal generasi baru dengan dukungan Bluetooth dan MQTT.",
-    "desc_en": "A new-generation single gate controller offering advanced automation, BLE pairing, and MQTT connectivity for seamless integration with smart home systems.",
-    "desc_id": "Kontroler gerbang tunggal generasi baru dengan otomatisasi canggih, koneksi BLE, dan dukungan MQTT untuk integrasi yang mulus dengan sistem rumah pintar.",
-    "image": "/images/product/singglegate2.png",
-    "category": "iot",
-    "compatibility": ["bluetooth", "mqtt"]
+    "main_category": {
+      "id": "cargo-security",
+      "name_en": "Cargo Security",
+      "name_id": "Keamanan Kargo"
+    },
+    "sub_categories": []
   }
 ]

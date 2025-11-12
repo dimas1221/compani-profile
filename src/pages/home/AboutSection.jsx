@@ -8,12 +8,12 @@ export default function AboutSection() {
 
   const items = [
     lang === "en"
-      ? "Deliver secure digital solutions"
-      : "Memberikan solusi digital yang aman",
-    lang === "en" ? "Innovate with AI & IoT" : "Berinovasi dengan AI & IoT",
-    lang === "en"
-      ? "Support customer success"
-      : "Mendukung keberhasilan pelanggan",
+      ? "To create, exploit, and deliver maximum values to our clients by leveraging the cutting edge technology solution through passion, dedication, and excellence."
+      : "Untuk menciptakan, memanfaatkan, dan memberikan nilai maksimal kepada klien kami dengan memanfaatkan solusi teknologi mutakhir melalui gairah, dedikasi, dan keunggulan.",
+    // lang === "en" ? "Innovate with AI & IoT" : "Berinovasi dengan AI & IoT",
+    // lang === "en"
+    //   ? "Support customer success"
+    //   : "Mendukung keberhasilan pelanggan",
   ];
 
   return (
@@ -39,8 +39,8 @@ export default function AboutSection() {
           title={lang === "en" ? "About Us" : "Tentang Kami"}
           subtitle={
             lang === "en"
-              ? "Building innovative and secure technology ecosystems for a better digital future."
-              : "Membangun ekosistem teknologi inovatif dan aman untuk masa depan digital yang lebih baik."
+              ? "PT Transforme Indonesia is the leading provider of end-to-end information technology solution to business corporations in Indonesia. Our creative solution combines the leverage of cutting edge technology and business process reengineering expertise in exploiting opportunities to create values to maximize the profit of our clients."
+              : "PT Transforme Indonesia adalah penyedia solusi teknologi informasi terpadu terkemuka bagi perusahaan-perusahaan bisnis di Indonesia. Solusi kreatif kami menggabungkan pemanfaatan teknologi mutakhir dan keahlian rekayasa ulang proses bisnis dalam memanfaatkan peluang untuk menciptakan nilai guna memaksimalkan keuntungan klien kami."
           }
         />
 
@@ -58,13 +58,13 @@ export default function AboutSection() {
                 text-2xl sm:text-3xl font-extrabold tracking-tight
                 bg-gradient-to-r from-blue-700 via-cyan-600 to-sky-500
                 dark:from-cyan-400 dark:via-sky-400 dark:to-blue-500
-                text-transparent bg-clip-text
+                text-transparent bg-clip-text font-calsans
               "
             >
               {t.company}
             </h3>
 
-            <p className="text-gray-700 dark:text-gray-300 text-base leading-relaxed max-w-xl">
+            <p className="text-gray-700 dark:text-gray-300 text-base leading-relaxed max-w-xl font-light">
               {t.footer_desc}
             </p>
 
@@ -72,7 +72,7 @@ export default function AboutSection() {
               <h4
                 className="
                   text-xl sm:text-2xl font-semibold mb-5 tracking-wide
-                  text-blue-700 dark:text-cyan-400
+                  text-blue-700 dark:text-cyan-400 font-calsans
                 "
               >
                 {lang === "en" ? "Vision & Mission" : "Visi & Misi"}
@@ -85,10 +85,10 @@ export default function AboutSection() {
                       flex items-start gap-3 text-gray-900 dark:text-gray-200
                       text-sm sm:text-base leading-snug
                       hover:text-cyan-600 dark:hover:text-cyan-300
-                      transition-all duration-300
+                      transition-all duration-300 font-light
                     "
                   >
-                    <svg
+                    {/* <svg
                       className="w-5 h-5 text-cyan-600 dark:text-cyan-400 mt-[2px] flex-shrink-0"
                       xmlns="http://www.w3.org/2000/svg"
                       fill="none"
@@ -96,12 +96,12 @@ export default function AboutSection() {
                       stroke="currentColor"
                       strokeWidth={3}
                     >
-                      <path
+                      <pathp
                         strokeLinecap="round"
                         strokeLinejoin="round"
                         d="M5 13l4 4L19 7"
                       />
-                    </svg>
+                    </svg> */}
                     <span>{item}</span>
                   </li>
                 ))}

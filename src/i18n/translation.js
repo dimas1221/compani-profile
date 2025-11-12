@@ -29,7 +29,7 @@ export const translations = {
     team_members: ["Engineering", "Marketing", "Sales", "Support"],
 
     // Approach
-    ourApproach: "Our Approach",
+    ourApproach: "Our Solution",
     ourApproach_subtitle:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 
@@ -121,7 +121,7 @@ export const translations = {
     team_members: ["Teknik", "Pemasaran", "Penjualan", "Dukungan"],
 
     // Approach
-    ourApproach: "Pendekatan Kami",
+    ourApproach: "Solusi Kami",
     ourApproach_subtitle:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
 
