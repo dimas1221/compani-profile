@@ -2,37 +2,33 @@
 import fs from "fs";
 import path from "path";
 
-const productPath = path.resolve("public/data/product.json");
-const outputPath = path.resolve("public/data/products_flat.json");
+const inputPath = "public/data/product.json";
+const outputDir = "public/data/products_flat";
 
-try {
-  const data = JSON.parse(fs.readFileSync(productPath, "utf-8"));
+const data = JSON.parse(fs.readFileSync(inputPath, "utf-8"));
+fs.mkdirSync(outputDir, { recursive: true });
 
-  const flatProducts = [];
+const flatProducts = [];
 
-  data.main_categories.forEach((mainCat) => {
-    const mainCatNameEn = mainCat.name_en;
-    const subCategories = mainCat.sub_categories || [];
+data.main_categories.forEach((main) => {
+  main.sub_categories.forEach((sub) => {
+    sub.products.forEach((prod) => {
+      const flat = {
+        id: prod.id,
+        name_en: prod.name_en,
+        name_id: prod.name_id,
+        main_category_en: main.name_en,
+        sub_category_en: sub.name_en,
+        image: prod.image || null,
+      };
 
-    subCategories.forEach((subCat) => {
-      const subCatNameEn = subCat.name_en;
-      const products = subCat.products || [];
-
-      products.forEach((product) => {
-        flatProducts.push({
-          id: product.id,
-          name_en: product.name_en,
-          name_id: product.name_id,
-          main_category_en: mainCatNameEn,
-          sub_category_en: subCatNameEn,
-          image: product.image || "",
-        });
-      });
+      flatProducts.push(flat);
+      fs.writeFileSync(
+        path.join(outputDir, `${prod.id}.json`),
+        JSON.stringify(flat, null, 2)
+      );
     });
   });
+});
 
-  fs.writeFileSync(outputPath, JSON.stringify(flatProducts, null, 2));
-  console.log("✅ products_flat.json generated successfully!");
-} catch (error) {
-  console.error("❌ Failed to generate products_flat.json:", error);
-}
+console.log(`✅ Generated ${flatProducts.length} flat product files.`);

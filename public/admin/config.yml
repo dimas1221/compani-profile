@@ -81,30 +81,24 @@ collections:
 
     # 2️⃣ Produk flatten (auto)
     # 2️⃣ Products_flat (auto generated) untuk relasi dropdown
+  # 2️⃣ Produk flat (auto generator)
   - name: "products_flat"
     label: "Products Flat (Auto)"
+    folder: "public/data/products_flat"
     format: "json"
     extension: "json"
     create: false
     editor:
       preview: false
-    files:
-      - file: "public/data/products_flat.json"
-        label: "Products Flat Data"
-        name: "products_flat_json"
-        fields:
-          - { label: "ID", name: "id", widget: "string" }
-          - { label: "Name (EN)", name: "name_en", widget: "string" }
-          - { label: "Name (ID)", name: "name_id", widget: "string" }
-          - {
-              label: "Main Category",
-              name: "main_category_en",
-              widget: "string",
-            }
-          - { label: "Sub Category", name: "sub_category_en", widget: "string" }
-          - { label: "Image", name: "image", widget: "image", required: false }
+    fields:
+      - { label: "ID", name: "id", widget: "string" }
+      - { label: "Name (EN)", name: "name_en", widget: "string" }
+      - { label: "Name (ID)", name: "name_id", widget: "string" }
+      - { label: "Main Category", name: "main_category_en", widget: "string" }
+      - { label: "Sub Category", name: "sub_category_en", widget: "string" }
+      - { label: "Image", name: "image", widget: "image", required: false }
 
-  # 3️⃣ Detail product (per produk JSON, relasi ke products_flat)
+  # 3️⃣ Detail produk (relasi ke produk flat)
   - name: "detail_product"
     label: "Detail Product"
     folder: "public/data/detail_product"
