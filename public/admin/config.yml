@@ -97,37 +97,60 @@ collections:
   # 3️⃣ Detail produk (relasi ke produk flat)
   - name: "detail_product"
     label: "Detail Product"
-    folder: "public/data/detail_product.json"
-    create: true
-    extension: "json"
-    format: "json"
-    fields:
-      - label: "Product"
-        name: "product_id"
-        widget: "relation"
-        collection: "products_flat"
-        search_fields: ["name_en", "name_id"]
-        value_field: "id"
-        display_fields: ["name_en"]
-      - label: "Introduction (EN)"
-        name: "introduction_en"
-        widget: "text"
-      - label: "Introduction (ID)"
-        name: "introduction_id"
-        widget: "text"
-      - label: "Features (EN)"
-        name: "features_en"
-        widget: "list"
-        field: { label: "Feature", name: "feature", widget: "string" }
-      - label: "Features (ID)"
-        name: "features_id"
-        widget: "list"
-        field: { label: "Feature", name: "feature", widget: "string" }
-      - label: "Parameter (EN)"
-        name: "parameter_en"
-        widget: "list"
-        field: { label: "Parameter", name: "param", widget: "string" }
-      - label: "Parameter (ID)"
-        name: "parameter_id"
-        widget: "list"
-        field: { label: "Parameter", name: "param", widget: "string" }
+    files:
+      - file: "public/data/detail_product.json"
+        label: "Detail Product Data"
+        name: "detail_product_json"
+        format: "json"
+        editor:
+          preview: false
+        fields:
+          - label: "ID"
+            name: "id"
+            widget: "string"
+
+          - label: "Product"
+            name: "product_id"
+            widget: "relation"
+            collection: "products_flat"
+            search_fields: ["name_en", "name_id"]
+            value_field: "id"
+            display_fields: ["name_en"]
+
+          - label: "Introduction (EN)"
+            name: "introduction_en"
+            widget: "text"
+
+          - label: "Introduction (ID)"
+            name: "introduction_id"
+            widget: "text"
+
+          - label: "Features (EN)"
+            name: "features_en"
+            widget: "list"
+            field:
+              label: "Feature (EN)"
+              name: "feature"
+              widget: "string"
+
+          - label: "Features (ID)"
+            name: "features_id"
+            widget: "list"
+            field:
+              label: "Feature (ID)"
+              name: "feature"
+              widget: "string"
+
+          - label: "Parameters (EN)"
+            name: "parameter_en"
+            widget: "list"
+            fields:
+              - { label: "Label", name: "label", widget: "string" }
+              - { label: "Value", name: "value", widget: "string" }
+
+          - label: "Parameters (ID)"
+            name: "parameter_id"
+            widget: "list"
+            fields:
+              - { label: "Label", name: "label", widget: "string" }
+              - { label: "Value", name: "value", widget: "string" }
