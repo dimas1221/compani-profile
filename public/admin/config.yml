@@ -80,68 +80,68 @@ collections:
                         default: []
 
     # 2️⃣ Produk flatten (auto)
+    # 2️⃣ Products_flat (auto generated) untuk relasi dropdown
   - name: "products_flat"
     label: "Products Flat (Auto)"
-    folder: "public/data/products_flat"
-    extension: "json"
     format: "json"
+    extension: "json"
     create: false
+    editor:
+      preview: false
+    files:
+      - file: "public/data/products_flat.json"
+        label: "Products Flat Data"
+        name: "products_flat_json"
+        fields:
+          - { label: "ID", name: "id", widget: "string" }
+          - { label: "Name (EN)", name: "name_en", widget: "string" }
+          - { label: "Name (ID)", name: "name_id", widget: "string" }
+          - {
+              label: "Main Category",
+              name: "main_category_en",
+              widget: "string",
+            }
+          - { label: "Sub Category", name: "sub_category_en", widget: "string" }
+          - { label: "Image", name: "image", widget: "image", required: false }
+
+  # 3️⃣ Detail product (per produk JSON, relasi ke products_flat)
+  - name: "detail_product"
+    label: "Detail Product"
+    folder: "public/data/detail_product"
+    format: "json"
+    extension: "json"
+    create: true
     editor:
       preview: false
     fields:
       - { label: "ID", name: "id", widget: "string" }
-      - { label: "Name (EN)", name: "name_en", widget: "string" }
-      - { label: "Name (ID)", name: "name_id", widget: "string" }
-      - { label: "Main Category", name: "main_category_en", widget: "string" }
-      - { label: "Sub Category", name: "sub_category_en", widget: "string" }
-      - { label: "Image", name: "image", widget: "image", required: false }
-
-  # 3️⃣ Detail produk (relasi ke produk flat)
-  - name: "detail_product"
-    label: "Detail Product"
-    files:
-      - file: "public/data/detail_product.json"
-        label: "Detail Product Data"
-        name: "detail_product_json"
-        format: "json"
-        editor:
-          preview: false
+      - label: "Product"
+        name: "product_id"
+        widget: "relation"
+        collection: "products_flat"
+        file: "products_flat_json"
+        search_fields: ["name_en", "name_id"]
+        value_field: "id"
+        display_fields: ["name_en"]
+      - { label: "Introduction (EN)", name: "introduction_en", widget: "text" }
+      - { label: "Introduction (ID)", name: "introduction_id", widget: "text" }
+      - label: "Features (EN)"
+        name: "features_en"
+        widget: "list"
+        field: { label: "Feature (EN)", name: "feature", widget: "string" }
+      - label: "Features (ID)"
+        name: "features_id"
+        widget: "list"
+        field: { label: "Feature (ID)", name: "feature", widget: "string" }
+      - label: "Parameters (EN)"
+        name: "parameter_en"
+        widget: "list"
         fields:
-          - { label: "ID", name: "id", widget: "string" }
-          - label: "Product"
-            name: "product_id"
-            widget: "relation"
-            collection: "products_flat"
-            search_fields: ["name_en", "name_id"]
-            value_field: "id"
-            display_fields: ["name_en"]
-          - {
-              label: "Introduction (EN)",
-              name: "introduction_en",
-              widget: "text",
-            }
-          - {
-              label: "Introduction (ID)",
-              name: "introduction_id",
-              widget: "text",
-            }
-          - label: "Features (EN)"
-            name: "features_en"
-            widget: "list"
-            field: { label: "Feature (EN)", name: "feature", widget: "string" }
-          - label: "Features (ID)"
-            name: "features_id"
-            widget: "list"
-            field: { label: "Feature (ID)", name: "feature", widget: "string" }
-          - label: "Parameters (EN)"
-            name: "parameter_en"
-            widget: "list"
-            fields:
-              - { label: "Label", name: "label", widget: "string" }
-              - { label: "Value", name: "value", widget: "string" }
-          - label: "Parameters (ID)"
-            name: "parameter_id"
-            widget: "list"
-            fields:
-              - { label: "Label", name: "label", widget: "string" }
-              - { label: "Value", name: "value", widget: "string" }
+          - { label: "Label", name: "label", widget: "string" }
+          - { label: "Value", name: "value", widget: "string" }
+      - label: "Parameters (ID)"
+        name: "parameter_id"
+        widget: "list"
+        fields:
+          - { label: "Label", name: "label", widget: "string" }
+          - { label: "Value", name: "value", widget: "string" }

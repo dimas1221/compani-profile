@@ -1,45 +1,38 @@
+// scripts/generateProductsFlat.js
 import fs from "fs";
 import path from "path";
 
-const productSource = path.resolve("public/data/product.json");
-const outputFolder = path.resolve("public/data/products_flat");
+const productPath = path.resolve("public/data/product.json");
+const outputPath = path.resolve("public/data/products_flat.json");
 
-// Pastikan folder output ada
-if (!fs.existsSync(outputFolder)) {
-  fs.mkdirSync(outputFolder, { recursive: true });
-}
+try {
+  const data = JSON.parse(fs.readFileSync(productPath, "utf-8"));
 
-// Hapus semua file lama di folder
-fs.readdirSync(outputFolder).forEach((file) => {
-  fs.unlinkSync(path.join(outputFolder, file));
-});
+  const flatProducts = [];
 
-const rawData = fs.readFileSync(productSource, "utf8");
-const data = JSON.parse(rawData);
+  data.main_categories.forEach((mainCat) => {
+    const mainCatNameEn = mainCat.name_en;
+    const subCategories = mainCat.sub_categories || [];
 
-let flatProducts = [];
+    subCategories.forEach((subCat) => {
+      const subCatNameEn = subCat.name_en;
+      const products = subCat.products || [];
 
-data.main_categories.forEach((main) => {
-  main.sub_categories.forEach((sub) => {
-    sub.products.forEach((prod) => {
-      flatProducts.push({
-        id: prod.id,
-        name_en: prod.name_en,
-        name_id: prod.name_id,
-        main_category_en: main.name_en,
-        sub_category_en: sub.name_en,
-        image: prod.image,
+      products.forEach((product) => {
+        flatProducts.push({
+          id: product.id,
+          name_en: product.name_en,
+          name_id: product.name_id,
+          main_category_en: mainCatNameEn,
+          sub_category_en: subCatNameEn,
+          image: product.image || "",
+        });
       });
     });
   });
-});
 
-// Simpan setiap produk ke file terpisah
-flatProducts.forEach((prod) => {
-  const filePath = path.join(outputFolder, `${prod.id}.json`);
-  fs.writeFileSync(filePath, JSON.stringify(prod, null, 2));
-});
-
-console.log(
-  `✅ Generated ${flatProducts.length} product files in products_flat folder`
-);
+  fs.writeFileSync(outputPath, JSON.stringify(flatProducts, null, 2));
+  console.log("✅ products_flat.json generated successfully!");
+} catch (error) {
+  console.error("❌ Failed to generate products_flat.json:", error);
+}
