@@ -97,7 +97,7 @@ collections:
   # 3️⃣ Detail produk (relasi ke produk flat)
   - name: "detail_product"
     label: "Detail Product"
-    folder: "public/data/detail_product"
+    folder: "public/data/detail_product.json"
     create: true
     extension: "json"
     format: "json"
