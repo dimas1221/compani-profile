@@ -1,9 +1,11 @@
 backend:
   name: github
-  repo: username/nama-repo-kamu
+  repo: dimas1221/compani-profile # Ganti sesuai repo kamu
   branch: main
-  base_url: https://api.github.com
+  auth_type: oauth
+  base_url: https://decap-oauth.vercel.app # Proxy OAuth dari Vercel
   auth_endpoint: auth
+  client_id: Ov23lihVYXS9ZNZr3qaj
 
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
