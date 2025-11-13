@@ -1,102 +1,80 @@
 backend:
   name: github
-  repo: dimas1221/compani-profile # Ganti sesuai repo kamu
+  repo: username/nama-repo-kamu
   branch: main
-  auth_type: oauth
-  base_url: https://decap-oauth.vercel.app # Proxy OAuth dari Vercel
+  base_url: https://api.github.com
   auth_endpoint: auth
-  client_id: Ov23lihVYXS9ZNZr3qaj
 
-# Folder upload media
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
 
-# Nonaktifkan open authoring agar hanya contributor repo bisa edit
-open_authoring: false
+publish_mode: simple
 
-# Koleksi data produk
 collections:
-  - name: "product_catalogue"
+  - name: "products"
     label: "Product Catalogue"
+    label_singular: "Product Item"
+    format: "json"
+    extension: "json"
+    delete: false
+    editor:
+      preview: false
     files:
-      - label: "Products JSON"
-        name: "products"
-        file: "src/data/product.json"
-        format: "json"
+      - file: "public/data/product.json"
+        label: "Product Data"
+        name: "product_json"
         fields:
-          - label: "Product Data"
-            name: ""
+          - label: "Main Categories"
+            name: "main_categories"
             widget: "list"
-            summary: "{{fields.main_category.name_en}}"
-            collapsed: true
             fields:
-              - label: "Main Category"
-                name: "main_category"
-                widget: "object"
-                fields:
-                  - label: "ID"
-                    name: "id"
-                    widget: "string"
-                    hint: "Unique ID untuk kategori utama"
-                  - label: "Name (EN)"
-                    name: "name_en"
-                    widget: "string"
-                  - label: "Name (ID)"
-                    name: "name_id"
-                    widget: "string"
-
+              - { label: "Main Category ID", name: "id", widget: "string" }
+              - { label: "Name (EN)", name: "name_en", widget: "string" }
+              - { label: "Name (ID)", name: "name_id", widget: "string" }
               - label: "Sub Categories"
                 name: "sub_categories"
                 widget: "list"
-                collapsed: true
-                summary: "{{fields.name_en}}"
                 fields:
-                  - label: "Sub ID"
-                    name: "id"
-                    widget: "string"
-                  - label: "Sub Name (EN)"
-                    name: "name_en"
-                    widget: "string"
-                  - label: "Sub Name (ID)"
-                    name: "name_id"
-                    widget: "string"
-
+                  - { label: "Sub Category ID", name: "id", widget: "string" }
+                  - { label: "Name (EN)", name: "name_en", widget: "string" }
+                  - { label: "Name (ID)", name: "name_id", widget: "string" }
                   - label: "Products"
                     name: "products"
                     widget: "list"
-                    collapsed: true
-                    summary: "{{fields.name_en}}"
                     fields:
-                      - label: "Product ID"
-                        name: "id"
-                        widget: "string"
-                      - label: "Name (EN)"
-                        name: "name_en"
-                        widget: "string"
-                      - label: "Name (ID)"
-                        name: "name_id"
-                        widget: "string"
-                      - label: "Short Description (EN)"
-                        name: "short_en"
-                        widget: "string"
-                      - label: "Short Description (ID)"
-                        name: "short_id"
-                        widget: "string"
-                      - label: "Description (EN)"
-                        name: "desc_en"
-                        widget: "text"
-                      - label: "Description (ID)"
-                        name: "desc_id"
-                        widget: "text"
-                      - label: "Image"
-                        name: "image"
-                        widget: "image"
-                        choose_url: true
-                        hint: "Upload atau pilih gambar produk"
+                      - { label: "ID", name: "id", widget: "string" }
+                      - {
+                          label: "Name (EN)",
+                          name: "name_en",
+                          widget: "string",
+                        }
+                      - {
+                          label: "Name (ID)",
+                          name: "name_id",
+                          widget: "string",
+                        }
+                      - {
+                          label: "Short (EN)",
+                          name: "short_en",
+                          widget: "text",
+                        }
+                      - {
+                          label: "Short (ID)",
+                          name: "short_id",
+                          widget: "text",
+                        }
+                      - {
+                          label: "Description (EN)",
+                          name: "desc_en",
+                          widget: "text",
+                        }
+                      - {
+                          label: "Description (ID)",
+                          name: "desc_id",
+                          widget: "text",
+                        }
+                      - { label: "Image", name: "image", widget: "image" }
                       - label: "Compatibility"
                         name: "compatibility"
                         widget: "list"
-                        field:
-                          label: "Protocol"
-                          name: "protocol"
-                          widget: "string"
+                        default: []
