@@ -87,7 +87,7 @@ collections:
     format: "json"
     create: false
     editor:
-    preview: false
+      preview: false
     fields:
       - { label: "ID", name: "id", widget: "string" }
       - { label: "Name (EN)", name: "name_en", widget: "string" }
