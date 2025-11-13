@@ -11,19 +11,27 @@
           "name_id": "Terminal Pengenalan Wajah",
           "products": [
             {
-              "id": "p-001",
-              "name_en": "Facial Recognition Terminal - 208CD",
-              "name_id": "Terminal Pengenalan Wajah - 208CD",
-              "short_en": "Advanced face recognition with anti-spoofing and temperature detection.",
-              "short_id": "Pengenalan wajah canggih dengan deteksi suhu dan anti-spoofing.",
-              "desc_en": "A professional face recognition terminal supporting high accuracy under diverse lighting. Features infrared and temperature sensors.",
               "desc_id": "Terminal pengenalan wajah profesional dengan akurasi tinggi di berbagai kondisi cahaya, dilengkapi sensor inframerah dan suhu.",
+              "short_en": "Advanced face recognition with anti-spoofing and temperature detection.",
+              "name_id": "Terminal Pengenalan Wajah - 208CD",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "A professional face recognition terminal supporting high accuracy under diverse lighting. Features infrared and temperature sensors.",
+              "id": "p-001",
               "image": "/images/product/208CD.png",
-              "compatibility": ["wifi", "mqtt"]
+              "name_en": "Facial Recognition Terminal - 208CD",
+              "short_id": "Pengenalan wajah canggih dengan deteksi suhu dan anti-spoofing."
             }
           ]
         }
       ]
+    },
+    {
+      "id": "test1",
+      "name_en": "test1 ",
+      "name_id": "contoh1"
     }
   ]
 }
