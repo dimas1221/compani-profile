@@ -1,0 +1,124 @@
+# public/admin/config.yml
+backend:
+  name: github
+  repo: "YOUR_GITHUB_USER/YOUR_REPO" # <--- update this
+  branch: "main" # branch to commit to
+  auth_type: "oauth" # use GitHub OAuth flow
+
+media_folder: "public/images/uploads" # where uploaded images are stored
+public_folder: "/images/uploads"
+
+# Optional: restrict open authoring if you want only repo-contributors
+open_authoring: false
+
+# Collections map to files. We use a single file for the product catalog.
+collections:
+  - name: "product_catalogue"
+    label: "Product Catalogue"
+    files:
+      - label: "Products JSON"
+        name: "products"
+        file: "data/products.json" # <--- the JSON file in repo root
+        fields:
+          - {
+              label: "Main categories",
+              name: "main",
+              widget: "list",
+              collapsed: true,
+              fields:
+                [
+                  {
+                    label: "Main category id",
+                    name: "main_category.id",
+                    widget: "string",
+                  },
+                  {
+                    label: "Main category name (EN)",
+                    name: "main_category.name_en",
+                    widget: "string",
+                  },
+                  {
+                    label: "Main category name (ID)",
+                    name: "main_category.name_id",
+                    widget: "string",
+                  },
+                  {
+                    label: "Sub categories",
+                    name: "sub_categories",
+                    widget: "list",
+                    fields:
+                      [
+                        { label: "Sub id", name: "id", widget: "string" },
+                        {
+                          label: "Sub name (EN)",
+                          name: "name_en",
+                          widget: "string",
+                        },
+                        {
+                          label: "Sub name (ID)",
+                          name: "name_id",
+                          widget: "string",
+                        },
+                        {
+                          label: "Products",
+                          name: "products",
+                          widget: "list",
+                          fields:
+                            [
+                              {
+                                label: "Product id",
+                                name: "id",
+                                widget: "string",
+                              },
+                              {
+                                label: "Name (EN)",
+                                name: "name_en",
+                                widget: "string",
+                              },
+                              {
+                                label: "Name (ID)",
+                                name: "name_id",
+                                widget: "string",
+                              },
+                              {
+                                label: "Short (EN)",
+                                name: "short_en",
+                                widget: "string",
+                              },
+                              {
+                                label: "Short (ID)",
+                                name: "short_id",
+                                widget: "string",
+                              },
+                              {
+                                label: "Desc (EN)",
+                                name: "desc_en",
+                                widget: "text",
+                              },
+                              {
+                                label: "Desc (ID)",
+                                name: "desc_id",
+                                widget: "text",
+                              },
+                              {
+                                label: "Image",
+                                name: "image",
+                                widget: "image",
+                              },
+                              {
+                                label: "Compatibility",
+                                name: "compatibility",
+                                widget: "list",
+                                field:
+                                  {
+                                    label: "Protocol",
+                                    name: "protocol",
+                                    widget: "string",
+                                  },
+                              },
+                            ],
+                        },
+                      ],
+                  },
+                ],
+            }
