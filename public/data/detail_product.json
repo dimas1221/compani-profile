@@ -1,0 +1,26 @@
+[
+  {
+    "id": "dp-001",
+    "product_id": "p-001",
+    "introduction_en": "This terminal provides fast and accurate facial recognition with advanced temperature detection.",
+    "introduction_id": "Terminal ini menyediakan pengenalan wajah cepat dan akurat dengan deteksi suhu canggih.",
+    "features_en": [
+      "Infrared sensor for low light environments",
+      "Temperature detection accuracy ±0.3°C",
+      "Supports WiFi and MQTT protocols"
+    ],
+    "features_id": [
+      "Sensor inframerah untuk kondisi cahaya rendah",
+      "Akurasi deteksi suhu ±0,3°C",
+      "Mendukung protokol WiFi dan MQTT"
+    ],
+    "parameter_en": [
+      { "label": "CPU", "value": "Quad-core ARM Cortex-A53" },
+      { "label": "Screen", "value": "7 inch LCD" }
+    ],
+    "parameter_id": [
+      { "label": "Prosesor", "value": "Quad-core ARM Cortex-A53" },
+      { "label": "Layar", "value": "LCD 7 inci" }
+    ]
+  }
+]

@@ -78,3 +78,56 @@ collections:
                         name: "compatibility"
                         widget: "list"
                         default: []
+
+  # # 2️⃣ Produk flatten (auto, readonly)
+  - name: "products_flat"
+    label: "Products Flat (Auto)"
+    file: "public/data/products_flat.json"
+    format: "json"
+    editor:
+      preview: false
+    fields:
+      - { label: "ID", name: "id", widget: "string" }
+      - { label: "Name (EN)", name: "name_en", widget: "string" }
+      - { label: "Name (ID)", name: "name_id", widget: "string" }
+      - { label: "Main Category", name: "main_category_en", widget: "string" }
+      - { label: "Sub Category", name: "sub_category_en", widget: "string" }
+      - { label: "Image", name: "image", widget: "image", required: false }
+
+  # 3️⃣ Detail produk (relasi ke produk flat)
+  - name: "detail_product"
+    label: "Detail Product"
+    folder: "public/data/detail_product"
+    create: true
+    extension: "json"
+    format: "json"
+    fields:
+      - label: "Product"
+        name: "product_id"
+        widget: "relation"
+        collection: "products_flat"
+        search_fields: ["name_en", "name_id"]
+        value_field: "id"
+        display_fields: ["name_en"]
+      - label: "Introduction (EN)"
+        name: "introduction_en"
+        widget: "text"
+      - label: "Introduction (ID)"
+        name: "introduction_id"
+        widget: "text"
+      - label: "Features (EN)"
+        name: "features_en"
+        widget: "list"
+        field: { label: "Feature", name: "feature", widget: "string" }
+      - label: "Features (ID)"
+        name: "features_id"
+        widget: "list"
+        field: { label: "Feature", name: "feature", widget: "string" }
+      - label: "Parameter (EN)"
+        name: "parameter_en"
+        widget: "list"
+        field: { label: "Parameter", name: "param", widget: "string" }
+      - label: "Parameter (ID)"
+        name: "parameter_id"
+        widget: "list"
+        field: { label: "Parameter", name: "param", widget: "string" }
