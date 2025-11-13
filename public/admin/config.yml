@@ -1,127 +1,97 @@
-# public/admin/config.yml
 backend:
   name: github
-  repo: dimas1221/compani-profile # <--- update this
-  branch: "main" # branch to commit to
-  auth_type: "oauth" # use GitHub OAuth flow
-  base_url: https://decap-oauth.vercel.app # OAuth proxy untuk login
+  repo: dimas1221/compani-profile # GitHub repo kamu
+  branch: main
+  auth_type: oauth
+  base_url: https://decap-oauth.vercel.app # proxy OAuth kamu
   auth_endpoint: auth
   client_id: Ov23lihVYXS9ZNZr3qaj
 
-media_folder: "public/images/uploads" # where uploaded images are stored
+# Folder tempat upload media (gambar)
+media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
 
-# Optional: restrict open authoring if you want only repo-contributors
+# Hanya contributor repo yang bisa edit
 open_authoring: false
 
-# Collections map to files. We use a single file for the product catalog.
 collections:
   - name: "product_catalogue"
     label: "Product Catalogue"
     files:
       - label: "Products JSON"
         name: "products"
-        file: "src/data/product.json" # <--- the JSON file in repo root
+        file: "src/data/product.json" # path ke JSON kamu
         fields:
-          - {
-              label: "Main categories",
-              name: "main",
-              widget: "list",
-              collapsed: true,
-              fields:
-                [
-                  {
-                    label: "Main category id",
-                    name: "main_category.id",
-                    widget: "string",
-                  },
-                  {
-                    label: "Main category name (EN)",
-                    name: "main_category.name_en",
-                    widget: "string",
-                  },
-                  {
-                    label: "Main category name (ID)",
-                    name: "main_category.name_id",
-                    widget: "string",
-                  },
-                  {
-                    label: "Sub categories",
-                    name: "sub_categories",
-                    widget: "list",
+          - label: "Main Categories"
+            name: ""
+            widget: "list"
+            summary: "{{fields.main_category.name_en}}"
+            fields:
+              - label: "Main Category"
+                name: "main_category"
+                widget: "object"
+                fields:
+                  - label: "ID"
+                    name: "id"
+                    widget: "string"
+                  - label: "Name (EN)"
+                    name: "name_en"
+                    widget: "string"
+                  - label: "Name (ID)"
+                    name: "name_id"
+                    widget: "string"
+
+              - label: "Sub Categories"
+                name: "sub_categories"
+                widget: "list"
+                collapsed: true
+                summary: "{{fields.name_en}}"
+                fields:
+                  - label: "Sub ID"
+                    name: "id"
+                    widget: "string"
+                  - label: "Sub Name (EN)"
+                    name: "name_en"
+                    widget: "string"
+                  - label: "Sub Name (ID)"
+                    name: "name_id"
+                    widget: "string"
+
+                  - label: "Products"
+                    name: "products"
+                    widget: "list"
+                    collapsed: true
+                    summary: "{{fields.name_en}}"
                     fields:
-                      [
-                        { label: "Sub id", name: "id", widget: "string" },
-                        {
-                          label: "Sub name (EN)",
-                          name: "name_en",
-                          widget: "string",
-                        },
-                        {
-                          label: "Sub name (ID)",
-                          name: "name_id",
-                          widget: "string",
-                        },
-                        {
-                          label: "Products",
-                          name: "products",
-                          widget: "list",
-                          fields:
-                            [
-                              {
-                                label: "Product id",
-                                name: "id",
-                                widget: "string",
-                              },
-                              {
-                                label: "Name (EN)",
-                                name: "name_en",
-                                widget: "string",
-                              },
-                              {
-                                label: "Name (ID)",
-                                name: "name_id",
-                                widget: "string",
-                              },
-                              {
-                                label: "Short (EN)",
-                                name: "short_en",
-                                widget: "string",
-                              },
-                              {
-                                label: "Short (ID)",
-                                name: "short_id",
-                                widget: "string",
-                              },
-                              {
-                                label: "Desc (EN)",
-                                name: "desc_en",
-                                widget: "text",
-                              },
-                              {
-                                label: "Desc (ID)",
-                                name: "desc_id",
-                                widget: "text",
-                              },
-                              {
-                                label: "Image",
-                                name: "image",
-                                widget: "image",
-                              },
-                              {
-                                label: "Compatibility",
-                                name: "compatibility",
-                                widget: "list",
-                                field:
-                                  {
-                                    label: "Protocol",
-                                    name: "protocol",
-                                    widget: "string",
-                                  },
-                              },
-                            ],
-                        },
-                      ],
-                  },
-                ],
-            }
+                      - label: "Product ID"
+                        name: "id"
+                        widget: "string"
+                      - label: "Name (EN)"
+                        name: "name_en"
+                        widget: "string"
+                      - label: "Name (ID)"
+                        name: "name_id"
+                        widget: "string"
+                      - label: "Short (EN)"
+                        name: "short_en"
+                        widget: "string"
+                      - label: "Short (ID)"
+                        name: "short_id"
+                        widget: "string"
+                      - label: "Description (EN)"
+                        name: "desc_en"
+                        widget: "text"
+                      - label: "Description (ID)"
+                        name: "desc_id"
+                        widget: "text"
+                      - label: "Image"
+                        name: "image"
+                        widget: "image"
+                        choose_url: true
+                      - label: "Compatibility"
+                        name: "compatibility"
+                        widget: "list"
+                        field:
+                          label: "Protocol"
+                          name: "protocol"
+                          widget: "string"
