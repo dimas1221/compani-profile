@@ -1,10 +1,12 @@
 # public/admin/config.yml
 backend:
   name: github
-  repo: "dimas1221/compani-profile" # <--- update this
+  repo: dimas1221/compani-profile # <--- update this
   branch: "main" # branch to commit to
   auth_type: "oauth" # use GitHub OAuth flow
-  client_id: "Ov23lihVYXS9ZNZr3qaj"
+  base_url: https://decap-oauth.vercel.app # OAuth proxy untuk login
+  auth_endpoint: auth
+  client_id: Ov23lihVYXS9ZNZr3qaj
 
 media_folder: "public/images/uploads" # where uploaded images are stored
 public_folder: "/images/uploads"
@@ -19,7 +21,7 @@ collections:
     files:
       - label: "Products JSON"
         name: "products"
-        file: "data/products.json" # <--- the JSON file in repo root
+        file: "src/data/product.json" # <--- the JSON file in repo root
         fields:
           - {
               label: "Main categories",
