@@ -79,20 +79,27 @@ collections:
                         widget: "list"
                         default: []
 
-  # # 2️⃣ Produk flatten (auto, readonly)
+    # 2️⃣ Produk flatten (auto)
   - name: "products_flat"
     label: "Products Flat (Auto)"
-    file: "public/data/products_flat.json"
-    format: "json"
-    editor:
-      preview: false
-    fields:
-      - { label: "ID", name: "id", widget: "string" }
-      - { label: "Name (EN)", name: "name_en", widget: "string" }
-      - { label: "Name (ID)", name: "name_id", widget: "string" }
-      - { label: "Main Category", name: "main_category_en", widget: "string" }
-      - { label: "Sub Category", name: "sub_category_en", widget: "string" }
-      - { label: "Image", name: "image", widget: "image", required: false }
+    files:
+      - file: "public/data/products_flat.json"
+        label: "Products Flat Data"
+        name: "products_flat_json"
+        format: "json"
+        editor:
+          preview: false
+        fields:
+          - { label: "ID", name: "id", widget: "string" }
+          - { label: "Name (EN)", name: "name_en", widget: "string" }
+          - { label: "Name (ID)", name: "name_id", widget: "string" }
+          - {
+              label: "Main Category",
+              name: "main_category_en",
+              widget: "string",
+            }
+          - { label: "Sub Category", name: "sub_category_en", widget: "string" }
+          - { label: "Image", name: "image", widget: "image", required: false }
 
   # 3️⃣ Detail produk (relasi ke produk flat)
   - name: "detail_product"
@@ -105,10 +112,7 @@ collections:
         editor:
           preview: false
         fields:
-          - label: "ID"
-            name: "id"
-            widget: "string"
-
+          - { label: "ID", name: "id", widget: "string" }
           - label: "Product"
             name: "product_id"
             widget: "relation"
@@ -116,38 +120,30 @@ collections:
             search_fields: ["name_en", "name_id"]
             value_field: "id"
             display_fields: ["name_en"]
-
-          - label: "Introduction (EN)"
-            name: "introduction_en"
-            widget: "text"
-
-          - label: "Introduction (ID)"
-            name: "introduction_id"
-            widget: "text"
-
+          - {
+              label: "Introduction (EN)",
+              name: "introduction_en",
+              widget: "text",
+            }
+          - {
+              label: "Introduction (ID)",
+              name: "introduction_id",
+              widget: "text",
+            }
           - label: "Features (EN)"
             name: "features_en"
             widget: "list"
-            field:
-              label: "Feature (EN)"
-              name: "feature"
-              widget: "string"
-
+            field: { label: "Feature (EN)", name: "feature", widget: "string" }
           - label: "Features (ID)"
             name: "features_id"
             widget: "list"
-            field:
-              label: "Feature (ID)"
-              name: "feature"
-              widget: "string"
-
+            field: { label: "Feature (ID)", name: "feature", widget: "string" }
           - label: "Parameters (EN)"
             name: "parameter_en"
             widget: "list"
             fields:
               - { label: "Label", name: "label", widget: "string" }
               - { label: "Value", name: "value", widget: "string" }
-
           - label: "Parameters (ID)"
             name: "parameter_id"
             widget: "list"
