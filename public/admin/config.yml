@@ -105,6 +105,7 @@ collections:
     format: "json"
     extension: "json"
     create: true
+    slug: "{{fields.id}}" # Pakai slug berdasarkan field id, jadi nama file dp-001.json dst
     editor:
       preview: false
     fields:
@@ -120,12 +121,10 @@ collections:
       - { label: "Introduction (ID)", name: "introduction_id", widget: "text" }
       - label: "Features (EN)"
         name: "features_en"
-        widget: "list"
-        field: { label: "Feature (EN)", name: "feature", widget: "string" }
+        widget: "list" # tanpa field di dalam, supaya array string disimpan dalam 1 file
       - label: "Features (ID)"
         name: "features_id"
         widget: "list"
-        field: { label: "Feature (ID)", name: "feature", widget: "string" }
       - label: "Parameters (EN)"
         name: "parameter_en"
         widget: "list"
