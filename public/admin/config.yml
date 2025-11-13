@@ -1,9 +1,10 @@
 # public/admin/config.yml
 backend:
   name: github
-  repo: "YOUR_GITHUB_USER/YOUR_REPO" # <--- update this
+  repo: "dimas1221/compani-profile" # <--- update this
   branch: "main" # branch to commit to
   auth_type: "oauth" # use GitHub OAuth flow
+  client_id: "Ov23lihVYXS9ZNZr3qaj"
 
 media_folder: "public/images/uploads" # where uploaded images are stored
 public_folder: "/images/uploads"

@@ -2,22 +2,14 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>Admin — Product CMS</title>
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <!-- Optional: custom css -->
-    <link rel="stylesheet" href="/admin/custom.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Admin Dashboard</title>
+    <script src="https://unpkg.com/decap-cms@3.0.0/dist/decap-cms.js"></script>
   </head>
   <body>
     <script>
-      // Basic redirect if already logged-in etc (optional)
-    </script>
-
-    <!-- CMS root -->
-    <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
-
-    <!-- load config from same folder -->
-    <script>
-      // Netlify/Decap CMS auto-loads /admin/config.yml, nothing else required here.
+      window.CMS_MANUAL_INIT = true;
+      CMS.init();
     </script>
   </body>
 </html>
