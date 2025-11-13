@@ -1,31 +1,34 @@
 backend:
   name: github
-  repo: dimas1221/compani-profile # GitHub repo kamu
+  repo: dimas1221/compani-profile # Ganti sesuai repo kamu
   branch: main
   auth_type: oauth
-  base_url: https://decap-oauth.vercel.app # proxy OAuth kamu
+  base_url: https://decap-oauth.vercel.app # Proxy OAuth dari Vercel
   auth_endpoint: auth
   client_id: Ov23lihVYXS9ZNZr3qaj
 
-# Folder tempat upload media (gambar)
+# Folder upload media
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
 
-# Hanya contributor repo yang bisa edit
+# Nonaktifkan open authoring agar hanya contributor repo bisa edit
 open_authoring: false
 
+# Koleksi data produk
 collections:
   - name: "product_catalogue"
     label: "Product Catalogue"
     files:
       - label: "Products JSON"
         name: "products"
-        file: "src/data/product.json" # path ke JSON kamu
+        file: "src/data/product.json"
+        format: "json"
         fields:
-          - label: "Main Categories"
+          - label: "Product Data"
             name: ""
             widget: "list"
             summary: "{{fields.main_category.name_en}}"
+            collapsed: true
             fields:
               - label: "Main Category"
                 name: "main_category"
@@ -34,6 +37,7 @@ collections:
                   - label: "ID"
                     name: "id"
                     widget: "string"
+                    hint: "Unique ID untuk kategori utama"
                   - label: "Name (EN)"
                     name: "name_en"
                     widget: "string"
@@ -72,10 +76,10 @@ collections:
                       - label: "Name (ID)"
                         name: "name_id"
                         widget: "string"
-                      - label: "Short (EN)"
+                      - label: "Short Description (EN)"
                         name: "short_en"
                         widget: "string"
-                      - label: "Short (ID)"
+                      - label: "Short Description (ID)"
                         name: "short_id"
                         widget: "string"
                       - label: "Description (EN)"
@@ -88,6 +92,7 @@ collections:
                         name: "image"
                         widget: "image"
                         choose_url: true
+                        hint: "Upload atau pilih gambar produk"
                       - label: "Compatibility"
                         name: "compatibility"
                         widget: "list"
