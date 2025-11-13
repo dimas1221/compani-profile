@@ -10,8 +10,7 @@
   ],
   "features_id": [
     "Sensor inframerah untuk kondisi cahaya rendah",
-    "Akurasi deteksi suhu ±0",
-    "3°C",
+    "Akurasi deteksi suhu ±03°C",
     "Mendukung protokol WiFi dan MQTT"
   ],
   "parameter_en": [
