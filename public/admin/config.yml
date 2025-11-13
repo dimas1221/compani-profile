@@ -15,10 +15,8 @@ publish_mode: simple
 collections:
   - name: "products"
     label: "Product Catalogue"
-    label_singular: "Product Item"
     format: "json"
     extension: "json"
-    delete: false
     editor:
       preview: false
     files:
