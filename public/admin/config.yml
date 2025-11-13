@@ -82,24 +82,19 @@ collections:
     # 2️⃣ Produk flatten (auto)
   - name: "products_flat"
     label: "Products Flat (Auto)"
-    files:
-      - file: "public/data/products_flat.json"
-        label: "Products Flat Data"
-        name: "products_flat_json"
-        format: "json"
-        editor:
-          preview: false
-        fields:
-          - { label: "ID", name: "id", widget: "string" }
-          - { label: "Name (EN)", name: "name_en", widget: "string" }
-          - { label: "Name (ID)", name: "name_id", widget: "string" }
-          - {
-              label: "Main Category",
-              name: "main_category_en",
-              widget: "string",
-            }
-          - { label: "Sub Category", name: "sub_category_en", widget: "string" }
-          - { label: "Image", name: "image", widget: "image", required: false }
+    folder: "public/data/products_flat"
+    extension: "json"
+    format: "json"
+    create: false
+    editor:
+    preview: false
+    fields:
+      - { label: "ID", name: "id", widget: "string" }
+      - { label: "Name (EN)", name: "name_en", widget: "string" }
+      - { label: "Name (ID)", name: "name_id", widget: "string" }
+      - { label: "Main Category", name: "main_category_en", widget: "string" }
+      - { label: "Sub Category", name: "sub_category_en", widget: "string" }
+      - { label: "Image", name: "image", widget: "image", required: false }
 
   # 3️⃣ Detail produk (relasi ke produk flat)
   - name: "detail_product"
