@@ -55,6 +55,21 @@ export default {
         inter: ["Inter", "sans-serif"],
         calsans: ["Cal Sans", "sans-serif"],
       },
+      keyframes: {
+        fireflyBlink: {
+          "0%, 20%, 40%, 60%, 80%, 100%": { opacity: "0.2" },
+          "10%, 30%, 50%, 70%, 90%": { opacity: "1" },
+        },
+        float: {
+          "0%": { transform: "translateY(0px)" },
+          "50%": { transform: "translateY(-10px)" },
+          "100%": { transform: "translateY(0px)" },
+        },
+      },
+      animation: {
+        firefly: "fireflyBlink 3s infinite ease-in-out",
+        float: "float 4s infinite ease-in-out",
+      },
     },
   },
   plugins: [],

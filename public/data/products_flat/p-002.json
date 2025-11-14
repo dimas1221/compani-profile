@@ -2,7 +2,18 @@
   "id": "p-002",
   "name_en": "a",
   "name_id": "a",
+  "short_en": "a",
+  "short_id": "a",
+  "desc_en": "a",
+  "desc_id": "a",
+  "main_category_id": "identity-auth",
   "main_category_en": "Identity Authentication",
+  "main_category_id_name": "Otentikasi Identitas",
+  "sub_category_id": "face-recognition",
   "sub_category_en": "Face Recognition Terminal",
-  "image": "/images/uploads/screenshot-2025-11-13-120828.png"
+  "sub_category_id_name": "Terminal Pengenalan Wajah",
+  "image": "/images/uploads/screenshot-2025-11-13-120828.png",
+  "compatibility": [
+    "mqtt"
+  ]
 }

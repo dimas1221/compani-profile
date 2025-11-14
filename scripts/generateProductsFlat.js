@@ -1,48 +1,17 @@
-// // scripts/generateProductsFlat.js
-// import fs from "fs";
-// import path from "path";
-
-// const inputPath = "public/data/product.json";
-// const outputDir = "public/data/products_flat";
-
-// const data = JSON.parse(fs.readFileSync(inputPath, "utf-8"));
-// fs.mkdirSync(outputDir, { recursive: true });
-
-// const flatProducts = [];
-
-// data.main_categories.forEach((main) => {
-//   main.sub_categories.forEach((sub) => {
-//     sub.products.forEach((prod) => {
-//       const flat = {
-//         id: prod.id,
-//         name_en: prod.name_en,
-//         name_id: prod.name_id,
-//         main_category_en: main.name_en,
-//         sub_category_en: sub.name_en,
-//         image: prod.image || null,
-//       };
-
-//       flatProducts.push(flat);
-//       fs.writeFileSync(
-//         path.join(outputDir, `${prod.id}.json`),
-//         JSON.stringify(flat, null, 2)
-//       );
-//     });
-//   });
-// });
-
-// console.log(`✅ Generated ${flatProducts.length} flat product files.`);
 import fs from "fs";
 import path from "path";
 
-// Fungsi untuk generate file JSON per produk flat dari product.json
-function generateProductsFlat() {
+export function generateProductsFlat() {
   const inputPath = path.resolve(process.cwd(), "public/data/product.json");
   const outputDir = path.resolve(process.cwd(), "public/data/products_flat");
+
+  // Pastikan folder ada
   fs.mkdirSync(outputDir, { recursive: true });
 
+  // Load data JSON utama
   const data = JSON.parse(fs.readFileSync(inputPath, "utf-8"));
-  const flatProducts = [];
+
+  let count = 0;
 
   data.main_categories.forEach((main) => {
     main.sub_categories.forEach((sub) => {
@@ -51,22 +20,39 @@ function generateProductsFlat() {
           id: prod.id,
           name_en: prod.name_en,
           name_id: prod.name_id,
+          short_en: prod.short_en,
+          short_id: prod.short_id,
+          desc_en: prod.desc_en,
+          desc_id: prod.desc_id,
+
+          main_category_id: main.id,
           main_category_en: main.name_en,
+          main_category_id_name: main.name_id,
+
+          sub_category_id: sub.id,
           sub_category_en: sub.name_en,
+          sub_category_id_name: sub.name_id,
+
           image: prod.image || null,
+
+          // === FIX: compatibility ikut dipindahkan ===
+          compatibility: Array.isArray(prod.compatibility)
+            ? prod.compatibility
+            : [],
         };
 
-        flatProducts.push(flat);
-
+        // Tulis file per-product
         fs.writeFileSync(
           path.join(outputDir, `${prod.id}.json`),
           JSON.stringify(flat, null, 2)
         );
+
+        count++;
       });
     });
   });
 
-  console.log(`✅ Generated ${flatProducts.length} flat product files.`);
+  console.log(`✅ Generated ${count} flat files with compatibility.`);
 }
 
 // Fungsi untuk generate index.json dari semua JSON di folder kecuali index.json
