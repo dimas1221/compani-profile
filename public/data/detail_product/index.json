@@ -16,14 +16,22 @@
     ],
     "parameter_en": [
       {
-        "label": "CPU,Screen",
-        "value": "Quad-core ARM Cortex-A53,7 inch LCD"
+        "label": "CPU",
+        "value": "Quad-core ARM Cortex-A53"
+      },
+      {
+        "label": "Screen",
+        "value": "7 inch LCD"
       }
     ],
     "parameter_id": [
       {
-        "label": "Prosesor,Layar",
-        "value": "Quad-core ARM Cortex-A53,LCD 7 inci"
+        "label": "Prosesor",
+        "value": "Quad-core ARM Cortex-A53"
+      },
+      {
+        "label": "Layar",
+        "value": "LCD 7 inci"
       }
     ]
   }

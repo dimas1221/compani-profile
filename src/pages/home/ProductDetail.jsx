@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import productsFlat from "../../../public/data/products_flat/index.json";
 import detailProducts from "../../../public/data/detail_product/index.json";
@@ -14,6 +14,10 @@ export default function ProductDetail() {
   const { id } = useParams();
   const navigate = useNavigate();
   const { lang, t } = useI18n();
+
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }, []);
 
   const translate = (key) => t[key] || key;
 
@@ -103,7 +107,9 @@ Mauris vitae erat sed libero accumsan pretium.`.repeat(7);
             <GlobalCard3d
               className="
     relative 
-    w-[22rem] h-[30rem]      /* LEBIH BESAR */
+    w-[14rem] h-[20rem]           /* MOBILE */
+    sm:w-[18rem] sm:h-[24rem]     /* TABLET */
+    md:w-[22rem] md:h-[30rem]     /* DESKTOP BESAR */
     rounded-3xl overflow-hidden 
     shadow-[0_25px_60px_rgba(0,0,0,0.45)]
     bg-neutral-900 
@@ -116,13 +122,11 @@ Mauris vitae erat sed libero accumsan pretium.`.repeat(7);
                 alt={name}
                 draggable={false}
                 className="
-      absolute inset-0 w-full h-full 
-      object-cover object-center
-      select-none 
-      scale-[1.02]
-      transition-transform duration-500
-      group-hover:scale-110
-    "
+    absolute inset-0 w-full h-full 
+    object-cover object-center
+    select-none 
+    transition-transform duration-500
+  "
               />
 
               {/* GLASS OVERLAY GRADIENT PREMIUM */}
