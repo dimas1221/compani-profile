@@ -28,7 +28,7 @@ export default function AboutSection() {
       {/* Background Accent Image */}
       <div className="absolute inset-0 flex items-center justify-center opacity-10 dark:opacity-20">
         <img
-          src="/images/logo/ultra_light 1.png"
+          src="/images/logo/about.jpg"
           alt="Background Accent"
           className="w-[800px] max-w-[80%] object-contain blur-sm select-none pointer-events-none"
         />
@@ -127,7 +127,8 @@ export default function AboutSection() {
               "
             >
               <img
-                src="/images/logo/ultra_light 1.png"
+                // src="/images/logo/ultra_light 1.png"
+                src="/images/logo/about.jpg"
                 alt="About Illustration"
                 className="w-full object-contain opacity-90 drop-shadow-lg"
               />

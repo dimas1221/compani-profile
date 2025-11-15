@@ -27,14 +27,14 @@ export const dataSlides = [
   },
   {
     id: 2,
-    image: "/images/hero/hero1.jpg",
-    imageDark: "/images/hero/herodark1.png",
+    image: "/images/hero/hero2.jpg",
+    imageDark: "/images/hero/hero2.jpg",
     alt: "Hero 2",
   },
   {
     id: 3,
-    image: "/images/hero/hero1.jpg",
-    imageDark: "/images/hero/herodark1.png",
+    image: "/images/hero/hero3.jpg",
+    imageDark: "/images/hero/hero3.jpg",
     alt: "Hero 2",
   },
 ];
