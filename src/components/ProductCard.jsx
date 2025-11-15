@@ -22,7 +22,7 @@ export default function ProductCard({ product }) {
       className="group relative block bg-white/95 dark:bg-neutral-900/95 rounded-2xl border border-gray-200/60 dark:border-gray-800/70
                  shadow-[0_3px_10px_rgba(0,0,0,0.08)] hover:shadow-[0_6px_20px_rgba(0,0,0,0.15)]
                  backdrop-blur-sm transition-transform duration-300 transform hover:-translate-y-1
-                 w-[220px] sm:w-[240px] md:w-[260px] overflow-hidden"
+                 w-[220px] sm:w-[240px] md:w-[260px] overflow-hidden h-[300px] sm:h-[350px]"
     >
       {/* === IMAGE === */}
       <div className="relative aspect-[4/3] overflow-hidden">
