@@ -9,6 +9,7 @@ export const translations = {
     partners: "Principle",
     corporate: "Success Story",
     helpResources: "Help & Resources",
+
     footer_desc:
       "Digital security & access solutions — CCTV, biometric, fingerprint, palm, and more.",
     footer_links: "Links",
@@ -41,7 +42,7 @@ export const translations = {
     features: "Features",
     compatibility: "Compatibility",
 
-    //principle
+    // PRINCIPLE
     principle_title: "Principles of Partnership",
     principle_subtitle:
       "Jovision is committed to empowering our global partners with long-term collaboration, transparency, and growth opportunities.",
@@ -88,8 +89,42 @@ export const translations = {
           "Priority access to test Jovision’s latest products and emerging technologies.",
       },
     ],
+
+    // ============================
+    //      ABOUT PAGE (SAFE)
+    // ============================
+    aboutPage: {
+      aboutUs_title: "About Us",
+      aboutUs_subtitle: "Who We Are",
+      aboutUs_desc:
+        "PT Transforme Indonesia is the leading provider of end-to-end information technology solution to business corporations in Indonesia. Our creative solution combines the leverage of cutting edge technology and business process reengineering expertise in exploiting opportunities to create values to maximize the profit of our clients.",
+
+      vision_mission_title: "Vision & Mission",
+      vision_mission_desc:
+        '"To create, exploit, and deliver maximum values to our clients by leveraging the cutting edge technology solution through passion, dedication, and excellence."',
+    },
+
+    // ============================
+    //  SERVICE / SOLUTION SECTION
+    // ============================
+    services: {
+      ai_title: "AI & Analytics",
+      ai_sub: "Machine learning, data intelligence, automation systems.",
+
+      iot_title: "IoT & Infrastructure",
+      iot_sub: "Devices, connectivity, hardware integration and monitoring.",
+
+      software_title: "Software Development",
+      software_sub: "Custom apps, enterprise systems, cloud services.",
+
+      smarthome_title: "Smart Home & Security",
+      smarthome_sub: "CCTV, biometrics, smart devices, access control.",
+    },
   },
 
+  // ================================================================
+  //                           INDONESIA
+  // ================================================================
   id: {
     company: "PT Transforme",
     home: "Beranda",
@@ -133,7 +168,7 @@ export const translations = {
     features: "Fitur",
     compatibility: "Kompatibilitas",
 
-    //prinsip
+    // PRINCIPLE
     principle_title: "Prinsip Kemitraan",
     principle_subtitle:
       "Jovision berkomitmen untuk memberdayakan mitra global kami melalui kolaborasi jangka panjang, transparansi, dan peluang pertumbuhan.",
@@ -180,5 +215,36 @@ export const translations = {
           "Prioritas untuk menguji produk terbaru dan teknologi inovatif dari Jovision.",
       },
     ],
+
+    // ============================
+    //      ABOUT PAGE (SAFE)
+    // ============================
+    aboutPage: {
+      aboutUs_title: "Tentang Kami",
+      aboutUs_subtitle: "Siapa Kami",
+      aboutUs_desc:
+        "PT Transforme Indonesia adalah penyedia solusi teknologi informasi end-to-end terkemuka bagi perusahaan bisnis di Indonesia. Solusi kreatif kami menggabungkan pemanfaatan teknologi mutakhir dan rekayasa ulang proses bisnis untuk menciptakan nilai guna memaksimalkan keuntungan klien kami.",
+
+      vision_mission_title: "Visi & Misi",
+      vision_mission_desc:
+        '"Menciptakan, memanfaatkan, dan memberikan nilai maksimal kepada klien kami dengan memanfaatkan solusi teknologi mutakhir melalui semangat, dedikasi, dan keunggulan."',
+    },
+
+    // ============================
+    //   SERVICE / SOLUTION SECTION
+    // ============================
+    services: {
+      ai_title: "AI & Analitik",
+      ai_sub: "Machine learning, data intelligence, sistem otomatisasi.",
+
+      iot_title: "IoT & Infrastruktur",
+      iot_sub: "Perangkat, konektivitas, integrasi hardware dan monitoring.",
+
+      software_title: "Pengembangan Software",
+      software_sub: "Aplikasi custom, sistem enterprise, layanan cloud.",
+
+      smarthome_title: "Smart Home & Keamanan",
+      smarthome_sub: "CCTV, biometrik, perangkat pintar, kontrol akses.",
+    },
   },
 };

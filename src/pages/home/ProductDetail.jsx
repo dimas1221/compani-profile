@@ -9,6 +9,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import GlobalCard3d from "../../components/GlobalCard3d";
 import FeatureItem from "../../components/FeatureItem";
 import { Wifi, Bluetooth, Rss } from "lucide-react";
+import TemplateSection from "../../components/TemplateSection";
 
 export default function ProductDetail() {
   const { id } = useParams();
@@ -25,6 +26,7 @@ export default function ProductDetail() {
   const detail = detailProducts.find((d) => d.product_id === id);
 
   const [sidebarOpen, setSidebarOpen] = useState(false);
+
   const icons = {
     wifi: <Wifi size={18} className="text-blue-500" />,
     bluetooth: <Bluetooth size={18} className="text-indigo-500" />,
@@ -61,228 +63,196 @@ export default function ProductDetail() {
   const features = lang === "id" ? detail.features_id : detail.features_en;
   const parameters = lang === "id" ? detail.parameter_id : detail.parameter_en;
 
-  // Lorem panjang untuk test scroll sidebar
-  const lorem = `Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-Pellentesque imperdiet ligula quis massa dictum, non fringilla elit luctus. 
-Curabitur a consectetur purus, sit amet fringilla orci. Sed vitae metus at 
-leo tincidunt condimentum. Proin varius, lorem ut dignissim maximus, eros 
-nulla lobortis nisl, in facilisis magna nibh et enim. Suspendisse potenti. 
-Cras efficitur justo nec eros tincidunt, nec bibendum eros cursus. Vivamus 
-id nulla ut diam sollicitudin sodales. Nulla facilisi. Integer vitae ligula 
-ligula. Nullam ut sem a nulla faucibus consequat. Etiam eget vestibulum quam. 
-Mauris vitae erat sed libero accumsan pretium.`.repeat(7);
+  const lorem = `Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  Pellentesque imperdiet ligula quis massa dictum...`.repeat(7);
 
   return (
-    <>
-      <section className="relative py-20 sm:py-28 px-6 transition-colors duration-700 overflow-hidden">
-        <div className="max-w-7xl mx-auto relative z-10">
-          <GlobalButton onClick={() => navigate(-1)} className="mt-4">
-            ← {translate("Back")}
-          </GlobalButton>
-          {/* === Title Section (kosong, bisa diisi jika perlu) === */}
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6 }}
-            viewport={{ once: true }}
-            className="text-center mb-12"
+    <TemplateSection>
+      <div className="max-w-7xl mx-auto relative z-10">
+        <GlobalButton onClick={() => navigate(-1)} className="mt-4">
+          ← {translate("Back")}
+        </GlobalButton>
+
+        {/* === Title Section === */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6 }}
+          viewport={{ once: true }}
+          className="text-center mb-12"
+        >
+          <h2
+            className="text-3xl sm:text-4xl font-extrabold
+              bg-gradient-to-r from-blue-600 via-sky-500 to-cyan-400
+              text-transparent bg-clip-text dark:from-cyan-400 dark:via-sky-400 dark:to-blue-600"
+          ></h2>
+        </motion.div>
+
+        {/* === Main Content === */}
+        <motion.div
+          className="flex flex-col md:flex-row gap-10"
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6 }}
+        >
+          {/* LEFT IMAGE CARD */}
+          <GlobalCard3d
+            className="
+              relative 
+              w-[14rem] h-[20rem] 
+              sm:w-[18rem] sm:h-[24rem] 
+              md:w-[22rem] md:h-[30rem] 
+              rounded-3xl overflow-hidden 
+              shadow-[0_25px_60px_rgba(0,0,0,0.45)]
+              bg-neutral-900 border border-white/5
+            "
           >
-            <h2
-              className="text-3xl sm:text-4xl font-extrabold
-                       bg-gradient-to-r from-blue-600 via-sky-500 to-cyan-400
-                       text-transparent bg-clip-text dark:from-cyan-400 dark:via-sky-400 dark:to-blue-600"
-            >
-              {/* Title bisa ditambah */}
-            </h2>
-          </motion.div>
-
-          {/* === Main Content === */}
-          <motion.div
-            className="flex flex-col md:flex-row gap-10"
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6 }}
-          >
-            {/* LEFT: Image */}
-            <GlobalCard3d
-              className="
-    relative 
-    w-[14rem] h-[20rem]           /* MOBILE */
-    sm:w-[18rem] sm:h-[24rem]     /* TABLET */
-    md:w-[22rem] md:h-[30rem]     /* DESKTOP BESAR */
-    rounded-3xl overflow-hidden 
-    shadow-[0_25px_60px_rgba(0,0,0,0.45)]
-    bg-neutral-900 
-    border border-white/5
-  "
-            >
-              {/* FULL IMAGE */}
-              <img
-                src={product.image}
-                alt={name}
-                draggable={false}
-                className="
-    absolute inset-0 w-full h-full 
-    object-cover object-center
-    select-none 
-    transition-transform duration-500
-  "
-              />
-
-              {/* GLASS OVERLAY GRADIENT PREMIUM */}
-              <div
-                className="
-      absolute inset-0 
-      bg-gradient-to-b 
-      from-black/5 via-black/10 to-black/65
-      backdrop-blur-[1px]
-      pointer-events-none
-    "
-              />
-
-              {/* ICON BADGE */}
-              <div className="absolute top-4 left-4 z-20 flex flex-wrap gap-2">
-                {product.compatibility?.map((c) => (
-                  <div
-                    key={c}
-                    className="
-          flex items-center gap-1.5 px-3 py-1.5 
-          rounded-full
-          bg-white/15 border border-white/25
-          backdrop-blur-md 
-          text-white text-xs font-medium
-          shadow-[0_0_12px_rgba(0,0,0,0.5)]
-        "
-                  >
-                    {icons[c]}
-                    <span className="capitalize">{c}</span>
-                  </div>
-                ))}
-              </div>
-            </GlobalCard3d>
-
-            {/* RIGHT: Intro & Features */}
-            <div className="flex-grow max-w-2xl flex flex-col">
-              <h1 className="text-3xl font-extrabold text-gray-900 dark:text-gray-100 mb-8 tracking-tight">
-                {name}
-              </h1>
-
-              <section className="mb-10 text-gray-700 dark:text-gray-300 leading-relaxed text-justify text-base sm:text-lg tracking-wide">
-                {introduction || translate("No introduction available.")}
-              </section>
-
-              <section>
-                <h2 className="text-2xl font-semibold mb-6 border-b border-gray-300 dark:border-gray-700 pb-3">
-                  {translate("Features")}
-                </h2>
-                {features && features.length > 0 ? (
-                  <ul className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                    {features.map((feat, idx) => (
-                      <FeatureItem key={idx} text={feat.feature || feat} />
-                    ))}
-                  </ul>
-                ) : (
-                  <p className="text-gray-500 italic">
-                    {translate("No features listed.")}
-                  </p>
-                )}
-              </section>
-
-              <div className="mt-auto pt-12">
-                <GlobalButton
-                  onClick={() => setSidebarOpen(true)}
-                  className="text-lg font-semibold py-3 px-8 shadow-lg hover:shadow-xl transition"
-                >
-                  {translate("Show Parameters")}
-                </GlobalButton>
-              </div>
-            </div>
-          </motion.div>
-        </div>
-
-        {/* SIDEBAR */}
-        <AnimatePresence>
-          {sidebarOpen && (
-            <motion.aside
-              initial={{ x: "100%" }}
-              animate={{ x: 0 }}
-              exit={{ x: "100%" }}
-              transition={{ type: "spring", stiffness: 300, damping: 30 }}
-              className="fixed top-0 right-0 h-full bg-white dark:bg-neutral-900 shadow-2xl z-50 w-full md:w-96 flex flex-col"
-              style={{ boxShadow: "rgba(0, 0, 0, 0.4) 0px 0px 30px" }}
-            >
-              <div className="flex justify-between items-center p-6 border-b border-gray-200 dark:border-gray-700">
-                <h3 className="text-xl font-bold text-gray-900 dark:text-gray-100 tracking-wide">
-                  {translate("Parameters")}
-                </h3>
-                <button
-                  onClick={() => setSidebarOpen(false)}
-                  aria-label={translate("Close Parameters")}
-                  className="p-2 rounded-md hover:bg-gray-200 dark:hover:bg-gray-700 transition"
-                >
-                  <X size={24} />
-                </button>
-              </div>
-
-              <div className="p-6 overflow-y-auto flex-grow max-h-[calc(100vh-64px)] space-y-6 scrollbar-thin scrollbar-thumb-blue-400 scrollbar-track-gray-100 dark:scrollbar-thumb-blue-600 dark:scrollbar-track-gray-800">
-                {/* Test long content */}
-                <p className="text-sm text-gray-600 dark:text-gray-400 leading-relaxed whitespace-pre-line">
-                  {lorem}
-                </p>
-
-                {parameters && parameters.length > 0 ? (
-                  <table className="w-full table-auto border-collapse text-gray-800 dark:text-gray-300 rounded-lg overflow-hidden shadow-md">
-                    <tbody>
-                      {parameters.map(({ label, value }, idx) => (
-                        <tr
-                          key={idx}
-                          className="border-b last:border-b-0 border-gray-300 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-neutral-800 transition"
-                        >
-                          <td className="py-3 px-5 font-semibold w-1/3 bg-gray-100 dark:bg-neutral-800 whitespace-nowrap">
-                            {label}
-                          </td>
-                          <td className="py-3 px-5 bg-white dark:bg-neutral-900 break-words">
-                            {value}
-                          </td>
-                        </tr>
-                      ))}
-                    </tbody>
-                  </table>
-                ) : (
-                  <p className="italic text-gray-500">
-                    {translate("No parameters available.")}
-                  </p>
-                )}
-              </div>
-            </motion.aside>
-          )}
-        </AnimatePresence>
-
-        {/* Overlay untuk tutup sidebar */}
-        <AnimatePresence>
-          {sidebarOpen && (
-            <motion.div
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              exit={{ opacity: 0 }}
-              transition={{ duration: 0.2 }}
-              onClick={() => setSidebarOpen(false)}
-              className="fixed inset-0 bg-black bg-opacity-40 z-40 md:hidden"
-              aria-hidden="true"
+            <img
+              src={product.image}
+              alt={name}
+              draggable={false}
+              className="absolute inset-0 w-full h-full object-cover"
             />
-          )}
-        </AnimatePresence>
 
-        {/* === Decorative Background === */}
-        <motion.img
-          src="/images/logo/ultra_light 1.png"
-          alt="decor"
-          className="pointer-events-none select-none absolute right-0 top-10 w-[350px] sm:w-[480px] opacity-[0.08] dark:opacity-[0.15]"
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 0.08 }}
-          transition={{ duration: 1.2 }}
-        />
-      </section>
-    </>
+            {/* Glass Overlay */}
+            <div
+              className="
+                absolute inset-0 
+                bg-gradient-to-b 
+                from-black/5 via-black/10 to-black/65
+                backdrop-blur-[1px]
+              "
+            />
+
+            {/* ICON BADGE */}
+            <div className="absolute top-4 left-4 z-20 flex flex-wrap gap-2">
+              {product.compatibility?.map((c) => (
+                <div
+                  key={c}
+                  className="
+                    flex items-center gap-1.5 px-3 py-1.5 
+                    rounded-full bg-white/15 border border-white/25
+                    backdrop-blur-md text-white text-xs font-medium
+                    shadow-[0_0_12px_rgba(0,0,0,0.5)]
+                  "
+                >
+                  {icons[c]}
+                  <span className="capitalize">{c}</span>
+                </div>
+              ))}
+            </div>
+          </GlobalCard3d>
+
+          {/* RIGHT CONTENT */}
+          <div className="flex-grow max-w-2xl flex flex-col">
+            <h1 className="text-3xl font-extrabold text-gray-900 dark:text-gray-100 mb-8 tracking-tight">
+              {name}
+            </h1>
+
+            <section className="mb-10 text-gray-700 dark:text-gray-300 leading-relaxed text-justify text-base sm:text-lg tracking-wide">
+              {introduction || translate("No introduction available.")}
+            </section>
+
+            <section>
+              <h2 className="text-2xl font-semibold mb-6 border-b border-gray-300 dark:border-gray-700 pb-3">
+                {translate("Features")}
+              </h2>
+
+              {features?.length > 0 ? (
+                <ul className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                  {features.map((feat, idx) => (
+                    <FeatureItem key={idx} text={feat.feature || feat} />
+                  ))}
+                </ul>
+              ) : (
+                <p className="text-gray-500 italic">
+                  {translate("No features listed.")}
+                </p>
+              )}
+            </section>
+
+            <div className="mt-auto pt-12">
+              <GlobalButton
+                onClick={() => setSidebarOpen(true)}
+                className="text-lg font-semibold py-3 px-8 shadow-lg hover:shadow-xl transition"
+              >
+                {translate("Show Parameters")}
+              </GlobalButton>
+            </div>
+          </div>
+        </motion.div>
+      </div>
+
+      {/* === SIDEBAR === */}
+      <AnimatePresence>
+        {sidebarOpen && (
+          <motion.aside
+            initial={{ x: "100%" }}
+            animate={{ x: 0 }}
+            exit={{ x: "100%" }}
+            transition={{ type: "spring", stiffness: 300, damping: 30 }}
+            className="fixed top-0 right-0 h-full bg-white dark:bg-neutral-900 shadow-2xl z-50 w-full md:w-96 flex flex-col"
+          >
+            <div className="flex justify-between items-center p-6 border-b border-gray-200 dark:border-gray-700">
+              <h3 className="text-xl font-bold text-gray-900 dark:text-gray-100">
+                {translate("Parameters")}
+              </h3>
+
+              <button
+                onClick={() => setSidebarOpen(false)}
+                aria-label={translate("Close Parameters")}
+                className="p-2 rounded-md hover:bg-gray-200 dark:hover:bg-gray-700 transition"
+              >
+                <X size={24} />
+              </button>
+            </div>
+
+            <div className="p-6 overflow-y-auto flex-grow max-h-[calc(100vh-64px)] space-y-6">
+              <p className="text-sm text-gray-600 dark:text-gray-400 whitespace-pre-line">
+                {lorem}
+              </p>
+
+              {parameters?.length > 0 ? (
+                <table className="w-full table-auto border-collapse text-gray-800 dark:text-gray-300 rounded-lg overflow-hidden shadow-md">
+                  <tbody>
+                    {parameters.map(({ label, value }, idx) => (
+                      <tr
+                        key={idx}
+                        className="border-b last:border-b-0 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-neutral-800 transition"
+                      >
+                        <td className="py-3 px-5 font-semibold w-1/3 bg-gray-100 dark:bg-neutral-800">
+                          {label}
+                        </td>
+                        <td className="py-3 px-5 bg-white dark:bg-neutral-900 break-words">
+                          {value}
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              ) : (
+                <p className="italic text-gray-500">
+                  {translate("No parameters available.")}
+                </p>
+              )}
+            </div>
+          </motion.aside>
+        )}
+      </AnimatePresence>
+
+      {/* Overlay Mobile */}
+      <AnimatePresence>
+        {sidebarOpen && (
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: 0.2 }}
+            onClick={() => setSidebarOpen(false)}
+            className="fixed inset-0 bg-black/40 z-40 md:hidden"
+          />
+        )}
+      </AnimatePresence>
+    </TemplateSection>
   );
 }
