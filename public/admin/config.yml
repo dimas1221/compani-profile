@@ -154,7 +154,7 @@ publish_mode: simple
 
 collections:
   # ==========================================================
-  # 1️⃣ MAIN PRODUCT JSON
+  # 1️⃣ MAIN PRODUCT JSON (MAIN, SUB, PRODUCTS)
   # ==========================================================
   - name: "products"
     label: "Product Catalogue"
@@ -167,11 +167,15 @@ collections:
       - file: "public/data/product.json"
         label: "Product Data"
         name: "product_json"
+
         fields:
           - label: "Main Categories"
             name: "main_categories"
             widget: "list"
             fields:
+              # ------------------------------------------------
+              # MAIN CATEGORY
+              # ------------------------------------------------
               - label: "Main Category ID"
                 name: "id"
                 widget: "uuid"
@@ -181,9 +185,9 @@ collections:
               - { label: "Name (EN)", name: "name_en", widget: "string" }
               - { label: "Name (ID)", name: "name_id", widget: "string" }
 
-              # -------------------------
+              # ------------------------------------------------
               # SUB CATEGORIES
-              # -------------------------
+              # ------------------------------------------------
               - label: "Sub Categories"
                 name: "sub_categories"
                 widget: "list"
@@ -197,14 +201,14 @@ collections:
                   - { label: "Name (EN)", name: "name_en", widget: "string" }
                   - { label: "Name (ID)", name: "name_id", widget: "string" }
 
-                  # -------------------------
+                  # ------------------------------------------------
                   # PRODUCTS INSIDE SUB CATEGORY
-                  # -------------------------
+                  # ------------------------------------------------
                   - label: "Products"
                     name: "products"
                     widget: "list"
                     fields:
-                      - label: "ID"
+                      - label: "Product ID"
                         name: "id"
                         widget: "uuid"
                         required: true
@@ -251,7 +255,7 @@ collections:
                         default: []
 
   # ==========================================================
-  # 2️⃣ AUTO GENERATED FLAT FILE
+  # 2️⃣ AUTO GENERATED FLAT PRODUCT FILES
   # ==========================================================
   - name: "products_flat"
     label: "Products Flat (Auto)"
@@ -261,6 +265,7 @@ collections:
     create: false
     editor:
       preview: false
+
     fields:
       - label: "ID"
         name: "id"
@@ -275,7 +280,7 @@ collections:
       - { label: "Image", name: "image", widget: "image", required: false }
 
   # ==========================================================
-  # 3️⃣ DETAIL PRODUCT PAGES
+  # 3️⃣ DETAIL PRODUCT
   # ==========================================================
   - name: "detail_product"
     label: "Detail Product"
