@@ -146,7 +146,8 @@ backend:
   base_url: https://decap-oauth.vercel.app
   auth_endpoint: auth
   client_id: Ov23lihVYXS9ZNZr3qaj
-
+  
+publish_mode: editorial_workflow
 media_folder: "public/images/uploads"
 public_folder: "/images/uploads"
 
