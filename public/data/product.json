@@ -25,19 +25,6 @@
               "short_id": "Pengenalan wajah canggih dengan deteksi suhu dan anti-spoofing."
             },
             {
-              "desc_id": "a",
-              "short_en": "a",
-              "name_id": "a",
-              "compatibility": [
-                "mqtt"
-              ],
-              "desc_en": "a",
-              "id": "p-002",
-              "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
-              "name_en": "a",
-              "short_id": "a"
-            },
-            {
               "desc_id": "Terminal pengenalan wajah profesional dengan akurasi tinggi di berbagai kondisi cahaya, dilengkapi sensor inframerah dan suhu.",
               "short_en": "Advanced face recognition with anti-spoofing and temperature detection.",
               "name_id": "Terminal Pengenalan Wajah - 205AG",
