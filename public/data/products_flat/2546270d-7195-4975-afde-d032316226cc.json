@@ -1,0 +1,20 @@
+{
+  "id": "2546270d-7195-4975-afde-d032316226cc",
+  "name_en": "Palmprint and Palm-vein Capture Terminal",
+  "name_id": "Terminal Penangkapan Jejak Telapak Tangan dan Vena Telapak Tangan",
+  "short_en": "The Fingerprint and Palm Vein Capture Terminal uses infrared imaging technology, combined with an HD binocular camera and a high-performance processor.",
+  "short_id": "Terminal Pengambilan Sidik Jari dan Vena Telapak Tangan menggunakan teknologi pencitraan inframerah, yang dipadukan dengan kamera binokular HD dan prosesor berkinerja tinggi.",
+  "desc_en": "The Fingerprint and Palm Vein Capture Terminal uses infrared imaging technology, combined with an HD binocular camera and a high-performance processor. It is equipped with a self-developed AI palm vein recognition algorithm, which enables fingerprint/palm vein capture, registration, and recognition, while generating high-quality feature capture images. It has many significant advantages such as extremely high security, contactless capture and recognition, liveness detection, low power consumption applications, closed-loop AE, and fingerprint/palm vein capture. It can be widely used in scenarios requiring personnel access control, identity authentication, smart payment, and more.",
+  "desc_id": "Terminal Pengambilan Sidik Jari dan Vena Telapak Tangan menggunakan teknologi pencitraan inframerah, yang dipadukan dengan kamera binokular HD dan prosesor berkinerja tinggi. Terminal ini dilengkapi dengan algoritma pengenalan urat telapak tangan AI yang dikembangkan sendiri, yang memungkinkan pengambilan, registrasi, dan pengenalan sidik jari/vena telapak tangan, sekaligus menghasilkan gambar tangkapan fitur berkualitas tinggi. Terminal ini memiliki banyak keunggulan signifikan seperti keamanan yang sangat tinggi, pengambilan dan pengenalan tanpa kontak, deteksi keaktifan, aplikasi dengan konsumsi daya rendah, AE loop tertutup, dan pengambilan sidik jari/vena telapak tangan. Terminal ini dapat digunakan secara luas dalam skenario yang memerlukan kontrol akses personel, autentikasi identitas, pembayaran pintar, dan lainnya.",
+  "main_category_id": "identity-auth",
+  "main_category_en": "Identity Authentication",
+  "main_category_id_name": "Otentikasi Identitas",
+  "sub_category_id": "0ec5af63-1051-4c50-91d5-f1f1960b462b",
+  "sub_category_en": "Palm Vein Identity",
+  "sub_category_id_name": "Identitas Urat Telapak Tangan",
+  "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

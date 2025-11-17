@@ -1,0 +1,20 @@
+{
+  "id": "20df7aa6-3713-4723-a8a6-a53539e75039",
+  "name_en": "Facial Recognition Terminal - 105AB",
+  "name_id": "Terminal Pengenalan Wajah - 105AB",
+  "short_en": "Maxvision Facial Recognition Terminal is designed with touch keys and integrated tempered glass panel protection, equipped with 8-inch IPS HD screen, which can be employed in nearly every entrance/exit where identity authentication and access control is needed.",
+  "short_id": "Terminal Pengenalan Wajah Maxvision dirancang dengan tombol sentuh dan pelindung panel kaca tempered terintegrasi, dilengkapi layar IPS HD 8 inci, yang dapat digunakan di hampir setiap pintu masuk/keluar yang memerlukan autentikasi identitas dan kontrol akses.",
+  "desc_en": "Maxvision Facial Recognition Terminal is designed with touch keys and integrated tempered glass panel protection, equipped with 8-inch IPS HD screen, which can be employed in nearly every entrance/exit where identity authentication and access control is needed. Functioning face-covering attribute detection, liveness detection, this device can recognize or verify visitors' identity using face, password, card, and other combinations swiftly, accurately, and reliably.",
+  "desc_id": "Terminal Pengenalan Wajah Maxvision dirancang dengan tombol sentuh dan pelindung panel kaca tempered terintegrasi, dilengkapi layar IPS HD 8 inci, yang dapat digunakan di hampir setiap pintu masuk/keluar yang memerlukan otentikasi identitas dan kontrol akses. Dengan fungsi deteksi atribut penutup wajah dan deteksi keaktifan, perangkat ini dapat mengenali atau memverifikasi identitas pengunjung menggunakan wajah, kata sandi, kartu, dan kombinasi lainnya dengan cepat, akurat, dan andal.",
+  "main_category_id": "identity-auth",
+  "main_category_en": "Identity Authentication",
+  "main_category_id_name": "Otentikasi Identitas",
+  "sub_category_id": "face-recognition",
+  "sub_category_en": "Face Recognition Terminal",
+  "sub_category_id_name": "Terminal Pengenalan Wajah",
+  "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

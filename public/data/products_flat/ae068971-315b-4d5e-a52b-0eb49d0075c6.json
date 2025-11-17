@@ -1,0 +1,20 @@
+{
+  "id": "ae068971-315b-4d5e-a52b-0eb49d0075c6",
+  "name_en": "Iris & Face Recognition Terminal ",
+  "name_id": "Terminal Pengenalan Iris & Wajah",
+  "short_en": "Maxvision Iris & Facial Recognition Terminal features an integrated front panel design, integrated screen frame and body, while the back is made of aluminum, which is lightweight, durable, and corrosion-resistant.",
+  "short_id": "Terminal Pengenalan Iris & Wajah Maxvision memiliki desain panel depan terintegrasi, rangka layar dan bodi terintegrasi, sementara bagian belakangnya terbuat dari aluminium, yang ringan, tahan lama, dan tahan korosi.",
+  "desc_en": "Maxvision Iris & Facial Recognition Terminal features an integrated front panel design, integrated screen frame and body, while the back is made of aluminum, which is lightweight, durable, and corrosion-resistant. The device integrates iris recognition, face recognition, iris and face fusion recognition, intelligent iris capture and tracking, and other functions. The system can customize 1:1 or 1:N iris recognition descriptions to meet the functional requirements of various application scenarios. This equipment can be installed in systems such as access control, gates, and self-service terminals, which are widely used in personnel access control areas such as customs, border barriers, ports, communities, and buildings.",
+  "desc_id": "Terminal Pengenalan Iris & Wajah Maxvision memiliki desain panel depan terintegrasi, rangka layar dan bodi terintegrasi, sementara bagian belakangnya terbuat dari aluminium, yang ringan, tahan lama, dan tahan korosi. Perangkat ini mengintegrasikan pengenalan iris, pengenalan wajah, pengenalan fusi iris dan wajah, penangkapan dan pelacakan iris cerdas, dan fungsi lainnya. Sistem ini dapat menyesuaikan perbandingan pengenalan iris 1:1 atau 1:N untuk memenuhi persyaratan fungsional berbagai skenario aplikasi. Peralatan ini dapat dipasang di sistem seperti kontrol akses, gerbang, dan terminal swalayan, yang banyak digunakan di area kontrol akses personel seperti bea cukai, pertahanan perbatasan, pelabuhan, komunitas, dan gedung.",
+  "main_category_id": "identity-auth",
+  "main_category_en": "Identity Authentication",
+  "main_category_id_name": "Otentikasi Identitas",
+  "sub_category_id": "face-recognition",
+  "sub_category_en": "Face Recognition Terminal",
+  "sub_category_id_name": "Terminal Pengenalan Wajah",
+  "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

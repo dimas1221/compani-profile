@@ -1,0 +1,20 @@
+{
+  "id": "5f984e29-6131-4ba2-a751-cf400aecf49b",
+  "name_en": "Facial Recognition Terminal - 208BD",
+  "name_id": "Terminal Pengenalan Wajah - 208BD",
+  "short_en": "Maxvision Intelligent Facial Recognition Terminal adopts an integrated tempered glass panel protection design, equipped with an 8-inch HD IPS display, which can be applied in various places that require facial recognition authentication. ",
+  "short_id": "Terminal Pengenalan Wajah Cerdas Maxvision mengadopsi desain pelindung panel kaca tempered terintegrasi, dilengkapi layar IPS HD 8 inci, yang dapat diaplikasikan di berbagai tempat yang membutuhkan autentikasi pengenalan wajah. Produk ini menggunakan algoritma pengenalan wajah yang dikembangkan secara independen. ",
+  "desc_en": "Maxvision Intelligent Facial Recognition Terminal adopts an integrated tempered glass panel protection design, equipped with an 8-inch HD IPS display, which can be applied in various places that require facial recognition authentication. This product uses an independently developed facial recognition algorithm. The quality of facial images captured by this device will not be affected by different lighting conditions (e.g., dim light, backlight, or bright light). The recognition rate of all feature matching algorithms supported by deep learning has reached 99%, whether wearing a mask, wearing glasses, wearing a hat, covering the face, or detecting activity.",
+  "desc_id": "Terminal Pengenalan Wajah Cerdas Maxvision mengadopsi desain pelindung panel kaca tempered terintegrasi, dilengkapi layar IPS HD 8 inci, yang dapat diaplikasikan di berbagai tempat yang membutuhkan autentikasi pengenalan wajah. Produk ini menggunakan algoritma pengenalan wajah yang dikembangkan secara independen. Kualitas gambar wajah yang ditangkap oleh perangkat ini tidak akan terpengaruh oleh kondisi pencahayaan yang berbeda (misalnya, cahaya redup, cahaya latar, atau cahaya terang). Tingkat pengenalan semua algoritma pencocokan fitur yang didukung pembelajaran mendalam ini telah mencapai 99%, baik saat mengenakan masker, berkacamata, mengenakan topi, menutupi wajah, maupun mendeteksi keaktifan.",
+  "main_category_id": "identity-auth",
+  "main_category_en": "Identity Authentication",
+  "main_category_id_name": "Otentikasi Identitas",
+  "sub_category_id": "face-recognition",
+  "sub_category_en": "Face Recognition Terminal",
+  "sub_category_id_name": "Terminal Pengenalan Wajah",
+  "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}
