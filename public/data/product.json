@@ -161,6 +161,20 @@
               "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
               "name_en": "Embedded Palm Vein Recognition Terminal",
               "short_id": "Terminal Pengenalan Vena Telapak Tangan Tertanam Maxvision mengadopsi teknologi pengenalan AI yang dipadukan dengan aplikasi ilmiah seperti penglihatan, optik, biologi, dll"
+            },
+            {
+              "desc_id": "Modul Perekam Vena Telapak Tangan Maxvision berbasis sistem operasi Linux. Modul ini menggunakan teknologi pencitraan pita inframerah dekat untuk mendapatkan informasi vena telapak tangan. Modul ini juga dilengkapi kamera cahaya tampak untuk merekam informasi sidik telapak tangan. Modul ini memiliki fungsi seperti input sidik telapak tangan dan vena telapak tangan, pemrosesan gambar, perbandingan fitur, penyimpanan, dll., dan dapat digunakan pada kunci pintu pintar, brankas, kontrol akses, gerbang, terminal swalayan robot, dan peralatan lainnya.",
+              "short_en": "The Maxvision Palm Vein Recorder Module is based on the Linux operating system. It utilizes near-infrared imaging technology to acquire palm vein information",
+              "name_id": "Penangkapan Vena Telapak Tangan",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Maxvision Palm Vein Recorder Module is based on the Linux operating system. It utilizes near-infrared imaging technology to acquire palm vein information. It also features a visible light camera to capture palmprint information. It has functions such as palmprint and palm vein input, image processing, feature comparison, storage, etc., and can be used in smart door locks, safes, access control, gates, robotic self-service terminals, and other equipment.",
+              "id": "1e536234-80b2-4996-bd7f-a6e8a58908b8",
+              "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
+              "name_en": "Palm Vein Capture Vein",
+              "short_id": "Modul Perekam Vena Telapak Tangan Maxvision berbasis sistem operasi Linux. Modul ini menggunakan teknologi pencitraan pita inframerah dekat untuk mendapatkan informasi vena telapak tangan"
             }
           ]
         }
