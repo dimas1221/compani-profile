@@ -38,17 +38,18 @@
               "short_id": "a"
             },
             {
+              "desc_id": "Terminal pengenalan wajah profesional dengan akurasi tinggi di berbagai kondisi cahaya, dilengkapi sensor inframerah dan suhu.",
+              "short_en": "Advanced face recognition with anti-spoofing and temperature detection.",
+              "name_id": "Terminal Pengenalan Wajah - 205AG",
               "compatibility": [
                 "wifi",
                 "mqtt"
               ],
-              "name_en": "Facial Recognition Terminal - 205AG",
-              "name_id": "Terminal Pengenalan Wajah - 205AG",
-              "short_en": "Advanced face recognition with anti-spoofing and temperature detection 1.",
-              "short_id": "Pengenalan wajah canggih dengan deteksi suhu dan anti-spoofing.",
               "desc_en": "A professional face recognition terminal supporting high accuracy under diverse lighting. Features infrared and temperature sensors.",
-              "desc_id": "Terminal pengenalan wajah profesional dengan akurasi tinggi di berbagai kondisi cahaya, dilengkapi sensor inframerah dan suhu.",
-              "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png"
+              "id": "ed1fccd3-d6a5-4fdf-8da7-d1b78d97192b",
+              "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+              "name_en": "Facial Recognition Terminal - 205AG",
+              "short_id": "Pengenalan wajah canggih dengan deteksi suhu dan anti-spoofing."
             }
           ]
         },
@@ -73,7 +74,8 @@
     },
     {
       "name_en": "Cargo Security",
-      "name_id": "Keamanan Kargo"
+      "name_id": "Keamanan Kargo",
+      "id": "afd81e03-0156-47d1-a30e-24a25ed972d0"
     }
   ]
 }
