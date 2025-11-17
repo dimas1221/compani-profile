@@ -44,7 +44,7 @@
               ],
               "name_en": "Facial Recognition Terminal - 205AG",
               "name_id": "Terminal Pengenalan Wajah - 205AG",
-              "short_en": "Advanced face recognition with anti-spoofing and temperature detection.",
+              "short_en": "Advanced face recognition with anti-spoofing and temperature detection 1.",
               "short_id": "Pengenalan wajah canggih dengan deteksi suhu dan anti-spoofing.",
               "desc_en": "A professional face recognition terminal supporting high accuracy under diverse lighting. Features infrared and temperature sensors.",
               "desc_id": "Terminal pengenalan wajah profesional dengan akurasi tinggi di berbagai kondisi cahaya, dilengkapi sensor inframerah dan suhu.",
@@ -70,6 +70,10 @@
           "name_id": "Pemeriksaan Keamanan"
         }
       ]
+    },
+    {
+      "name_en": "Cargo Security",
+      "name_id": "Keamanan Kargo"
     }
   ]
 }
