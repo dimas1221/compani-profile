@@ -70,6 +70,10 @@
           "name_id": "Pemeriksaan Keamanan"
         }
       ]
+    },
+    {
+      "name_en": "Cargo Security",
+      "name_id": "Keamanan Kargo"
     }
   ]
 }
