@@ -177,6 +177,27 @@
               "short_id": "Modul Perekam Vena Telapak Tangan Maxvision berbasis sistem operasi Linux. Modul ini menggunakan teknologi pencitraan pita inframerah dekat untuk mendapatkan informasi vena telapak tangan"
             }
           ]
+        },
+        {
+          "id": "78c459f5-01ed-417c-ace8-f4645e58e1a7",
+          "name_en": "Biometric Information Capture",
+          "name_id": "Penangkapan Informasi Biometrik",
+          "products": [
+            {
+              "desc_id": "Terminal Pengambilan Multi-Biometrik mengintegrasikan fungsi sidik jari sepuluh jari dan pengambilan wajah. Sambil melakukan pengambilan sidik jari dan wajah, perangkat ini dapat melakukan pengambilan dan verifikasi berbagai informasi biometrik penumpang dengan cepat. Perangkat ini dicirikan oleh ukurannya yang kecil dan penempatannya yang fleksibel, dan banyak digunakan di area dengan keamanan tinggi seperti bandara, pelabuhan, kantor polisi, dan pos pemeriksaan perbatasan yang memerlukan pengambilan data biometrik personel dan verifikasi identitas.",
+              "short_en": "The Multi-Biometric Capture Terminal integrates ten-finger fingerprint and facial recognition functions.",
+              "name_id": "Terminal Pengambilan Multi-Biometrik (Wajah)",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Multi-Biometric Capture Terminal integrates ten-finger fingerprint and facial recognition functions. While capturing fingerprints and facial recognition, it can quickly capture and verify various passenger biometric information. Its small size and flexible placement make it widely used in high-security areas such as airports, ports, police stations, and border checkpoints that require personnel biometric data capture and identity verification.",
+              "id": "3f16729a-dbe5-4bd9-8134-11657e80fd7a",
+              "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
+              "name_en": "Multi-Biometric Capture Terminal (Face)",
+              "short_id": "Terminal Pengambilan Multi-Biometrik mengintegrasikan fungsi sidik jari sepuluh jari dan pengambilan wajah"
+            }
+          ]
         }
       ]
     },
