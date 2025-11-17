@@ -46,7 +46,7 @@ export default function ProductDetail() {
       <div className="max-w-7xl mx-auto px-6 py-10 md:py-16 text-center text-gray-500">
         {translate("Product not found")}
         <br />
-        <GlobalButton onClick={() => navigate(-1)} className="mt-4">
+        <GlobalButton onClick={() => navigate("/product")} className="mt-4">
           ← {translate("Back")}
         </GlobalButton>
       </div>
@@ -58,7 +58,7 @@ export default function ProductDetail() {
       <div className="max-w-7xl mx-auto px-6 py-10 md:py-16 text-center text-gray-500">
         {translate("Product detail not found")}
         <br />
-        <GlobalButton onClick={() => navigate(-1)} className="mt-4">
+        <GlobalButton onClick={() => navigate("/product")} className="mt-4">
           ← {translate("Back")}
         </GlobalButton>
       </div>
@@ -77,7 +77,7 @@ export default function ProductDetail() {
       {/* MAIN SECTION */}
       <section className="relative py-20 sm:py-28 px-6 transition-colors duration-700 overflow-hidden">
         <div className="max-w-7xl mx-auto relative z-10">
-          <GlobalButton onClick={() => navigate(-1)} className="mt-4">
+          <GlobalButton onClick={() => navigate("/product")} className="mt-4">
             ← {translate("Back")}
           </GlobalButton>
 
