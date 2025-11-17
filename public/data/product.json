@@ -38,6 +38,23 @@
               "short_id": "a"
             }
           ]
+        },
+        {
+          "id": "fingerprint-capture",
+          "name_en": "Fingerprint Capture",
+          "name_id": "Pengambilan Sidik Jari"
+        }
+      ]
+    },
+    {
+      "id": "passenger-security",
+      "name_en": "Passenger Security",
+      "name_id": "Keamanan Penumpang",
+      "sub_categories": [
+        {
+          "id": "security-checking",
+          "name_en": "Security Checking",
+          "name_id": "Pemeriksaan Keamanan"
         }
       ]
     }
