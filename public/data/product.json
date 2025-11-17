@@ -57,6 +57,27 @@
           "id": "fingerprint-capture",
           "name_en": "Fingerprint Capture",
           "name_id": "Pengambilan Sidik Jari"
+        },
+        {
+          "id": "0ec5af63-1051-4c50-91d5-f1f1960b462b",
+          "name_en": "Palm Vein Identity",
+          "name_id": "Identitas Urat Telapak Tangan",
+          "products": [
+            {
+              "desc_id": "Terminal Penangkap Vena Telapak Tangan (Palmein Vein Capture Terminal), yang dipadukan dengan algoritma AI yang dikembangkan sendiri dan aplikasi dari ilmu visual, optik, dan biologi, mencapai tingkat keamanan yang sangat tinggi dalam identifikasi biometrik. Terminal ini memiliki banyak keunggulan signifikan seperti keamanan dan keandalan, pengenalan tanpa kontak, deteksi denyut nadi, dan pengoperasian tanpa pengemudi. Terminal ini dapat diintegrasikan ke dalam sistem seperti E-gate dan terminal swalayan, dan banyak digunakan dalam skenario yang memerlukan kontrol akses personel, verifikasi identitas, dan pembayaran pintar.",
+              "short_en": "Palm Vein Capture Terminal, combining with self-developed Al algorithms and applications from visual, optical, and biological science to achieve ultra-high security levels in biometric identification.",
+              "name_id": "Terminal Penangkapan Vena Telapak Tangan",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Palm Vein Capture Terminal, combining with self-developed Al algorithms and applications from visual, optical, and biological science to achieve ultra-high security levels in biometric identification. This terminal has many significant advantages such as safety and reliability, non-contact recognition, liven detection, and driverless operation. It can be integrated into systems such as E-gate and self-service terminals, and is widely used in scenarios that require personnel access control, identity verification, and smart payments.",
+              "id": "8e7e98f2-537f-4277-a7d7-9165cb672a2d",
+              "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+              "name_en": "Palm Vein Capture Terminal",
+              "short_id": "Terminal Penangkap Vena Telapak Tangan (Palmein Vein Capture Terminal), yang dipadukan dengan algoritma AI yang dikembangkan sendiri dan aplikasi dari ilmu visual, optik, dan biologi, mencapai tingkat keamanan yang sangat tinggi dalam identifikasi biometrik."
+            }
+          ]
         }
       ]
     },
