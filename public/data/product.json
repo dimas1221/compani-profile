@@ -261,6 +261,27 @@
               "short_id": "Terminal Pengenalan Dokumen (DRT) adalah perangkat inspeksi platform seluler portabel yang dirancang untuk mendukung pengenalan OCR dokumen perjalanan"
             }
           ]
+        },
+        {
+          "id": "ff370213-48cc-4e65-8f6e-bc01b344f919",
+          "name_en": "E-Gate ",
+          "name_id": "Gerbang Elektronik",
+          "products": [
+            {
+              "desc_id": "Maxvision E-gate dirancang dengan baja tahan karat 304 + kaca tempered dengan transparansi tinggi, yang tahan lama dan tahan korosi. Dilengkapi dengan lalu lintas dua arah, anti-jepit cerdas, petunjuk panduan, dan fungsi lainnya; dilengkapi dengan pengenalan wajah, penggesekan kartu IC, kode QR, dan buka-tutup pintu jarak jauh. Modul fungsional seperti ini menerapkan berbagai metode akses autentikasi. Peralatan ini memiliki integrasi cerdas yang tinggi dan stabilitas yang kuat, serta cocok untuk berbagai tempat kontrol autentikasi identitas pintu masuk dan keluar.",
+              "short_en": "Maxvision E-gate is designed with 304 stainless steel + high-transparency tempered glass, which is durable and corrosion-resistant",
+              "name_id": "Gerbang E-E108AI",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Maxvision E-gate is designed with 304 stainless steel + high-transparency tempered glass, which is durable and corrosion-resistant. It is equipped with two-way traffic, intelligent anti-pinch, guidance prompts, and other functions; it is equipped with facial recognition, IC card swiping, QR code, and remote door opening and closing. Such functional modules implement various access authentication methods. This equipment has high intelligent integration and strong stability, and is suitable for various entrance and exit identity authentication control venues.",
+              "id": "c2e72bee-62fe-4a6a-85a1-0930ce0906ec",
+              "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+              "name_en": "E-gate-E108AI",
+              "short_id": "Maxvision E-gate dirancang dengan baja tahan karat 304 + kaca tempered dengan transparansi tinggi, yang tahan lama dan tahan korosi"
+            }
+          ]
         }
       ]
     },
