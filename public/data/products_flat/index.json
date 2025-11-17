@@ -1,5 +1,25 @@
 [
   {
+    "id": "ed1fccd3-d6a5-4fdf-8da7-d1b78d97192b",
+    "name_en": "Facial Recognition Terminal - 205AG",
+    "name_id": "Terminal Pengenalan Wajah - 205AG",
+    "short_en": "Advanced face recognition with anti-spoofing and temperature detection.",
+    "short_id": "Pengenalan wajah canggih dengan deteksi suhu dan anti-spoofing.",
+    "desc_en": "A professional face recognition terminal supporting high accuracy under diverse lighting. Features infrared and temperature sensors.",
+    "desc_id": "Terminal pengenalan wajah profesional dengan akurasi tinggi di berbagai kondisi cahaya, dilengkapi sensor inframerah dan suhu.",
+    "main_category_id": "identity-auth",
+    "main_category_en": "Identity Authentication",
+    "main_category_id_name": "Otentikasi Identitas",
+    "sub_category_id": "face-recognition",
+    "sub_category_en": "Face Recognition Terminal",
+    "sub_category_id_name": "Terminal Pengenalan Wajah",
+    "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
     "id": "p-001",
     "name_en": "Facial Recognition Terminal - 208CD",
     "name_id": "Terminal Pengenalan Wajah - 208CD",

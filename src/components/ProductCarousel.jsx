@@ -17,27 +17,27 @@ export default function ProductCarousel({
     const el = ref.current;
     if (!el) return;
 
-    let ticking = false;
-    const handleScroll = () => {
-      if (!ticking) {
-        window.requestAnimationFrame(() => {
-          const delta = el.scrollLeft - lastScroll.current;
-          lastScroll.current = el.scrollLeft;
+    // let ticking = false;
+    // const handleScroll = () => {
+    //   if (!ticking) {
+    //     window.requestAnimationFrame(() => {
+    //       const delta = el.scrollLeft - lastScroll.current;
+    //       lastScroll.current = el.scrollLeft;
 
-          el.querySelectorAll(".product-card").forEach((card) => {
-            const offset = card.offsetLeft - el.scrollLeft;
-            const depth = Math.sin(offset / 250) * 6;
-            card.style.transform = `translateY(${depth}px) scale(1.02)`;
-          });
+    //       el.querySelectorAll(".product-card").forEach((card) => {
+    //         const offset = card.offsetLeft - el.scrollLeft;
+    //         const depth = Math.sin(offset / 250) * 6;
+    //         card.style.transform = `translateY(${depth}px) scale(1.02)`;
+    //       });
 
-          ticking = false;
-        });
-        ticking = true;
-      }
-    };
+    //       ticking = false;
+    //     });
+    //     ticking = true;
+    //   }
+    // };
 
-    el.addEventListener("scroll", handleScroll);
-    return () => el.removeEventListener("scroll", handleScroll);
+    // el.addEventListener("scroll", handleScroll);
+    // return () => el.removeEventListener("scroll", handleScroll);
   }, [ref]);
 
   return (
