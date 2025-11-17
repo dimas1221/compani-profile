@@ -8,7 +8,7 @@ export default function ProductCard({ product }) {
 
   const name = lang === "id" ? product.name_id : product.name_en;
   const short = lang === "id" ? product.short_id : product.short_en;
-  const desc = lang === "id" ? product.desc_id : product.desc_en;
+  // const desc = lang === "id" ? product.desc_id : product.desc_en;
 
   const icons = {
     wifi: <Wifi size={14} className="text-blue-500" />,
@@ -70,7 +70,7 @@ export default function ProductCard({ product }) {
       >
         <p className="text-sm font-semibold mb-2 drop-shadow-md">{name}</p>
         <p className="text-xs max-w-[88%] leading-relaxed text-white/95 drop-shadow-sm font-light">
-          {desc}
+          {short}
         </p>
       </div>
     </Link>

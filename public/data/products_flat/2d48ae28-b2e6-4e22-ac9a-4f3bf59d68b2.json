@@ -1,0 +1,20 @@
+{
+  "id": "2d48ae28-b2e6-4e22-ac9a-4f3bf59d68b2",
+  "name_en": "Palm Vein Recognition Terminal - A105AB",
+  "name_id": "Terminal Pengenalan Vena Telapak Tangan - A105AB",
+  "short_en": "The Palm Vein Recognition Terminal is a Linux-based biometric identification terminal launched by Maxvision.",
+  "short_id": "Terminal Pengenalan Vena Telapak Tangan adalah terminal identifikasi biometrik berbasis sistem operasi Linux yang diluncurkan oleh Maxvision. ",
+  "desc_en": "The Palm Vein Recognition Terminal is a Linux-based biometric identification terminal launched by Maxvision. This terminal utilizes infrared imaging technology and integrates visual and optical technologies to accurately capture palm vein images. It is equipped with a self-developed AI recognition algorithm to achieve high-security biometric identification. This terminal has many significant advantages such as extremely high security, contactless identification, real-time detection, strong anti-interference ability, and high identification accuracy. This terminal can be integrated into access control systems, gate channels, and various self-service terminals to provide users with a convenient and secure identity authentication experience.",
+  "desc_id": "Terminal Pengenalan Vena Telapak Tangan adalah terminal identifikasi biometrik berbasis sistem operasi Linux yang diluncurkan oleh Maxvision. Terminal ini menggunakan teknologi pencitraan inframerah dan mengintegrasikan teknologi visual dan optik untuk mendapatkan citra vena telapak tangan secara akurat. Dilengkapi dengan algoritma pengenalan AI yang dikembangkan sendiri untuk mencapai identifikasi biometrik dengan keamanan tinggi. Terminal ini memiliki banyak keunggulan signifikan seperti keamanan yang sangat tinggi, identifikasi tanpa kontak, deteksi langsung, kemampuan anti-interferensi yang kuat, dan akurasi identifikasi yang tinggi. Terminal ini dapat diintegrasikan ke dalam sistem kontrol akses, kanal gerbang, dan berbagai terminal swalayan untuk memberikan pengalaman otentikasi identitas yang nyaman dan aman bagi pengguna.",
+  "main_category_id": "identity-auth",
+  "main_category_en": "Identity Authentication",
+  "main_category_id_name": "Otentikasi Identitas",
+  "sub_category_id": "0ec5af63-1051-4c50-91d5-f1f1960b462b",
+  "sub_category_en": "Palm Vein Identity",
+  "sub_category_id_name": "Identitas Urat Telapak Tangan",
+  "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

@@ -40,6 +40,26 @@
     ]
   },
   {
+    "id": "2d48ae28-b2e6-4e22-ac9a-4f3bf59d68b2",
+    "name_en": "Palm Vein Recognition Terminal - A105AB",
+    "name_id": "Terminal Pengenalan Vena Telapak Tangan - A105AB",
+    "short_en": "The Palm Vein Recognition Terminal is a Linux-based biometric identification terminal launched by Maxvision.",
+    "short_id": "Terminal Pengenalan Vena Telapak Tangan adalah terminal identifikasi biometrik berbasis sistem operasi Linux yang diluncurkan oleh Maxvision. ",
+    "desc_en": "The Palm Vein Recognition Terminal is a Linux-based biometric identification terminal launched by Maxvision. This terminal utilizes infrared imaging technology and integrates visual and optical technologies to accurately capture palm vein images. It is equipped with a self-developed AI recognition algorithm to achieve high-security biometric identification. This terminal has many significant advantages such as extremely high security, contactless identification, real-time detection, strong anti-interference ability, and high identification accuracy. This terminal can be integrated into access control systems, gate channels, and various self-service terminals to provide users with a convenient and secure identity authentication experience.",
+    "desc_id": "Terminal Pengenalan Vena Telapak Tangan adalah terminal identifikasi biometrik berbasis sistem operasi Linux yang diluncurkan oleh Maxvision. Terminal ini menggunakan teknologi pencitraan inframerah dan mengintegrasikan teknologi visual dan optik untuk mendapatkan citra vena telapak tangan secara akurat. Dilengkapi dengan algoritma pengenalan AI yang dikembangkan sendiri untuk mencapai identifikasi biometrik dengan keamanan tinggi. Terminal ini memiliki banyak keunggulan signifikan seperti keamanan yang sangat tinggi, identifikasi tanpa kontak, deteksi langsung, kemampuan anti-interferensi yang kuat, dan akurasi identifikasi yang tinggi. Terminal ini dapat diintegrasikan ke dalam sistem kontrol akses, kanal gerbang, dan berbagai terminal swalayan untuk memberikan pengalaman otentikasi identitas yang nyaman dan aman bagi pengguna.",
+    "main_category_id": "identity-auth",
+    "main_category_en": "Identity Authentication",
+    "main_category_id_name": "Otentikasi Identitas",
+    "sub_category_id": "0ec5af63-1051-4c50-91d5-f1f1960b462b",
+    "sub_category_en": "Palm Vein Identity",
+    "sub_category_id_name": "Identitas Urat Telapak Tangan",
+    "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
     "id": "5f984e29-6131-4ba2-a751-cf400aecf49b",
     "name_en": "Facial Recognition Terminal - 208BD",
     "name_id": "Terminal Pengenalan Wajah - 208BD",
@@ -67,6 +87,26 @@
     "short_id": "Terminal Penangkap Vena Telapak Tangan (Palmein Vein Capture Terminal), yang dipadukan dengan algoritma AI yang dikembangkan sendiri dan aplikasi dari ilmu visual, optik, dan biologi, mencapai tingkat keamanan yang sangat tinggi dalam identifikasi biometrik.",
     "desc_en": "Palm Vein Capture Terminal, combining with self-developed Al algorithms and applications from visual, optical, and biological science to achieve ultra-high security levels in biometric identification. This terminal has many significant advantages such as safety and reliability, non-contact recognition, liven detection, and driverless operation. It can be integrated into systems such as E-gate and self-service terminals, and is widely used in scenarios that require personnel access control, identity verification, and smart payments.",
     "desc_id": "Terminal Penangkap Vena Telapak Tangan (Palmein Vein Capture Terminal), yang dipadukan dengan algoritma AI yang dikembangkan sendiri dan aplikasi dari ilmu visual, optik, dan biologi, mencapai tingkat keamanan yang sangat tinggi dalam identifikasi biometrik. Terminal ini memiliki banyak keunggulan signifikan seperti keamanan dan keandalan, pengenalan tanpa kontak, deteksi denyut nadi, dan pengoperasian tanpa pengemudi. Terminal ini dapat diintegrasikan ke dalam sistem seperti E-gate dan terminal swalayan, dan banyak digunakan dalam skenario yang memerlukan kontrol akses personel, verifikasi identitas, dan pembayaran pintar.",
+    "main_category_id": "identity-auth",
+    "main_category_en": "Identity Authentication",
+    "main_category_id_name": "Otentikasi Identitas",
+    "sub_category_id": "0ec5af63-1051-4c50-91d5-f1f1960b462b",
+    "sub_category_en": "Palm Vein Identity",
+    "sub_category_id_name": "Identitas Urat Telapak Tangan",
+    "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "958f3167-3ca8-4369-a4f5-ac3348c7752c",
+    "name_en": "Palm Vein Recognition Terminal - A107A*",
+    "name_id": "Terminal Pengenalan Vena Telapak Tangan - A107A*",
+    "short_en": "Maxvision Palm Vein Recognition Terminal adopts AI recognition technology combined with scientific applications such as vision, optics, biology, etc.",
+    "short_id": "Terminal Pengenalan Vena Telapak Tangan Maxvision mengadopsi teknologi pengenalan AI yang dipadukan dengan aplikasi ilmiah seperti penglihatan, optik, biologi, dll",
+    "desc_en": "Maxvision Palm Vein Recognition Terminal adopts AI recognition technology combined with scientific applications such as vision, optics, biology, etc., uses multi-band infrared imaging technology to obtain the distribution map of palm veins, and performs biometric identification through a special comparison algorithm to achieve ultra-high performance. This equipment has the advantages of security and reliability, non-contact authentication, direct detection, good anti-interference, and high accuracy. This terminal can be integrated into access control, gates, self-service terminals and other systems, and is widely used in customs, border defense, seaports, community buildings, and areas with restricted access, etc.",
+    "desc_id": "Terminal Pengenalan Vena Telapak Tangan Maxvision mengadopsi teknologi pengenalan AI yang dipadukan dengan aplikasi ilmiah seperti penglihatan, optik, biologi, dll., menggunakan teknologi pencitraan inframerah multi-band untuk mendapatkan peta distribusi vena telapak tangan, dan melakukan identifikasi biometrik melalui algoritma perbandingan khusus untuk mencapai kinerja ultra-tinggi. Peralatan ini memiliki keunggulan keamanan dan keandalan, otentikasi non-kontak, deteksi langsung, anti-interferensi yang baik, dan akurasi tinggi. Terminal ini dapat diintegrasikan ke dalam kontrol akses, gerbang, terminal swalayan, dan sistem lainnya, serta banyak digunakan di bea cukai, pertahanan perbatasan, pelabuhan laut, gedung komunitas, dan area dengan akses terbatas, dll.",
     "main_category_id": "identity-auth",
     "main_category_en": "Identity Authentication",
     "main_category_id_name": "Otentikasi Identitas",
