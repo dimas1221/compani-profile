@@ -25,19 +25,6 @@
               "short_id": "Pengenalan wajah canggih dengan deteksi suhu dan anti-spoofing."
             },
             {
-              "desc_id": "a",
-              "short_en": "a",
-              "name_id": "a",
-              "compatibility": [
-                "mqtt"
-              ],
-              "desc_en": "a",
-              "id": "p-002",
-              "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
-              "name_en": "a",
-              "short_id": "a"
-            },
-            {
               "desc_id": "Terminal pengenalan wajah profesional dengan akurasi tinggi di berbagai kondisi cahaya, dilengkapi sensor inframerah dan suhu.",
               "short_en": "Advanced face recognition with anti-spoofing and temperature detection.",
               "name_id": "Terminal Pengenalan Wajah - 205AG",
@@ -50,6 +37,20 @@
               "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
               "name_en": "Facial Recognition Terminal - 205AG",
               "short_id": "Pengenalan wajah canggih dengan deteksi suhu dan anti-spoofing."
+            },
+            {
+              "desc_id": "Terminal Pengenalan Wajah Maxvision dirancang dengan tombol sentuh dan pelindung panel kaca tempered terintegrasi, dilengkapi layar IPS HD 8 inci, yang dapat digunakan di hampir setiap pintu masuk/keluar yang memerlukan otentikasi identitas dan kontrol akses. Dengan fungsi deteksi atribut penutup wajah dan deteksi keaktifan, perangkat ini dapat mengenali atau memverifikasi identitas pengunjung menggunakan wajah, kata sandi, kartu, dan kombinasi lainnya dengan cepat, akurat, dan andal.",
+              "short_en": "Maxvision Facial Recognition Terminal is designed with touch keys and integrated tempered glass panel protection, equipped with 8-inch IPS HD screen, which can be employed in nearly every entrance/exit where identity authentication and access control is needed.",
+              "name_id": "Terminal Pengenalan Wajah - 105AB",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Maxvision Facial Recognition Terminal is designed with touch keys and integrated tempered glass panel protection, equipped with 8-inch IPS HD screen, which can be employed in nearly every entrance/exit where identity authentication and access control is needed. Functioning face-covering attribute detection, liveness detection, this device can recognize or verify visitors' identity using face, password, card, and other combinations swiftly, accurately, and reliably.",
+              "id": "20df7aa6-3713-4723-a8a6-a53539e75039",
+              "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+              "name_en": "Facial Recognition Terminal - 105AB",
+              "short_id": "Terminal Pengenalan Wajah Maxvision dirancang dengan tombol sentuh dan pelindung panel kaca tempered terintegrasi, dilengkapi layar IPS HD 8 inci, yang dapat digunakan di hampir setiap pintu masuk/keluar yang memerlukan autentikasi identitas dan kontrol akses."
             }
           ]
         },
@@ -57,6 +58,27 @@
           "id": "fingerprint-capture",
           "name_en": "Fingerprint Capture",
           "name_id": "Pengambilan Sidik Jari"
+        },
+        {
+          "id": "0ec5af63-1051-4c50-91d5-f1f1960b462b",
+          "name_en": "Palm Vein Identity",
+          "name_id": "Identitas Urat Telapak Tangan",
+          "products": [
+            {
+              "desc_id": "Terminal Penangkap Vena Telapak Tangan (Palmein Vein Capture Terminal), yang dipadukan dengan algoritma AI yang dikembangkan sendiri dan aplikasi dari ilmu visual, optik, dan biologi, mencapai tingkat keamanan yang sangat tinggi dalam identifikasi biometrik. Terminal ini memiliki banyak keunggulan signifikan seperti keamanan dan keandalan, pengenalan tanpa kontak, deteksi denyut nadi, dan pengoperasian tanpa pengemudi. Terminal ini dapat diintegrasikan ke dalam sistem seperti E-gate dan terminal swalayan, dan banyak digunakan dalam skenario yang memerlukan kontrol akses personel, verifikasi identitas, dan pembayaran pintar.",
+              "short_en": "Palm Vein Capture Terminal, combining with self-developed Al algorithms and applications from visual, optical, and biological science to achieve ultra-high security levels in biometric identification.",
+              "name_id": "Terminal Penangkapan Vena Telapak Tangan",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Palm Vein Capture Terminal, combining with self-developed Al algorithms and applications from visual, optical, and biological science to achieve ultra-high security levels in biometric identification. This terminal has many significant advantages such as safety and reliability, non-contact recognition, liven detection, and driverless operation. It can be integrated into systems such as E-gate and self-service terminals, and is widely used in scenarios that require personnel access control, identity verification, and smart payments.",
+              "id": "8e7e98f2-537f-4277-a7d7-9165cb672a2d",
+              "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+              "name_en": "Palm Vein Capture Terminal",
+              "short_id": "Terminal Penangkap Vena Telapak Tangan (Palmein Vein Capture Terminal), yang dipadukan dengan algoritma AI yang dikembangkan sendiri dan aplikasi dari ilmu visual, optik, dan biologi, mencapai tingkat keamanan yang sangat tinggi dalam identifikasi biometrik."
+            }
+          ]
         }
       ]
     },
