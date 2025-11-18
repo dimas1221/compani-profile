@@ -653,6 +653,20 @@
               "image": "/images/uploads/ects-handheld-terminal.png",
               "name_en": "ECTS Handheld Terminal",
               "short_id": "Terminal Genggam ECTS adalah perangkat portabel yang digunakan untuk pelacakan proses pengangkutan kargo secara real-time"
+            },
+            {
+              "desc_id": "Container Smart Lock Reader adalah perangkat siap pakai yang dirancang untuk membaca dan mengelola data dari kunci kontainer nirkabel secara aman. Menggunakan teknologi berbasis RFID atau sensor, perangkat ini memungkinkan penyegelan, pembukaan kunci, dan verifikasi kerusakan dari jarak jauh—memungkinkan operator memantau status kontainer secara real-time tanpa kontak fisik.\nDidesain untuk integrasi yang mulus, pembaca ini mudah terhubung ke platform manajemen logistik hulu dan sistem pos pemeriksaan seperti pengenalan plat nomor, menyediakan antarmuka terpadu untuk kontrol kunci otomatis di seluruh pelabuhan, terminal, dan simpul transportasi. Perangkat ini meningkatkan visibilitas rantai pasokan, memperkuat keamanan aset, dan mendukung operasi kontainer yang sepenuhnya digital.",
+              "short_en": "The Container Smart Lock Reader is a field-ready device designed to securely read and manage data from wireless container locks",
+              "name_id": "Pembaca Kunci Cerdas Kontainer",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Container Smart Lock Reader is a field-ready device designed to securely read and manage data from wireless container locks. Using RFID or sensor-based technology, it enables remote sealing, unlocking, and tamper verification-allowing operators to monitor container status in real time without physical contact.\nBuilt for seamless integration, the reader connects easily to upstream logistics management platforms and checkpoint systems such as license plate recognition, providing a unified interface for automated lock control across ports, terminals, and transport nodes. It enhances supply chain visibility, strengthens asset security, and supports fully digitized container operations.",
+              "id": "15a63888-d8c5-42ac-a3f2-07b68de07788",
+              "image": "/images/uploads/container-smart-lock-reader.png",
+              "name_en": "Container Smart Lock Reader",
+              "short_id": "Container Smart Lock Reader adalah perangkat siap pakai yang dirancang untuk membaca dan mengelola data dari kunci kontainer nirkabel secara aman"
             }
           ]
         }
