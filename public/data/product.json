@@ -443,6 +443,20 @@
               "image": "/images/uploads/double_gate.png",
               "name_en": "E-gate (Double-gate)",
               "short_id": "E-Gate (Dual-Gate) dari Maxvision adalah solusi kontrol perbatasan cerdas yang terintegrasi penuh, dirancang untuk mengotomatiskan verifikasi identitas penumpang di titik masuk dan keluar yang terkontrol"
+            },
+            {
+              "desc_id": "Sistem Anti-Tailgating Berbasis Video dirancang khusus untuk e-gate imigrasi, memungkinkan pemantauan waktu nyata (real-time) terhadap lalu lintas tanpa izin melalui analitik video canggih pada perangkat. Dengan menggunakan AI tertanam, pengenalan perilaku, dan visi mesin, sistem ini mengidentifikasi risiko keamanan seperti tailgating, pergerakan mengelak, dan entri abnormal—tanpa bergantung pada server backend.\nDipasang di atas e-gate inspeksi, sistem ini bekerja secara otonom dan terintegrasi secara mulus dengan e-gate, stasiun verifikasi biometrik, dan sistem pemeriksaan keamanan. Sistem ini memberikan peringatan instan, perekaman video, dan pencatatan kejadian, membantu badan kontrol perbatasan mengurangi pengawasan manual sekaligus meningkatkan keamanan pelabuhan dan efisiensi throughput secara signifikan.",
+              "short_en": "The Video-based Anti-Tailgating System is purpose-built for immigration e-gate, enabling real-time monitoring of unauthorized passage through advanced on-device video analytics",
+              "name_id": "Sistem Anti-Tailgating Berbasis Video",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Video-based Anti-Tailgating System is purpose-built for immigration e-gate, enabling real-time monitoring of unauthorized passage through advanced on-device video analytics. Using embedded Al, behavior recognition, and machine vision, the system identifies security risks such as tailgating, evasive movement, and abnormal entries-without relying on backend servers.\nMounted above the inspection e-gate, it works autonomously and integrates seamlessly with e-gates, biometric verification stations, and security checking systems. The system delivers instant alerts, video capture, and event logging, helping border control agencies reduce manual oversight while significantly enhancing port security and throughput efficiency.",
+              "id": "af960ef5-beda-436c-994e-9bf4023feec4",
+              "image": "/images/uploads/video_based_anti_tailgating_system.png",
+              "name_en": "Video-based Anti-Tailgating System",
+              "short_id": "Sistem Anti-Tailgating Berbasis Video dirancang khusus untuk e-gate imigrasi, memungkinkan pemantauan waktu nyata (real-time) terhadap lalu lintas tanpa izin melalui analitik video canggih pada perangkat"
             }
           ]
         },
