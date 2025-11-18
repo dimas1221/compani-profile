@@ -85,7 +85,23 @@
         {
           "id": "fingerprint-capture",
           "name_en": "Fingerprint Capture",
-          "name_id": "Pengambilan Sidik Jari"
+          "name_id": "Pengambilan Sidik Jari",
+          "products": [
+            {
+              "desc_id": "Perangkat Perekam Sidik Jari adalah solusi eksklusif yang dikembangkan oleh Maxvision untuk perekaman sepuluh jari dengan akurasi tinggi. Dibangun dengan teknologi optik dan pencitraan canggih, perangkat ini mendukung pemindaian satu jari serta akuisisi sepuluh jari secara penuh, termasuk cetakan datar (4-4-2) dan cetakan gulung.\nPerangkat ini memberikan kinerja yang andal dengan fitur-fitur seperti deteksi jari basah, segmentasi empat jari otomatis, pengenalan posisi jari, dan umpan balik kualitas secara real-time. Pemindai ini menghasilkan gambar yang jernih tanpa silau atau artefak sisa akibat penggunaan berulang, memastikan hasil yang konsisten dan pengalaman pengguna yang lancar.\nDipercaya oleh bank, lembaga jaminan sosial, penegak hukum, imigrasi, dan otoritas kontrol perbatasan, perangkat ini dirancang untuk autentikasi identitas yang aman dan efisien di lingkungan yang sangat penting.",
+              "short_en": "The Fingerprint Capture Device is a fully proprietary solution developed by Maxvision for high-accuracy ten-finger capture.",
+              "name_id": "Perangkat Perekam Sidik Jari",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Fingerprint Capture Device is a fully proprietary solution developed by Maxvision for high-accuracy ten-finger capture. Built with advanced optical and imaging technologies, it supports single-finger scans as well as full ten-finger acquisition, including flat impressions (4-4-2) and rolled prints.\nIt delivers reliable performance with features such as wet-finger detection, automatic four-finger segmentation, finger position recognition, and real-time quality feedback. The scanner produces clear images without glare or residual artifacts from repeated use, ensuring consistent results and a smooth user experience.\nTrusted by banks, social security agencies, law enforcement, immigration, and border control authorities, the device is designed for secure and efficient identity authentication in mission-critical environments.",
+              "id": "d925155d-8e96-4173-b50b-2bfb3309ed76",
+              "image": "/images/uploads/fingerprint_capture_device.png",
+              "name_en": "Fingerprint Capture Device",
+              "short_id": "The Fingerprint Capture Device is a fully proprietary solution developed by Maxvision for high-accuracy ten-finger capture"
+            }
+          ]
         },
         {
           "id": "0ec5af63-1051-4c50-91d5-f1f1960b462b",
@@ -193,7 +209,7 @@
               ],
               "desc_en": "The Multi-Biometric Capture Terminal integrates ten-finger fingerprint and facial recognition functions. While capturing fingerprints and facial recognition, it can quickly capture and verify various passenger biometric information. Its small size and flexible placement make it widely used in high-security areas such as airports, ports, police stations, and border checkpoints that require personnel biometric data capture and identity verification.",
               "id": "3f16729a-dbe5-4bd9-8134-11657e80fd7a",
-              "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
+              "image": "/images/uploads/face_multi_biometric.png",
               "name_en": "Multi-Biometric Capture Terminal (Face)",
               "short_id": "Terminal Pengambilan Multi-Biometrik mengintegrasikan fungsi sidik jari sepuluh jari dan pengambilan wajah"
             },
@@ -207,7 +223,7 @@
               ],
               "desc_en": "The Multi-Biometric Capture Terminal integrates the functions of ten-finger fingerprint capture, HD iris capture, and visible light facial capture. While capturing fingerprints, irises, and faces, the device can quickly capture and verify various biometric information of passengers. The device is characterized by its small size and flexible placement, and is widely used in high-security areas such as airports, ports, police stations, and border checkpoints that require personnel biometric data capture and identity verification.",
               "id": "4d286693-a6d3-4f8f-ae03-dc8f4bbc4507",
-              "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
+              "image": "/images/uploads/iris_multi_biometric.png",
               "name_en": "Multi-Biometric Capture Terminal (Iris)",
               "short_id": "Terminal Pengambilan Multi-Biometrik mengintegrasikan fungsi pengambilan sidik jari sepuluh jari, pengambilan iris HD, dan pengambilan wajah dengan cahaya tampak"
             }
@@ -228,7 +244,7 @@
               ],
               "desc_en": "The Maxvision Travel Document Reader can accurately verify travel documents from more than 200 countries and regions worldwide. It can quickly and accurately identify all types of document data page information using industry-leading image processing, OCR text recognition, deep learning, and chip reading authentication technologies. In addition, it supports automatic document classification, portrait extraction and cropping, machine-readable code analysis, portrait comparison, personal information comparison and identification, offline identification, and so on. This product can be customized and developed according to user needs, and is widely used in various hotels, ports, border checkpoints, customs, banks, airlines, and other places that control and manage personnel authentication.",
               "id": "9bcfd033-bc69-463c-9b61-4a46571a4689",
-              "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
+              "image": "/images/uploads/document_reader_a.png",
               "name_en": "Document Reader-A",
               "short_id": "Maxvision Travel Document Reader mampu memverifikasi dokumen perjalanan lebih dari 200 negara dan wilayah di seluruh dunia secara akurat"
             },
@@ -242,7 +258,7 @@
               ],
               "desc_en": "The Maxvision Travel Document Reader-B is capable of accurately verifying travel documents from more than 200 countries and regions worldwide. It can quickly and accurately identify all types of document data page information using industry-leading image processing, OCR text recognition, deep learning, and chip reading authentication technologies. In addition, it supports automatic document classification, portrait extraction and cropping, machine-readable code analysis, portrait comparison, personal information comparison and identification, offline identification, and so on. This product can be customized and developed according to user needs, and is widely used in various hotels, ports, border checkpoints, customs, banks, airlines, and other places that control and manage personnel authentication.",
               "id": "0c310b9b-3946-410e-9b6a-98c63bfa7937",
-              "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+              "image": "/images/uploads/document_reader_b.png",
               "name_en": "Document Reader-B",
               "short_id": "Maxvision Travel Document Reader-B mampu memverifikasi dokumen perjalanan lebih dari 200 negara dan wilayah di seluruh dunia secara akurat"
             },
@@ -256,7 +272,7 @@
               ],
               "desc_en": "The Document Recognition Terminal (DRT) is a portable, mobile-platform inspection device designed to support OCR recognition of travel documents such as passports, visas, seafarer's books, and identity cards that meet the International Civil Aviation Organization (ICAO) 9303 standard. It enables fast and accurate recognition of a wide range of document information, supporting features such as automatic document classification, face extraction and cropping, machine-readable decoding, identity matching, and personal information verification.\nThe product utilizes RFID technology to read data from electronic document chips, including electronic photos, and supports on-site face capture and comparison. It also supports employee IC and HID card reading and offers functionality for historical record query, data export, and real-time data transmission.\nThe Document Recognition Terminal is ideal for applications in border control zones, quarantine areas, ports, and other scenarios requiring mobile inspections. Its compact and portable design, along with comprehensive functionality, allows users to efficiently manage inspections across multiple locations, providing unified control over passengers, staff, and businesses. The product can be integrated with immigration back-end systems for identity verification and passenger clearance, and can be customized to meet specific application requirements. This product also offers an SDK package for quick integration into user platform systems.",
               "id": "62778efc-4782-4e92-8a9a-78dd9e509fc6",
-              "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+              "image": "/images/uploads/document_recognition_terminal.png",
               "name_en": "Document Recognition Terminal",
               "short_id": "Terminal Pengenalan Dokumen (DRT) adalah perangkat inspeksi platform seluler portabel yang dirancang untuk mendukung pengenalan OCR dokumen perjalanan"
             }
@@ -277,7 +293,7 @@
               ],
               "desc_en": "Maxvision E-gate is designed with 304 stainless steel + high-transparency tempered glass, which is durable and corrosion-resistant. It is equipped with two-way traffic, intelligent anti-pinch, guidance prompts, and other functions; it is equipped with facial recognition, IC card swiping, QR code, and remote door opening and closing. Such functional modules implement various access authentication methods. This equipment has high intelligent integration and strong stability, and is suitable for various entrance and exit identity authentication control venues.",
               "id": "c2e72bee-62fe-4a6a-85a1-0930ce0906ec",
-              "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+              "image": "/images/uploads/e_gate_e108ai.png",
               "name_en": "E-gate-E108AI",
               "short_id": "Maxvision E-gate dirancang dengan baja tahan karat 304 + kaca tempered dengan transparansi tinggi, yang tahan lama dan tahan korosi"
             },
@@ -291,7 +307,7 @@
               ],
               "desc_en": "Maxvision E-gate is designed with aluminum profile + high-transparency tempered glass, which is durable and corrosion-resistant. It is equipped with two-way traffic, intelligent anti-pinch, guidance prompts, and other functions; it is equipped with facial recognition, IC card swiping, QR code, and remote door opening and closing. Such functional modules implement various authentication access methods. This equipment has high intelligent integration and strong stability, and is suitable for various entrance and exit identity authentication control places.",
               "id": "2c009557-1530-4344-a5a4-acd8d26a5bf4",
-              "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
+              "image": "/images/uploads/e_gate_e108af.png",
               "name_en": "E-gate-E108AF",
               "short_id": "Maxvision E-gate dirancang dengan profil aluminium + kaca tempered dengan transparansi tinggi, yang tahan lama dan tahan korosi"
             },
@@ -305,7 +321,7 @@
               ],
               "desc_en": "Intelligent Security Inspection E-gate is a comprehensive personnel inspection and access system. The system integrates facial recognition, palm vein recognition, one-click start, metal detection door, carry-on baggage inspection and other functions to achieve 100% comprehensive and intelligent personnel and baggage inspection, effectively improving the security level of the park and the efficiency of personnel baggage inspection. This product can be used in the entrance and exit scenarios of large airports, government office buildings, government agencies, financial banks and other high-risk sensitive and confidential places.",
               "id": "d08e47e9-334c-4cec-a687-26df0c805f5c",
-              "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+              "image": "/images/uploads/intelligent_security_inspection_e_gate.png",
               "name_en": "Intelligent Security Inspection E-gate",
               "short_id": "Intelligent Security Inspection E-gate adalah sistem inspeksi dan akses personel yang komprehensif"
             }
