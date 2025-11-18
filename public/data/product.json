@@ -737,6 +737,20 @@
               "image": "/images/uploads/vehicle-intelligent-inspection-all-in-one-machine-basic.png",
               "name_en": "Vehicle Intelligent Inspection All-in-One Machine - Basic",
               "short_id": "Maxvision secara independen mengembangkan Mesin Inspeksi Cerdas Kendaraan All-in-one ini, sebuah produk pemeriksaan cerdas"
+            },
+            {
+              "desc_id": "Maxvision secara independen mengembangkan Mesin Inspeksi Cerdas Kendaraan All-in-one ini, sebuah produk pemeriksaan cerdas. Produk ini dirancang untuk meningkatkan manajemen lajur otomatis dan untuk merekam serta memverifikasi identitas personel yang melintas di lajur secara mandiri. Fungsi-fungsinya meliputi pengenalan wajah, pengenalan sidik jari, pemindaian kode batang, pengenalan dokumen, panduan interaktif, alarm abnormal, pencetakan tanda lulus, interkom video, kontrol tautan, dan sebagainya. Produk ini cocok untuk kampus, pelabuhan, dan kawasan perdagangan bebas terpadu yang perlu merekam dan memverifikasi informasi penumpang di lajur.",
+              "short_en": "Maxvision independently developed this Vehicle Intelligent Inspection All-in-one Machine which is an intelligent checking product",
+              "name_id": "Inspeksi Cerdas Kendaraan Semua dalam Satu Mesin - Standar",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Maxvision independently developed this Vehicle Intelligent Inspection All-in-one Machine which is an intelligent checking product. This product is designed to enhance the automated management of lanes and to self-capture and verify the identity of personnel passing on the lanes. Functions including facial recognition, fingerprint recognition, barcode scanning, document recognition, interactive guidance, abnormal alarm, pass printing, video intercom, linkage control and so on. It is suitable for campus, ports, integrated free trade zones that need to capture and verify the information of passengers in the lane.",
+              "id": "48886493-f113-4746-a188-d150575c6ff4",
+              "image": "/images/uploads/vehicle-intelligent-inspection-all-in-one-machine-standard.png",
+              "name_en": "Vehicle Intelligent Inspection All-in-One Machine - Standard",
+              "short_id": "Maxvision secara independen mengembangkan Mesin Inspeksi Cerdas Kendaraan All-in-one ini, sebuah produk pemeriksaan cerdas"
             }
           ]
         }
