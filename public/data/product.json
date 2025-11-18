@@ -228,7 +228,7 @@
               ],
               "desc_en": "The Maxvision Travel Document Reader can accurately verify travel documents from more than 200 countries and regions worldwide. It can quickly and accurately identify all types of document data page information using industry-leading image processing, OCR text recognition, deep learning, and chip reading authentication technologies. In addition, it supports automatic document classification, portrait extraction and cropping, machine-readable code analysis, portrait comparison, personal information comparison and identification, offline identification, and so on. This product can be customized and developed according to user needs, and is widely used in various hotels, ports, border checkpoints, customs, banks, airlines, and other places that control and manage personnel authentication.",
               "id": "9bcfd033-bc69-463c-9b61-4a46571a4689",
-              "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
+              "image": "/images/uploads/document_reader_a.png",
               "name_en": "Document Reader-A",
               "short_id": "Maxvision Travel Document Reader mampu memverifikasi dokumen perjalanan lebih dari 200 negara dan wilayah di seluruh dunia secara akurat"
             },
@@ -242,7 +242,7 @@
               ],
               "desc_en": "The Maxvision Travel Document Reader-B is capable of accurately verifying travel documents from more than 200 countries and regions worldwide. It can quickly and accurately identify all types of document data page information using industry-leading image processing, OCR text recognition, deep learning, and chip reading authentication technologies. In addition, it supports automatic document classification, portrait extraction and cropping, machine-readable code analysis, portrait comparison, personal information comparison and identification, offline identification, and so on. This product can be customized and developed according to user needs, and is widely used in various hotels, ports, border checkpoints, customs, banks, airlines, and other places that control and manage personnel authentication.",
               "id": "0c310b9b-3946-410e-9b6a-98c63bfa7937",
-              "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+              "image": "/images/uploads/document_reader_b.png",
               "name_en": "Document Reader-B",
               "short_id": "Maxvision Travel Document Reader-B mampu memverifikasi dokumen perjalanan lebih dari 200 negara dan wilayah di seluruh dunia secara akurat"
             },
@@ -256,7 +256,7 @@
               ],
               "desc_en": "The Document Recognition Terminal (DRT) is a portable, mobile-platform inspection device designed to support OCR recognition of travel documents such as passports, visas, seafarer's books, and identity cards that meet the International Civil Aviation Organization (ICAO) 9303 standard. It enables fast and accurate recognition of a wide range of document information, supporting features such as automatic document classification, face extraction and cropping, machine-readable decoding, identity matching, and personal information verification.\nThe product utilizes RFID technology to read data from electronic document chips, including electronic photos, and supports on-site face capture and comparison. It also supports employee IC and HID card reading and offers functionality for historical record query, data export, and real-time data transmission.\nThe Document Recognition Terminal is ideal for applications in border control zones, quarantine areas, ports, and other scenarios requiring mobile inspections. Its compact and portable design, along with comprehensive functionality, allows users to efficiently manage inspections across multiple locations, providing unified control over passengers, staff, and businesses. The product can be integrated with immigration back-end systems for identity verification and passenger clearance, and can be customized to meet specific application requirements. This product also offers an SDK package for quick integration into user platform systems.",
               "id": "62778efc-4782-4e92-8a9a-78dd9e509fc6",
-              "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+              "image": "/images/uploads/document_recognition_terminal.png",
               "name_en": "Document Recognition Terminal",
               "short_id": "Terminal Pengenalan Dokumen (DRT) adalah perangkat inspeksi platform seluler portabel yang dirancang untuk mendukung pengenalan OCR dokumen perjalanan"
             }
