@@ -570,7 +570,35 @@
     {
       "name_en": "Cargo Security",
       "name_id": "Keamanan Kargo",
-      "id": "afd81e03-0156-47d1-a30e-24a25ed972d0"
+      "id": "afd81e03-0156-47d1-a30e-24a25ed972d0",
+      "sub_categories": [
+        {
+          "id": "aeea5407-25cc-4d01-92ef-58b032e7ba7a",
+          "name_en": "Non-intrusive Inspection",
+          "name_id": "Inspeksi Non-intrusif",
+          "products": [
+            {
+              "desc_id": "Sistem Deteksi Kontainer Kosong mengadopsi teknologi pembelajaran mendalam dan analisis sinyal akustik untuk mewujudkan deteksi status kontainer kosong/kontainer berat yang cerdas dan efisien. Peralatan ini menggunakan sensor presisi tinggi, dengan deteksi mandiri, penghindaran rintangan otomatis, deteksi kotak kosong, alarm suara dan cahaya, perintah suara, perlindungan keamanan, dan fungsi lainnya. Peralatan ini memiliki waktu deteksi yang singkat, akurasi deteksi yang tinggi, keamanan, dan keandalan, serta dapat dihubungkan secara cerdas dengan sistem bayonet untuk mewujudkan proses bea cukai van secara mandiri dan meningkatkan efisiensi kendaraan yang melintas. Peralatan ini dapat digunakan secara luas di pelabuhan, galangan kapal, dan tempat inspeksi kendaraan kontainer lainnya.",
+              "short_en": "The Empty Container Detection System adopts deep learning and acoustic signal analysis technology to realize intelligent and efficient detection of empty container/heavy container status",
+              "name_id": "Sistem Deteksi Kontainer Kosong",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Empty Container Detection System adopts deep learning and acoustic signal analysis technology to realize intelligent and efficient detection of empty container/heavy container status. The equipment uses high-precision sensors, with self-detection, automatic obstacle avoidance, empty box detection, sound and light alarm, voice prompt, security protection and other functions. The equipment has short detection time, high detection accuracy safety and reliability, and can be intelligently connected with the bayonet system to achieve self-service customs clearance of vans and improve vehicle passing efficiency, and can be widely used in port, freight yard, port and other container vehicle inspection places.",
+              "id": "b54d9355-7807-47b8-a3d2-e5e4c3b005ef",
+              "image": "/images/uploads/empty_container_detection_system.png",
+              "name_en": "Empty Container Detection System",
+              "short_id": "Sistem Deteksi Kontainer Kosong mengadopsi teknologi pembelajaran mendalam dan analisis sinyal akustik untuk mewujudkan deteksi status kontainer kosong/kontainer berat yang cerdas dan efisien"
+            }
+          ]
+        },
+        {
+          "id": "c0d3e42f-c80f-4d83-ad20-2dcadba6ef4f",
+          "name_en": "In-Transit Supervision",
+          "name_id": "Pengawasan Dalam Perjalanan"
+        }
+      ]
     }
   ]
 }
