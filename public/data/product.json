@@ -639,6 +639,20 @@
               "image": "/images/uploads/electronic-cargo-tracking-system.png",
               "name_en": "Electronic Cargo Tracking System",
               "short_id": "Sistem Pelacakan Kargo Elektronik menggunakan Pelacak Loker Cerdas dan terminal onboard dengan GPS, BeiDou, dan jaringan seluler untuk menjaga kargo tetap terlihat dan terkendali selama transit"
+            },
+            {
+              "desc_id": "Terminal Genggam ECTS adalah perangkat portabel yang digunakan untuk pelacakan proses pengangkutan kargo secara real-time. Dengan mengintegrasikan pemosisian rangkap tiga GPS+BD+GLONASS, sensor, dan teknologi komunikasi nirkabel, perangkat ini dapat memantau posisi kendaraan, status mengemudi, lintasan historis, dan status penyegelan/pembukaan segel kunci dari jarak jauh secara real-time, sehingga meningkatkan transparansi pengangkutan barang selama transit.",
+              "short_en": "ECTS Handheld Terminal is a portable device used for real-time tracking of the process of cargo transport",
+              "name_id": "Terminal Genggam ECTS",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "ECTS Handheld Terminal is a portable device used for real-time tracking of the process of cargo transport. By integrating GPS+BD+GLONASS triple positioning, sensors and wireless communication technologies, it can remotely monitor in real time the position of the vehicle, the driving status, the historical trajectory and the sealing/unsealing status of the shuttered locks, so as to enhance the transparency of the transport of the goods in-transit.",
+              "id": "732f0874-98e0-4e83-969f-1a740b4d31e4",
+              "image": "/images/uploads/ects-handheld-terminal.png",
+              "name_en": "ECTS Handheld Terminal",
+              "short_id": "Terminal Genggam ECTS adalah perangkat portabel yang digunakan untuk pelacakan proses pengangkutan kargo secara real-time"
             }
           ]
         }
