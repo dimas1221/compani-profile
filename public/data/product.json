@@ -352,6 +352,20 @@
               "image": "/images/uploads/intelligent_security_tray.png",
               "name_en": "Intelligent Security Tray Return System - Basic",
               "short_id": "Sistem Pengembalian Baki Keamanan Cerdas (Dasar) adalah solusi otomatis yang dirancang untuk pos pemeriksaan keamanan penumpang di kontrol perbatasan dan pusat transportasi"
+            },
+            {
+              "desc_id": "Sistem Pengembalian Baki Keamanan Cerdas (Standar) menawarkan solusi seimbang untuk jalur inspeksi umum—menyediakan otomatisasi inti di seluruh proses verifikasi identitas, pemindaian sinar-X, penanganan baki, penyortiran, dan integrasi data backend. Dengan arsitektur modular dan kemampuan penerapan yang cepat, sistem ini sangat cocok dengan lingkungan kontrol bandara dan perbatasan yang mengutamakan efisiensi, keandalan, dan skalabilitas.",
+              "short_en": "The Intelligent Security Tray Return System (Standard) offers a balanced solution for mainstream inspection lanes-delivering core automation across identity verification, X-ray scanning, tray handling, sorting, and backend data integration",
+              "name_id": "Sistem Pengembalian Baki Keamanan Cerdas - Standar",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Intelligent Security Tray Return System (Standard) offers a balanced solution for mainstream inspection lanes-delivering core automation across identity verification, X-ray scanning, tray handling, sorting, and backend data integration. With a modular architecture and fast deployment capability, it fits seamlessly into airport and border control environments where efficiency, reliability, and scalability are key.",
+              "id": "adc2f2a6-7155-49c4-bb57-b67597833c44",
+              "image": "/images/uploads/intelligent_security_tray_return_system_standard.png",
+              "name_en": "Intelligent Security Tray Return System - Standard",
+              "short_id": "Sistem Pengembalian Baki Keamanan Cerdas (Standar) menawarkan solusi seimbang untuk jalur inspeksi umum—menyediakan otomatisasi inti di seluruh proses verifikasi identitas, pemindaian sinar-X, penanganan baki, penyortiran, dan integrasi data backend"
             }
           ]
         },
