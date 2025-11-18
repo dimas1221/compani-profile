@@ -534,6 +534,20 @@
               "image": "/images/uploads/carryon_baggage_xray_machine.png",
               "name_en": "Carry-on Baggage X-ray Machine",
               "short_id": "Direkayasa oleh Maxvision, sistem inspeksi sinar-X dual-energi dan dual-view generasi terbaru ini dirancang khusus untuk pemeriksaan bagasi kabin dan barang-barang pribadi secara efisien di pos pemeriksaan bea cukai, bandara, stasiun kereta api, fasilitas pemerintah, dan lingkungan berkeamanan tinggi lainnya"
+            },
+            {
+              "desc_id": "Dikembangkan secara independen oleh Maxvision, Mesin Sinar-X Bagasi Tercatat ini merupakan generasi baru teknologi pemindaian energi ganda dan tampilan ganda yang dirancang untuk lingkungan dengan keamanan tinggi. Dilengkapi dengan dua sumber sinar-X dan susunan detektor independen, sistem ini menangkap gambar tampak bawah dan samping secara bersamaan dan menampilkannya secara real-time—sangat meningkatkan deteksi barang tersembunyi atau tumpang tindih. Dirancang khusus untuk pemeriksaan bagasi berukuran besar dan tidak beraturan, mesin ini ideal untuk digunakan di bea cukai, pos pemeriksaan perbatasan, bandara, stasiun kereta api, fasilitas pemerintah, dan tempat umum yang besar. Sistem ini menggabungkan fungsionalitas khusus aplikasi dengan desain industri modern, memberikan pengalaman yang ramah pengguna dan kinerja yang sangat andal.",
+              "short_en": "Developed independently by Maxvision, this Hold Baggage X-ray Machine represents a new generation of dual-energy, dual-view screening technology designed for high-security environments",
+              "name_id": "Mesin Sinar-X Bagasi Tercatat",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Developed independently by Maxvision, this Hold Baggage X-ray Machine represents a new generation of dual-energy, dual-view screening technology designed for high-security environments. Featuring two independent X-ray source and detector arrays, the system captures bottom and side view images simultaneously and displays them in real time-greatly improving the detection of concealed or overlapping items. Purpose-built for the inspection of oversized and irregular baggage, it is ideal for deployment at customs, border checkpoints, airports, railway stations, government facilities, and large public venues. The system combines application-specific functionality with modern industrial design, delivering a user-friendly experience and highly reliable performance.",
+              "id": "5ddee792-f4b8-4b54-86aa-42338e371b68",
+              "image": "/images/uploads/hold_baggage_xray_machine.png",
+              "name_en": "Hold Baggage X-ray Machine",
+              "short_id": "Dikembangkan secara independen oleh Maxvision, Mesin Sinar-X Bagasi Tercatat ini merupakan generasi baru teknologi pemindaian energi ganda dan tampilan ganda yang dirancang untuk lingkungan dengan keamanan tinggi"
             }
           ]
         }
