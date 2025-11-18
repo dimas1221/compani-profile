@@ -378,25 +378,5 @@
       "wifi",
       "mqtt"
     ]
-  },
-  {
-    "id": "p-001",
-    "name_en": "Facial Recognition Terminal - 208CD",
-    "name_id": "Terminal Pengenalan Wajah - 208CD",
-    "short_en": "Advanced face recognition with anti-spoofing and temperature detection.",
-    "short_id": "Pengenalan wajah canggih dengan deteksi suhu dan anti-spoofing.",
-    "desc_en": "A professional face recognition terminal supporting high accuracy under diverse lighting. Features infrared and temperature sensors.",
-    "desc_id": "Terminal pengenalan wajah profesional dengan akurasi tinggi di berbagai kondisi cahaya, dilengkapi sensor inframerah dan suhu.",
-    "main_category_id": "identity-auth",
-    "main_category_en": "Identity Authentication",
-    "main_category_id_name": "Otentikasi Identitas",
-    "sub_category_id": "face-recognition",
-    "sub_category_en": "Face Recognition Terminal",
-    "sub_category_id_name": "Terminal Pengenalan Wajah",
-    "image": "/images/uploads/recog208cd.png",
-    "compatibility": [
-      "wifi",
-      "mqtt"
-    ]
   }
 ]
