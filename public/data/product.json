@@ -671,6 +671,11 @@
           ]
         }
       ]
+    },
+    {
+      "id": "35280ea7-5b63-4ffd-affd-b72dd6ccb6ed",
+      "name_en": "Vehicle Security",
+      "name_id": "Keamanan Kendaraan"
     }
   ]
 }
