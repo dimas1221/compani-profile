@@ -570,7 +570,19 @@
     {
       "name_en": "Cargo Security",
       "name_id": "Keamanan Kargo",
-      "id": "afd81e03-0156-47d1-a30e-24a25ed972d0"
+      "id": "afd81e03-0156-47d1-a30e-24a25ed972d0",
+      "sub_categories": [
+        {
+          "id": "aeea5407-25cc-4d01-92ef-58b032e7ba7a",
+          "name_en": "Non-intrusive Inspection",
+          "name_id": "Inspeksi Non-intrusif"
+        },
+        {
+          "id": "c0d3e42f-c80f-4d83-ad20-2dcadba6ef4f",
+          "name_en": "In-Transit Supervision",
+          "name_id": "Pengawasan Dalam Perjalanan"
+        }
+      ]
     }
   ]
 }
