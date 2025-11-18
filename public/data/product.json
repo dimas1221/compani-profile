@@ -548,6 +548,20 @@
               "image": "/images/uploads/hold_baggage_xray_machine.png",
               "name_en": "Hold Baggage X-ray Machine",
               "short_id": "Dikembangkan secara independen oleh Maxvision, Mesin Sinar-X Bagasi Tercatat ini merupakan generasi baru teknologi pemindaian energi ganda dan tampilan ganda yang dirancang untuk lingkungan dengan keamanan tinggi"
+            },
+            {
+              "desc_id": "Platform Manajemen Risiko Kepabeanan memanfaatkan pengenalan wajah dan analitik video cerdas untuk membangun mekanisme deteksi dan peringatan risiko yang komprehensif di seluruh titik pemeriksaan pabean utama, termasuk kontrol arus penumpang, pemeriksaan bagasi, dan pemeriksaan perbatasan. Dengan mengintegrasikan perangkat penangkap data front-end, platform jaringan video khusus, dan sistem aplikasi cerdas terpusat, platform ini memungkinkan pembuatan profil yang presisi, pelacakan lintasan, peringatan terkoordinasi, dan analisis perilaku bagi individu berisiko tinggi. Hal ini memungkinkan petugas bea cukai untuk merespons secara real-time dan mengambil tindakan yang tepat sasaran, menciptakan sistem manajemen risiko loop tertutup di titik masuk perbatasan. Dirancang untuk integrasi yang mulus dengan operasi kepabeanan, sistem ini mendukung koordinasi lintas zona antara area pemeriksaan dan unit back-office. Sistem ini memungkinkan konfigurasi strategi peringatan berbasis aturan berdasarkan kebutuhan penegakan hukum setempat dan karakteristik operasional. Solusi ini sangat cocok untuk lingkungan dengan lalu lintas tinggi seperti bandara internasional, perlintasan perbatasan darat, dan pelabuhan laut, sehingga meningkatkan efisiensi dan responsivitas operasi keamanan pelabuhan secara keseluruhan.",
+              "short_en": "The Customs Risk Management Platform leverages facial recognition and intelligent video analytics to establish a comprehensive risk detection and alert mechanism across key customs checkpoints, including passenger flow control, baggage screening, and border inspection",
+              "name_id": "Platform Manajemen Risiko Kepabeanan",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Customs Risk Management Platform leverages facial recognition and intelligent video analytics to establish a comprehensive risk detection and alert mechanism across key customs checkpoints, including passenger flow control, baggage screening, and border inspection. By integrating front-end data capture devices, a dedicated video network platform, and a centralized intelligent application system, it enables precise profiling, trajectory tracking, coordinated alerts, and behavioral analysis for high-risk individuals. This empowers customs officers to respond in real time and take targeted action, creating a closed-loop risk management system at border entry points. Designed for seamless integration with customs operations, the system supports cross-zone coordination between inspection areas and back-office units. It allows for rule-based configuration of alert strategies based on local enforcement needs and operational characteristics. The solution is well suited for high-traffic environments such as international airports, land border crossings, and seaports, enhancing the overall efficiency and responsiveness of port security operations.",
+              "id": "078d118d-a4fd-4c5c-aaa2-5048aa9299be",
+              "image": "/images/uploads/customs_risk_management_platform.png",
+              "name_en": "Customs Risk Management Platform",
+              "short_id": "Platform Manajemen Risiko Kepabeanan memanfaatkan pengenalan wajah dan analitik video cerdas untuk membangun mekanisme deteksi dan peringatan risiko yang komprehensif di seluruh titik pemeriksaan pabean utama, termasuk kontrol arus penumpang, pemeriksaan bagasi, dan pemeriksaan perbatasan"
             }
           ]
         }
