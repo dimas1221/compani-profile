@@ -193,7 +193,7 @@
               ],
               "desc_en": "The Multi-Biometric Capture Terminal integrates ten-finger fingerprint and facial recognition functions. While capturing fingerprints and facial recognition, it can quickly capture and verify various passenger biometric information. Its small size and flexible placement make it widely used in high-security areas such as airports, ports, police stations, and border checkpoints that require personnel biometric data capture and identity verification.",
               "id": "3f16729a-dbe5-4bd9-8134-11657e80fd7a",
-              "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
+              "image": "/images/uploads/face_multi_biometric.png",
               "name_en": "Multi-Biometric Capture Terminal (Face)",
               "short_id": "Terminal Pengambilan Multi-Biometrik mengintegrasikan fungsi sidik jari sepuluh jari dan pengambilan wajah"
             },
@@ -207,7 +207,7 @@
               ],
               "desc_en": "The Multi-Biometric Capture Terminal integrates the functions of ten-finger fingerprint capture, HD iris capture, and visible light facial capture. While capturing fingerprints, irises, and faces, the device can quickly capture and verify various biometric information of passengers. The device is characterized by its small size and flexible placement, and is widely used in high-security areas such as airports, ports, police stations, and border checkpoints that require personnel biometric data capture and identity verification.",
               "id": "4d286693-a6d3-4f8f-ae03-dc8f4bbc4507",
-              "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
+              "image": "/images/uploads/iris_multi_biometric.png",
               "name_en": "Multi-Biometric Capture Terminal (Iris)",
               "short_id": "Terminal Pengambilan Multi-Biometrik mengintegrasikan fungsi pengambilan sidik jari sepuluh jari, pengambilan iris HD, dan pengambilan wajah dengan cahaya tampak"
             }
