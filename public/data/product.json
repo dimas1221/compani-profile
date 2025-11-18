@@ -338,6 +338,20 @@
               "image": "/images/uploads/self_service_security.png",
               "name_en": "Self-service Security Inspection E-gate",
               "short_id": "E-gate Inspeksi Keamanan Swalayan adalah solusi canggih yang dikembangkan oleh Maxvision untuk meningkatkan efisiensi dan keamanan masuk dan keluar penumpang"
+            },
+            {
+              "desc_id": "Sistem Pengembalian Baki Keamanan Cerdas (Dasar) adalah solusi otomatis yang dirancang untuk pos pemeriksaan keamanan penumpang di kontrol perbatasan dan pusat transportasi. Sistem ini menggantikan proses manual pengembalian baki yang digunakan selama pemeriksaan bagasi kabin, memungkinkan resirkulasi baki otomatis, elevasi, dan penyortiran cerdas.\nDengan mengintegrasikan sistem kontrol canggih, pengenalan berbasis sensor, dan algoritma antrean cerdas, sistem ini secara signifikan mengurangi kebutuhan penanganan manual sekaligus meningkatkan throughput penumpang dan meningkatkan tingkat otomatisasi keseluruhan alur kerja pemeriksaan keamanan.\nDengan desain yang ringkas dan modular, sistem ini dapat diterapkan secara fleksibel di berbagai lingkungan pos pemeriksaan. Sebagai komponen inti dari infrastruktur keamanan cerdas generasi mendatang, sistem ini membantu operator menyederhanakan operasi, menurunkan biaya tenaga kerja, dan memberikan pengalaman penumpang yang lebih lancar.",
+              "short_en": "The Intelligent Security Tray Return System (Basic) is an automated solution designed for passenger security checkpoints at border control and transportation hubs",
+              "name_id": "Sistem Pengembalian Baki Keamanan Cerdas - Dasar",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Intelligent Security Tray Return System (Basic) is an automated solution designed for passenger security checkpoints at border control and transportation hubs. It replaces the manual process of returning trays used during carry-on baggage screening, enabling automated tray recirculation, elevation, and intelligent sorting.\nBy integrating advanced control systems, sensor-based recognition, and smart queuing algorithms, the system significantly reduces the need for manual handling while improving passenger throughput and enhancing the overall automation level of security inspection workflows.\nWith a compact and modular design, it can be flexibly deployed in a wide range of checkpoint environments. As a core component of next-generation smart security infrastructure, it helps operators streamline operations, lower labor costs, and deliver a smoother passenger experience.",
+              "id": "85e22b11-97ad-47e8-8d7f-1a03ac92be1b",
+              "image": "/images/uploads/intelligent_security_tray.png",
+              "name_en": "Intelligent Security Tray Return System - Basic",
+              "short_id": "Sistem Pengembalian Baki Keamanan Cerdas (Dasar) adalah solusi otomatis yang dirancang untuk pos pemeriksaan keamanan penumpang di kontrol perbatasan dan pusat transportasi"
             }
           ]
         },
