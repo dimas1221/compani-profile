@@ -14,7 +14,10 @@
               "desc_id": "Terminal pengenalan wajah profesional dengan akurasi tinggi di berbagai kondisi cahaya, dilengkapi sensor inframerah dan suhu.",
               "short_en": "Advanced face recognition with anti-spoofing and temperature detection.",
               "name_id": "Terminal Pengenalan Wajah - 205AG",
-              "compatibility": ["wifi", "mqtt"],
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
               "desc_en": "A professional face recognition terminal supporting high accuracy under diverse lighting. Features infrared and temperature sensors.",
               "id": "ed1fccd3-d6a5-4fdf-8da7-d1b78d97192b",
               "image": "/images/uploads/recog205ag.png",
@@ -25,7 +28,10 @@
               "desc_id": "Terminal Pengenalan Wajah Maxvision dirancang dengan tombol sentuh dan pelindung panel kaca tempered terintegrasi, dilengkapi layar IPS HD 8 inci, yang dapat digunakan di hampir setiap pintu masuk/keluar yang memerlukan otentikasi identitas dan kontrol akses. Dengan fungsi deteksi atribut penutup wajah dan deteksi keaktifan, perangkat ini dapat mengenali atau memverifikasi identitas pengunjung menggunakan wajah, kata sandi, kartu, dan kombinasi lainnya dengan cepat, akurat, dan andal.",
               "short_en": "Maxvision Facial Recognition Terminal is designed with touch keys and integrated tempered glass panel protection, equipped with 8-inch IPS HD screen, which can be employed in nearly every entrance/exit where identity authentication and access control is needed.",
               "name_id": "Terminal Pengenalan Wajah - 105AB",
-              "compatibility": ["wifi", "mqtt"],
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
               "desc_en": "Maxvision Facial Recognition Terminal is designed with touch keys and integrated tempered glass panel protection, equipped with 8-inch IPS HD screen, which can be employed in nearly every entrance/exit where identity authentication and access control is needed. Functioning face-covering attribute detection, liveness detection, this device can recognize or verify visitors' identity using face, password, card, and other combinations swiftly, accurately, and reliably.",
               "id": "20df7aa6-3713-4723-a8a6-a53539e75039",
               "image": "/images/uploads/recog105ab.png",
@@ -36,7 +42,10 @@
               "desc_id": "Terminal Pengenalan Wajah Cerdas Maxvision mengadopsi desain pelindung panel kaca tempered terintegrasi, dilengkapi layar IPS HD 8 inci, yang dapat diaplikasikan di berbagai tempat yang membutuhkan autentikasi pengenalan wajah. Produk ini menggunakan algoritma pengenalan wajah yang dikembangkan secara independen. Kualitas gambar wajah yang ditangkap oleh perangkat ini tidak akan terpengaruh oleh kondisi pencahayaan yang berbeda (misalnya, cahaya redup, cahaya latar, atau cahaya terang). Tingkat pengenalan semua algoritma pencocokan fitur yang didukung pembelajaran mendalam ini telah mencapai 99%, baik saat mengenakan masker, berkacamata, mengenakan topi, menutupi wajah, maupun mendeteksi keaktifan.",
               "short_en": "Maxvision Intelligent Facial Recognition Terminal adopts an integrated tempered glass panel protection design, equipped with an 8-inch HD IPS display, which can be applied in various places that require facial recognition authentication. ",
               "name_id": "Terminal Pengenalan Wajah - 208BD",
-              "compatibility": ["wifi", "mqtt"],
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
               "desc_en": "Maxvision Intelligent Facial Recognition Terminal adopts an integrated tempered glass panel protection design, equipped with an 8-inch HD IPS display, which can be applied in various places that require facial recognition authentication. This product uses an independently developed facial recognition algorithm. The quality of facial images captured by this device will not be affected by different lighting conditions (e.g., dim light, backlight, or bright light). The recognition rate of all feature matching algorithms supported by deep learning has reached 99%, whether wearing a mask, wearing glasses, wearing a hat, covering the face, or detecting activity.",
               "id": "5f984e29-6131-4ba2-a751-cf400aecf49b",
               "image": "/images/uploads/recog208bd.png",
@@ -47,7 +56,10 @@
               "desc_id": "Terminal Pengenalan Iris & Wajah Maxvision memiliki desain panel depan terintegrasi, rangka layar dan bodi terintegrasi, sementara bagian belakangnya terbuat dari aluminium, yang ringan, tahan lama, dan tahan korosi. Perangkat ini mengintegrasikan pengenalan iris, pengenalan wajah, pengenalan fusi iris dan wajah, penangkapan dan pelacakan iris cerdas, dan fungsi lainnya. Sistem ini dapat menyesuaikan perbandingan pengenalan iris 1:1 atau 1:N untuk memenuhi persyaratan fungsional berbagai skenario aplikasi. Peralatan ini dapat dipasang di sistem seperti kontrol akses, gerbang, dan terminal swalayan, yang banyak digunakan di area kontrol akses personel seperti bea cukai, pertahanan perbatasan, pelabuhan, komunitas, dan gedung.",
               "short_en": "Maxvision Iris & Facial Recognition Terminal features an integrated front panel design, integrated screen frame and body, while the back is made of aluminum, which is lightweight, durable, and corrosion-resistant.",
               "name_id": "Terminal Pengenalan Iris & Wajah",
-              "compatibility": ["wifi", "mqtt"],
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
               "desc_en": "Maxvision Iris & Facial Recognition Terminal features an integrated front panel design, integrated screen frame and body, while the back is made of aluminum, which is lightweight, durable, and corrosion-resistant. The device integrates iris recognition, face recognition, iris and face fusion recognition, intelligent iris capture and tracking, and other functions. The system can customize 1:1 or 1:N iris recognition descriptions to meet the functional requirements of various application scenarios. This equipment can be installed in systems such as access control, gates, and self-service terminals, which are widely used in personnel access control areas such as customs, border barriers, ports, communities, and buildings.",
               "id": "ae068971-315b-4d5e-a52b-0eb49d0075c6",
               "image": "/images/uploads/iris_and_face_recog.png",
@@ -65,7 +77,10 @@
               "desc_id": "Perangkat Perekam Sidik Jari adalah solusi eksklusif yang dikembangkan oleh Maxvision untuk perekaman sepuluh jari dengan akurasi tinggi. Dibangun dengan teknologi optik dan pencitraan canggih, perangkat ini mendukung pemindaian satu jari serta akuisisi sepuluh jari secara penuh, termasuk cetakan datar (4-4-2) dan cetakan gulung.\nPerangkat ini memberikan kinerja yang andal dengan fitur-fitur seperti deteksi jari basah, segmentasi empat jari otomatis, pengenalan posisi jari, dan umpan balik kualitas secara real-time. Pemindai ini menghasilkan gambar yang jernih tanpa silau atau artefak sisa akibat penggunaan berulang, memastikan hasil yang konsisten dan pengalaman pengguna yang lancar.\nDipercaya oleh bank, lembaga jaminan sosial, penegak hukum, imigrasi, dan otoritas kontrol perbatasan, perangkat ini dirancang untuk autentikasi identitas yang aman dan efisien di lingkungan yang sangat penting.",
               "short_en": "The Fingerprint Capture Device is a fully proprietary solution developed by Maxvision for high-accuracy ten-finger capture.",
               "name_id": "Perangkat Perekam Sidik Jari",
-              "compatibility": ["wifi", "mqtt"],
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
               "desc_en": "The Fingerprint Capture Device is a fully proprietary solution developed by Maxvision for high-accuracy ten-finger capture. Built with advanced optical and imaging technologies, it supports single-finger scans as well as full ten-finger acquisition, including flat impressions (4-4-2) and rolled prints.\nIt delivers reliable performance with features such as wet-finger detection, automatic four-finger segmentation, finger position recognition, and real-time quality feedback. The scanner produces clear images without glare or residual artifacts from repeated use, ensuring consistent results and a smooth user experience.\nTrusted by banks, social security agencies, law enforcement, immigration, and border control authorities, the device is designed for secure and efficient identity authentication in mission-critical environments.",
               "id": "d925155d-8e96-4173-b50b-2bfb3309ed76",
               "image": "/images/uploads/fingerprint_capture_device.png",
@@ -83,7 +98,10 @@
               "desc_id": "Terminal Penangkap Vena Telapak Tangan (Palmein Vein Capture Terminal), yang dipadukan dengan algoritma AI yang dikembangkan sendiri dan aplikasi dari ilmu visual, optik, dan biologi, mencapai tingkat keamanan yang sangat tinggi dalam identifikasi biometrik. Terminal ini memiliki banyak keunggulan signifikan seperti keamanan dan keandalan, pengenalan tanpa kontak, deteksi denyut nadi, dan pengoperasian tanpa pengemudi. Terminal ini dapat diintegrasikan ke dalam sistem seperti E-gate dan terminal swalayan, dan banyak digunakan dalam skenario yang memerlukan kontrol akses personel, verifikasi identitas, dan pembayaran pintar.",
               "short_en": "Palm Vein Capture Terminal, combining with self-developed Al algorithms and applications from visual, optical, and biological science to achieve ultra-high security levels in biometric identification.",
               "name_id": "Terminal Penangkapan Vena Telapak Tangan",
-              "compatibility": ["wifi", "mqtt"],
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
               "desc_en": "Palm Vein Capture Terminal, combining with self-developed Al algorithms and applications from visual, optical, and biological science to achieve ultra-high security levels in biometric identification. This terminal has many significant advantages such as safety and reliability, non-contact recognition, liven detection, and driverless operation. It can be integrated into systems such as E-gate and self-service terminals, and is widely used in scenarios that require personnel access control, identity verification, and smart payments.",
               "id": "8e7e98f2-537f-4277-a7d7-9165cb672a2d",
               "image": "/images/uploads/palm_vein_capture_terminal.png",
@@ -94,7 +112,10 @@
               "desc_id": "Terminal Pengambilan Sidik Jari dan Vena Telapak Tangan menggunakan teknologi pencitraan inframerah, yang dipadukan dengan kamera binokular HD dan prosesor berkinerja tinggi. Terminal ini dilengkapi dengan algoritma pengenalan urat telapak tangan AI yang dikembangkan sendiri, yang memungkinkan pengambilan, registrasi, dan pengenalan sidik jari/vena telapak tangan, sekaligus menghasilkan gambar tangkapan fitur berkualitas tinggi. Terminal ini memiliki banyak keunggulan signifikan seperti keamanan yang sangat tinggi, pengambilan dan pengenalan tanpa kontak, deteksi keaktifan, aplikasi dengan konsumsi daya rendah, AE loop tertutup, dan pengambilan sidik jari/vena telapak tangan. Terminal ini dapat digunakan secara luas dalam skenario yang memerlukan kontrol akses personel, autentikasi identitas, pembayaran pintar, dan lainnya.",
               "short_en": "The Fingerprint and Palm Vein Capture Terminal uses infrared imaging technology, combined with an HD binocular camera and a high-performance processor.",
               "name_id": "Terminal Penangkapan Jejak Telapak Tangan dan Vena Telapak Tangan",
-              "compatibility": ["wifi", "mqtt"],
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
               "desc_en": "The Fingerprint and Palm Vein Capture Terminal uses infrared imaging technology, combined with an HD binocular camera and a high-performance processor. It is equipped with a self-developed AI palm vein recognition algorithm, which enables fingerprint/palm vein capture, registration, and recognition, while generating high-quality feature capture images. It has many significant advantages such as extremely high security, contactless capture and recognition, liveness detection, low power consumption applications, closed-loop AE, and fingerprint/palm vein capture. It can be widely used in scenarios requiring personnel access control, identity authentication, smart payment, and more.",
               "id": "2546270d-7195-4975-afde-d032316226cc",
               "image": "/images/uploads/palmprint_and_palm_vein_capture_terminal.png",
@@ -105,7 +126,10 @@
               "desc_id": "Terminal Pengenalan Vena Telapak Tangan Maxvision mengadopsi teknologi pengenalan AI yang dipadukan dengan aplikasi ilmiah seperti penglihatan, optik, biologi, dll., menggunakan teknologi pencitraan inframerah multi-band untuk mendapatkan peta distribusi vena telapak tangan, dan melakukan identifikasi biometrik melalui algoritma perbandingan khusus untuk mencapai kinerja ultra-tinggi. Peralatan ini memiliki keunggulan keamanan dan keandalan, otentikasi non-kontak, deteksi langsung, anti-interferensi yang baik, dan akurasi tinggi. Terminal ini dapat diintegrasikan ke dalam kontrol akses, gerbang, terminal swalayan, dan sistem lainnya, serta banyak digunakan di bea cukai, pertahanan perbatasan, pelabuhan laut, gedung komunitas, dan area dengan akses terbatas, dll.",
               "short_en": "Maxvision Palm Vein Recognition Terminal adopts AI recognition technology combined with scientific applications such as vision, optics, biology, etc.",
               "name_id": "Terminal Pengenalan Vena Telapak Tangan - A107A*",
-              "compatibility": ["wifi", "mqtt"],
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
               "desc_en": "Maxvision Palm Vein Recognition Terminal adopts AI recognition technology combined with scientific applications such as vision, optics, biology, etc., uses multi-band infrared imaging technology to obtain the distribution map of palm veins, and performs biometric identification through a special comparison algorithm to achieve ultra-high performance. This equipment has the advantages of security and reliability, non-contact authentication, direct detection, good anti-interference, and high accuracy. This terminal can be integrated into access control, gates, self-service terminals and other systems, and is widely used in customs, border defense, seaports, community buildings, and areas with restricted access, etc.",
               "id": "958f3167-3ca8-4369-a4f5-ac3348c7752c",
               "image": "/images/uploads/palmvein_recog_terminal_a107a.png",
@@ -116,7 +140,10 @@
               "desc_id": "Terminal Pengenalan Vena Telapak Tangan adalah terminal identifikasi biometrik berbasis sistem operasi Linux yang diluncurkan oleh Maxvision. Terminal ini menggunakan teknologi pencitraan inframerah dan mengintegrasikan teknologi visual dan optik untuk mendapatkan citra vena telapak tangan secara akurat. Dilengkapi dengan algoritma pengenalan AI yang dikembangkan sendiri untuk mencapai identifikasi biometrik dengan keamanan tinggi. Terminal ini memiliki banyak keunggulan signifikan seperti keamanan yang sangat tinggi, identifikasi tanpa kontak, deteksi langsung, kemampuan anti-interferensi yang kuat, dan akurasi identifikasi yang tinggi. Terminal ini dapat diintegrasikan ke dalam sistem kontrol akses, kanal gerbang, dan berbagai terminal swalayan untuk memberikan pengalaman otentikasi identitas yang nyaman dan aman bagi pengguna.",
               "short_en": "The Palm Vein Recognition Terminal is a Linux-based biometric identification terminal launched by Maxvision.",
               "name_id": "Terminal Pengenalan Vena Telapak Tangan - A105AB",
-              "compatibility": ["wifi", "mqtt"],
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
               "desc_en": "The Palm Vein Recognition Terminal is a Linux-based biometric identification terminal launched by Maxvision. This terminal utilizes infrared imaging technology and integrates visual and optical technologies to accurately capture palm vein images. It is equipped with a self-developed AI recognition algorithm to achieve high-security biometric identification. This terminal has many significant advantages such as extremely high security, contactless identification, real-time detection, strong anti-interference ability, and high identification accuracy. This terminal can be integrated into access control systems, gate channels, and various self-service terminals to provide users with a convenient and secure identity authentication experience.",
               "id": "2d48ae28-b2e6-4e22-ac9a-4f3bf59d68b2",
               "image": "/images/uploads/palmvein_recog_terminal_a105ab.png",
@@ -127,7 +154,10 @@
               "desc_id": "Terminal Pengenalan Vena Telapak Tangan Tertanam Maxvision mengadopsi teknologi pengenalan AI yang dipadukan dengan aplikasi ilmiah seperti penglihatan, optik, biologi, dll., menggunakan teknologi pencitraan inframerah multi-band untuk mendapatkan peta distribusi vena telapak tangan, dan melakukan identifikasi biometrik melalui algoritma perbandingan khusus untuk mencapai kinerja ultra-tinggi. Peralatan ini memiliki keunggulan keamanan dan keandalan, otentikasi non-kontak, deteksi langsung, anti-interferensi yang baik, dan akurasi tinggi. Terminal ini dapat diintegrasikan ke dalam kontrol akses, gerbang, terminal swalayan, dan sistem lainnya, serta banyak digunakan oleh petugas di bea cukai, pertahanan perbatasan, pelabuhan, komunitas, gedung dengan akses terkendali, dll.",
               "short_en": "Maxvision Embedded Palm Vein Recognition Terminal adopts AI recognition technology combined with scientific applications such as vision, optics, biology, etc.",
               "name_id": "Terminal Pengenalan Vena Telapak Tangan Tertanam",
-              "compatibility": ["wifi", "mqtt"],
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
               "desc_en": "Maxvision Embedded Palm Vein Recognition Terminal adopts AI recognition technology combined with scientific applications such as vision, optics, biology, etc., uses multi-band infrared imaging technology to obtain the distribution map of palm veins, and performs biometric identification through a special comparison algorithm to achieve ultra-high performance. This equipment has the advantages of security and reliability, non-contact authentication, direct detection, good anti-interference, and high accuracy. This terminal can be integrated into access control, gates, self-service terminals and other systems, and is widely used by personnel in customs, border defense, ports, communities, buildings with controlled access, etc.",
               "id": "386b97af-1306-45f0-bd76-9f068b2f1b3d",
               "image": "/images/uploads/embedded_palm_vein_recognition_terminal.png",
@@ -138,7 +168,10 @@
               "desc_id": "Modul Perekam Vena Telapak Tangan Maxvision berbasis sistem operasi Linux. Modul ini menggunakan teknologi pencitraan pita inframerah dekat untuk mendapatkan informasi vena telapak tangan. Modul ini juga dilengkapi kamera cahaya tampak untuk merekam informasi sidik telapak tangan. Modul ini memiliki fungsi seperti input sidik telapak tangan dan vena telapak tangan, pemrosesan gambar, perbandingan fitur, penyimpanan, dll., dan dapat digunakan pada kunci pintu pintar, brankas, kontrol akses, gerbang, terminal swalayan robot, dan peralatan lainnya.",
               "short_en": "The Maxvision Palm Vein Recorder Module is based on the Linux operating system. It utilizes near-infrared imaging technology to acquire palm vein information",
               "name_id": "Modul Penangkapan Vena Telapak Tangan",
-              "compatibility": ["wifi", "mqtt"],
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
               "desc_en": "The Maxvision Palm Vein Recorder Module is based on the Linux operating system. It utilizes near-infrared imaging technology to acquire palm vein information. It also features a visible light camera to capture palmprint information. It has functions such as palmprint and palm vein input, image processing, feature comparison, storage, etc., and can be used in smart door locks, safes, access control, gates, robotic self-service terminals, and other equipment.",
               "id": "1e536234-80b2-4996-bd7f-a6e8a58908b8",
               "image": "/images/uploads/palm_vein_capture_module.png",
@@ -156,7 +189,10 @@
               "desc_id": "Terminal Pengambilan Multi-Biometrik mengintegrasikan fungsi sidik jari sepuluh jari dan pengambilan wajah. Sambil melakukan pengambilan sidik jari dan wajah, perangkat ini dapat melakukan pengambilan dan verifikasi berbagai informasi biometrik penumpang dengan cepat. Perangkat ini dicirikan oleh ukurannya yang kecil dan penempatannya yang fleksibel, dan banyak digunakan di area dengan keamanan tinggi seperti bandara, pelabuhan, kantor polisi, dan pos pemeriksaan perbatasan yang memerlukan pengambilan data biometrik personel dan verifikasi identitas.",
               "short_en": "The Multi-Biometric Capture Terminal integrates ten-finger fingerprint and facial recognition functions.",
               "name_id": "Terminal Pengambilan Multi-Biometrik (Wajah)",
-              "compatibility": ["wifi", "mqtt"],
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
               "desc_en": "The Multi-Biometric Capture Terminal integrates ten-finger fingerprint and facial recognition functions. While capturing fingerprints and facial recognition, it can quickly capture and verify various passenger biometric information. Its small size and flexible placement make it widely used in high-security areas such as airports, ports, police stations, and border checkpoints that require personnel biometric data capture and identity verification.",
               "id": "3f16729a-dbe5-4bd9-8134-11657e80fd7a",
               "image": "/images/uploads/face_multi_biometric.png",
@@ -167,7 +203,10 @@
               "desc_id": "Terminal Pengambilan Multi-Biometrik mengintegrasikan fungsi pengambilan sidik jari sepuluh jari, pengambilan iris HD, dan pengambilan wajah dengan cahaya tampak. Sambil melakukan pengambilan sidik jari, iris, dan wajah, perangkat ini dapat melakukan pengambilan dan verifikasi berbagai informasi biometrik penumpang dengan cepat. Perangkat ini dicirikan oleh ukurannya yang kecil dan penempatannya yang fleksibel, dan banyak digunakan di area dengan keamanan tinggi seperti bandara, pelabuhan, kantor polisi, dan pos pemeriksaan perbatasan yang memerlukan pengambilan data biometrik personel dan verifikasi identitas.",
               "short_en": "The Multi-Biometric Capture Terminal integrates the functions of ten-finger fingerprint capture, HD iris capture, and visible light facial capture",
               "name_id": "Terminal Pengambilan Multi-Biometrik (Iris)",
-              "compatibility": ["wifi", "mqtt"],
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
               "desc_en": "The Multi-Biometric Capture Terminal integrates the functions of ten-finger fingerprint capture, HD iris capture, and visible light facial capture. While capturing fingerprints, irises, and faces, the device can quickly capture and verify various biometric information of passengers. The device is characterized by its small size and flexible placement, and is widely used in high-security areas such as airports, ports, police stations, and border checkpoints that require personnel biometric data capture and identity verification.",
               "id": "4d286693-a6d3-4f8f-ae03-dc8f4bbc4507",
               "image": "/images/uploads/iris_multi_biometric.png",
@@ -185,7 +224,10 @@
               "desc_id": "Maxvision Travel Document Reader mampu memverifikasi dokumen perjalanan lebih dari 200 negara dan wilayah di seluruh dunia secara akurat. Perangkat ini dapat mengidentifikasi semua jenis informasi halaman data dokumen dengan cepat dan akurat menggunakan pemrosesan gambar terdepan di industri, pengenalan teks OCR, pembelajaran mendalam, dan teknologi autentikasi pembacaan chip. Selain itu, perangkat ini mendukung klasifikasi dokumen otomatis, ekstraksi dan pemotongan potret, analisis kode yang dapat dibaca mesin, perbandingan potret, perbandingan dan identifikasi informasi pribadi, identifikasi offline, dan sebagainya. Produk ini dapat dikustomisasi dan dikembangkan sesuai kebutuhan pengguna, dan banyak digunakan di berbagai hotel, pelabuhan, pos pemeriksaan perbatasan, bea cukai, bank, maskapai penerbangan, dan tempat-tempat lain yang mengontrol dan mengelola autentikasi personel.",
               "short_en": "The Maxvision Travel Document Reader can accurately verify travel documents from more than 200 countries and regions worldwide.",
               "name_id": "Pembaca Dokumen-A",
-              "compatibility": ["wifi", "mqtt"],
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
               "desc_en": "The Maxvision Travel Document Reader can accurately verify travel documents from more than 200 countries and regions worldwide. It can quickly and accurately identify all types of document data page information using industry-leading image processing, OCR text recognition, deep learning, and chip reading authentication technologies. In addition, it supports automatic document classification, portrait extraction and cropping, machine-readable code analysis, portrait comparison, personal information comparison and identification, offline identification, and so on. This product can be customized and developed according to user needs, and is widely used in various hotels, ports, border checkpoints, customs, banks, airlines, and other places that control and manage personnel authentication.",
               "id": "9bcfd033-bc69-463c-9b61-4a46571a4689",
               "image": "/images/uploads/document_reader_a.png",
@@ -196,7 +238,10 @@
               "desc_id": "Maxvision Travel Document Reader-B mampu memverifikasi dokumen perjalanan lebih dari 200 negara dan wilayah di seluruh dunia secara akurat. Perangkat ini dapat mengidentifikasi semua jenis informasi halaman data dokumen dengan cepat dan akurat menggunakan pemrosesan gambar terdepan di industri, pengenalan teks OCR, pembelajaran mendalam, dan teknologi autentikasi pembacaan chip. Selain itu, perangkat ini mendukung klasifikasi dokumen otomatis, ekstraksi dan pemotongan potret, analisis kode yang dapat dibaca mesin, perbandingan potret, perbandingan dan identifikasi informasi pribadi, identifikasi offline, dan sebagainya. Produk ini dapat dikustomisasi dan dikembangkan sesuai kebutuhan pengguna, dan banyak digunakan di berbagai hotel, pelabuhan, pos pemeriksaan perbatasan, bea cukai, bank, maskapai penerbangan, dan tempat-tempat lain yang mengontrol dan mengelola autentikasi personel.",
               "short_en": "The Maxvision Travel Document Reader-B is capable of accurately verifying travel documents from more than 200 countries and regions worldwide",
               "name_id": "Pembaca Dokumen-B",
-              "compatibility": ["wifi", "mqtt"],
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
               "desc_en": "The Maxvision Travel Document Reader-B is capable of accurately verifying travel documents from more than 200 countries and regions worldwide. It can quickly and accurately identify all types of document data page information using industry-leading image processing, OCR text recognition, deep learning, and chip reading authentication technologies. In addition, it supports automatic document classification, portrait extraction and cropping, machine-readable code analysis, portrait comparison, personal information comparison and identification, offline identification, and so on. This product can be customized and developed according to user needs, and is widely used in various hotels, ports, border checkpoints, customs, banks, airlines, and other places that control and manage personnel authentication.",
               "id": "0c310b9b-3946-410e-9b6a-98c63bfa7937",
               "image": "/images/uploads/document_reader_b.png",
@@ -207,7 +252,10 @@
               "desc_id": "Terminal Pengenalan Dokumen (DRT) adalah perangkat inspeksi portabel berbasis platform seluler yang dirancang untuk mendukung pengenalan OCR dokumen perjalanan seperti paspor, visa, buku pelaut, dan kartu identitas yang memenuhi standar Organisasi Penerbangan Sipil Internasional (ICAO) 9303. Perangkat ini memungkinkan pengenalan berbagai informasi dokumen secara cepat dan akurat, mendukung fitur-fitur seperti klasifikasi dokumen otomatis, ekstraksi dan pemotongan wajah, penguraian kode yang dapat dibaca mesin, pencocokan identitas, dan verifikasi informasi pribadi.\nProduk ini memanfaatkan teknologi RFID untuk membaca data dari chip dokumen elektronik, termasuk foto elektronik, dan mendukung pengambilan dan perbandingan wajah di lokasi. Produk ini juga mendukung pembacaan kartu karyawan IC dan HID, serta menawarkan fungsionalitas untuk kueri catatan historis, ekspor data, dan pengiriman data inspeksi secara real-time.\nTerminal Pengenalan Dokumen ideal untuk aplikasi di zona kontrol perbatasan, area karantina, pelabuhan, dan skenario lain yang memerlukan inspeksi bergerak. Desainnya yang ringkas dan portabel, beserta fungsionalitasnya yang komprehensif, memungkinkan pengguna mengelola inspeksi secara efisien di berbagai wilayah, memberikan kendali terpadu atas penumpang, staf, dan bisnis. Produk ini dapat terintegrasi dengan sistem back-end imigrasi untuk verifikasi identitas dan izin penumpang, dan dapat disesuaikan untuk memenuhi persyaratan aplikasi spesifik. Produk ini juga menawarkan paket SDK untuk integrasi cepat ke dalam sistem platform pengguna.",
               "short_en": "The Document Recognition Terminal (DRT) is a portable, mobile-platform inspection device designed to support OCR recognition of travel documents",
               "name_id": "Terminal Pengenalan Dokumen",
-              "compatibility": ["wifi", "mqtt"],
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
               "desc_en": "The Document Recognition Terminal (DRT) is a portable, mobile-platform inspection device designed to support OCR recognition of travel documents such as passports, visas, seafarer's books, and identity cards that meet the International Civil Aviation Organization (ICAO) 9303 standard. It enables fast and accurate recognition of a wide range of document information, supporting features such as automatic document classification, face extraction and cropping, machine-readable decoding, identity matching, and personal information verification.\nThe product utilizes RFID technology to read data from electronic document chips, including electronic photos, and supports on-site face capture and comparison. It also supports employee IC and HID card reading and offers functionality for historical record query, data export, and real-time data transmission.\nThe Document Recognition Terminal is ideal for applications in border control zones, quarantine areas, ports, and other scenarios requiring mobile inspections. Its compact and portable design, along with comprehensive functionality, allows users to efficiently manage inspections across multiple locations, providing unified control over passengers, staff, and businesses. The product can be integrated with immigration back-end systems for identity verification and passenger clearance, and can be customized to meet specific application requirements. This product also offers an SDK package for quick integration into user platform systems.",
               "id": "62778efc-4782-4e92-8a9a-78dd9e509fc6",
               "image": "/images/uploads/document_recognition_terminal.png",
@@ -225,7 +273,10 @@
               "desc_id": "Maxvision E-gate dirancang dengan baja tahan karat 304 + kaca tempered dengan transparansi tinggi, yang tahan lama dan tahan korosi. Dilengkapi dengan lalu lintas dua arah, anti-jepit cerdas, petunjuk panduan, dan fungsi lainnya; dilengkapi dengan pengenalan wajah, penggesekan kartu IC, kode QR, dan buka-tutup pintu jarak jauh. Modul fungsional seperti ini menerapkan berbagai metode akses autentikasi. Peralatan ini memiliki integrasi cerdas yang tinggi dan stabilitas yang kuat, serta cocok untuk berbagai tempat kontrol autentikasi identitas pintu masuk dan keluar.",
               "short_en": "Maxvision E-gate is designed with 304 stainless steel + high-transparency tempered glass, which is durable and corrosion-resistant",
               "name_id": "Gerbang E-E108AI",
-              "compatibility": ["wifi", "mqtt"],
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
               "desc_en": "Maxvision E-gate is designed with 304 stainless steel + high-transparency tempered glass, which is durable and corrosion-resistant. It is equipped with two-way traffic, intelligent anti-pinch, guidance prompts, and other functions; it is equipped with facial recognition, IC card swiping, QR code, and remote door opening and closing. Such functional modules implement various access authentication methods. This equipment has high intelligent integration and strong stability, and is suitable for various entrance and exit identity authentication control venues.",
               "id": "c2e72bee-62fe-4a6a-85a1-0930ce0906ec",
               "image": "/images/uploads/e_gate_e108ai.png",
@@ -236,7 +287,10 @@
               "desc_id": "Maxvision E-gate dirancang dengan profil aluminium + kaca tempered dengan transparansi tinggi, yang tahan lama dan tahan korosi. Dilengkapi dengan lalu lintas dua arah, anti-jepit cerdas, petunjuk panduan, dan fungsi lainnya; dilengkapi dengan pengenalan wajah, penggesekan kartu IC, kode QR, dan buka-tutup pintu jarak jauh. Modul fungsional seperti ini menerapkan berbagai metode akses autentikasi. Peralatan ini memiliki integrasi cerdas yang tinggi dan stabilitas yang kuat, serta cocok untuk berbagai tempat kontrol autentikasi identitas pintu masuk dan keluar.",
               "short_en": "Maxvision E-gate is designed with aluminum profile + high-transparency tempered glass, which is durable and corrosion-resistant",
               "name_id": "Gerbang E-E108AF",
-              "compatibility": ["wifi", "mqtt"],
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
               "desc_en": "Maxvision E-gate is designed with aluminum profile + high-transparency tempered glass, which is durable and corrosion-resistant. It is equipped with two-way traffic, intelligent anti-pinch, guidance prompts, and other functions; it is equipped with facial recognition, IC card swiping, QR code, and remote door opening and closing. Such functional modules implement various authentication access methods. This equipment has high intelligent integration and strong stability, and is suitable for various entrance and exit identity authentication control places.",
               "id": "2c009557-1530-4344-a5a4-acd8d26a5bf4",
               "image": "/images/uploads/e_gate_e108af.png",
@@ -247,7 +301,10 @@
               "desc_id": "Intelligent Security Inspection E-gate adalah sistem inspeksi dan akses personel yang komprehensif. Sistem ini mengintegrasikan pengenalan wajah, pengenalan urat nadi telapak tangan, start sekali klik, pintu deteksi logam, inspeksi bagasi kabin, dan fungsi lainnya untuk mencapai inspeksi personel dan bagasi yang 100% komprehensif dan cerdas, yang secara efektif meningkatkan tingkat keamanan taman dan efisiensi inspeksi bagasi personel. Produk ini dapat digunakan dalam skenario pintu masuk dan keluar bandara besar, gedung perkantoran pemerintah, instansi pemerintah, bank keuangan, dan tempat-tempat sensitif dan rahasia berisiko tinggi lainnya.",
               "short_en": "Intelligent Security Inspection E-gate is a comprehensive personnel inspection and access system.",
               "name_id": "Gerbang Elektronik Inspeksi Keamanan Cerdas",
-              "compatibility": ["wifi", "mqtt"],
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
               "desc_en": "Intelligent Security Inspection E-gate is a comprehensive personnel inspection and access system. The system integrates facial recognition, palm vein recognition, one-click start, metal detection door, carry-on baggage inspection and other functions to achieve 100% comprehensive and intelligent personnel and baggage inspection, effectively improving the security level of the park and the efficiency of personnel baggage inspection. This product can be used in the entrance and exit scenarios of large airports, government office buildings, government agencies, financial banks and other high-risk sensitive and confidential places.",
               "id": "d08e47e9-334c-4cec-a687-26df0c805f5c",
               "image": "/images/uploads/intelligent_security_inspection_e_gate.png",
@@ -267,6 +324,16 @@
           "id": "security-checking",
           "name_en": "Security Checking",
           "name_id": "Pemeriksaan Keamanan"
+        },
+        {
+          "id": "ecd919eb-f884-4ba1-b36a-7bb07d8717d3",
+          "name_en": "Immigration Authority",
+          "name_id": "Otoritas Imigrasi"
+        },
+        {
+          "id": "6d1357ef-9d91-4c1d-bf48-655e43be41fd",
+          "name_en": "Customs Authority",
+          "name_id": "Otoritas Bea Cukai"
         }
       ]
     },
