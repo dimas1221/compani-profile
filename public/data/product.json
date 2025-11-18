@@ -590,6 +590,20 @@
               "image": "/images/uploads/empty_container_detection_system.png",
               "name_en": "Empty Container Detection System",
               "short_id": "Sistem Deteksi Kontainer Kosong mengadopsi teknologi pembelajaran mendalam dan analisis sinyal akustik untuk mewujudkan deteksi status kontainer kosong/kontainer berat yang cerdas dan efisien"
+            },
+            {
+              "desc_id": "Sistem Inspeksi Kontainer Multimoda adalah solusi cerdas yang dirancang untuk inspeksi kontainer di pelabuhan dan pos pemeriksaan perbatasan. Dengan mengintegrasikan radar, sensor presisi tinggi, lengan robot, dan algoritma persepsi multimoda, sistem ini menangkap citra internal, kedalaman struktur, dan data penting lainnya selama proses pembukaan kontainer. Sistem ini memungkinkan identifikasi kontainer kosong dan risiko tersembunyi dengan cepat, sehingga meningkatkan akurasi inspeksi dan efisiensi operasional. Dengan kemampuan operasional 24/7 dan integrasi yang lancar dengan platform pengawasan bea cukai, sistem ini mendukung alur kerja inspeksi yang sepenuhnya otomatis, digital, dan loop tertutup.",
+              "short_en": "The Multimodal Container Inspection System is an intelligent solution designed for container inspection at ports and border checkpoints",
+              "name_id": "Sistem Inspeksi Kontainer Multimoda",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Multimodal Container Inspection System is an intelligent solution designed for container inspection at ports and border checkpoints. Integrating radar, high-precision sensors, robotic arms, and multimodal perception algorithms, the system captures internal imagery, structural depth, and other key data during the container opening process. It enables rapid identification of empty containers and concealed risks, enhancing both inspection accuracy and operational efficiency. With 24/7 operational capability and seamless integration with customs supervision platforms, the system supports fully automated, digitalized, and closed-loop inspection workflows.",
+              "id": "4afaba0c-00e5-4a0e-8364-7483cf36fad9",
+              "image": "/images/uploads/multimodal_container_inspection_system.png",
+              "name_en": "Multimodal Container Inspection System",
+              "short_id": "Sistem Inspeksi Kontainer Multimoda adalah solusi cerdas yang dirancang untuk inspeksi kontainer di pelabuhan dan pos pemeriksaan perbatasan"
             }
           ]
         },
