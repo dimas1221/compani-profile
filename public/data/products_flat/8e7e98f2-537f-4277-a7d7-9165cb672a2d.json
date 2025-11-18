@@ -12,7 +12,7 @@
   "sub_category_id": "0ec5af63-1051-4c50-91d5-f1f1960b462b",
   "sub_category_en": "Palm Vein Identity",
   "sub_category_id_name": "Identitas Urat Telapak Tangan",
-  "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+  "image": "/images/uploads/palm_vein_capture_terminal.png",
   "compatibility": [
     "wifi",
     "mqtt"

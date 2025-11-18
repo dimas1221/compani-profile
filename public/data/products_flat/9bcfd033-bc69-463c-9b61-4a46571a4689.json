@@ -1,0 +1,20 @@
+{
+  "id": "9bcfd033-bc69-463c-9b61-4a46571a4689",
+  "name_en": "Document Reader-A",
+  "name_id": "Pembaca Dokumen-A",
+  "short_en": "The Maxvision Travel Document Reader can accurately verify travel documents from more than 200 countries and regions worldwide.",
+  "short_id": "Maxvision Travel Document Reader mampu memverifikasi dokumen perjalanan lebih dari 200 negara dan wilayah di seluruh dunia secara akurat",
+  "desc_en": "The Maxvision Travel Document Reader can accurately verify travel documents from more than 200 countries and regions worldwide. It can quickly and accurately identify all types of document data page information using industry-leading image processing, OCR text recognition, deep learning, and chip reading authentication technologies. In addition, it supports automatic document classification, portrait extraction and cropping, machine-readable code analysis, portrait comparison, personal information comparison and identification, offline identification, and so on. This product can be customized and developed according to user needs, and is widely used in various hotels, ports, border checkpoints, customs, banks, airlines, and other places that control and manage personnel authentication.",
+  "desc_id": "Maxvision Travel Document Reader mampu memverifikasi dokumen perjalanan lebih dari 200 negara dan wilayah di seluruh dunia secara akurat. Perangkat ini dapat mengidentifikasi semua jenis informasi halaman data dokumen dengan cepat dan akurat menggunakan pemrosesan gambar terdepan di industri, pengenalan teks OCR, pembelajaran mendalam, dan teknologi autentikasi pembacaan chip. Selain itu, perangkat ini mendukung klasifikasi dokumen otomatis, ekstraksi dan pemotongan potret, analisis kode yang dapat dibaca mesin, perbandingan potret, perbandingan dan identifikasi informasi pribadi, identifikasi offline, dan sebagainya. Produk ini dapat dikustomisasi dan dikembangkan sesuai kebutuhan pengguna, dan banyak digunakan di berbagai hotel, pelabuhan, pos pemeriksaan perbatasan, bea cukai, bank, maskapai penerbangan, dan tempat-tempat lain yang mengontrol dan mengelola autentikasi personel.",
+  "main_category_id": "identity-auth",
+  "main_category_en": "Identity Authentication",
+  "main_category_id_name": "Otentikasi Identitas",
+  "sub_category_id": "daf40ff4-e4db-41ab-a374-8db11bab3377",
+  "sub_category_en": "ID/Travel Document Reader",
+  "sub_category_id_name": "Pembaca Dokumen ID/Perjalanan",
+  "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "d08e47e9-334c-4cec-a687-26df0c805f5c",
+  "name_en": "Intelligent Security Inspection E-gate",
+  "name_id": "Gerbang Elektronik Inspeksi Keamanan Cerdas",
+  "short_en": "Intelligent Security Inspection E-gate is a comprehensive personnel inspection and access system.",
+  "short_id": "Intelligent Security Inspection E-gate adalah sistem inspeksi dan akses personel yang komprehensif",
+  "desc_en": "Intelligent Security Inspection E-gate is a comprehensive personnel inspection and access system. The system integrates facial recognition, palm vein recognition, one-click start, metal detection door, carry-on baggage inspection and other functions to achieve 100% comprehensive and intelligent personnel and baggage inspection, effectively improving the security level of the park and the efficiency of personnel baggage inspection. This product can be used in the entrance and exit scenarios of large airports, government office buildings, government agencies, financial banks and other high-risk sensitive and confidential places.",
+  "desc_id": "Intelligent Security Inspection E-gate adalah sistem inspeksi dan akses personel yang komprehensif. Sistem ini mengintegrasikan pengenalan wajah, pengenalan urat nadi telapak tangan, start sekali klik, pintu deteksi logam, inspeksi bagasi kabin, dan fungsi lainnya untuk mencapai inspeksi personel dan bagasi yang 100% komprehensif dan cerdas, yang secara efektif meningkatkan tingkat keamanan taman dan efisiensi inspeksi bagasi personel. Produk ini dapat digunakan dalam skenario pintu masuk dan keluar bandara besar, gedung perkantoran pemerintah, instansi pemerintah, bank keuangan, dan tempat-tempat sensitif dan rahasia berisiko tinggi lainnya.",
+  "main_category_id": "identity-auth",
+  "main_category_en": "Identity Authentication",
+  "main_category_id_name": "Otentikasi Identitas",
+  "sub_category_id": "ff370213-48cc-4e65-8f6e-bc01b344f919",
+  "sub_category_en": "E-Gate ",
+  "sub_category_id_name": "Gerbang Elektronik",
+  "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

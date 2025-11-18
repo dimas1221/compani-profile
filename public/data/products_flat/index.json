@@ -1,5 +1,25 @@
 [
   {
+    "id": "0c310b9b-3946-410e-9b6a-98c63bfa7937",
+    "name_en": "Document Reader-B",
+    "name_id": "Pembaca Dokumen-B",
+    "short_en": "The Maxvision Travel Document Reader-B is capable of accurately verifying travel documents from more than 200 countries and regions worldwide",
+    "short_id": "Maxvision Travel Document Reader-B mampu memverifikasi dokumen perjalanan lebih dari 200 negara dan wilayah di seluruh dunia secara akurat",
+    "desc_en": "The Maxvision Travel Document Reader-B is capable of accurately verifying travel documents from more than 200 countries and regions worldwide. It can quickly and accurately identify all types of document data page information using industry-leading image processing, OCR text recognition, deep learning, and chip reading authentication technologies. In addition, it supports automatic document classification, portrait extraction and cropping, machine-readable code analysis, portrait comparison, personal information comparison and identification, offline identification, and so on. This product can be customized and developed according to user needs, and is widely used in various hotels, ports, border checkpoints, customs, banks, airlines, and other places that control and manage personnel authentication.",
+    "desc_id": "Maxvision Travel Document Reader-B mampu memverifikasi dokumen perjalanan lebih dari 200 negara dan wilayah di seluruh dunia secara akurat. Perangkat ini dapat mengidentifikasi semua jenis informasi halaman data dokumen dengan cepat dan akurat menggunakan pemrosesan gambar terdepan di industri, pengenalan teks OCR, pembelajaran mendalam, dan teknologi autentikasi pembacaan chip. Selain itu, perangkat ini mendukung klasifikasi dokumen otomatis, ekstraksi dan pemotongan potret, analisis kode yang dapat dibaca mesin, perbandingan potret, perbandingan dan identifikasi informasi pribadi, identifikasi offline, dan sebagainya. Produk ini dapat dikustomisasi dan dikembangkan sesuai kebutuhan pengguna, dan banyak digunakan di berbagai hotel, pelabuhan, pos pemeriksaan perbatasan, bea cukai, bank, maskapai penerbangan, dan tempat-tempat lain yang mengontrol dan mengelola autentikasi personel.",
+    "main_category_id": "identity-auth",
+    "main_category_en": "Identity Authentication",
+    "main_category_id_name": "Otentikasi Identitas",
+    "sub_category_id": "daf40ff4-e4db-41ab-a374-8db11bab3377",
+    "sub_category_en": "ID/Travel Document Reader",
+    "sub_category_id_name": "Pembaca Dokumen ID/Perjalanan",
+    "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
     "id": "1e536234-80b2-4996-bd7f-a6e8a58908b8",
     "name_en": "Palm Vein Capture Module",
     "name_id": "Modul Penangkapan Vena Telapak Tangan",
@@ -13,7 +33,7 @@
     "sub_category_id": "0ec5af63-1051-4c50-91d5-f1f1960b462b",
     "sub_category_en": "Palm Vein Identity",
     "sub_category_id_name": "Identitas Urat Telapak Tangan",
-    "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
+    "image": "/images/uploads/palm_vein_capture_module.png",
     "compatibility": [
       "wifi",
       "mqtt"
@@ -33,7 +53,7 @@
     "sub_category_id": "face-recognition",
     "sub_category_en": "Face Recognition Terminal",
     "sub_category_id_name": "Terminal Pengenalan Wajah",
-    "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+    "image": "/images/uploads/recog105ab.png",
     "compatibility": [
       "wifi",
       "mqtt"
@@ -53,6 +73,26 @@
     "sub_category_id": "0ec5af63-1051-4c50-91d5-f1f1960b462b",
     "sub_category_en": "Palm Vein Identity",
     "sub_category_id_name": "Identitas Urat Telapak Tangan",
+    "image": "/images/uploads/palmprint_and_palm_vein_capture_terminal.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "2c009557-1530-4344-a5a4-acd8d26a5bf4",
+    "name_en": "E-gate-E108AF",
+    "name_id": "Gerbang E-E108AF",
+    "short_en": "Maxvision E-gate is designed with aluminum profile + high-transparency tempered glass, which is durable and corrosion-resistant",
+    "short_id": "Maxvision E-gate dirancang dengan profil aluminium + kaca tempered dengan transparansi tinggi, yang tahan lama dan tahan korosi",
+    "desc_en": "Maxvision E-gate is designed with aluminum profile + high-transparency tempered glass, which is durable and corrosion-resistant. It is equipped with two-way traffic, intelligent anti-pinch, guidance prompts, and other functions; it is equipped with facial recognition, IC card swiping, QR code, and remote door opening and closing. Such functional modules implement various authentication access methods. This equipment has high intelligent integration and strong stability, and is suitable for various entrance and exit identity authentication control places.",
+    "desc_id": "Maxvision E-gate dirancang dengan profil aluminium + kaca tempered dengan transparansi tinggi, yang tahan lama dan tahan korosi. Dilengkapi dengan lalu lintas dua arah, anti-jepit cerdas, petunjuk panduan, dan fungsi lainnya; dilengkapi dengan pengenalan wajah, penggesekan kartu IC, kode QR, dan buka-tutup pintu jarak jauh. Modul fungsional seperti ini menerapkan berbagai metode akses autentikasi. Peralatan ini memiliki integrasi cerdas yang tinggi dan stabilitas yang kuat, serta cocok untuk berbagai tempat kontrol autentikasi identitas pintu masuk dan keluar.",
+    "main_category_id": "identity-auth",
+    "main_category_en": "Identity Authentication",
+    "main_category_id_name": "Otentikasi Identitas",
+    "sub_category_id": "ff370213-48cc-4e65-8f6e-bc01b344f919",
+    "sub_category_en": "E-Gate ",
+    "sub_category_id_name": "Gerbang Elektronik",
     "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
     "compatibility": [
       "wifi",
@@ -73,7 +113,7 @@
     "sub_category_id": "0ec5af63-1051-4c50-91d5-f1f1960b462b",
     "sub_category_en": "Palm Vein Identity",
     "sub_category_id_name": "Identitas Urat Telapak Tangan",
-    "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+    "image": "/images/uploads/palmvein_recog_terminal_a105ab.png",
     "compatibility": [
       "wifi",
       "mqtt"
@@ -93,7 +133,47 @@
     "sub_category_id": "0ec5af63-1051-4c50-91d5-f1f1960b462b",
     "sub_category_en": "Palm Vein Identity",
     "sub_category_id_name": "Identitas Urat Telapak Tangan",
-    "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+    "image": "/images/uploads/embedded_palm_vein_recognition_terminal.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "3f16729a-dbe5-4bd9-8134-11657e80fd7a",
+    "name_en": "Multi-Biometric Capture Terminal (Face)",
+    "name_id": "Terminal Pengambilan Multi-Biometrik (Wajah)",
+    "short_en": "The Multi-Biometric Capture Terminal integrates ten-finger fingerprint and facial recognition functions.",
+    "short_id": "Terminal Pengambilan Multi-Biometrik mengintegrasikan fungsi sidik jari sepuluh jari dan pengambilan wajah",
+    "desc_en": "The Multi-Biometric Capture Terminal integrates ten-finger fingerprint and facial recognition functions. While capturing fingerprints and facial recognition, it can quickly capture and verify various passenger biometric information. Its small size and flexible placement make it widely used in high-security areas such as airports, ports, police stations, and border checkpoints that require personnel biometric data capture and identity verification.",
+    "desc_id": "Terminal Pengambilan Multi-Biometrik mengintegrasikan fungsi sidik jari sepuluh jari dan pengambilan wajah. Sambil melakukan pengambilan sidik jari dan wajah, perangkat ini dapat melakukan pengambilan dan verifikasi berbagai informasi biometrik penumpang dengan cepat. Perangkat ini dicirikan oleh ukurannya yang kecil dan penempatannya yang fleksibel, dan banyak digunakan di area dengan keamanan tinggi seperti bandara, pelabuhan, kantor polisi, dan pos pemeriksaan perbatasan yang memerlukan pengambilan data biometrik personel dan verifikasi identitas.",
+    "main_category_id": "identity-auth",
+    "main_category_en": "Identity Authentication",
+    "main_category_id_name": "Otentikasi Identitas",
+    "sub_category_id": "78c459f5-01ed-417c-ace8-f4645e58e1a7",
+    "sub_category_en": "Biometric Information Capture",
+    "sub_category_id_name": "Penangkapan Informasi Biometrik",
+    "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "4d286693-a6d3-4f8f-ae03-dc8f4bbc4507",
+    "name_en": "Multi-Biometric Capture Terminal (Iris)",
+    "name_id": "Terminal Pengambilan Multi-Biometrik (Iris)",
+    "short_en": "The Multi-Biometric Capture Terminal integrates the functions of ten-finger fingerprint capture, HD iris capture, and visible light facial capture",
+    "short_id": "Terminal Pengambilan Multi-Biometrik mengintegrasikan fungsi pengambilan sidik jari sepuluh jari, pengambilan iris HD, dan pengambilan wajah dengan cahaya tampak",
+    "desc_en": "The Multi-Biometric Capture Terminal integrates the functions of ten-finger fingerprint capture, HD iris capture, and visible light facial capture. While capturing fingerprints, irises, and faces, the device can quickly capture and verify various biometric information of passengers. The device is characterized by its small size and flexible placement, and is widely used in high-security areas such as airports, ports, police stations, and border checkpoints that require personnel biometric data capture and identity verification.",
+    "desc_id": "Terminal Pengambilan Multi-Biometrik mengintegrasikan fungsi pengambilan sidik jari sepuluh jari, pengambilan iris HD, dan pengambilan wajah dengan cahaya tampak. Sambil melakukan pengambilan sidik jari, iris, dan wajah, perangkat ini dapat melakukan pengambilan dan verifikasi berbagai informasi biometrik penumpang dengan cepat. Perangkat ini dicirikan oleh ukurannya yang kecil dan penempatannya yang fleksibel, dan banyak digunakan di area dengan keamanan tinggi seperti bandara, pelabuhan, kantor polisi, dan pos pemeriksaan perbatasan yang memerlukan pengambilan data biometrik personel dan verifikasi identitas.",
+    "main_category_id": "identity-auth",
+    "main_category_en": "Identity Authentication",
+    "main_category_id_name": "Otentikasi Identitas",
+    "sub_category_id": "78c459f5-01ed-417c-ace8-f4645e58e1a7",
+    "sub_category_en": "Biometric Information Capture",
+    "sub_category_id_name": "Penangkapan Informasi Biometrik",
+    "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
     "compatibility": [
       "wifi",
       "mqtt"
@@ -113,6 +193,26 @@
     "sub_category_id": "face-recognition",
     "sub_category_en": "Face Recognition Terminal",
     "sub_category_id_name": "Terminal Pengenalan Wajah",
+    "image": "/images/uploads/recog208bd.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "62778efc-4782-4e92-8a9a-78dd9e509fc6",
+    "name_en": "Document Recognition Terminal",
+    "name_id": "Terminal Pengenalan Dokumen",
+    "short_en": "The Document Recognition Terminal (DRT) is a portable, mobile-platform inspection device designed to support OCR recognition of travel documents",
+    "short_id": "Terminal Pengenalan Dokumen (DRT) adalah perangkat inspeksi platform seluler portabel yang dirancang untuk mendukung pengenalan OCR dokumen perjalanan",
+    "desc_en": "The Document Recognition Terminal (DRT) is a portable, mobile-platform inspection device designed to support OCR recognition of travel documents such as passports, visas, seafarer's books, and identity cards that meet the International Civil Aviation Organization (ICAO) 9303 standard. It enables fast and accurate recognition of a wide range of document information, supporting features such as automatic document classification, face extraction and cropping, machine-readable decoding, identity matching, and personal information verification.\nThe product utilizes RFID technology to read data from electronic document chips, including electronic photos, and supports on-site face capture and comparison. It also supports employee IC and HID card reading and offers functionality for historical record query, data export, and real-time data transmission.\nThe Document Recognition Terminal is ideal for applications in border control zones, quarantine areas, ports, and other scenarios requiring mobile inspections. Its compact and portable design, along with comprehensive functionality, allows users to efficiently manage inspections across multiple locations, providing unified control over passengers, staff, and businesses. The product can be integrated with immigration back-end systems for identity verification and passenger clearance, and can be customized to meet specific application requirements. This product also offers an SDK package for quick integration into user platform systems.",
+    "desc_id": "Terminal Pengenalan Dokumen (DRT) adalah perangkat inspeksi portabel berbasis platform seluler yang dirancang untuk mendukung pengenalan OCR dokumen perjalanan seperti paspor, visa, buku pelaut, dan kartu identitas yang memenuhi standar Organisasi Penerbangan Sipil Internasional (ICAO) 9303. Perangkat ini memungkinkan pengenalan berbagai informasi dokumen secara cepat dan akurat, mendukung fitur-fitur seperti klasifikasi dokumen otomatis, ekstraksi dan pemotongan wajah, penguraian kode yang dapat dibaca mesin, pencocokan identitas, dan verifikasi informasi pribadi.\nProduk ini memanfaatkan teknologi RFID untuk membaca data dari chip dokumen elektronik, termasuk foto elektronik, dan mendukung pengambilan dan perbandingan wajah di lokasi. Produk ini juga mendukung pembacaan kartu karyawan IC dan HID, serta menawarkan fungsionalitas untuk kueri catatan historis, ekspor data, dan pengiriman data inspeksi secara real-time.\nTerminal Pengenalan Dokumen ideal untuk aplikasi di zona kontrol perbatasan, area karantina, pelabuhan, dan skenario lain yang memerlukan inspeksi bergerak. Desainnya yang ringkas dan portabel, beserta fungsionalitasnya yang komprehensif, memungkinkan pengguna mengelola inspeksi secara efisien di berbagai wilayah, memberikan kendali terpadu atas penumpang, staf, dan bisnis. Produk ini dapat terintegrasi dengan sistem back-end imigrasi untuk verifikasi identitas dan izin penumpang, dan dapat disesuaikan untuk memenuhi persyaratan aplikasi spesifik. Produk ini juga menawarkan paket SDK untuk integrasi cepat ke dalam sistem platform pengguna.",
+    "main_category_id": "identity-auth",
+    "main_category_en": "Identity Authentication",
+    "main_category_id_name": "Otentikasi Identitas",
+    "sub_category_id": "daf40ff4-e4db-41ab-a374-8db11bab3377",
+    "sub_category_en": "ID/Travel Document Reader",
+    "sub_category_id_name": "Pembaca Dokumen ID/Perjalanan",
     "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
     "compatibility": [
       "wifi",
@@ -133,7 +233,7 @@
     "sub_category_id": "0ec5af63-1051-4c50-91d5-f1f1960b462b",
     "sub_category_en": "Palm Vein Identity",
     "sub_category_id_name": "Identitas Urat Telapak Tangan",
-    "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+    "image": "/images/uploads/palm_vein_capture_terminal.png",
     "compatibility": [
       "wifi",
       "mqtt"
@@ -153,7 +253,27 @@
     "sub_category_id": "0ec5af63-1051-4c50-91d5-f1f1960b462b",
     "sub_category_en": "Palm Vein Identity",
     "sub_category_id_name": "Identitas Urat Telapak Tangan",
-    "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+    "image": "/images/uploads/palmvein_recog_terminal_a107a.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "9bcfd033-bc69-463c-9b61-4a46571a4689",
+    "name_en": "Document Reader-A",
+    "name_id": "Pembaca Dokumen-A",
+    "short_en": "The Maxvision Travel Document Reader can accurately verify travel documents from more than 200 countries and regions worldwide.",
+    "short_id": "Maxvision Travel Document Reader mampu memverifikasi dokumen perjalanan lebih dari 200 negara dan wilayah di seluruh dunia secara akurat",
+    "desc_en": "The Maxvision Travel Document Reader can accurately verify travel documents from more than 200 countries and regions worldwide. It can quickly and accurately identify all types of document data page information using industry-leading image processing, OCR text recognition, deep learning, and chip reading authentication technologies. In addition, it supports automatic document classification, portrait extraction and cropping, machine-readable code analysis, portrait comparison, personal information comparison and identification, offline identification, and so on. This product can be customized and developed according to user needs, and is widely used in various hotels, ports, border checkpoints, customs, banks, airlines, and other places that control and manage personnel authentication.",
+    "desc_id": "Maxvision Travel Document Reader mampu memverifikasi dokumen perjalanan lebih dari 200 negara dan wilayah di seluruh dunia secara akurat. Perangkat ini dapat mengidentifikasi semua jenis informasi halaman data dokumen dengan cepat dan akurat menggunakan pemrosesan gambar terdepan di industri, pengenalan teks OCR, pembelajaran mendalam, dan teknologi autentikasi pembacaan chip. Selain itu, perangkat ini mendukung klasifikasi dokumen otomatis, ekstraksi dan pemotongan potret, analisis kode yang dapat dibaca mesin, perbandingan potret, perbandingan dan identifikasi informasi pribadi, identifikasi offline, dan sebagainya. Produk ini dapat dikustomisasi dan dikembangkan sesuai kebutuhan pengguna, dan banyak digunakan di berbagai hotel, pelabuhan, pos pemeriksaan perbatasan, bea cukai, bank, maskapai penerbangan, dan tempat-tempat lain yang mengontrol dan mengelola autentikasi personel.",
+    "main_category_id": "identity-auth",
+    "main_category_en": "Identity Authentication",
+    "main_category_id_name": "Otentikasi Identitas",
+    "sub_category_id": "daf40ff4-e4db-41ab-a374-8db11bab3377",
+    "sub_category_en": "ID/Travel Document Reader",
+    "sub_category_id_name": "Pembaca Dokumen ID/Perjalanan",
+    "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
     "compatibility": [
       "wifi",
       "mqtt"
@@ -173,6 +293,46 @@
     "sub_category_id": "face-recognition",
     "sub_category_en": "Face Recognition Terminal",
     "sub_category_id_name": "Terminal Pengenalan Wajah",
+    "image": "/images/uploads/iris_and_face_recog.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "c2e72bee-62fe-4a6a-85a1-0930ce0906ec",
+    "name_en": "E-gate-E108AI",
+    "name_id": "Gerbang E-E108AI",
+    "short_en": "Maxvision E-gate is designed with 304 stainless steel + high-transparency tempered glass, which is durable and corrosion-resistant",
+    "short_id": "Maxvision E-gate dirancang dengan baja tahan karat 304 + kaca tempered dengan transparansi tinggi, yang tahan lama dan tahan korosi",
+    "desc_en": "Maxvision E-gate is designed with 304 stainless steel + high-transparency tempered glass, which is durable and corrosion-resistant. It is equipped with two-way traffic, intelligent anti-pinch, guidance prompts, and other functions; it is equipped with facial recognition, IC card swiping, QR code, and remote door opening and closing. Such functional modules implement various access authentication methods. This equipment has high intelligent integration and strong stability, and is suitable for various entrance and exit identity authentication control venues.",
+    "desc_id": "Maxvision E-gate dirancang dengan baja tahan karat 304 + kaca tempered dengan transparansi tinggi, yang tahan lama dan tahan korosi. Dilengkapi dengan lalu lintas dua arah, anti-jepit cerdas, petunjuk panduan, dan fungsi lainnya; dilengkapi dengan pengenalan wajah, penggesekan kartu IC, kode QR, dan buka-tutup pintu jarak jauh. Modul fungsional seperti ini menerapkan berbagai metode akses autentikasi. Peralatan ini memiliki integrasi cerdas yang tinggi dan stabilitas yang kuat, serta cocok untuk berbagai tempat kontrol autentikasi identitas pintu masuk dan keluar.",
+    "main_category_id": "identity-auth",
+    "main_category_en": "Identity Authentication",
+    "main_category_id_name": "Otentikasi Identitas",
+    "sub_category_id": "ff370213-48cc-4e65-8f6e-bc01b344f919",
+    "sub_category_en": "E-Gate ",
+    "sub_category_id_name": "Gerbang Elektronik",
+    "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "d08e47e9-334c-4cec-a687-26df0c805f5c",
+    "name_en": "Intelligent Security Inspection E-gate",
+    "name_id": "Gerbang Elektronik Inspeksi Keamanan Cerdas",
+    "short_en": "Intelligent Security Inspection E-gate is a comprehensive personnel inspection and access system.",
+    "short_id": "Intelligent Security Inspection E-gate adalah sistem inspeksi dan akses personel yang komprehensif",
+    "desc_en": "Intelligent Security Inspection E-gate is a comprehensive personnel inspection and access system. The system integrates facial recognition, palm vein recognition, one-click start, metal detection door, carry-on baggage inspection and other functions to achieve 100% comprehensive and intelligent personnel and baggage inspection, effectively improving the security level of the park and the efficiency of personnel baggage inspection. This product can be used in the entrance and exit scenarios of large airports, government office buildings, government agencies, financial banks and other high-risk sensitive and confidential places.",
+    "desc_id": "Intelligent Security Inspection E-gate adalah sistem inspeksi dan akses personel yang komprehensif. Sistem ini mengintegrasikan pengenalan wajah, pengenalan urat nadi telapak tangan, start sekali klik, pintu deteksi logam, inspeksi bagasi kabin, dan fungsi lainnya untuk mencapai inspeksi personel dan bagasi yang 100% komprehensif dan cerdas, yang secara efektif meningkatkan tingkat keamanan taman dan efisiensi inspeksi bagasi personel. Produk ini dapat digunakan dalam skenario pintu masuk dan keluar bandara besar, gedung perkantoran pemerintah, instansi pemerintah, bank keuangan, dan tempat-tempat sensitif dan rahasia berisiko tinggi lainnya.",
+    "main_category_id": "identity-auth",
+    "main_category_en": "Identity Authentication",
+    "main_category_id_name": "Otentikasi Identitas",
+    "sub_category_id": "ff370213-48cc-4e65-8f6e-bc01b344f919",
+    "sub_category_en": "E-Gate ",
+    "sub_category_id_name": "Gerbang Elektronik",
     "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
     "compatibility": [
       "wifi",
@@ -193,7 +353,7 @@
     "sub_category_id": "face-recognition",
     "sub_category_en": "Face Recognition Terminal",
     "sub_category_id_name": "Terminal Pengenalan Wajah",
-    "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+    "image": "/images/uploads/recog205ag.png",
     "compatibility": [
       "wifi",
       "mqtt"
@@ -213,7 +373,7 @@
     "sub_category_id": "face-recognition",
     "sub_category_en": "Face Recognition Terminal",
     "sub_category_id_name": "Terminal Pengenalan Wajah",
-    "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+    "image": "/images/uploads/recog208cd.png",
     "compatibility": [
       "wifi",
       "mqtt"

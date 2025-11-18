@@ -12,7 +12,7 @@
   "sub_category_id": "face-recognition",
   "sub_category_en": "Face Recognition Terminal",
   "sub_category_id_name": "Terminal Pengenalan Wajah",
-  "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+  "image": "/images/uploads/recog205ag.png",
   "compatibility": [
     "wifi",
     "mqtt"
