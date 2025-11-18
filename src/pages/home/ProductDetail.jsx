@@ -11,6 +11,7 @@ import FeatureItem from "../../components/FeatureItem";
 
 import { Wifi, Bluetooth, Rss, X } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
+import ProductSection from "./ProductSection";
 
 export default function ProductDetail() {
   const { id } = useParams();
@@ -178,6 +179,9 @@ export default function ProductDetail() {
               </div>
             </div>
           </motion.div>
+
+          {/* Section 4: Product carousel */}
+          <ProductSection />
         </div>
 
         {/* SIDEBAR */}

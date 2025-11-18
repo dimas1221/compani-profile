@@ -1,0 +1,20 @@
+{
+  "id": "386b97af-1306-45f0-bd76-9f068b2f1b3d",
+  "name_en": "Embedded Palm Vein Recognition Terminal",
+  "name_id": "Terminal Pengenalan Vena Telapak Tangan Tertanam",
+  "short_en": "Maxvision Embedded Palm Vein Recognition Terminal adopts AI recognition technology combined with scientific applications such as vision, optics, biology, etc.",
+  "short_id": "Terminal Pengenalan Vena Telapak Tangan Tertanam Maxvision mengadopsi teknologi pengenalan AI yang dipadukan dengan aplikasi ilmiah seperti penglihatan, optik, biologi, dll",
+  "desc_en": "Maxvision Embedded Palm Vein Recognition Terminal adopts AI recognition technology combined with scientific applications such as vision, optics, biology, etc., uses multi-band infrared imaging technology to obtain the distribution map of palm veins, and performs biometric identification through a special comparison algorithm to achieve ultra-high performance. This equipment has the advantages of security and reliability, non-contact authentication, direct detection, good anti-interference, and high accuracy. This terminal can be integrated into access control, gates, self-service terminals and other systems, and is widely used by personnel in customs, border defense, ports, communities, buildings with controlled access, etc.",
+  "desc_id": "Terminal Pengenalan Vena Telapak Tangan Tertanam Maxvision mengadopsi teknologi pengenalan AI yang dipadukan dengan aplikasi ilmiah seperti penglihatan, optik, biologi, dll., menggunakan teknologi pencitraan inframerah multi-band untuk mendapatkan peta distribusi vena telapak tangan, dan melakukan identifikasi biometrik melalui algoritma perbandingan khusus untuk mencapai kinerja ultra-tinggi. Peralatan ini memiliki keunggulan keamanan dan keandalan, otentikasi non-kontak, deteksi langsung, anti-interferensi yang baik, dan akurasi tinggi. Terminal ini dapat diintegrasikan ke dalam kontrol akses, gerbang, terminal swalayan, dan sistem lainnya, serta banyak digunakan oleh petugas di bea cukai, pertahanan perbatasan, pelabuhan, komunitas, gedung dengan akses terkendali, dll.",
+  "main_category_id": "identity-auth",
+  "main_category_en": "Identity Authentication",
+  "main_category_id_name": "Otentikasi Identitas",
+  "sub_category_id": "0ec5af63-1051-4c50-91d5-f1f1960b462b",
+  "sub_category_en": "Palm Vein Identity",
+  "sub_category_id_name": "Identitas Urat Telapak Tangan",
+  "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

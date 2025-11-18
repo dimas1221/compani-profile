@@ -1,0 +1,20 @@
+{
+  "id": "1e536234-80b2-4996-bd7f-a6e8a58908b8",
+  "name_en": "Palm Vein Capture Module",
+  "name_id": "Modul Penangkapan Vena Telapak Tangan",
+  "short_en": "The Maxvision Palm Vein Recorder Module is based on the Linux operating system. It utilizes near-infrared imaging technology to acquire palm vein information",
+  "short_id": "Modul Perekam Vena Telapak Tangan Maxvision berbasis sistem operasi Linux. Modul ini menggunakan teknologi pencitraan pita inframerah dekat untuk mendapatkan informasi vena telapak tangan",
+  "desc_en": "The Maxvision Palm Vein Recorder Module is based on the Linux operating system. It utilizes near-infrared imaging technology to acquire palm vein information. It also features a visible light camera to capture palmprint information. It has functions such as palmprint and palm vein input, image processing, feature comparison, storage, etc., and can be used in smart door locks, safes, access control, gates, robotic self-service terminals, and other equipment.",
+  "desc_id": "Modul Perekam Vena Telapak Tangan Maxvision berbasis sistem operasi Linux. Modul ini menggunakan teknologi pencitraan pita inframerah dekat untuk mendapatkan informasi vena telapak tangan. Modul ini juga dilengkapi kamera cahaya tampak untuk merekam informasi sidik telapak tangan. Modul ini memiliki fungsi seperti input sidik telapak tangan dan vena telapak tangan, pemrosesan gambar, perbandingan fitur, penyimpanan, dll., dan dapat digunakan pada kunci pintu pintar, brankas, kontrol akses, gerbang, terminal swalayan robot, dan peralatan lainnya.",
+  "main_category_id": "identity-auth",
+  "main_category_en": "Identity Authentication",
+  "main_category_id_name": "Otentikasi Identitas",
+  "sub_category_id": "0ec5af63-1051-4c50-91d5-f1f1960b462b",
+  "sub_category_en": "Palm Vein Identity",
+  "sub_category_id_name": "Identitas Urat Telapak Tangan",
+  "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}
