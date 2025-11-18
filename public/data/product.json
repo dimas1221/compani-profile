@@ -116,7 +116,7 @@
               ],
               "desc_en": "The Fingerprint and Palm Vein Capture Terminal uses infrared imaging technology, combined with an HD binocular camera and a high-performance processor. It is equipped with a self-developed AI palm vein recognition algorithm, which enables fingerprint/palm vein capture, registration, and recognition, while generating high-quality feature capture images. It has many significant advantages such as extremely high security, contactless capture and recognition, liveness detection, low power consumption applications, closed-loop AE, and fingerprint/palm vein capture. It can be widely used in scenarios requiring personnel access control, identity authentication, smart payment, and more.",
               "id": "2546270d-7195-4975-afde-d032316226cc",
-              "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
+              "image": "/images/uploads/palmprint_and_palm_vein_capture_terminal.png",
               "name_en": "Palmprint and Palm-vein Capture Terminal",
               "short_id": "Terminal Pengambilan Sidik Jari dan Vena Telapak Tangan menggunakan teknologi pencitraan inframerah, yang dipadukan dengan kamera binokular HD dan prosesor berkinerja tinggi."
             },
