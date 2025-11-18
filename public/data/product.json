@@ -172,7 +172,7 @@
               ],
               "desc_en": "The Maxvision Palm Vein Recorder Module is based on the Linux operating system. It utilizes near-infrared imaging technology to acquire palm vein information. It also features a visible light camera to capture palmprint information. It has functions such as palmprint and palm vein input, image processing, feature comparison, storage, etc., and can be used in smart door locks, safes, access control, gates, robotic self-service terminals, and other equipment.",
               "id": "1e536234-80b2-4996-bd7f-a6e8a58908b8",
-              "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
+              "image": "/images/uploads/palm_vein_capture_module.png",
               "name_en": "Palm Vein Capture Module",
               "short_id": "Modul Perekam Vena Telapak Tangan Maxvision berbasis sistem operasi Linux. Modul ini menggunakan teknologi pencitraan pita inframerah dekat untuk mendapatkan informasi vena telapak tangan"
             }
