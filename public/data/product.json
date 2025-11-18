@@ -765,6 +765,20 @@
               "image": "/images/uploads/vehicle-intelligent-inspection-all-in-one-machine-premium.png",
               "name_en": "Vehicle Intelligent Inspection All-in-One Machine - Premium",
               "short_id": "Maxvision secara independen mengembangkan Mesin Inspeksi Kendaraan Cerdas Al-in-one ini, sebuah produk pemeriksaan cerdas"
+            },
+            {
+              "desc_id": "Maxvision secara independen mengembangkan Mesin Kontrol Akses Kendaraan ini, sebuah produk pemeriksaan cerdas. Produk ini dirancang untuk meningkatkan manajemen jalur otomatis dan untuk merekam serta memverifikasi identitas personel yang melintas di jalur tersebut. Perangkat ini berfungsi untuk pemosisian otomatis perangkat akuisisi, penghindaran rintangan secara cerdas, pengenalan wajah, pengenalan iris, pembacaan ID, panduan interaktif, percakapan visual, pengawasan panorama, kontrol tautan, dan sebagainya. Produk ini cocok untuk kampus dan pelabuhan yang perlu merekam dan memverifikasi informasi penumpang di jalur.",
+              "short_en": "Maxvision independently developed this Vehicle Access Control Machine which is an intelligent checking product",
+              "name_id": "Inspeksi Cerdas Kendaraan Semua dalam Satu Mesin - Terakhir",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Maxvision independently developed this Vehicle Access Control Machine which is an intelligent checking product. This product is designed to enhance the automated management of lanes and to self-capture and verify the identity of personnel passing on the lanes. Functioning automatic positioning of the acquisition device, intelligent avoidance of obstacles, face recognition, iris recognition, ID reading, interactive guidance, visible conversation, panoramic surveillance, linkage control and so on. It is suitable for campus, ports that need to capture and verify the information of passengers in the lane.",
+              "id": "6174cc5e-d5cc-4bdc-8cc7-7282aa434e5c",
+              "image": "/images/uploads/vehicle-intelligent-inspection-all-in-one-machine-ultimate.png",
+              "name_en": "Vehicle Intelligent Inspection All-in-One Machine -Ultimate",
+              "short_id": "Maxvision secara independen mengembangkan Mesin Kontrol Akses Kendaraan ini, sebuah produk pemeriksaan cerdas"
             }
           ]
         }
