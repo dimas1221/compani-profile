@@ -695,6 +695,20 @@
               "image": "/images/uploads/portable-under-vehicle-surveilance-system.png",
               "name_en": "Portable Under-Vehicle Surveilance System",
               "short_id": "Sistem Pengawasan Bawah Kendaraan Portabel terintegrasi dengan akuisisi citra bawah kendaraan, deteksi otomatis tampilan Mosaik gambar, dan pengisian cahaya"
+            },
+            {
+              "desc_id": "Sistem Pengawasan Bawah Kendaraan Tetap adalah sistem pemeriksaan keamanan kendaraan untuk akuisisi gambar, tampilan, pemantauan kondisi, dan alarm. Sistem ini secara efektif dapat mencegah orang, bom, senjata, bahan kimia, dan barang berbahaya bersembunyi di bawah mobil, dan banyak digunakan di pemerintahan, bandara, pelabuhan, militer, institusi, kedutaan besar, bank, hotel, dan tempat-tempat keamanan penting lainnya.",
+              "short_en": "The Fixed Under-Vehicle Surveillance System is a vehicle security check system for image acquisition, display, condition monitoring and alarm",
+              "name_id": "Sistem Pengawasan Bawah Kendaraan Tetap",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Fixed Under-Vehicle Surveillance System is a vehicle security check system for image acquisition, display, condition monitoring and alarm. The system can effectively prevent the hiding of people, bombs, weapons, chemical and dangerous goods under the car, and is widely used in government, airports, ports, military, institutions, embassies, banks, hotels and other important security places.",
+              "id": "2a766286-4839-4be4-baf0-cde5281bdcde",
+              "image": "/images/uploads/fixed-under-vehicle-surveilance-system.png",
+              "name_en": "Fixed Under-Vehicle Surveilance System",
+              "short_id": "Sistem Pengawasan Bawah Kendaraan Tetap adalah sistem pemeriksaan keamanan kendaraan untuk akuisisi gambar, tampilan, pemantauan kondisi, dan alarm"
             }
           ]
         }
