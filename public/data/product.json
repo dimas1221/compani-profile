@@ -675,7 +675,30 @@
     {
       "id": "35280ea7-5b63-4ffd-affd-b72dd6ccb6ed",
       "name_en": "Vehicle Security",
-      "name_id": "Keamanan Kendaraan"
+      "name_id": "Keamanan Kendaraan",
+      "sub_categories": [
+        {
+          "id": "4d6fb012-9ae3-4e21-90d6-42a44fb1a9ba",
+          "name_en": "Immigration Authority",
+          "name_id": "Otoritas Imigrasi",
+          "products": [
+            {
+              "desc_id": "Sistem Pengawasan Bawah Kendaraan Portabel terintegrasi dengan akuisisi citra bawah kendaraan, deteksi otomatis tampilan Mosaik gambar, dan pengisian cahaya. Sistem ini dapat secara otomatis mendeteksi kendaraan untuk inspeksi, pengisian cahaya cerdas, dan pemindaian real-time di bawah kendaraan melalui kamera HD. Sistem ini menyajikan gambar lengkap kendaraan secara akurat dan efisien, membantu petugas secara efektif memeriksa kondisi tersembunyi dan rusak di bawah kendaraan, serta mencegah tersembunyinya barang berbahaya kimia atau biologis, bom, dll. Sistem ini dapat digunakan di area bea cukai, keamanan publik, lalu lintas, bandara, hotel, dan area pemeriksaan pintu masuk lainnya.",
+              "short_en": "The Portable Under-Vehicle Surveillance System integrates with vehicle bottom image acquisition, image Mosaic display automatic detection and light filling",
+              "name_id": "Sistem Pengawasan Bawah Kendaraan Portabel",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Portable Under-Vehicle Surveillance System integrates with vehicle bottom image acquisition, image Mosaic display automatic detection and light filling. The system can automatically detect the vehicle for inspection, intelligent light filling, and real-time scanning under vehicle through the HD camera, accurately and efficiently present the full picture of the vehicle, effectively assist the staff to check the hidden and damaged conditions under the vehicle, and prevent the hiding of chemical or biological dangerous goods, bombs, etc.. It is Applicable to customs, public security, traffic, airport, hotel and other entrance control places.",
+              "id": "4f420502-34bc-464c-ac70-076c5949d60b",
+              "image": "/images/uploads/portable-under-vehicle-surveilance-system.png",
+              "name_en": "Portable Under-Vehicle Surveilance System",
+              "short_id": "Sistem Pengawasan Bawah Kendaraan Portabel terintegrasi dengan akuisisi citra bawah kendaraan, deteksi otomatis tampilan Mosaik gambar, dan pengisian cahaya"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
