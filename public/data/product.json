@@ -401,6 +401,20 @@
               "image": "/images/uploads/multi_biometric_self_service_capture_device.png",
               "name_en": "Multi-biometric Self-service Capture Device",
               "short_id": "Perangkat Perekam Swalayan Multibiometrik ini dirancang khusus untuk kontrol perbatasan, pemrosesan imigrasi, dan verifikasi identitas"
+            },
+            {
+              "desc_id": "Konter Verifikasi Multifungsi (C) dari Maxvision adalah solusi inspeksi terpadu yang dirancang untuk pos pemeriksaan perbatasan bervolume tinggi seperti pelabuhan dan bandara. Dirancang untuk penerapan di garis depan, solusi ini mengintegrasikan fungsi-fungsi penting perizinan—termasuk verifikasi identitas, pengambilan data biometrik, pemberian cap dokumen otomatis, komunikasi multibahasa, analitik video berbasis AI, dan interaksi suara—ke dalam satu platform yang efisien.\nSistem ini menawarkan kontrol terpusat untuk perangkat periferal seperti pencahayaan, ventilasi, suhu, dan pengawasan, yang memungkinkan proses inspeksi loop tertutup yang sepenuhnya otomatis. Sistem ini membantu instansi perbatasan mempercepat pemrosesan, mengurangi beban kerja manual, dan menciptakan lingkungan inspeksi yang lebih aman dan efisien bagi para pelancong dan petugas.",
+              "short_en": "Maxvision's Multi-functional Verification Counter (C) is an all-in-one inspection solution built for high-volume border checkpoints such as seaports and airports",
+              "name_id": "Penghitung Verifikasi Multifungsi (C)",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Maxvision's Multi-functional Verification Counter (C) is an all-in-one inspection solution built for high-volume border checkpoints such as seaports and airports. Designed for front-line deployment, it integrates key clearance functions-including identity verification, biometric data capture, automated document stamping, multilingual communication, Al-driven video analytics, and voice interaction-into a single streamlined platform.\nThe system offers centralized control of peripheral devices such as lighting, ventilation, temperature, and surveillance, enabling a fully automated, closed-loop inspection process. It helps border agencies speed up processing, reduce manual workload, and create a safer, more efficient inspection environment for travelers and officers alike.",
+              "id": "0042c6ae-43c6-4fb2-ab6f-e183f788c116",
+              "image": "/images/uploads/multi_functional_verification_counter.png",
+              "name_en": "Multi-functional Verification Counter (C)",
+              "short_id": "Konter Verifikasi Multifungsi (C) dari Maxvision adalah solusi inspeksi terpadu yang dirancang untuk pos pemeriksaan perbatasan bervolume tinggi seperti pelabuhan dan bandara"
             }
           ]
         },
