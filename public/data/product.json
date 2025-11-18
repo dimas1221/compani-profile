@@ -625,6 +625,20 @@
               "image": "/images/uploads/intelligent_lock_tracker.png",
               "name_en": "Intelligent Lock Tracker",
               "short_id": "Intelligent Lock Tracker adalah perangkat yang digunakan untuk pengawasan barang secara real-time dalam status transportasi transit"
+            },
+            {
+              "desc_id": "Sistem Pelacakan Kargo Elektronik menggunakan Pelacak Loker Cerdas dan terminal onboard dengan GPS, BeiDou, dan jaringan seluler untuk menjaga kargo tetap terlihat dan terkendali selama transit. Operator dapat memantau status kunci, memutar ulang rute, mengelola akses jarak jauh, dan melacak pengiriman secara real-time melalui dasbor pusat.\nSistem ini menyederhanakan pengawasan, mengurangi penundaan, dan mempercepat arus kargo, membantu penyedia logistik meningkatkan efisiensi, kualitas layanan, dan daya saing. Sistem ini sangat cocok untuk pengiriman barang, pengiriman ekspres, dan logistik rantai dingin.",
+              "short_en": "The Electronic Cargo Tracking System uses Intelligent Locker Tracker and on-board terminals with GPS, BeiDou, and mobile networks to keep cargo visible and under control throughout transit",
+              "name_id": "Sistem Pelacakan Kargo Elektronik",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Electronic Cargo Tracking System uses Intelligent Locker Tracker and on-board terminals with GPS, BeiDou, and mobile networks to keep cargo visible and under control throughout transit. Operators can monitor lock status, replay routes, manage remote access, and track shipments in real time through a central dashboard.\nThe system streamlines supervision, reduces delays, and accelerates cargo flow-helping logistics providers improve efficiency, service quality, and competitiveness. It is well suited for freight, express delivery, and cold-chain logistics.",
+              "id": "bca77bc8-7714-493e-ad53-5624640c5ebb",
+              "image": "/images/uploads/electronic-cargo-tracking-system.png",
+              "name_en": "Electronic Cargo Tracking System",
+              "short_id": "Sistem Pelacakan Kargo Elektronik menggunakan Pelacak Loker Cerdas dan terminal onboard dengan GPS, BeiDou, dan jaringan seluler untuk menjaga kargo tetap terlihat dan terkendali selama transit"
             }
           ]
         }
