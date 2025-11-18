@@ -158,7 +158,7 @@
               ],
               "desc_en": "Maxvision Embedded Palm Vein Recognition Terminal adopts AI recognition technology combined with scientific applications such as vision, optics, biology, etc., uses multi-band infrared imaging technology to obtain the distribution map of palm veins, and performs biometric identification through a special comparison algorithm to achieve ultra-high performance. This equipment has the advantages of security and reliability, non-contact authentication, direct detection, good anti-interference, and high accuracy. This terminal can be integrated into access control, gates, self-service terminals and other systems, and is widely used by personnel in customs, border defense, ports, communities, buildings with controlled access, etc.",
               "id": "386b97af-1306-45f0-bd76-9f068b2f1b3d",
-              "image": "/images/uploads/030ac773e60c352c454df79c58f22837eacbca64.png",
+              "image": "/images/uploads/embedded_palm_vein_recognition_terminal.png",
               "name_en": "Embedded Palm Vein Recognition Terminal",
               "short_id": "Terminal Pengenalan Vena Telapak Tangan Tertanam Maxvision mengadopsi teknologi pengenalan AI yang dipadukan dengan aplikasi ilmiah seperti penglihatan, optik, biologi, dll"
             },
@@ -172,7 +172,7 @@
               ],
               "desc_en": "The Maxvision Palm Vein Recorder Module is based on the Linux operating system. It utilizes near-infrared imaging technology to acquire palm vein information. It also features a visible light camera to capture palmprint information. It has functions such as palmprint and palm vein input, image processing, feature comparison, storage, etc., and can be used in smart door locks, safes, access control, gates, robotic self-service terminals, and other equipment.",
               "id": "1e536234-80b2-4996-bd7f-a6e8a58908b8",
-              "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
+              "image": "/images/uploads/palm_vein_capture_module.png",
               "name_en": "Palm Vein Capture Module",
               "short_id": "Modul Perekam Vena Telapak Tangan Maxvision berbasis sistem operasi Linux. Modul ini menggunakan teknologi pencitraan pita inframerah dekat untuk mendapatkan informasi vena telapak tangan"
             }
