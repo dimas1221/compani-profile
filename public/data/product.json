@@ -457,6 +457,20 @@
               "image": "/images/uploads/video_based_anti_tailgating_system.png",
               "name_en": "Video-based Anti-Tailgating System",
               "short_id": "Sistem Anti-Tailgating Berbasis Video dirancang khusus untuk e-gate imigrasi, memungkinkan pemantauan waktu nyata (real-time) terhadap lalu lintas tanpa izin melalui analitik video canggih pada perangkat"
+            },
+            {
+              "desc_id": "Dirancang untuk lingkungan perbatasan yang aman, E-gate Verifikasi Akses Area Terbatas menyediakan kontrol akses otomatis yang andal bagi personel yang berwenang. Dengan menggabungkan pengenalan wajah, pemindaian sidik jari, dan autentikasi kartu pintar, sistem ini memastikan verifikasi identitas yang akurat sekaligus menjaga kelancaran dan keamanan operasional jalur. Sistem ini dilengkapi kontrol gerbang terintegrasi, pemantauan perilaku, dan pemicu alarm untuk tailgating, akses tanpa izin, atau kehadiran yang diperpanjang. Dengan dukungan jalur dua arah dan integrasi yang mulus dengan sistem kontrol perbatasan, solusi ini meningkatkan keamanan dan efisiensi operasional di seluruh pelabuhan laut, bandara, pos pemeriksaan darat, dan fasilitas inspeksi bersama.",
+              "short_en": "Designed for secure border environments, the Restricted Area Access Verification E-gate provides reliable, automated access control for authorized personnel",
+              "name_id": "Verifikasi Akses Area Terbatas E-gate (Gerbang Tunggal)",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Designed for secure border environments, the Restricted Area Access Verification E-gate provides reliable, automated access control for authorized personnel. By combining facial recognition, fingerprint scanning, and smart card authentication, the system ensures accurate identity verification while maintaining smooth and secure lane operations. It features built-in gate control, behavior monitoring, and alarm triggers for tailgating, unauthorized access, or extended presence. With bidirectional passage support and seamless integration with border control systems, this solution enhances security and operational efficiency across seaports, airports, land checkpoints, and joint inspection facilities.",
+              "id": "6e52335c-497c-4bc7-b8c5-87e28aaa3a77",
+              "image": "/images/uploads/restricted_area_access_verification.png",
+              "name_en": "Restricted Area Access Verification E-gate (Single-gate)",
+              "short_id": "Dirancang untuk lingkungan perbatasan yang aman, E-gate Verifikasi Akses Area Terbatas menyediakan kontrol akses otomatis yang andal bagi personel yang berwenang"
             }
           ]
         },
