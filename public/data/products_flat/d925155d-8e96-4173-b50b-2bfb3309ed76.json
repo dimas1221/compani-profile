@@ -1,0 +1,20 @@
+{
+  "id": "d925155d-8e96-4173-b50b-2bfb3309ed76",
+  "name_en": "Fingerprint Capture Device",
+  "name_id": "Perangkat Perekam Sidik Jari",
+  "short_en": "The Fingerprint Capture Device is a fully proprietary solution developed by Maxvision for high-accuracy ten-finger capture.",
+  "short_id": "The Fingerprint Capture Device is a fully proprietary solution developed by Maxvision for high-accuracy ten-finger capture",
+  "desc_en": "The Fingerprint Capture Device is a fully proprietary solution developed by Maxvision for high-accuracy ten-finger capture. Built with advanced optical and imaging technologies, it supports single-finger scans as well as full ten-finger acquisition, including flat impressions (4-4-2) and rolled prints.\nIt delivers reliable performance with features such as wet-finger detection, automatic four-finger segmentation, finger position recognition, and real-time quality feedback. The scanner produces clear images without glare or residual artifacts from repeated use, ensuring consistent results and a smooth user experience.\nTrusted by banks, social security agencies, law enforcement, immigration, and border control authorities, the device is designed for secure and efficient identity authentication in mission-critical environments.",
+  "desc_id": "Perangkat Perekam Sidik Jari adalah solusi eksklusif yang dikembangkan oleh Maxvision untuk perekaman sepuluh jari dengan akurasi tinggi. Dibangun dengan teknologi optik dan pencitraan canggih, perangkat ini mendukung pemindaian satu jari serta akuisisi sepuluh jari secara penuh, termasuk cetakan datar (4-4-2) dan cetakan gulung.\nPerangkat ini memberikan kinerja yang andal dengan fitur-fitur seperti deteksi jari basah, segmentasi empat jari otomatis, pengenalan posisi jari, dan umpan balik kualitas secara real-time. Pemindai ini menghasilkan gambar yang jernih tanpa silau atau artefak sisa akibat penggunaan berulang, memastikan hasil yang konsisten dan pengalaman pengguna yang lancar.\nDipercaya oleh bank, lembaga jaminan sosial, penegak hukum, imigrasi, dan otoritas kontrol perbatasan, perangkat ini dirancang untuk autentikasi identitas yang aman dan efisien di lingkungan yang sangat penting.",
+  "main_category_id": "identity-auth",
+  "main_category_en": "Identity Authentication",
+  "main_category_id_name": "Otentikasi Identitas",
+  "sub_category_id": "fingerprint-capture",
+  "sub_category_en": "Fingerprint Capture",
+  "sub_category_id_name": "Pengambilan Sidik Jari",
+  "image": "/images/uploads/fingerprint_capture_device.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

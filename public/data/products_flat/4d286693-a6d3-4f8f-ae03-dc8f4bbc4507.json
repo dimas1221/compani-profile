@@ -12,7 +12,7 @@
   "sub_category_id": "78c459f5-01ed-417c-ace8-f4645e58e1a7",
   "sub_category_en": "Biometric Information Capture",
   "sub_category_id_name": "Penangkapan Informasi Biometrik",
-  "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
+  "image": "/images/uploads/iris_multi_biometric.png",
   "compatibility": [
     "wifi",
     "mqtt"

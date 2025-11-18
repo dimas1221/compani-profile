@@ -12,7 +12,7 @@
   "sub_category_id": "daf40ff4-e4db-41ab-a374-8db11bab3377",
   "sub_category_en": "ID/Travel Document Reader",
   "sub_category_id_name": "Pembaca Dokumen ID/Perjalanan",
-  "image": "/images/uploads/1aab351b78d61f7c9237cf4b3d27565759130c99.png",
+  "image": "/images/uploads/document_reader_a.png",
   "compatibility": [
     "wifi",
     "mqtt"
