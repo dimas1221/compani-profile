@@ -1114,7 +1114,23 @@
         {
           "id": "90d5598a-e102-4889-b286-2695f8272642",
           "name_en": "Firefighting Robot",
-          "name_id": "Robot Pemadam Kebakaran"
+          "name_id": "Robot Pemadam Kebakaran",
+          "products": [
+            {
+              "desc_id": "Di lokasi kebakaran, kondisi ekstrem seperti api yang besar, ledakan, suhu tinggi, asap tebal, gas beracun, dan kekurangan oksigen menyulitkan petugas pemadam kebakaran untuk melakukan operasi penyelamatan. Perusahaan kami telah mengembangkan robot pemadam kebakaran secara independen yang dapat menggantikan petugas pemadam kebakaran di area yang sangat berbahaya untuk pekerjaan pemadaman kebakaran dan penyelamatan. Robot-robot ini memainkan peran penting dalam meningkatkan keselamatan operasi pemadaman kebakaran dan mengurangi korban jiwa. Selain itu, robot-robot ini dilengkapi dengan berbagai fungsi seperti pemadaman api, pengintaian, dan penyelamatan, yang secara bertahap menjadi lebih otomatis dan cerdas, sehingga dapat digunakan dalam berbagai situasi penyelamatan yang kompleks.",
+              "short_en": "In a fire scene, extreme conditions such as fierce flames, explosions, high temperatures, thick smoke, toxic gases, and lack of oxygen make it difficult for firefighters to carry out rescue operations",
+              "name_id": "Robot Pemadam Kebakaran - Penyemprotan Air",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "In a fire scene, extreme conditions such as fierce flames, explosions, high temperatures, thick smoke, toxic gases, and lack of oxygen make it difficult for firefighters to carry out rescue operations. Our company has independently developed fire-fighting robot that can replace firefighters in extremely hazardous areas for firefighting and rescue work. These robots play a crucial role in enhancing the safety of firefighting operations and reducing casualties. Additionally, they are equipped with multiple functions such as extinguishing fires, reconnaissance, and rescue, gradually becoming more automated and intelligent, allowing them to be utilized in a wider range of complex rescue situations.",
+              "id": "7c36ec97-93a4-4e84-9edf-16d7e1f2ca26",
+              "image": "/images/uploads/fire-fighting-robot-water-spraying.png",
+              "name_en": "Fire Fighting Robot - Water Spraying",
+              "short_id": "Di lokasi kebakaran, kondisi ekstrem seperti api yang besar, ledakan, suhu tinggi, asap tebal, gas beracun, dan kekurangan oksigen menyulitkan petugas pemadam kebakaran untuk melakukan operasi penyelamatan"
+            }
+          ]
         },
         {
           "id": "050014f1-aa7e-432d-b89c-3522f78183ce",
