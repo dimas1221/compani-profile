@@ -1,0 +1,20 @@
+{
+  "id": "076fd962-03ce-4a0c-b4b2-8fbf29972779",
+  "name_en": "Container ID Recognition System",
+  "name_id": "Sistem Pengenalan ID Kontainer",
+  "short_en": "Container ID Recognition System consists of a container number image capture terminal, a container number image identification algorithm, and a container number identification system management platform",
+  "short_id": "Sistem Pengenalan ID Kontainer terdiri dari terminal penangkap gambar nomor kontainer, algoritma identifikasi gambar nomor kontainer, dan platform manajemen sistem identifikasi nomor kontainer",
+  "desc_en": "Container ID Recognition System consists of a container number image capture terminal, a container number image identification algorithm, and a container number identification system management platform. The system uses the front-end Al inteligent camera to capture and recognize the container number, the identification result is automatically pushed to the system management platform to achieve remote management of container number identification at the checkpoint. The system includes functions such as multi-type number identification multi-type container identification, equipment operation data statistics, container number identification datastatistics, real-time business data push, and real-time lane monitoring. It realizes efficient vehicle clearance intelligent container number identification, and unmanned checkpoints.",
+  "desc_id": "Sistem Pengenalan ID Kontainer terdiri dari terminal penangkap gambar nomor kontainer, algoritma identifikasi gambar nomor kontainer, dan platform manajemen sistem identifikasi nomor kontainer. Sistem ini menggunakan kamera AI cerdas front-end untuk menangkap dan mengenali nomor kontainer, dan hasil identifikasi secara otomatis dikirim ke platform manajemen sistem untuk mencapai manajemen jarak jauh identifikasi nomor kontainer di pos pemeriksaan. Sistem ini mencakup fungsi-fungsi seperti identifikasi nomor multi-jenis, identifikasi kontainer multi-jenis, statistik data operasi peralatan, statistik data identifikasi nomor kontainer, pengiriman data bisnis secara real-time, dan pemantauan jalur secara real-time. Sistem ini mewujudkan identifikasi nomor kontainer cerdas untuk izin kendaraan yang efisien, dan pos pemeriksaan tanpa awak.",
+  "main_category_id": "35280ea7-5b63-4ffd-affd-b72dd6ccb6ed",
+  "main_category_en": "Vehicle Security",
+  "main_category_id_name": "Keamanan Kendaraan",
+  "sub_category_id": "c1fb6f30-0359-4590-ba0c-da498b74285e",
+  "sub_category_en": "Customs Authority",
+  "sub_category_id_name": "Otoritas Bea Cukai",
+  "image": "/images/uploads/container-id-recognition-system.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

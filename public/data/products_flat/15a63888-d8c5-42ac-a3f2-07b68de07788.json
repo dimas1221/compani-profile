@@ -1,0 +1,20 @@
+{
+  "id": "15a63888-d8c5-42ac-a3f2-07b68de07788",
+  "name_en": "Container Smart Lock Reader",
+  "name_id": "Pembaca Kunci Cerdas Kontainer",
+  "short_en": "The Container Smart Lock Reader is a field-ready device designed to securely read and manage data from wireless container locks",
+  "short_id": "Container Smart Lock Reader adalah perangkat siap pakai yang dirancang untuk membaca dan mengelola data dari kunci kontainer nirkabel secara aman",
+  "desc_en": "The Container Smart Lock Reader is a field-ready device designed to securely read and manage data from wireless container locks. Using RFID or sensor-based technology, it enables remote sealing, unlocking, and tamper verification-allowing operators to monitor container status in real time without physical contact.\nBuilt for seamless integration, the reader connects easily to upstream logistics management platforms and checkpoint systems such as license plate recognition, providing a unified interface for automated lock control across ports, terminals, and transport nodes. It enhances supply chain visibility, strengthens asset security, and supports fully digitized container operations.",
+  "desc_id": "Container Smart Lock Reader adalah perangkat siap pakai yang dirancang untuk membaca dan mengelola data dari kunci kontainer nirkabel secara aman. Menggunakan teknologi berbasis RFID atau sensor, perangkat ini memungkinkan penyegelan, pembukaan kunci, dan verifikasi kerusakan dari jarak jauh—memungkinkan operator memantau status kontainer secara real-time tanpa kontak fisik.\nDidesain untuk integrasi yang mulus, pembaca ini mudah terhubung ke platform manajemen logistik hulu dan sistem pos pemeriksaan seperti pengenalan plat nomor, menyediakan antarmuka terpadu untuk kontrol kunci otomatis di seluruh pelabuhan, terminal, dan simpul transportasi. Perangkat ini meningkatkan visibilitas rantai pasokan, memperkuat keamanan aset, dan mendukung operasi kontainer yang sepenuhnya digital.",
+  "main_category_id": "afd81e03-0156-47d1-a30e-24a25ed972d0",
+  "main_category_en": "Cargo Security",
+  "main_category_id_name": "Keamanan Kargo",
+  "sub_category_id": "c0d3e42f-c80f-4d83-ad20-2dcadba6ef4f",
+  "sub_category_en": "In-Transit Supervision",
+  "sub_category_id_name": "Pengawasan Dalam Perjalanan",
+  "image": "/images/uploads/container-smart-lock-reader.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

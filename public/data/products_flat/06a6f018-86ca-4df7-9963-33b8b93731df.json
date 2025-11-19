@@ -1,0 +1,20 @@
+{
+  "id": "06a6f018-86ca-4df7-9963-33b8b93731df",
+  "name_en": "Container Demage Detection System",
+  "name_id": "Sistem Deteksi Kerusakan Kontainer",
+  "short_en": "The Maxvision Container Damage Detection System is a unified Al-driven platform designed to automate and streamline container gate operations at ports, terminals, and customs checkpoints",
+  "short_id": "Sistem Deteksi Kerusakan Kontainer Maxvision adalah platform terpadu berbasis AI yang dirancang untuk mengotomatiskan dan menyederhanakan operasi gerbang kontainer di pelabuhan, terminal, dan titik pemeriksaan bea cukai",
+  "desc_en": "The Maxvision Container Damage Detection System is a unified Al-driven platform designed to automate and streamline container gate operations at ports, terminals, and customs checkpoints. By combining container ID recognition, damage detection, license plate reading, and integrated control, the system eliminates manual inspections and delivers fast, accurate, and contactless processing.\nBuilt to handle high-throughput environments, the system supports a wide range of container types and formats under diverse weather and lighting conditions. It provides real-time, structured data to customs and logistics platforms, enabling seamless clearance workflows and stronger regulatory oversight.",
+  "desc_id": "Sistem Deteksi Kerusakan Kontainer Maxvision adalah platform terpadu berbasis AI yang dirancang untuk mengotomatiskan dan menyederhanakan operasi gerbang kontainer di pelabuhan, terminal, dan titik pemeriksaan bea cukai. Dengan menggabungkan pengenalan ID kontainer, deteksi kerusakan, pembacaan plat nomor, dan kontrol terintegrasi, sistem ini menghilangkan inspeksi manual dan menghadirkan pemrosesan yang cepat, akurat, dan nirsentuh.\nDibangun untuk menangani lingkungan dengan throughput tinggi, sistem ini mendukung beragam jenis dan format kontainer dalam berbagai kondisi cuaca dan pencahayaan. Sistem ini menyediakan data terstruktur secara real-time untuk platform bea cukai dan logistik, memungkinkan alur kerja pengurusan izin yang lancar dan pengawasan regulasi yang lebih ketat.",
+  "main_category_id": "35280ea7-5b63-4ffd-affd-b72dd6ccb6ed",
+  "main_category_en": "Vehicle Security",
+  "main_category_id_name": "Keamanan Kendaraan",
+  "sub_category_id": "c1fb6f30-0359-4590-ba0c-da498b74285e",
+  "sub_category_en": "Customs Authority",
+  "sub_category_id_name": "Otoritas Bea Cukai",
+  "image": "/images/uploads/container-demage-detection-system.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

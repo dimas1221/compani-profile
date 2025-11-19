@@ -1,0 +1,20 @@
+{
+  "id": "915a478d-ae90-40b6-8104-d8ca966496c0",
+  "name_en": "Under-Vehicle Surveilance Robot",
+  "name_id": "Robot Pengawasan di Bawah Kendaraan",
+  "short_en": "The Under-Vehicle Surveilance Robot is a portable device for inspecting the vehicle bottom",
+  "short_id": "Robot Pengawas Bawah Kendaraan adalah perangkat portabel untuk memeriksa bagian bawah kendaraan",
+  "desc_en": "The Under-Vehicle Surveilance Robot is a portable device for inspecting the vehicle bottom. It equipped with functions such as automatic LPR,HD display of vehicle bottom images, and suspected position recognition. The robot is compact, mobile, and easy to deploy, can automatically complete vehicle bottom inspection with one click, It is suitable or temporary vehicle control and inspection in places such as customs, border inspection, border management, public security checkpoints, large-scale events, and important conference security.",
+  "desc_id": "Robot Pengawas Bawah Kendaraan adalah perangkat portabel untuk memeriksa bagian bawah kendaraan. Dilengkapi dengan fungsi-fungsi seperti LPR otomatis, tampilan HD gambar bawah kendaraan, dan pengenalan posisi yang dicurigai. Robot ini ringkas, mobile, dan mudah digunakan, serta dapat menyelesaikan pemeriksaan bawah kendaraan secara otomatis dengan satu klik. Robot ini cocok untuk kontrol dan inspeksi kendaraan sementara di tempat-tempat seperti bea cukai, inspeksi perbatasan, manajemen perbatasan, pos pemeriksaan keamanan publik, acara berskala besar, dan keamanan konferensi penting.",
+  "main_category_id": "35280ea7-5b63-4ffd-affd-b72dd6ccb6ed",
+  "main_category_en": "Vehicle Security",
+  "main_category_id_name": "Keamanan Kendaraan",
+  "sub_category_id": "4d6fb012-9ae3-4e21-90d6-42a44fb1a9ba",
+  "sub_category_en": "Immigration Authority",
+  "sub_category_id_name": "Otoritas Imigrasi",
+  "image": "/images/uploads/under-vehicle-surveilance-robot.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "ac621c72-b87a-4691-8680-37aa551a7a4d",
+  "name_en": "Truck Booking Management Platform",
+  "name_id": "Platform Manajemen Pemesanan Truk",
+  "short_en": "Truck Booking Management System is an intelligent application designed to efficiently manage and coordinate truck flow at port terminals",
+  "short_id": "Sistem Manajemen Pemesanan Truk adalah aplikasi cerdas yang dirancang untuk mengelola dan mengoordinasikan arus truk di terminal pelabuhan secara efisien",
+  "desc_en": "Truck Booking Management System is an intelligent application designed to efficiently manage and coordinate truck flow at port terminals. The system comprises a PC-based backend management platform and a mobile APP, effectively enabling workload distribution, mitigating gate congestion, and enhancing operational efficiency.",
+  "desc_id": "Sistem Manajemen Pemesanan Truk adalah aplikasi cerdas yang dirancang untuk mengelola dan mengoordinasikan arus truk di terminal pelabuhan secara efisien. Sistem ini terdiri dari platform manajemen backend berbasis PC dan aplikasi seluler, yang secara efektif memungkinkan distribusi beban kerja, mengurangi kemacetan gerbang, dan meningkatkan efisiensi operasional.",
+  "main_category_id": "35280ea7-5b63-4ffd-affd-b72dd6ccb6ed",
+  "main_category_en": "Vehicle Security",
+  "main_category_id_name": "Keamanan Kendaraan",
+  "sub_category_id": "c1fb6f30-0359-4590-ba0c-da498b74285e",
+  "sub_category_en": "Customs Authority",
+  "sub_category_id_name": "Otoritas Bea Cukai",
+  "image": "/images/uploads/truck-booking-management-platform.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

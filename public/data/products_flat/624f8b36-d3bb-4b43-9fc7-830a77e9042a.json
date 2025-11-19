@@ -1,0 +1,20 @@
+{
+  "id": "624f8b36-d3bb-4b43-9fc7-830a77e9042a",
+  "name_en": "Intelligent Lock Tracker",
+  "name_id": "Pelacak Kunci Cerdas",
+  "short_en": "The Intelligent Lock Tracker is a device used for real-time supervision of goods in transit transport status",
+  "short_id": "Intelligent Lock Tracker adalah perangkat yang digunakan untuk pengawasan barang secara real-time dalam status transportasi transit",
+  "desc_en": "The Intelligent Lock Tracker is a device used for real-time supervision of goods in transit transport status. The device adopts dual SIM card slot design, equipped with dual-mode positioning module to achieve accurate positioning, real-time communication, automatic tracking and positioning. At the same time, it has the function of large-capacity blind one data recording, which automatically stores local data when the device is in the blind zone of the network, so there is no dead corner of supervision. Through the management backstage, it can achieve the management of the intelligent supervision terminal such as on-line supervision, track replay, remote switching and locking and real-time status, etc. The device has a built-in 15000mAh battery, which meets the requirements for in-transit supervision of cargo transport in multiple scenarios.",
+  "desc_id": "Intelligent Lock Tracker adalah perangkat yang digunakan untuk pengawasan barang secara real-time dalam status transportasi transit. Perangkat ini mengadopsi desain slot kartu SIM ganda dan dilengkapi modul pemosisian mode ganda untuk mencapai pemosisian yang akurat, komunikasi real-time, serta pelacakan dan pemosisian otomatis. Selain itu, perangkat ini juga memiliki fungsi perekaman data satu-buta berkapasitas besar, yang secara otomatis menyimpan data lokal ketika perangkat berada di zona buta jaringan, sehingga tidak ada titik mati pengawasan. Melalui manajemen backstage, perangkat ini dapat mengelola terminal pengawasan cerdas seperti pengawasan online, pemutaran ulang trek, pengalihan dan penguncian jarak jauh, serta status real-time, dll. Perangkat ini memiliki baterai internal 15000mAh, yang memenuhi persyaratan untuk pengawasan transportasi kargo selama transit dalam berbagai skenario.",
+  "main_category_id": "afd81e03-0156-47d1-a30e-24a25ed972d0",
+  "main_category_en": "Cargo Security",
+  "main_category_id_name": "Keamanan Kargo",
+  "sub_category_id": "c0d3e42f-c80f-4d83-ad20-2dcadba6ef4f",
+  "sub_category_en": "In-Transit Supervision",
+  "sub_category_id_name": "Pengawasan Dalam Perjalanan",
+  "image": "/images/uploads/intelligent_lock_tracker.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

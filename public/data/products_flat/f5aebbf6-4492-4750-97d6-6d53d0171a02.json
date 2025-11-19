@@ -1,0 +1,20 @@
+{
+  "id": "f5aebbf6-4492-4750-97d6-6d53d0171a02",
+  "name_en": "Lane Emergency Controller",
+  "name_id": "Pengendali Darurat Jalur",
+  "short_en": "The Lane Emergency Controller is a device for manual emergency control of the lane barrier",
+  "short_id": "Pengendali Darurat Jalur adalah perangkat untuk kontrol darurat manual pembatas lajur",
+  "desc_en": "The Lane Emergency Controller is a device for manual emergency control of the lane barrier. Whenthere are abnormal situations in the inspection of the lane barrier, the staff can manually operate this controller to remotely control the opening or closing of the barrier, to ensure that the inspection of thelane is safe, efficient and orderly.",
+  "desc_id": "Pengendali Darurat Jalur adalah perangkat untuk kontrol darurat manual pembatas lajur. Ketika terjadi situasi abnormal selama pemeriksaan pembatas lajur, petugas dapat mengoperasikan pengontrol ini secara manual untuk mengontrol pembukaan atau penutupan pembatas lajur dari jarak jauh, guna memastikan pemeriksaan lajur aman, efisien, dan tertib.",
+  "main_category_id": "35280ea7-5b63-4ffd-affd-b72dd6ccb6ed",
+  "main_category_en": "Vehicle Security",
+  "main_category_id_name": "Keamanan Kendaraan",
+  "sub_category_id": "c1fb6f30-0359-4590-ba0c-da498b74285e",
+  "sub_category_en": "Customs Authority",
+  "sub_category_id_name": "Otoritas Bea Cukai",
+  "image": "/images/uploads/lane-emergency-controller.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

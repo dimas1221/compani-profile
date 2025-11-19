@@ -1,0 +1,20 @@
+{
+  "id": "c6ee2c82-ea3d-4ebe-8b1d-f6d802e51489",
+  "name_en": "Vehicle Intelligent Inspection All-in-One Machine - Premium",
+  "name_id": "Inspeksi Cerdas Kendaraan Semua dalam Satu Mesin - Premium",
+  "short_en": "Maxvision independently developed this Vehicle intelligent Inspection Al-in-one Machine which is an intelligent checking product",
+  "short_id": "Maxvision secara independen mengembangkan Mesin Inspeksi Kendaraan Cerdas Al-in-one ini, sebuah produk pemeriksaan cerdas",
+  "desc_en": "Maxvision independently developed this Vehicle intelligent Inspection Al-in-one Machine which is an intelligent checking product. This product is designed to enhance the automated management of lanes and to self-capture and verify the identity of personnel passing on the lanes. Functions including facial recognition, fingerprint recognition, barcode scanning, document recognition, abnormal alarm, pass printing, video intercom, and so on. Simultaneously, it employs a multi-axis transmission mechanism featuring automatic lifting and extension / retraction capabilities. This enables precise and eficient positioning for occupant data collection, achieving drive-through verification. It is suitable for campus, ports where the need to capture and verify the information of passengers in the lane.",
+  "desc_id": "Maxvision secara independen mengembangkan Mesin Inspeksi Kendaraan Cerdas Al-in-one ini, sebuah produk pemeriksaan cerdas. Produk ini dirancang untuk meningkatkan manajemen lajur otomatis dan untuk merekam serta memverifikasi identitas personel yang melintas di lajur secara mandiri. Fungsi-fungsinya meliputi pengenalan wajah, pengenalan sidik jari, pemindaian kode batang, pengenalan dokumen, alarm abnormal, pencetakan kartu, interkom video, dan sebagainya. Secara bersamaan, mesin ini menggunakan mekanisme transmisi multi-sumbu yang dilengkapi kemampuan pengangkatan dan perpanjangan/penarikan otomatis. Hal ini memungkinkan penentuan posisi yang tepat dan efisien untuk pengumpulan data penumpang, sehingga mencapai verifikasi drive-through. Cocok untuk kampus dan pelabuhan di mana informasi penumpang di lajur perlu direkam dan diverifikasi.",
+  "main_category_id": "35280ea7-5b63-4ffd-affd-b72dd6ccb6ed",
+  "main_category_en": "Vehicle Security",
+  "main_category_id_name": "Keamanan Kendaraan",
+  "sub_category_id": "4d6fb012-9ae3-4e21-90d6-42a44fb1a9ba",
+  "sub_category_en": "Immigration Authority",
+  "sub_category_id_name": "Otoritas Imigrasi",
+  "image": "/images/uploads/vehicle-intelligent-inspection-all-in-one-machine-premium.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

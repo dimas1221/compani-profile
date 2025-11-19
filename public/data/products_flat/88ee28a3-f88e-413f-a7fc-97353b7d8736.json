@@ -1,0 +1,20 @@
+{
+  "id": "88ee28a3-f88e-413f-a7fc-97353b7d8736",
+  "name_en": "ANPR All-in-One Machine",
+  "name_id": "Mesin ANPR All-in-One",
+  "short_en": "The ANPR All-in-one Machine is an Al-powered, all-in-one solution designed to accurately identify license plates from multiple countries",
+  "short_id": "Mesin ANPR All-in-one adalah solusi all-in-one bertenaga AI yang dirancang untuk mengidentifikasi pelat nomor dari berbagai negara secara akurat",
+  "desc_en": "The ANPR All-in-one Machine is an Al-powered, all-in-one solution designed to accurately identify license plates from multiple countries. Equipped with embedded deep learning algorithms, the device captures and analyzes video streams in real time to deliver fast, reliable recognition across a wide range of plate formats. Compact and easy to deploy, the system is ideal for vehicle access control in residential complexes, shopping centers, schools, hospitals, airports, industrial parks, and public parking facilities-enabling smarter traffic management and seamless integration into modern mobility infrastructures.",
+  "desc_id": "Mesin ANPR All-in-one adalah solusi all-in-one bertenaga AI yang dirancang untuk mengidentifikasi pelat nomor dari berbagai negara secara akurat. Dilengkapi dengan algoritma pembelajaran mendalam (deep learning) yang tertanam, perangkat ini merekam dan menganalisis aliran video secara real-time untuk menghasilkan pengenalan yang cepat dan andal di berbagai format pelat. Ringkas dan mudah digunakan, sistem ini ideal untuk kontrol akses kendaraan di kompleks perumahan, pusat perbelanjaan, sekolah, rumah sakit, bandara, kawasan industri, dan fasilitas parkir umum—memungkinkan manajemen lalu lintas yang lebih cerdas dan integrasi yang mulus ke dalam infrastruktur mobilitas modern.",
+  "main_category_id": "35280ea7-5b63-4ffd-affd-b72dd6ccb6ed",
+  "main_category_en": "Vehicle Security",
+  "main_category_id_name": "Keamanan Kendaraan",
+  "sub_category_id": "c1fb6f30-0359-4590-ba0c-da498b74285e",
+  "sub_category_en": "Customs Authority",
+  "sub_category_id_name": "Otoritas Bea Cukai",
+  "image": "/images/uploads/anpr-all-in-one-machine.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}
