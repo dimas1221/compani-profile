@@ -925,7 +925,23 @@
         {
           "id": "4b15db0d-05a8-42c7-aa80-d8e93fe090ee",
           "name_en": "Traffic Safety",
-          "name_id": "Keselamatan Lalu Lintas"
+          "name_id": "Keselamatan Lalu Lintas",
+          "products": [
+            {
+              "desc_id": "Kamera Pengawas Lalu Lintas Pintar adalah kamera pintar yang diluncurkan oleh Maxvision untuk melayani bisnis lalu lintas jalan raya. Kamera ini mengadopsi desain kelas industri tertanam dan algoritma pembelajaran mendalam bawaan. Kamera ini mendukung berbagai deteksi pelanggaran hukum dan banyak digunakan untuk menerobos lampu merah, mengebut, bayonet, masuk dan keluar, berbagai acara, dan berbagai skenario aplikasi lainnya.",
+              "short_en": "Smart Traffc Surveilance Camera is a smart camera launched by Maxvision to serve the road traffic business",
+              "name_id": "Kamera Pengawas Lalu Lintas Cerdas",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Smart Traffc Surveilance Camera is a smart camera launched by Maxvision to serve the road traffic business. It adopts an embedded industrial-grade design and built-in deep learning algorithm. It supports a variety of illegal detection and is widely used in red light running, speeding, bayonet, entrance and exit, events and other various application scenarios.",
+              "id": "8a01bd1b-51d3-4adf-9505-c11834258f64",
+              "image": "/images/uploads/smart-traffic-surveillance-camera.png",
+              "name_en": "Smart Traffic Surveillance Camera",
+              "short_id": "Kamera Pengawas Lalu Lintas Pintar adalah kamera pintar yang diluncurkan oleh Maxvision untuk melayani bisnis lalu lintas jalan raya"
+            }
+          ]
         },
         {
           "id": "97ac00cd-3d66-418e-bbf3-e47ee7f8f5a0",
