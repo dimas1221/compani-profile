@@ -1017,6 +1017,20 @@
               "image": "/images/uploads/radar-vision-fusion-camera.png",
               "name_en": "Radar-vision Fusion Camera",
               "short_id": "Didukung oleh radar dan penginderaan video terintegrasi, perangkat ini memberikan deteksi dan klasifikasi kendaraan bermotor, lalu lintas non-motor, pejalan kaki, dan berbagai objek jalan raya lainnya secara real-time dan presisi tinggi"
+            },
+            {
+              "desc_id": "Pengendali Sinyal Lalu Lintas Cerdas Maxvision adalah perangkat koordinasi jaringan yang dirancang untuk mengelola sinyal lalu lintas di persimpangan jalan. Perangkat ini mendukung berbagai mode kontrol, termasuk kontrol waktu tetap, aktuasi, dan adaptif, yang memungkinkan penjadwalan fleksibel berdasarkan kondisi lalu lintas waktu nyata. Pengendali ini dilengkapi pemantauan dan peringatan gangguan yang andal, antarmuka komunikasi yang serbaguna, dan kemampuan penggantian manual, sehingga cocok untuk berbagai aplikasi jalan perkotaan seperti persimpangan berbentuk T, persimpangan jalan, dan jalur masuk/keluar.",
+              "short_en": "The Maxvision Intelligent Traffic Signal Controller is a networked coordination device designed for managing traffic signals at road intersections",
+              "name_id": "Pengendali Sinyal Lalu Lintas Cerdas",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Maxvision Intelligent Traffic Signal Controller is a networked coordination device designed for managing traffic signals at road intersections. It supports multiple control modes including fixed-time, actuated, and adaptive control, enabling flexible scheduling based on real-time traffic conditions. The controller features reliable fault monitoring and alerting, versatile communication interfaces, and manual override capabilities, making it suitable for various urban road applications such as T-junctions, crossroads, and on/off-ramps.",
+              "id": "4bbfd80d-2603-4041-9a89-48ddf69f46d0",
+              "image": "/images/uploads/intelligent-traffic-signal-controller.png",
+              "name_en": "Intelligent Traffic Signal Controller",
+              "short_id": "Pengendali Sinyal Lalu Lintas Cerdas Maxvision adalah perangkat koordinasi jaringan yang dirancang untuk mengelola sinyal lalu lintas di persimpangan jalan. "
             }
           ]
         },
