@@ -781,6 +781,27 @@
               "short_id": "Maxvision secara independen mengembangkan Mesin Kontrol Akses Kendaraan ini, sebuah produk pemeriksaan cerdas"
             }
           ]
+        },
+        {
+          "id": "c1fb6f30-0359-4590-ba0c-da498b74285e",
+          "name_en": "Customs Authority",
+          "name_id": "Otoritas Bea Cukai",
+          "products": [
+            {
+              "desc_id": "Sistem Manajemen Pemesanan Truk adalah aplikasi cerdas yang dirancang untuk mengelola dan mengoordinasikan arus truk di terminal pelabuhan secara efisien. Sistem ini terdiri dari platform manajemen backend berbasis PC dan aplikasi seluler, yang secara efektif memungkinkan distribusi beban kerja, mengurangi kemacetan gerbang, dan meningkatkan efisiensi operasional.",
+              "short_en": "Truck Booking Management System is an intelligent application designed to efficiently manage and coordinate truck flow at port terminals",
+              "name_id": "Platform Manajemen Pemesanan Truk",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Truck Booking Management System is an intelligent application designed to efficiently manage and coordinate truck flow at port terminals. The system comprises a PC-based backend management platform and a mobile APP, effectively enabling workload distribution, mitigating gate congestion, and enhancing operational efficiency.",
+              "id": "ac621c72-b87a-4691-8680-37aa551a7a4d",
+              "image": "/images/uploads/truck-booking-management-platform.png",
+              "name_en": "Truck Booking Management Platform",
+              "short_id": "Sistem Manajemen Pemesanan Truk adalah aplikasi cerdas yang dirancang untuk mengelola dan mengoordinasikan arus truk di terminal pelabuhan secara efisien"
+            }
+          ]
         }
       ]
     }
