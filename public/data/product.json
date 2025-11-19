@@ -1002,7 +1002,23 @@
         {
           "id": "97ac00cd-3d66-418e-bbf3-e47ee7f8f5a0",
           "name_en": "Traffic Efficiency",
-          "name_id": "Efisiensi Lalu Lintas"
+          "name_id": "Efisiensi Lalu Lintas",
+          "products": [
+            {
+              "desc_id": "Didukung oleh radar dan penginderaan video terintegrasi, perangkat ini memberikan deteksi dan klasifikasi kendaraan bermotor, lalu lintas non-motor, pejalan kaki, dan berbagai objek jalan raya lainnya secara real-time dan presisi tinggi. Melalui integrasi data visual dan radar yang mulus, perangkat ini memungkinkan persepsi cerdas dengan kesadaran kontekstual yang kaya—termasuk jenis, jumlah, arah pergerakan, dan perilaku abnormal objek—untuk mendukung manajemen lalu lintas berbasis data dan penegakan keselamatan.",
+              "short_en": "Powered by integrated radar and video sensing, this device delivers real-time, high-precision detection and classification of motor vehicles, non-motorized traffic, pedestrians, and miscellaneous road objects",
+              "name_id": "Kamera Fusion Penglihatan Radar",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Powered by integrated radar and video sensing, this device delivers real-time, high-precision detection and classification of motor vehicles, non-motorized traffic, pedestrians, and miscellaneous road objects. Through seamless fusion of visual and radar data, it enables intelligent perception with rich contextual awareness - including object type, count, movement direction, and abnormal behavior - to support data-driven traffic management and safety enforcement.",
+              "id": "a0a5ee05-a5bb-49c0-b344-061eb2681639",
+              "image": "/images/uploads/radar-vision-fusion-camera.png",
+              "name_en": "Radar-vision Fusion Camera",
+              "short_id": "Didukung oleh radar dan penginderaan video terintegrasi, perangkat ini memberikan deteksi dan klasifikasi kendaraan bermotor, lalu lintas non-motor, pejalan kaki, dan berbagai objek jalan raya lainnya secara real-time dan presisi tinggi"
+            }
+          ]
         },
         {
           "id": "f2616f09-2ff0-4470-b346-a34246320f71",
