@@ -1304,6 +1304,20 @@
               "image": "/images/uploads/traffic-incident-detection-algorithms.png",
               "name_en": "Traffic Incident Detection Algorithms",
               "short_id": "Didukung oleh pembelajaran mendalam dan analitik video, rangkaian Algoritma Deteksi Insiden Lalu Lintas secara akurat mengidentifikasi berbagai perilaku mengemudi abnormal dan peristiwa berisiko—termasuk parkir ilegal, mengemudi di jalur yang salah, kemacetan, dll."
+            },
+            {
+              "desc_id": "Algoritma Analisis Perilaku Personel memanfaatkan teknologi pembelajaran mendalam dan visi komputer untuk mengidentifikasi dan menganalisis perilaku manusia tertentu secara cerdas. Algoritma ini menyediakan pemantauan real-time terhadap perilaku abnormal di lingkungan seperti ruang publik, area komersial, dan pusat transportasi, yang memungkinkan respons cepat dan peringatan keamanan. Dengan mengidentifikasi perilaku seperti berkeliaran, memasuki batas wilayah, barang terbengkalai, berkumpul di kerumunan, berlari, jatuh, berkelahi, dan memanjat secara akurat, algoritma ini meningkatkan kemampuan keamanan dan pencegahan risiko. Algoritma ini banyak digunakan dalam pengawasan keamanan, gedung pintar, dan aplikasi keselamatan publik.",
+              "short_en": "Personnel Behavior Analysis Algorithms leverage deep learning and computer vision technologies to intelligently identify and analyze specific human behaviors",
+              "name_id": "Algoritma Analisis Perilaku Personel",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Personnel Behavior Analysis Algorithms leverage deep learning and computer vision technologies to intelligently identify and analyze specific human behaviors. These algorithms provide real-time monitoring of abnormal behaviors in environments such as public spaces, commercial areas, and transportation hubs, enabling rapid response and security alerts. By accurately identifying behaviors such as loitering, boundary intrusion, abandoned items, crowd gathering, running, falling, fighting, and climbing, these algorithms enhance security and risk prevention capabilities. They are widely used in security surveillance, smart buildings, and public safety applications.",
+              "id": "07d81923-0299-4eb2-b093-38f43884e4aa",
+              "image": "/images/uploads/personnel-bahavior-analysis-algorithms.png",
+              "name_en": "Personnel Bahavior Analysis Algorithms",
+              "short_id": "Algoritma Analisis Perilaku Personel memanfaatkan teknologi pembelajaran mendalam dan visi komputer untuk mengidentifikasi dan menganalisis perilaku manusia tertentu secara cerdas"
             }
           ]
         }
