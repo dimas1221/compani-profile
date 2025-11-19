@@ -856,6 +856,20 @@
               "image": "/images/uploads/container-demage-detection-system.png",
               "name_en": "Container Demage Detection System",
               "short_id": "Sistem Deteksi Kerusakan Kontainer Maxvision adalah platform terpadu berbasis AI yang dirancang untuk mengotomatiskan dan menyederhanakan operasi gerbang kontainer di pelabuhan, terminal, dan titik pemeriksaan bea cukai"
+            },
+            {
+              "desc_id": "Pengendali Darurat Jalur adalah perangkat untuk kontrol darurat manual pembatas lajur. Ketika terjadi situasi abnormal selama pemeriksaan pembatas lajur, petugas dapat mengoperasikan pengontrol ini secara manual untuk mengontrol pembukaan atau penutupan pembatas lajur dari jarak jauh, guna memastikan pemeriksaan lajur aman, efisien, dan tertib.",
+              "short_en": "The Lane Emergency Controller is a device for manual emergency control of the lane barrier",
+              "name_id": "Pengendali Darurat Jalur",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Lane Emergency Controller is a device for manual emergency control of the lane barrier. Whenthere are abnormal situations in the inspection of the lane barrier, the staff can manually operate this controller to remotely control the opening or closing of the barrier, to ensure that the inspection of thelane is safe, efficient and orderly.",
+              "id": "f5aebbf6-4492-4750-97d6-6d53d0171a02",
+              "image": "/images/uploads/lane-emergency-controller.png",
+              "name_en": "Lane Emergency Controller",
+              "short_id": "Pengendali Darurat Jalur adalah perangkat untuk kontrol darurat manual pembatas lajur"
             }
           ]
         }
