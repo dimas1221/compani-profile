@@ -1,0 +1,20 @@
+{
+  "id": "5ddee792-f4b8-4b54-86aa-42338e371b68",
+  "name_en": "Hold Baggage X-ray Machine",
+  "name_id": "Mesin Sinar-X Bagasi Tercatat",
+  "short_en": "Developed independently by Maxvision, this Hold Baggage X-ray Machine represents a new generation of dual-energy, dual-view screening technology designed for high-security environments",
+  "short_id": "Dikembangkan secara independen oleh Maxvision, Mesin Sinar-X Bagasi Tercatat ini merupakan generasi baru teknologi pemindaian energi ganda dan tampilan ganda yang dirancang untuk lingkungan dengan keamanan tinggi",
+  "desc_en": "Developed independently by Maxvision, this Hold Baggage X-ray Machine represents a new generation of dual-energy, dual-view screening technology designed for high-security environments. Featuring two independent X-ray source and detector arrays, the system captures bottom and side view images simultaneously and displays them in real time-greatly improving the detection of concealed or overlapping items. Purpose-built for the inspection of oversized and irregular baggage, it is ideal for deployment at customs, border checkpoints, airports, railway stations, government facilities, and large public venues. The system combines application-specific functionality with modern industrial design, delivering a user-friendly experience and highly reliable performance.",
+  "desc_id": "Dikembangkan secara independen oleh Maxvision, Mesin Sinar-X Bagasi Tercatat ini merupakan generasi baru teknologi pemindaian energi ganda dan tampilan ganda yang dirancang untuk lingkungan dengan keamanan tinggi. Dilengkapi dengan dua sumber sinar-X dan susunan detektor independen, sistem ini menangkap gambar tampak bawah dan samping secara bersamaan dan menampilkannya secara real-time—sangat meningkatkan deteksi barang tersembunyi atau tumpang tindih. Dirancang khusus untuk pemeriksaan bagasi berukuran besar dan tidak beraturan, mesin ini ideal untuk digunakan di bea cukai, pos pemeriksaan perbatasan, bandara, stasiun kereta api, fasilitas pemerintah, dan tempat umum yang besar. Sistem ini menggabungkan fungsionalitas khusus aplikasi dengan desain industri modern, memberikan pengalaman yang ramah pengguna dan kinerja yang sangat andal.",
+  "main_category_id": "passenger-security",
+  "main_category_en": "Passenger Security",
+  "main_category_id_name": "Keamanan Penumpang",
+  "sub_category_id": "6d1357ef-9d91-4c1d-bf48-655e43be41fd",
+  "sub_category_en": "Customs Authority",
+  "sub_category_id_name": "Otoritas Bea Cukai",
+  "image": "/images/uploads/hold_baggage_xray_machine.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

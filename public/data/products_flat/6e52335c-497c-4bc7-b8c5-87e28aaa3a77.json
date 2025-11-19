@@ -1,0 +1,20 @@
+{
+  "id": "6e52335c-497c-4bc7-b8c5-87e28aaa3a77",
+  "name_en": "Restricted Area Access Verification E-gate (Single-gate)",
+  "name_id": "Verifikasi Akses Area Terbatas E-gate (Gerbang Tunggal)",
+  "short_en": "Designed for secure border environments, the Restricted Area Access Verification E-gate provides reliable, automated access control for authorized personnel",
+  "short_id": "Dirancang untuk lingkungan perbatasan yang aman, E-gate Verifikasi Akses Area Terbatas menyediakan kontrol akses otomatis yang andal bagi personel yang berwenang",
+  "desc_en": "Designed for secure border environments, the Restricted Area Access Verification E-gate provides reliable, automated access control for authorized personnel. By combining facial recognition, fingerprint scanning, and smart card authentication, the system ensures accurate identity verification while maintaining smooth and secure lane operations. It features built-in gate control, behavior monitoring, and alarm triggers for tailgating, unauthorized access, or extended presence. With bidirectional passage support and seamless integration with border control systems, this solution enhances security and operational efficiency across seaports, airports, land checkpoints, and joint inspection facilities.",
+  "desc_id": "Dirancang untuk lingkungan perbatasan yang aman, E-gate Verifikasi Akses Area Terbatas menyediakan kontrol akses otomatis yang andal bagi personel yang berwenang. Dengan menggabungkan pengenalan wajah, pemindaian sidik jari, dan autentikasi kartu pintar, sistem ini memastikan verifikasi identitas yang akurat sekaligus menjaga kelancaran dan keamanan operasional jalur. Sistem ini dilengkapi kontrol gerbang terintegrasi, pemantauan perilaku, dan pemicu alarm untuk tailgating, akses tanpa izin, atau kehadiran yang diperpanjang. Dengan dukungan jalur dua arah dan integrasi yang mulus dengan sistem kontrol perbatasan, solusi ini meningkatkan keamanan dan efisiensi operasional di seluruh pelabuhan laut, bandara, pos pemeriksaan darat, dan fasilitas inspeksi bersama.",
+  "main_category_id": "passenger-security",
+  "main_category_en": "Passenger Security",
+  "main_category_id_name": "Keamanan Penumpang",
+  "sub_category_id": "ecd919eb-f884-4ba1-b36a-7bb07d8717d3",
+  "sub_category_en": "Immigration Authority",
+  "sub_category_id_name": "Otoritas Imigrasi",
+  "image": "/images/uploads/restricted_area_access_verification.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

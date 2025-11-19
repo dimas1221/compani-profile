@@ -1,0 +1,20 @@
+{
+  "id": "4afaba0c-00e5-4a0e-8364-7483cf36fad9",
+  "name_en": "Multimodal Container Inspection System",
+  "name_id": "Sistem Inspeksi Kontainer Multimoda",
+  "short_en": "The Multimodal Container Inspection System is an intelligent solution designed for container inspection at ports and border checkpoints",
+  "short_id": "Sistem Inspeksi Kontainer Multimoda adalah solusi cerdas yang dirancang untuk inspeksi kontainer di pelabuhan dan pos pemeriksaan perbatasan",
+  "desc_en": "The Multimodal Container Inspection System is an intelligent solution designed for container inspection at ports and border checkpoints. Integrating radar, high-precision sensors, robotic arms, and multimodal perception algorithms, the system captures internal imagery, structural depth, and other key data during the container opening process. It enables rapid identification of empty containers and concealed risks, enhancing both inspection accuracy and operational efficiency. With 24/7 operational capability and seamless integration with customs supervision platforms, the system supports fully automated, digitalized, and closed-loop inspection workflows.",
+  "desc_id": "Sistem Inspeksi Kontainer Multimoda adalah solusi cerdas yang dirancang untuk inspeksi kontainer di pelabuhan dan pos pemeriksaan perbatasan. Dengan mengintegrasikan radar, sensor presisi tinggi, lengan robot, dan algoritma persepsi multimoda, sistem ini menangkap citra internal, kedalaman struktur, dan data penting lainnya selama proses pembukaan kontainer. Sistem ini memungkinkan identifikasi kontainer kosong dan risiko tersembunyi dengan cepat, sehingga meningkatkan akurasi inspeksi dan efisiensi operasional. Dengan kemampuan operasional 24/7 dan integrasi yang lancar dengan platform pengawasan bea cukai, sistem ini mendukung alur kerja inspeksi yang sepenuhnya otomatis, digital, dan loop tertutup.",
+  "main_category_id": "afd81e03-0156-47d1-a30e-24a25ed972d0",
+  "main_category_en": "Cargo Security",
+  "main_category_id_name": "Keamanan Kargo",
+  "sub_category_id": "aeea5407-25cc-4d01-92ef-58b032e7ba7a",
+  "sub_category_en": "Non-intrusive Inspection",
+  "sub_category_id_name": "Inspeksi Non-intrusif",
+  "image": "/images/uploads/multimodal_container_inspection_system.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

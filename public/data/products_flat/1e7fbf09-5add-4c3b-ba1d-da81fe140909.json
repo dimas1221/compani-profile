@@ -1,0 +1,20 @@
+{
+  "id": "1e7fbf09-5add-4c3b-ba1d-da81fe140909",
+  "name_en": "Passenger Carry-on Baggage Inspection System",
+  "name_id": "Sistem Pemeriksaan Bagasi Kabin Penumpang",
+  "short_en": "Maxvision's Passenger Carry-on Baggage Inspection System is purpose-built to meet the evolving needs of global border crossings",
+  "short_id": "Sistem Pemeriksaan Bagasi Kabin Penumpang Maxvision dirancang khusus untuk memenuhi kebutuhan penyeberangan perbatasan global yang terus berkembang",
+  "desc_en": "Maxvision's Passenger Carry-on Baggage Inspection System is purpose-built to meet the evolving needs of global border crossings. Designed for high-volume international ports of entry, the system enables unified screening of both travelers and their personal belongings in a single, streamlined process. Its goal is simple: one inspection, one decision, one seamless release.\nBy combining Al-driven analytics, loT-based controls, and integrated data intelligence, the system overcomes the inefficiencies of traditional manual checks-reducing human error,\naccelerating throughput, and delivering a consistent, secure experience for both authorities and travelers.\nAs one of the first fully integrated solutions deployed at scale in China, it represents a new standard for how modern borders can operate.",
+  "desc_id": "Sistem Pemeriksaan Bagasi Kabin Penumpang Maxvision dirancang khusus untuk memenuhi kebutuhan penyeberangan perbatasan global yang terus berkembang. Dirancang untuk pelabuhan masuk internasional bervolume tinggi, sistem ini memungkinkan pemeriksaan terpadu bagi pelancong dan barang bawaan pribadi mereka dalam satu proses yang efisien. Tujuannya sederhana: satu pemeriksaan, satu keputusan, satu pelepasan yang lancar.\nDengan menggabungkan analitik berbasis AI, kontrol berbasis IoT, dan kecerdasan data terintegrasi, sistem ini mengatasi inefisiensi pemeriksaan manual tradisional—mengurangi kesalahan manusia,\nmempercepat proses, dan memberikan pengalaman yang konsisten dan aman bagi otoritas maupun pelancong.\nSebagai salah satu solusi terintegrasi penuh pertama yang diterapkan dalam skala besar di Tiongkok, sistem ini mewakili standar baru tentang bagaimana perbatasan modern dapat beroperasi.",
+  "main_category_id": "passenger-security",
+  "main_category_en": "Passenger Security",
+  "main_category_id_name": "Keamanan Penumpang",
+  "sub_category_id": "6d1357ef-9d91-4c1d-bf48-655e43be41fd",
+  "sub_category_en": "Customs Authority",
+  "sub_category_id_name": "Otoritas Bea Cukai",
+  "image": "/images/uploads/passenger_carryon_baggage_inspection_system.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

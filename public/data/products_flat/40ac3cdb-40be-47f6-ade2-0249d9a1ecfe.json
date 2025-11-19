@@ -1,0 +1,20 @@
+{
+  "id": "40ac3cdb-40be-47f6-ade2-0249d9a1ecfe",
+  "name_en": "Infrared Thermometer",
+  "name_id": "Termometer Inframerah",
+  "short_en": "The Infrared Thermometer is a non-contact solution designed for rapid detection of abnormal body temperatures among travelers",
+  "short_id": "Termometer Inframerah adalah solusi non-kontak yang dirancang untuk mendeteksi suhu tubuh abnormal secara cepat di antara para pelancong",
+  "desc_en": "The Infrared Thermometer is a non-contact solution designed for rapid detection of abnormal body temperatures among travelers. Leveraging thermal imaging and intelligent facial recognition algorithms, the system accurately identifies and tracks individuals with elevated body temperatures while effectively filtering out false alarms caused by external heat sources such as hot beverages or food. Equipped with an HD camera and Al-based analysis, the system enables automatic detection, real-time alerting, and image capture of potential febrile cases.\nThe system incorporates a high-precision blackbody radiation source as a temperature reference to compensate for environmental influences and thermal drift of the imaging sensor.\nThis ensures consistent temperature calibration, fast warm-up, and precise thermal control, significantly improving measurement accuracy and system reliability under complex environmental conditions.\nIt is ideal for deployment in wide-area temperature screening scenarios such as public halls and overhead corridor installations.",
+  "desc_id": "Termometer Inframerah adalah solusi non-kontak yang dirancang untuk mendeteksi suhu tubuh abnormal secara cepat di antara para pelancong. Dengan memanfaatkan pencitraan termal dan algoritma pengenalan wajah cerdas, sistem ini secara akurat mengidentifikasi dan melacak individu dengan suhu tubuh tinggi sekaligus secara efektif menyaring alarm palsu yang disebabkan oleh sumber panas eksternal seperti minuman panas atau makanan. Dilengkapi dengan kamera HD dan analisis berbasis AI, sistem ini memungkinkan deteksi otomatis, peringatan waktu nyata, dan pengambilan gambar kasus potensial demam.\nSistem ini menggabungkan sumber radiasi benda hitam presisi tinggi sebagai referensi suhu untuk mengkompensasi pengaruh lingkungan dan pergeseran termal sensor pencitraan.\nHal ini memastikan kalibrasi suhu yang konsisten, pemanasan yang cepat, dan kontrol termal yang presisi, yang secara signifikan meningkatkan akurasi pengukuran dan keandalan sistem dalam kondisi lingkungan yang kompleks.\nSistem ini ideal untuk digunakan dalam skenario pemeriksaan suhu area luas seperti aula publik dan instalasi koridor di atas kepala.",
+  "main_category_id": "passenger-security",
+  "main_category_en": "Passenger Security",
+  "main_category_id_name": "Keamanan Penumpang",
+  "sub_category_id": "6d1357ef-9d91-4c1d-bf48-655e43be41fd",
+  "sub_category_en": "Customs Authority",
+  "sub_category_id_name": "Otoritas Bea Cukai",
+  "image": "/images/uploads/infrared_thermometer.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

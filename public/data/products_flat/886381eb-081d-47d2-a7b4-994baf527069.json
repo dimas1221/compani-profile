@@ -1,0 +1,20 @@
+{
+  "id": "886381eb-081d-47d2-a7b4-994baf527069",
+  "name_en": "Intelligent Security Tray Return System - Premium",
+  "name_id": "Sistem Pengembalian Baki Keamanan Cerdas - Premium",
+  "short_en": "The Intelligent Security Tray Return System (Premium) is a fully integrated tray return system engineered for high-volume, high-security environments",
+  "short_id": "Sistem Pengembalian Baki Keamanan Cerdas (Premium) adalah sistem pengembalian baki terintegrasi penuh yang dirancang untuk lingkungan bervolume tinggi dan berkeamanan tinggi",
+  "desc_en": "The Intelligent Security Tray Return System (Premium) is a fully integrated tray return system engineered for high-volume, high-security environments. It combines facial recognition, image analysis, tray tracking, automated sorting, recheck routing, and real-time operations monitoring-creating a true end-to-end automated inspection process. Designed for complex inspection scenarios, it helps streamline workflow, reduce human intervention, and enforce end-to-end process integrity.",
+  "desc_id": "Sistem Pengembalian Baki Keamanan Cerdas (Premium) adalah sistem pengembalian baki terintegrasi penuh yang dirancang untuk lingkungan bervolume tinggi dan berkeamanan tinggi. Sistem ini menggabungkan pengenalan wajah, analisis gambar, pelacakan baki, penyortiran otomatis, perutean pemeriksaan ulang, dan pemantauan operasi waktu nyata—menciptakan proses inspeksi otomatis menyeluruh yang sesungguhnya. Dirancang untuk skenario inspeksi yang kompleks, sistem ini membantu menyederhanakan alur kerja, mengurangi intervensi manusia, dan menegakkan integritas proses menyeluruh.",
+  "main_category_id": "passenger-security",
+  "main_category_en": "Passenger Security",
+  "main_category_id_name": "Keamanan Penumpang",
+  "sub_category_id": "security-checking",
+  "sub_category_en": "Security Checking",
+  "sub_category_id_name": "Pemeriksaan Keamanan",
+  "image": "/images/uploads/intelligent_security_tray_return_system_premium.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

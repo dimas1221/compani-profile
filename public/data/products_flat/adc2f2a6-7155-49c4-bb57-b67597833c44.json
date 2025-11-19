@@ -1,0 +1,20 @@
+{
+  "id": "adc2f2a6-7155-49c4-bb57-b67597833c44",
+  "name_en": "Intelligent Security Tray Return System - Standard",
+  "name_id": "Sistem Pengembalian Baki Keamanan Cerdas - Standar",
+  "short_en": "The Intelligent Security Tray Return System (Standard) offers a balanced solution for mainstream inspection lanes-delivering core automation across identity verification, X-ray scanning, tray handling, sorting, and backend data integration",
+  "short_id": "Sistem Pengembalian Baki Keamanan Cerdas (Standar) menawarkan solusi seimbang untuk jalur inspeksi umum—menyediakan otomatisasi inti di seluruh proses verifikasi identitas, pemindaian sinar-X, penanganan baki, penyortiran, dan integrasi data backend",
+  "desc_en": "The Intelligent Security Tray Return System (Standard) offers a balanced solution for mainstream inspection lanes-delivering core automation across identity verification, X-ray scanning, tray handling, sorting, and backend data integration. With a modular architecture and fast deployment capability, it fits seamlessly into airport and border control environments where efficiency, reliability, and scalability are key.",
+  "desc_id": "Sistem Pengembalian Baki Keamanan Cerdas (Standar) menawarkan solusi seimbang untuk jalur inspeksi umum—menyediakan otomatisasi inti di seluruh proses verifikasi identitas, pemindaian sinar-X, penanganan baki, penyortiran, dan integrasi data backend. Dengan arsitektur modular dan kemampuan penerapan yang cepat, sistem ini sangat cocok dengan lingkungan kontrol bandara dan perbatasan yang mengutamakan efisiensi, keandalan, dan skalabilitas.",
+  "main_category_id": "passenger-security",
+  "main_category_en": "Passenger Security",
+  "main_category_id_name": "Keamanan Penumpang",
+  "sub_category_id": "security-checking",
+  "sub_category_en": "Security Checking",
+  "sub_category_id_name": "Pemeriksaan Keamanan",
+  "image": "/images/uploads/intelligent_security_tray_return_system_standard.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

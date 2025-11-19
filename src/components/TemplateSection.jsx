@@ -10,7 +10,7 @@ export default function TemplateSection({
   return (
     <section
       className={`
-        relative w-full py-20 sm:py-28 px-6 
+        relative w-full py-10 sm:py-28 px-6 
         transition-colors duration-700 overflow-hidden
         ${className}
       `}

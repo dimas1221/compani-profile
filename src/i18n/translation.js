@@ -120,6 +120,32 @@ export const translations = {
       smarthome_title: "Smart Home & Security",
       smarthome_sub: "CCTV, biometrics, smart devices, access control.",
     },
+
+    // wa confirm message
+    confirm_whatsapp: "Confirm via WhatsApp",
+
+    wa_confirm_message:
+      "Hello, I would like to request confirmation regarding the following product:\n\n📦 Product Name: {product}\n\nPlease provide more information about specifications, availability, and ordering procedures.\n\nThank you.",
+
+    //
+    contactPage: {
+      title1: "Are you looking for a trustworthy Transforme reseller?",
+      subtitle1:
+        "Lorem ipsum dolor sit amet consectetur. Proin amet euismod ultrices in suspendisse aliquam.",
+
+      title2:
+        "Are you a business representative interested in the latest smart home & building automation solutions?",
+      subtitle2:
+        "Lorem ipsum dolor sit amet consectetur. Proin amet euismod ultrices in suspendisse aliquam.",
+
+      form_name: "Name",
+      form_email: "Email",
+      form_company: "Company",
+      form_message: "Message",
+      form_send: "Send Message",
+
+      location_title: "Our Location",
+    },
   },
 
   // ================================================================
@@ -245,6 +271,30 @@ export const translations = {
 
       smarthome_title: "Smart Home & Keamanan",
       smarthome_sub: "CCTV, biometrik, perangkat pintar, kontrol akses.",
+    },
+
+    //wa confirm message
+    confirm_whatsapp: "Konfirmasi via WhatsApp",
+
+    wa_confirm_message:
+      "Halo, saya ingin melakukan konfirmasi terkait produk berikut:\n\n📦 Nama Produk: {product}\n\nMohon informasi lebih lanjut mengenai spesifikasi, ketersediaan barang, dan prosedur pemesanan.\n\nTerima kasih.",
+    contactPage: {
+      title1: "Apakah Anda mencari reseller Transforme yang terpercaya?",
+      subtitle1:
+        "Lorem ipsum dolor sit amet consectetur. Proin amet euismod ultrices in suspendisse aliquam.",
+
+      title2:
+        "Apakah Anda perwakilan bisnis yang tertarik dengan solusi smart home & building automation terbaru?",
+      subtitle2:
+        "Lorem ipsum dolor sit amet consectetur. Proin amet euismod ultrices in suspendisse aliquam.",
+
+      form_name: "Nama",
+      form_email: "Email",
+      form_company: "Perusahaan",
+      form_message: "Pesan",
+      form_send: "Kirim Pesan",
+
+      location_title: "Lokasi Kami",
     },
   },
 };

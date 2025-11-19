@@ -1,0 +1,20 @@
+{
+  "id": "e7d14e2d-3e39-4eae-b430-40e48768ed62",
+  "name_en": "E-gate (Double-gate)",
+  "name_id": "Gerbang E (Gerbang Ganda)",
+  "short_en": "Maxvision's E-Gate (Dual-Gate) is a fully integrated, intelligent border control solution designed to automate passenger identity verification at controlled entry and exit points",
+  "short_id": "E-Gate (Dual-Gate) dari Maxvision adalah solusi kontrol perbatasan cerdas yang terintegrasi penuh, dirancang untuk mengotomatiskan verifikasi identitas penumpang di titik masuk dan keluar yang terkontrol",
+  "desc_en": "Maxvision's E-Gate (Dual-Gate) is a fully integrated, intelligent border control solution designed to automate passenger identity verification at controlled entry and exit points. Built for high-throughput environments like airports and seaports, the system combines advanced biometrics with smart control and Al technologies to deliver secure, seamless, and contactless clearance.\nThe E-gate supports multiple biometric modalities-including facial, palm vein, and fingerprint recognition-alongside document authentication, anti-tailgating video analytics, and one-touch operational control. By eliminating manual checks and reducing processing time, it enhances both traveler experience and border security, making it an ideal fit for modern, high-security transit hubs.",
+  "desc_id": "E-Gate (Dual-Gate) dari Maxvision adalah solusi kontrol perbatasan cerdas yang terintegrasi penuh, dirancang untuk mengotomatiskan verifikasi identitas penumpang di titik masuk dan keluar yang terkontrol. Dirancang untuk lingkungan dengan lalu lintas tinggi seperti bandara dan pelabuhan, sistem ini menggabungkan biometrik canggih dengan kontrol cerdas dan teknologi AI untuk memberikan proses pengurusan yang aman, lancar, dan nirsentuh.\nE-Gate mendukung berbagai modalitas biometrik—termasuk pengenalan wajah, urat telapak tangan, dan sidik jari—serta autentikasi dokumen, analitik video anti-tailgating, dan kontrol operasional satu sentuhan. Dengan menghilangkan pemeriksaan manual dan mengurangi waktu pemrosesan, sistem ini meningkatkan pengalaman pelancong dan keamanan perbatasan, menjadikannya pilihan ideal untuk pusat transit modern dengan keamanan tinggi.",
+  "main_category_id": "passenger-security",
+  "main_category_en": "Passenger Security",
+  "main_category_id_name": "Keamanan Penumpang",
+  "sub_category_id": "ecd919eb-f884-4ba1-b36a-7bb07d8717d3",
+  "sub_category_en": "Immigration Authority",
+  "sub_category_id_name": "Otoritas Imigrasi",
+  "image": "/images/uploads/double_gate.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

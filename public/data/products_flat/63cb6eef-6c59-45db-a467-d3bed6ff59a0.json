@@ -1,0 +1,20 @@
+{
+  "id": "63cb6eef-6c59-45db-a467-d3bed6ff59a0",
+  "name_en": "Carry-on Baggage X-ray Machine",
+  "name_id": "Mesin Sinar-X Bagasi Kabin",
+  "short_en": "Engineered by Maxvision, this next-generation dual-energy, dual-view X-ray inspection system is purpose-built for efficient screening of carry-on baggage and personal belongings across customs checkpoints, airports, rail stations, government facilities, and other high-security environments",
+  "short_id": "Direkayasa oleh Maxvision, sistem inspeksi sinar-X dual-energi dan dual-view generasi terbaru ini dirancang khusus untuk pemeriksaan bagasi kabin dan barang-barang pribadi secara efisien di pos pemeriksaan bea cukai, bandara, stasiun kereta api, fasilitas pemerintah, dan lingkungan berkeamanan tinggi lainnya",
+  "desc_en": "Engineered by Maxvision, this next-generation dual-energy, dual-view X-ray inspection system is purpose-built for efficient screening of carry-on baggage and personal belongings across customs checkpoints, airports, rail stations, government facilities, and other high-security environments. Featuring two independent X-ray source-detector pairs, the system delivers both bottom-up and side-view imaging on dual displays, significantly enhancing object recognition in areas with overlap or occlusion. Its design blends industry-specific functionality with modern industrial aesthetics, resulting in a solution that is streamlined, intuitive, and highly adaptable for mission-critical security operations.",
+  "desc_id": "Direkayasa oleh Maxvision, sistem inspeksi sinar-X dual-energi dan dual-view generasi terbaru ini dirancang khusus untuk pemeriksaan bagasi kabin dan barang-barang pribadi secara efisien di pos pemeriksaan bea cukai, bandara, stasiun kereta api, fasilitas pemerintah, dan lingkungan berkeamanan tinggi lainnya. Dilengkapi dua pasang sumber-detektor sinar-X independen, sistem ini menghasilkan pencitraan tampilan bawah dan samping pada layar ganda, yang secara signifikan meningkatkan pengenalan objek di area yang tumpang tindih atau tertutup. Desainnya memadukan fungsionalitas khusus industri dengan estetika industri modern, menghasilkan solusi yang efisien, intuitif, dan sangat adaptif untuk operasi keamanan yang krusial.",
+  "main_category_id": "passenger-security",
+  "main_category_en": "Passenger Security",
+  "main_category_id_name": "Keamanan Penumpang",
+  "sub_category_id": "6d1357ef-9d91-4c1d-bf48-655e43be41fd",
+  "sub_category_en": "Customs Authority",
+  "sub_category_id_name": "Otoritas Bea Cukai",
+  "image": "/images/uploads/carryon_baggage_xray_machine.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

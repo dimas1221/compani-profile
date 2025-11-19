@@ -1,0 +1,20 @@
+{
+  "id": "e58ffa5a-9f6e-439b-8e1a-b0375cc247df",
+  "name_en": "Self-service Security Inspection E-gate",
+  "name_id": "Inspeksi Keamanan Swalayan E-gate",
+  "short_en": "The Self-service Security Inspection E-gate is an advanced solution developed by Maxvision to enhance passenger entry and exit efficiency and security.",
+  "short_id": "E-gate Inspeksi Keamanan Swalayan adalah solusi canggih yang dikembangkan oleh Maxvision untuk meningkatkan efisiensi dan keamanan masuk dan keluar penumpang",
+  "desc_en": "The Self-service Security Inspection E-gate is an advanced solution developed by Maxvision to enhance passenger entry and exit efficiency and security. It integrates document verification, identity recognition, anti-tailgating, and intrusion prevention into a streamlined system. The channel features two automatic gates: the first gate guides passengers to scan their documents, and upon successful verification, the gate opens automatically for quick clearance; the second gate is equipped with facial recognition to ensure identity matching before granting access. This system significantly improves processing speed and accuracy, making it an ideal upgrade to traditional inspection methods. It is widely used in critical areas such as airports, enhancing efficiency and security.",
+  "desc_id": "E-gate Inspeksi Keamanan Swalayan adalah solusi canggih yang dikembangkan oleh Maxvision untuk meningkatkan efisiensi dan keamanan masuk dan keluar penumpang. Solusi ini mengintegrasikan verifikasi dokumen, pengenalan identitas, anti-tailgating, dan pencegahan intrusi ke dalam sistem yang efisien. Saluran ini memiliki dua gerbang otomatis: gerbang pertama memandu penumpang untuk memindai dokumen mereka, dan setelah verifikasi berhasil, gerbang terbuka secara otomatis untuk proses pemeriksaan cepat; gerbang kedua dilengkapi dengan pengenalan wajah untuk memastikan pencocokan identitas sebelum memberikan akses. Sistem ini secara signifikan meningkatkan kecepatan dan akurasi pemrosesan, menjadikannya peningkatan ideal untuk metode inspeksi tradisional. Sistem ini banyak digunakan di area kritis seperti bandara, meningkatkan efisiensi dan keamanan.",
+  "main_category_id": "passenger-security",
+  "main_category_en": "Passenger Security",
+  "main_category_id_name": "Keamanan Penumpang",
+  "sub_category_id": "security-checking",
+  "sub_category_en": "Security Checking",
+  "sub_category_id_name": "Pemeriksaan Keamanan",
+  "image": "/images/uploads/self_service_security.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

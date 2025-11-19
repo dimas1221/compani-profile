@@ -1,0 +1,20 @@
+{
+  "id": "7af3a9a8-a3e6-4a0f-8d48-5937a573b45c",
+  "name_en": "Multi-biometric Self-service Capture Device",
+  "name_id": "Perangkat Pengambilan Layanan Mandiri Multi-biometrik",
+  "short_en": "This Multi-biometric Self-service Capture Device is purpose-built for border control, immigration processing, and identity verification",
+  "short_id": "Perangkat Perekam Swalayan Multibiometrik ini dirancang khusus untuk kontrol perbatasan, pemrosesan imigrasi, dan verifikasi identitas",
+  "desc_en": "This Multi-biometric Self-service Capture Device is purpose-built for border control, immigration processing, and identity verification. It consolidates document authentication,\nbiometric capture, arrival card printing, fast-track registration, and entry/exit record retrieval into a single self-service platform.\nBy integrating multiple workflows into one streamlined process, the device reduces processing time, improves traveler throughput, and minimizes the need for manual assistance at checkpoints.\nEquipped with an OCR document reader, facial recognition camera, high-resolution fingerprint sensor, curved HD touchscreen, and dual printing modules, the system supports a wide range of international and domestic identity documents.\nIts modular design and open architecture allow for seamless integration with border management systems and future service extensions, making it ideal for use in airports, landports, immigration halls, and public service locations.",
+  "desc_id": "Perangkat Perekam Swalayan Multibiometrik ini dirancang khusus untuk kontrol perbatasan, pemrosesan imigrasi, dan verifikasi identitas. Perangkat ini menggabungkan autentikasi dokumen, perekaman biometrik, pencetakan kartu kedatangan, registrasi jalur cepat, dan pengambilan catatan masuk/keluar ke dalam satu platform swalayan.\nDengan mengintegrasikan beberapa alur kerja ke dalam satu proses yang efisien, perangkat ini mengurangi waktu pemrosesan, meningkatkan throughput pelancong, dan meminimalkan kebutuhan akan bantuan manual di pos pemeriksaan.\nDilengkapi dengan pembaca dokumen OCR, kamera pengenal wajah, sensor sidik jari beresolusi tinggi, layar sentuh HD melengkung, dan modul pencetakan ganda, sistem ini mendukung beragam dokumen identitas internasional dan domestik.\nDesain modular dan arsitektur terbukanya memungkinkan integrasi yang mulus dengan sistem manajemen perbatasan dan perluasan layanan di masa mendatang, menjadikannya ideal untuk digunakan di bandara, pelabuhan darat, aula imigrasi, dan lokasi layanan publik.",
+  "main_category_id": "passenger-security",
+  "main_category_en": "Passenger Security",
+  "main_category_id_name": "Keamanan Penumpang",
+  "sub_category_id": "ecd919eb-f884-4ba1-b36a-7bb07d8717d3",
+  "sub_category_en": "Immigration Authority",
+  "sub_category_id_name": "Otoritas Imigrasi",
+  "image": "/images/uploads/multi_biometric_self_service_capture_device.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

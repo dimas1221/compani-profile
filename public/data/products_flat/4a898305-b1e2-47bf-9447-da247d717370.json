@@ -1,0 +1,20 @@
+{
+  "id": "4a898305-b1e2-47bf-9447-da247d717370",
+  "name_en": "Restricted Area Access Verification E-gate (Dual-gate)",
+  "name_id": "Verifikasi Akses Area Terbatas E-gate (Gerbang Ganda)",
+  "short_en": "The Restricted Area Access Verification E-gate (Dual-Gate) is a purpose-built solution for managing personnel access within restricted zones at border control points",
+  "short_id": "Verifikasi Akses Area Terbatas E-gate (Dual-Gate) adalah solusi yang dirancang khusus untuk mengelola akses personel di zona terbatas di titik kontrol perbatasan",
+  "desc_en": "The Restricted Area Access Verification E-gate (Dual-Gate) is a purpose-built solution for managing personnel access within restricted zones at border control points. Designed for high-security environments, the system combines multi-factor authentication-including facial recognition, fingerprint recognition, and smart card verification-with intelligent gate control and behavior analytics. It enables real-name access management while enhancing both security and operational efficiency.\nThe system integrates seamlessly with immigration platforms and supports bidirectional access, real-time tailgating detection, intrusion alerts, anti-pinch safeguards, access flow monitoring, and audio-visual guidance-making it ideal for ports, airports, land crossings, and joint inspection areas.",
+  "desc_id": "Verifikasi Akses Area Terbatas E-gate (Dual-Gate) adalah solusi yang dirancang khusus untuk mengelola akses personel di zona terbatas di titik kontrol perbatasan. Dirancang untuk lingkungan dengan keamanan tinggi, sistem ini menggabungkan autentikasi multi-faktor—termasuk pengenalan wajah, pengenalan sidik jari, dan verifikasi kartu pintar—dengan kontrol gerbang cerdas dan analitik perilaku. Sistem ini memungkinkan manajemen akses dengan nama asli sekaligus meningkatkan keamanan dan efisiensi operasional.\nSistem ini terintegrasi secara mulus dengan platform imigrasi dan mendukung akses dua arah, deteksi tailgating secara real-time, peringatan intrusi, perlindungan anti-pinch, pemantauan arus akses, dan panduan audio-visual—sehingga ideal untuk pelabuhan, bandara, perlintasan darat, dan area inspeksi bersama.",
+  "main_category_id": "passenger-security",
+  "main_category_en": "Passenger Security",
+  "main_category_id_name": "Keamanan Penumpang",
+  "sub_category_id": "ecd919eb-f884-4ba1-b36a-7bb07d8717d3",
+  "sub_category_en": "Immigration Authority",
+  "sub_category_id_name": "Otoritas Imigrasi",
+  "image": "/images/uploads/restricted_area_access_dual_gate.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}
