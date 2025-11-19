@@ -1217,6 +1217,24 @@
           ]
         }
       ]
+    },
+    {
+      "id": "098aa37a-534a-4a78-a08a-66ea59da8f1a",
+      "name_en": "Intelligent Algorithms",
+      "name_id": "Algoritma Cerdas",
+      "sub_categories": [
+        {
+          "id": "d97576e6-502a-4da3-84b3-a5c0fee3f45e",
+          "name_en": "Server",
+          "name_id": "Server",
+          "products": []
+        },
+        {
+          "id": "996c2350-54b9-4397-b497-5b79b8c7720f",
+          "name_en": "AI Algorithms",
+          "name_id": "Algoritma AI"
+        }
+      ]
     }
   ]
 }
