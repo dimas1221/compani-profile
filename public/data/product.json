@@ -940,6 +940,20 @@
               "image": "/images/uploads/smart-traffic-surveillance-camera.png",
               "name_en": "Smart Traffic Surveillance Camera",
               "short_id": "Kamera Pengawas Lalu Lintas Pintar adalah kamera pintar yang diluncurkan oleh Maxvision untuk melayani bisnis lalu lintas jalan raya"
+            },
+            {
+              "desc_id": "Speedometer Radar Serbaguna adalah peralatan penegakan hukum generasi ketiga yang dikembangkan dan diluncurkan secara independen oleh Maxvision. Peralatan ini mengadopsi desain lipat multi-layar dan memiliki beragam algoritma cerdas bawaan. Alat ini mendukung berbagai pengumpulan barang bukti ilegal dan banyak digunakan di jalan raya, jalan tol, jalan perkotaan, dan semua jenis jalan, termasuk jalan pedesaan.",
+              "short_en": "Multi-purpose Radar Speedometer is the third generation law enforcement equipment independently developed and launched by Maxvision",
+              "name_id": "Speedometer Radar Serbaguna",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Multi-purpose Radar Speedometer is the third generation law enforcement equipment independently developed and launched by Maxvision. The equipment adopts a multi-screen folding design and has a variety of built-in intelligent algorithms. It supports a variety of illegal evidence collection and is widely used in highways, expressways, urban roads and all roads and all scenes including rural roads.",
+              "id": "86e1acce-5308-4179-be8b-0b3dcad392a3",
+              "image": "/images/uploads/multi-purpose-radar-speedometer.png",
+              "name_en": "Multi-purpose Radar Speedometer",
+              "short_id": "Speedometer Radar Serbaguna adalah peralatan penegakan hukum generasi ketiga yang dikembangkan dan diluncurkan secara independen oleh Maxvision"
             }
           ]
         },
