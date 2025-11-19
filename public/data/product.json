@@ -1143,6 +1143,20 @@
               "image": "/images/uploads/fire-fighting-robot-smoke-extracting.png",
               "name_en": "Fire Fighting Robot - Smoke Extracting",
               "short_id": "Robot Pemadam Kebakaran (Penghisap Asap) adalah jenis robot pemadam kebakaran khusus yang berperan penting dalam operasi pemadaman kebakaran dan penyelamatan. "
+            },
+            {
+              "desc_id": "Robot Pemadam Kebakaran (Penyemprotan Busa) adalah perangkat yang dirancang khusus untuk tugas pemadaman kebakaran. Perangkat ini terutama digunakan di area berbahaya seperti lokasi petrokimia, tangki minyak, gudang besar, dan bangunan di mana suhu tinggi, radiasi panas yang intens, dan potensi keruntuhan menyulitkan akses truk pemadam kebakaran dan personel. Dengan menggunakan robot busa pemadam kebakaran, korban jiwa personel dapat dihindari, dan pemadaman serta pendinginan yang efektif dapat tercapai.",
+              "short_en": "Fire Fighting Robot (Foam Spraying) is a device specifically designed for firefighting tasks",
+              "name_id": "Robot Pemadam Kebakaran - Penyemprotan Busa",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Fire Fighting Robot (Foam Spraying) is a device specifically designed for firefighting tasks. It is primarily used in hazardous areas like petrochemical sites, oil tank farms, large warehouses, and buildings where high temperatures, intense heat radiation, and potential collapses make it difficult for fire trucks and personnel to access. By using the firefighting foam robot, personnel casualties can be avoided, and effective firefighting and cooling can be achieved.",
+              "id": "c28240a9-c3d8-4330-9c1e-b295cec00e3e",
+              "image": "/images/uploads/fire-fighting-robot-foam-spraying.png",
+              "name_en": "Fire Fighting Robot - Foam Spraying",
+              "short_id": "Robot Pemadam Kebakaran (Penyemprotan Busa) adalah perangkat yang dirancang khusus untuk tugas pemadaman kebakaran"
             }
           ]
         },
