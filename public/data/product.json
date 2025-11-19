@@ -1086,7 +1086,23 @@
         {
           "id": "3e41fd47-8fe9-47ff-8848-aa4a81eaa75f",
           "name_en": "Platform",
-          "name_id": "Platform"
+          "name_id": "Platform",
+          "products": [
+            {
+              "desc_id": "Platform Manajemen Lalu Lintas Cerdas Maxvision adalah seperangkat sistem manajemen integrasi peralatan yang melayani bisnis lalu lintas perkotaan. Platform ini mengadopsi desain arsitektur perangkat lunak berlapis, mengintegrasikan teknologi canggih seperti persepsi multidimensi, integrasi data, pengembangan aplikasi, dll. Platform ini juga menyediakan aplikasi bisnis bagi departemen penegakan hukum lalu lintas seperti manajemen tampilan, manajemen kendaraan yang menyalip, manajemen kendaraan ilegal, dan riset komprehensif untuk mencapai kendali lalu lintas perkotaan yang komprehensif.",
+              "short_en": "Maxvision Intelligent Traffic Management Platform is a set of equipment integration management system serving urban traffic business",
+              "name_id": "Platform Manajemen Transportasi Cerdas",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Maxvision Intelligent Traffic Management Platform is a set of equipment integration management system serving urban traffic business. It adopts multi-layer software architecture design, integrates advanced technologies such as multi-dimensional perception, data integration, application development,etc. And it provides traffic law enforcement departments with business applications such as view management, vehicle passing management, illegal management, comprehensive research to achieve comprehensive control of urban traffic.",
+              "id": "d9a0e47b-ffd4-4d9e-bd01-44cb91490cda",
+              "image": "/images/uploads/intelligent-transportation-management-platform.png",
+              "name_en": "Intelligent Transportation Management Platform",
+              "short_id": "Platform Manajemen Lalu Lintas Cerdas Maxvision adalah seperangkat sistem manajemen integrasi peralatan yang melayani bisnis lalu lintas perkotaan"
+            }
+          ]
         }
       ]
     }
