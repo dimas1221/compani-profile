@@ -1163,7 +1163,23 @@
         {
           "id": "050014f1-aa7e-432d-b89c-3522f78183ce",
           "name_en": "Cleaning Robot",
-          "name_id": "Robot Pembersih"
+          "name_id": "Robot Pembersih",
+          "products": [
+            {
+              "desc_id": "Robot Pembersih Cerdas Dalam Ruangan ini mengintegrasikan fungsi menyapu, menggosok, menyedot debu, dan mengepel debu dalam satu unit. Didukung oleh fusi sensor canggih, pembelajaran mendalam, navigasi otonom, dan teknologi kendali gerak, robot ini dilengkapi sistem pembersihan cerdas yang mampu membersihkan lantai secara otomatis, mengumpulkan sampah, mengisi ulang dan menguras air secara otomatis, serta mengisi daya sendiri. Dirancang untuk beroperasi secara efisien di lingkungan dalam ruangan yang kompleks, robot ini memberikan layanan pembersihan cerdas 24 jam yang secara signifikan meningkatkan efisiensi operasional dan mengurangi biaya tenaga kerja. Ideal untuk digunakan di gedung perkantoran, hotel, pusat perbelanjaan, dan pusat transportasi.",
+              "short_en": "The Indoor Intelligent Cleaning Robot integrates sweeping, scrubbing, vacuuming, and dust-mopping into a single unit",
+              "name_id": "Robot Pembersih Cerdas Dalam Ruangan",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Indoor Intelligent Cleaning Robot integrates sweeping, scrubbing, vacuuming, and dust-mopping into a single unit. Powered by advanced sensor fusion, deep learning, autonomous navigation, and motion control technologies, it features a smart cleaning system capable of autonomous floor cleaning, waste collection, auto water refill and drainage, and self-charging. Designed to operate efficiently in complex indoor environments, it delivers intelligent, around-the-clock cleaning services that significantly improve operational efficiency and reduce labor costs. Ideal for use in office buildings, hotels, shopping malls, and transportation hubs.",
+              "id": "6dae28eb-938e-4d17-9143-302c24024757",
+              "image": "/images/uploads/indoor-intelligent-cleaning-robot.png",
+              "name_en": "Indoor Intelligent Cleaning Robot",
+              "short_id": "Robot Pembersih Cerdas Dalam Ruangan ini mengintegrasikan fungsi menyapu, menggosok, menyedot debu, dan mengepel debu dalam satu unit"
+            }
+          ]
         },
         {
           "id": "67db5356-a892-4d4e-9348-1750507aecf9",
