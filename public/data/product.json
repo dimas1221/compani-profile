@@ -800,6 +800,20 @@
               "image": "/images/uploads/truck-booking-management-platform.png",
               "name_en": "Truck Booking Management Platform",
               "short_id": "Sistem Manajemen Pemesanan Truk adalah aplikasi cerdas yang dirancang untuk mengelola dan mengoordinasikan arus truk di terminal pelabuhan secara efisien"
+            },
+            {
+              "desc_id": "Mesin ANPR All-in-one adalah solusi all-in-one bertenaga AI yang dirancang untuk mengidentifikasi pelat nomor dari berbagai negara secara akurat. Dilengkapi dengan algoritma pembelajaran mendalam (deep learning) yang tertanam, perangkat ini merekam dan menganalisis aliran video secara real-time untuk menghasilkan pengenalan yang cepat dan andal di berbagai format pelat. Ringkas dan mudah digunakan, sistem ini ideal untuk kontrol akses kendaraan di kompleks perumahan, pusat perbelanjaan, sekolah, rumah sakit, bandara, kawasan industri, dan fasilitas parkir umum—memungkinkan manajemen lalu lintas yang lebih cerdas dan integrasi yang mulus ke dalam infrastruktur mobilitas modern.",
+              "short_en": "The ANPR All-in-one Machine is an Al-powered, all-in-one solution designed to accurately identify license plates from multiple countries",
+              "name_id": "Mesin ANPR All-in-One",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The ANPR All-in-one Machine is an Al-powered, all-in-one solution designed to accurately identify license plates from multiple countries. Equipped with embedded deep learning algorithms, the device captures and analyzes video streams in real time to deliver fast, reliable recognition across a wide range of plate formats. Compact and easy to deploy, the system is ideal for vehicle access control in residential complexes, shopping centers, schools, hospitals, airports, industrial parks, and public parking facilities-enabling smarter traffic management and seamless integration into modern mobility infrastructures.",
+              "id": "88ee28a3-f88e-413f-a7fc-97353b7d8736",
+              "image": "/images/uploads/anpr-all-in-one-machine.png",
+              "name_en": "ANPR All-in-One Machine",
+              "short_id": "Mesin ANPR All-in-one adalah solusi all-in-one bertenaga AI yang dirancang untuk mengidentifikasi pelat nomor dari berbagai negara secara akurat"
             }
           ]
         }
