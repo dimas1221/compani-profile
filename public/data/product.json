@@ -982,6 +982,20 @@
               "image": "/images/uploads/intelligent-management-terminal-16.png",
               "name_en": "Intelligent Management Terminal - 16",
               "short_id": "Terminal Manajemen Cerdas (16) dari Maxvision adalah terminal cerdas multifungsi generasi terbaru yang dirancang untuk manajemen persimpangan terpusat"
+            },
+            {
+              "desc_id": "Terminal Manajemen Cerdas Maxvision adalah sistem cerdas untuk manajemen dan analisis persimpangan terpusat. Sistem ini memecahkan masalah penyimpanan gambar, pengunggahan, dan akses video beberapa kamera di persimpangan. Sistem ini memiliki beberapa algoritma cerdas bawaan. Sistem ini mendukung sintesis beberapa gambar, superimposisi karakter, statistik lalu lintas, pengukuran kecepatan interval, pelepasan ilegal, dan fungsi lainnya, yang dapat memenuhi kebutuhan penyebaran persimpangan dan penyebaran pusat jaringan. Sistem ini banyak digunakan untuk berbagai skenario aplikasi seperti pos pemeriksaan, polisi elektronik, pemantauan jalan, dll., untuk mencapai manajemen dan analisis cerdas 24 jam.",
+              "short_en": "Maxvision Intelligent Management Terminal is an intelligent system for centralized management and analysis of intersections, which solves the problems of image storage, uploading, and video access of multiple cameras at intersections",
+              "name_id": "Terminal Manajemen Cerdas - 4",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Maxvision Intelligent Management Terminal is an intelligent system for centralized management and analysis of intersections, which solves the problems of image storage, uploading, and video access of multiple cameras at intersections. and has multiple intelligent algorithms built in, It supports multiple image synthesis, character superimposition, traffic statistics, interval speed measurement, illegal release, and other functions, which can meet the needs of intersection deployment and network center deployment. It is widely applied to various application scenarios such as checkpoints, electronic police, road monitoring etc., to achieve 24-hour intelligent management and analysis.",
+              "id": "c3944dce-be30-43d8-8c17-e8b973773ed8",
+              "image": "/images/uploads/intelligent-management-terminal-4.jpeg",
+              "name_en": "Intelligent Management Terminal - 4",
+              "short_id": "Terminal Manajemen Cerdas Maxvision adalah sistem cerdas untuk manajemen dan analisis persimpangan terpusat. Sistem ini memecahkan masalah penyimpanan gambar, pengunggahan, dan akses video beberapa kamera di persimpangan"
             }
           ]
         },
