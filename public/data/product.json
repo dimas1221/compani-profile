@@ -1198,7 +1198,23 @@
         {
           "id": "67db5356-a892-4d4e-9348-1750507aecf9",
           "name_en": "Under-vehicle Inspection Robot",
-          "name_id": "Robot Inspeksi Bawah Kendaraan"
+          "name_id": "Robot Inspeksi Bawah Kendaraan",
+          "products": [
+            {
+              "desc_id": "Robot Pengawas Bawah Kendaraan adalah perangkat portabel untuk memeriksa bagian bawah kendaraan. Dilengkapi dengan fungsi-fungsi seperti LPR otomatis, tampilan HD gambar bawah kendaraan, dan pengenalan posisi yang dicurigai. Robot ini ringkas, mobile, dan mudah digunakan, serta dapat menyelesaikan pemeriksaan bawah kendaraan secara otomatis dengan satu klik. Robot ini cocok untuk kontrol dan inspeksi kendaraan sementara di tempat-tempat seperti bea cukai, inspeksi perbatasan, manajemen perbatasan, pos pemeriksaan keamanan publik, acara berskala besar, dan keamanan konferensi penting.",
+              "short_en": "The Under-Vehicle Surveilance Robot is a portable device for inspecting the vehicle bottom",
+              "name_id": "Robot Pengawasan Bawah Kendaraan",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Under-Vehicle Surveilance Robot is a portable device for inspecting the vehicle bottom. It equipped with functions such as automatic LPR,HD display of vehicle bottom images, and suspected position recognition. The robot is compact, mobile, and easy to deploy, can automatically complete vehicle bottom inspection with one click, It is suitable or temporary vehicle control and inspection in places such as customs, border inspection, border management, public security checkpoints, large-scale events, and important conference security.",
+              "id": "875ac6ff-085c-4abc-81c4-ab3e874f4c44",
+              "image": "/images/uploads/surveillance2.png",
+              "name_en": "Under-vehicle Surveillance Robot",
+              "short_id": "Robot Pengawas Bawah Kendaraan adalah perangkat portabel untuk memeriksa bagian bawah kendaraan"
+            }
+          ]
         }
       ]
     }
