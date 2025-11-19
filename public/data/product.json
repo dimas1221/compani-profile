@@ -1318,6 +1318,20 @@
               "image": "/images/uploads/personnel-bahavior-analysis-algorithms.png",
               "name_en": "Personnel Bahavior Analysis Algorithms",
               "short_id": "Algoritma Analisis Perilaku Personel memanfaatkan teknologi pembelajaran mendalam dan visi komputer untuk mengidentifikasi dan menganalisis perilaku manusia tertentu secara cerdas"
+            },
+            {
+              "desc_id": "Algoritma Pemantauan Keselamatan Operasional memanfaatkan visi komputer canggih dan teknologi pembelajaran mendalam, yang dirancang khusus untuk melindungi personel di lingkungan kerja berisiko tinggi. Algoritma ini menyediakan pemantauan waktu nyata dan pengenalan otomatis perilaku pekerja dan alat pelindung diri, memastikan kepatuhan terhadap peraturan keselamatan dan mengidentifikasi potensi bahaya dengan cepat. Banyak digunakan di sektor konstruksi, pertambangan, dan industri, algoritma ini secara signifikan mengurangi risiko insiden keselamatan dan meningkatkan efisiensi manajemen keselamatan di lokasi.",
+              "short_en": "Operational Safety Monitoring Algorithms leverage advanced computer vision and deep learning technologies, designed specifically to safeguard personnel in high-risk work environments",
+              "name_id": "Algoritma Pemantauan Keselamatan Operasional",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Operational Safety Monitoring Algorithms leverage advanced computer vision and deep learning technologies, designed specifically to safeguard personnel in high-risk work environments. These algorithms provide real-time monitoring and automatic recognition of worker behaviors and protective gear, ensuring compliance with safety regulations and promptly identifying potential hazards. Widely used in construction, mining, and industrial sectors, they significantly reduce the risk of safety incidents and enhance on-site safety management efficiency.",
+              "id": "da99ce22-934d-4900-9d48-f9a4cd0d8a64",
+              "image": "/images/uploads/operational-safety-monitoring-algorithms.png",
+              "name_en": "Operational Safety Monitoring Algorithms",
+              "short_id": "Algoritma Pemantauan Keselamatan Operasional memanfaatkan visi komputer canggih dan teknologi pembelajaran mendalam, yang dirancang khusus untuk melindungi personel di lingkungan kerja berisiko tinggi"
             }
           ]
         }
