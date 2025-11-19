@@ -1,0 +1,20 @@
+{
+  "id": "c28240a9-c3d8-4330-9c1e-b295cec00e3e",
+  "name_en": "Fire Fighting Robot - Foam Spraying",
+  "name_id": "Robot Pemadam Kebakaran - Penyemprotan Busa",
+  "short_en": "Fire Fighting Robot (Foam Spraying) is a device specifically designed for firefighting tasks",
+  "short_id": "Robot Pemadam Kebakaran (Penyemprotan Busa) adalah perangkat yang dirancang khusus untuk tugas pemadaman kebakaran",
+  "desc_en": "Fire Fighting Robot (Foam Spraying) is a device specifically designed for firefighting tasks. It is primarily used in hazardous areas like petrochemical sites, oil tank farms, large warehouses, and buildings where high temperatures, intense heat radiation, and potential collapses make it difficult for fire trucks and personnel to access. By using the firefighting foam robot, personnel casualties can be avoided, and effective firefighting and cooling can be achieved.",
+  "desc_id": "Robot Pemadam Kebakaran (Penyemprotan Busa) adalah perangkat yang dirancang khusus untuk tugas pemadaman kebakaran. Perangkat ini terutama digunakan di area berbahaya seperti lokasi petrokimia, tangki minyak, gudang besar, dan bangunan di mana suhu tinggi, radiasi panas yang intens, dan potensi keruntuhan menyulitkan akses truk pemadam kebakaran dan personel. Dengan menggunakan robot busa pemadam kebakaran, korban jiwa personel dapat dihindari, dan pemadaman serta pendinginan yang efektif dapat tercapai.",
+  "main_category_id": "77a88fcb-777e-4860-a9ce-c2cbb78816e5",
+  "main_category_en": "Intelligent Robot",
+  "main_category_id_name": "Robot Cerdas",
+  "sub_category_id": "90d5598a-e102-4889-b286-2695f8272642",
+  "sub_category_en": "Firefighting Robot",
+  "sub_category_id_name": "Robot Pemadam Kebakaran",
+  "image": "/images/uploads/fire-fighting-robot-foam-spraying.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

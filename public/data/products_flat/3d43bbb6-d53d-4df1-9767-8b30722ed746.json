@@ -1,0 +1,20 @@
+{
+  "id": "3d43bbb6-d53d-4df1-9767-8b30722ed746",
+  "name_en": "Integrated Control System",
+  "name_id": "Sistem Kontrol Terpadu",
+  "short_en": "The Integrated Control System is a product for centralized control of lane inspection equipment",
+  "short_id": "Sistem Kontrol Terpadu adalah produk untuk kontrol terpusat peralatan inspeksi lajur",
+  "desc_en": "The Integrated Control System is a product for centralized control of lane inspection equipment. The equipment can linkage control the ground sensing, traffic guidance lights, interactive anti-smashing system, anti-break-in system, barrier gates, lifting column and other equipment in the lane. It has functions such as remote control, terminal access equipment self-inspection, online upgrades, etc., and it can achieve the efficient lane control on one machine and ensure safe and orderly inspection. It is suitable for scenes such as checkpoints in campuses, ports, airports, andvarious special supervision areas.",
+  "desc_id": "Sistem Kontrol Terpadu adalah produk untuk kontrol terpusat peralatan inspeksi lajur. Peralatan ini dapat menghubungkan kontrol sensor tanah, lampu lalu lintas, sistem anti-tabrakan interaktif, sistem anti-bobol, gerbang pembatas, kolom pengangkat, dan peralatan lainnya di lajur. Sistem ini memiliki fungsi seperti kendali jarak jauh, inspeksi mandiri peralatan akses terminal, peningkatan daring, dll., dan dapat mencapai kontrol lajur yang efisien dalam satu mesin serta memastikan inspeksi yang aman dan tertib. Sistem ini cocok untuk lokasi seperti pos pemeriksaan di kampus, pelabuhan, bandara, dan berbagai area pengawasan khusus.",
+  "main_category_id": "35280ea7-5b63-4ffd-affd-b72dd6ccb6ed",
+  "main_category_en": "Vehicle Security",
+  "main_category_id_name": "Keamanan Kendaraan",
+  "sub_category_id": "c1fb6f30-0359-4590-ba0c-da498b74285e",
+  "sub_category_en": "Customs Authority",
+  "sub_category_id_name": "Otoritas Bea Cukai",
+  "image": "/images/uploads/integrated-control-system.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

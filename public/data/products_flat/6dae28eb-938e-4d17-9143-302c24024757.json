@@ -1,0 +1,20 @@
+{
+  "id": "6dae28eb-938e-4d17-9143-302c24024757",
+  "name_en": "Indoor Intelligent Cleaning Robot",
+  "name_id": "Robot Pembersih Cerdas Dalam Ruangan",
+  "short_en": "The Indoor Intelligent Cleaning Robot integrates sweeping, scrubbing, vacuuming, and dust-mopping into a single unit",
+  "short_id": "Robot Pembersih Cerdas Dalam Ruangan ini mengintegrasikan fungsi menyapu, menggosok, menyedot debu, dan mengepel debu dalam satu unit",
+  "desc_en": "The Indoor Intelligent Cleaning Robot integrates sweeping, scrubbing, vacuuming, and dust-mopping into a single unit. Powered by advanced sensor fusion, deep learning, autonomous navigation, and motion control technologies, it features a smart cleaning system capable of autonomous floor cleaning, waste collection, auto water refill and drainage, and self-charging. Designed to operate efficiently in complex indoor environments, it delivers intelligent, around-the-clock cleaning services that significantly improve operational efficiency and reduce labor costs. Ideal for use in office buildings, hotels, shopping malls, and transportation hubs.",
+  "desc_id": "Robot Pembersih Cerdas Dalam Ruangan ini mengintegrasikan fungsi menyapu, menggosok, menyedot debu, dan mengepel debu dalam satu unit. Didukung oleh fusi sensor canggih, pembelajaran mendalam, navigasi otonom, dan teknologi kendali gerak, robot ini dilengkapi sistem pembersihan cerdas yang mampu membersihkan lantai secara otomatis, mengumpulkan sampah, mengisi ulang dan menguras air secara otomatis, serta mengisi daya sendiri. Dirancang untuk beroperasi secara efisien di lingkungan dalam ruangan yang kompleks, robot ini memberikan layanan pembersihan cerdas 24 jam yang secara signifikan meningkatkan efisiensi operasional dan mengurangi biaya tenaga kerja. Ideal untuk digunakan di gedung perkantoran, hotel, pusat perbelanjaan, dan pusat transportasi.",
+  "main_category_id": "77a88fcb-777e-4860-a9ce-c2cbb78816e5",
+  "main_category_en": "Intelligent Robot",
+  "main_category_id_name": "Robot Cerdas",
+  "sub_category_id": "050014f1-aa7e-432d-b89c-3522f78183ce",
+  "sub_category_en": "Cleaning Robot",
+  "sub_category_id_name": "Robot Pembersih",
+  "image": "/images/uploads/indoor-intelligent-cleaning-robot.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

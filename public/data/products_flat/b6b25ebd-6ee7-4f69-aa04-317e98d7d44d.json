@@ -1,0 +1,20 @@
+{
+  "id": "b6b25ebd-6ee7-4f69-aa04-317e98d7d44d",
+  "name_en": "Exit Lane Inspection and Control System",
+  "name_id": "Sistem Inspeksi dan Kontrol Jalur Keluar",
+  "short_en": "The Exit Lane Inspection and Control System is an intelligent inspection system that detects the position of vehicles at lane exits in real-timeand automatically checks and releases the vehicles",
+  "short_id": "Sistem Inspeksi dan Kontrol Jalur Keluar adalah sistem inspeksi cerdas yang mendeteksi posisi kendaraan di jalur keluar secara real-time dan secara otomatis memeriksa serta melepaskan kendaraan",
+  "desc_en": "The Exit Lane Inspection and Control System is an intelligent inspection system that detects the position of vehicles at lane exits in real-timeand automatically checks and releases the vehicles. The equipment is linked with the lane inspection platform to realize real-time monitoring of the location and traffic direction status of exit vehicles, and automatic control of the gate inspection. The device integrates license plate recognition, online OTA upgrade, interactive anti-smashing and other intelligent functions to effectively realize safe and efficient vehicle inspection and passage. This product can be widely used invehicle export scenarios such as transportation, airports, and ports.",
+  "desc_id": "Sistem Inspeksi dan Kontrol Jalur Keluar adalah sistem inspeksi cerdas yang mendeteksi posisi kendaraan di jalur keluar secara real-time dan secara otomatis memeriksa serta melepaskan kendaraan. Peralatan ini terhubung dengan platform inspeksi jalur untuk memantau lokasi dan status arah lalu lintas kendaraan keluar secara real-time, serta mengontrol inspeksi gerbang secara otomatis. Perangkat ini mengintegrasikan pengenalan plat nomor, peningkatan OTA daring, anti-smashing interaktif, dan fungsi cerdas lainnya untuk mewujudkan inspeksi dan perjalanan kendaraan yang aman dan efisien. Produk ini dapat digunakan secara luas dalam berbagai skenario ekspor kendaraan seperti transportasi, bandara, dan pelabuhan.",
+  "main_category_id": "35280ea7-5b63-4ffd-affd-b72dd6ccb6ed",
+  "main_category_en": "Vehicle Security",
+  "main_category_id_name": "Keamanan Kendaraan",
+  "sub_category_id": "c1fb6f30-0359-4590-ba0c-da498b74285e",
+  "sub_category_en": "Customs Authority",
+  "sub_category_id_name": "Otoritas Bea Cukai",
+  "image": "/images/uploads/exit-lane-inspection-and-control-system.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

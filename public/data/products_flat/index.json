@@ -20,6 +20,46 @@
     ]
   },
   {
+    "id": "02b0731e-a512-4ad8-842d-e1fcd5818a63",
+    "name_en": "Intelligent Management Terminal - 16",
+    "name_id": "Terminal Manajemen Cerdas - 16",
+    "short_en": "The Intelligent Management Terminal (16) from Maxvision is a next-generation multifunctional intelligent terminal designed for centralized intersection management",
+    "short_id": "Terminal Manajemen Cerdas (16) dari Maxvision adalah terminal cerdas multifungsi generasi terbaru yang dirancang untuk manajemen persimpangan terpusat",
+    "desc_en": "The Intelligent Management Terminal (16) from Maxvision is a next-generation multifunctional intelligent terminal designed for centralized intersection management. It provides comprehensive solutions for multi-channel HD camera image/video acquisition, local storage, and data transmission.\nWith integrated intelligent algorithms, the system supports: image compositing, metadata embedding, traffic flow analysis, average speed detection, violation identification and reporting.\nEngineered for flexible deployment at intersections or network centers, the solution delivers 24/7 intelligent monitoring for applications including checkpoints, electronic police systems, and traffic surveillance.",
+    "desc_id": "Terminal Manajemen Cerdas (16) dari Maxvision adalah terminal cerdas multifungsi generasi terbaru yang dirancang untuk manajemen persimpangan terpusat. Terminal ini menyediakan solusi komprehensif untuk akuisisi gambar/video kamera HD multi-kanal, penyimpanan lokal, dan transmisi data.\nDengan algoritma cerdas terintegrasi, sistem ini mendukung: pengomposisian gambar, penyisipan metadata, analisis arus lalu lintas, deteksi kecepatan rata-rata, identifikasi pelanggaran, dan pelaporan.\nDidesain untuk penerapan fleksibel di persimpangan atau pusat jaringan, solusi ini memberikan pemantauan cerdas 24/7 untuk berbagai aplikasi termasuk pos pemeriksaan, sistem kepolisian elektronik, dan pengawasan lalu lintas.",
+    "main_category_id": "560fb570-d94d-441a-9de8-44677b1d3f64",
+    "main_category_en": "Intelligent Transportation",
+    "main_category_id_name": "Transportasi Cerdas",
+    "sub_category_id": "4b15db0d-05a8-42c7-aa80-d8e93fe090ee",
+    "sub_category_en": "Traffic Safety",
+    "sub_category_id_name": "Keselamatan Lalu Lintas",
+    "image": "/images/uploads/intelligent-management-terminal-16.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "044c8046-dff2-45fa-95a4-e4af70b9592a",
+    "name_en": "Fire Fighting Robot - Smoke Extracting",
+    "name_id": "Robot Pemadam Kebakaran - Ekstraksi Asap",
+    "short_en": "Fire Fighting Robot (Smoke Extracting) is a type of special firefighting robot that plays a crucial role in fire extinguishing and rescue operations",
+    "short_id": "Robot Pemadam Kebakaran (Penghisap Asap) adalah jenis robot pemadam kebakaran khusus yang berperan penting dalam operasi pemadaman kebakaran dan penyelamatan. ",
+    "desc_en": "Fire Fighting Robot (Smoke Extracting) is a type of special firefighting robot that plays a crucial role in fire extinguishing and rescue operations. This robot is equipped with functions such as smoke extraction, air supply, fire extinguishing, dust removal, and search and rescue. It effectively addresses issues such as the personal safety threats faced by firefighters in hazardous environments with toxic gases, oxygen deficiency, or heavy smoke, as well as the challenges of in sufficient data collection.",
+    "desc_id": "Robot Pemadam Kebakaran (Penghisap Asap) adalah jenis robot pemadam kebakaran khusus yang berperan penting dalam operasi pemadaman kebakaran dan penyelamatan. Robot ini dilengkapi dengan fungsi-fungsi seperti penyedotan asap, pasokan udara, pemadaman kebakaran, penghilangan debu, serta pencarian dan penyelamatan. Robot ini secara efektif mengatasi masalah-masalah seperti ancaman keselamatan pribadi yang dihadapi petugas pemadam kebakaran di lingkungan berbahaya dengan gas beracun, kekurangan oksigen, atau asap tebal, serta tantangan dalam pengumpulan data yang memadai.",
+    "main_category_id": "77a88fcb-777e-4860-a9ce-c2cbb78816e5",
+    "main_category_en": "Intelligent Robot",
+    "main_category_id_name": "Robot Cerdas",
+    "sub_category_id": "90d5598a-e102-4889-b286-2695f8272642",
+    "sub_category_en": "Firefighting Robot",
+    "sub_category_id_name": "Robot Pemadam Kebakaran",
+    "image": "/images/uploads/fire-fighting-robot-smoke-extracting.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
     "id": "06a6f018-86ca-4df7-9963-33b8b93731df",
     "name_en": "Container Demage Detection System",
     "name_id": "Sistem Deteksi Kerusakan Kontainer",
@@ -74,6 +114,26 @@
     "sub_category_en": "Customs Authority",
     "sub_category_id_name": "Otoritas Bea Cukai",
     "image": "/images/uploads/customs_risk_management_platform.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "081acea7-681f-438c-90a9-a35173ea9db4",
+    "name_en": "AI Dual-Mode Intelligent PTZ Camera",
+    "name_id": "Kamera PTZ Cerdas Mode Ganda AI",
+    "short_en": "Maxvision Al Dual-Mode Intelligent PTZ Camera adopts dual-mode architecture design, built-in Al deep learning algorithm, binocular collaboration, taking into account details, full panoramic coverage, covering various scenes such as people, vehicles, roads, etc.",
+    "short_id": "Kamera PTZ Cerdas Mode Ganda Maxvision Al mengadopsi desain arsitektur mode ganda, algoritma pembelajaran mendalam Al bawaan, kolaborasi binokular, mempertimbangkan detail, cakupan panorama penuh, mencakup berbagai pemandangan seperti orang, kendaraan, jalan, dll",
+    "desc_en": "Maxvision Al Dual-Mode Intelligent PTZ Camera adopts dual-mode architecture design, built-in Al deep learning algorithm, binocular collaboration, taking into account details, full panoramic coverage, covering various scenes such as people, vehicles, roads, etc., comprehensively meet the specific needs of the industry.",
+    "desc_id": "Kamera PTZ Cerdas Mode Ganda Maxvision Al mengadopsi desain arsitektur mode ganda, algoritma pembelajaran mendalam Al bawaan, kolaborasi binokular, mempertimbangkan detail, cakupan panorama penuh, mencakup berbagai pemandangan seperti orang, kendaraan, jalan, dll., secara komprehensif memenuhi kebutuhan spesifik industri.",
+    "main_category_id": "560fb570-d94d-441a-9de8-44677b1d3f64",
+    "main_category_en": "Intelligent Transportation",
+    "main_category_id_name": "Transportasi Cerdas",
+    "sub_category_id": "4b15db0d-05a8-42c7-aa80-d8e93fe090ee",
+    "sub_category_en": "Traffic Safety",
+    "sub_category_id_name": "Keselamatan Lalu Lintas",
+    "image": "/images/uploads/ai-dual-mode-intelligent-ptz-camera.png",
     "compatibility": [
       "wifi",
       "mqtt"
@@ -180,6 +240,26 @@
     ]
   },
   {
+    "id": "2181bcef-6ab2-4382-82e8-e9f93f123919",
+    "name_en": "Entry Lane Inspection and Control System",
+    "name_id": "Sistem Inspeksi dan Kontrol Jalur Masuk",
+    "short_en": "The Entry Lane Inspection and Control System that detects theposition of vehicles at the lane entrance in real-time and automatically checks and release them",
+    "short_id": "Sistem Inspeksi dan Kontrol Jalur Masuk mendeteksi posisi kendaraan di pintu masuk jalur secara real-time dan secara otomatis memeriksa serta melepaskannya",
+    "desc_en": "The Entry Lane Inspection and Control System that detects theposition of vehicles at the lane entrance in real-time and automatically checks and release them. The equipment is linked with the lane inspection platform to realize real-time monitoring of the location and traffic direction status of entrance vehicles, and automatic control of the gate release. The device integrates the license plate recognition traffic guidance, online OTA upgrades, interactive anti-smashing and other intelligent functions to effectively realize safe and efficient vehicle inspection and passage. This product can be widely used in vehicle entrance scenarios such as transportation, airports, and ports.",
+    "desc_id": "Sistem Inspeksi dan Kontrol Jalur Masuk mendeteksi posisi kendaraan di pintu masuk jalur secara real-time dan secara otomatis memeriksa serta melepaskannya. Peralatan ini terhubung dengan platform inspeksi jalur untuk memantau lokasi dan status arah lalu lintas kendaraan masuk secara real-time, serta mengontrol pelepasan gerbang secara otomatis. Perangkat ini mengintegrasikan panduan lalu lintas dengan pengenalan plat nomor, peningkatan OTA daring, anti-smashing interaktif, dan fungsi cerdas lainnya untuk mewujudkan inspeksi dan perjalanan kendaraan yang aman dan efisien. Produk ini dapat digunakan secara luas dalam skenario pintu masuk kendaraan seperti transportasi umum, bandara, dan pelabuhan.",
+    "main_category_id": "35280ea7-5b63-4ffd-affd-b72dd6ccb6ed",
+    "main_category_en": "Vehicle Security",
+    "main_category_id_name": "Keamanan Kendaraan",
+    "sub_category_id": "c1fb6f30-0359-4590-ba0c-da498b74285e",
+    "sub_category_en": "Customs Authority",
+    "sub_category_id_name": "Otoritas Bea Cukai",
+    "image": "/images/uploads/entry-lane-inspection-and-control-system.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
     "id": "2546270d-7195-4975-afde-d032316226cc",
     "name_en": "Palmprint and Palm-vein Capture Terminal",
     "name_id": "Terminal Penangkapan Jejak Telapak Tangan dan Vena Telapak Tangan",
@@ -260,6 +340,26 @@
     ]
   },
   {
+    "id": "31a5762d-8b28-4bb0-9e87-890865c8a263",
+    "name_en": "Intelligent Warning Terminal",
+    "name_id": "Terminal Peringatan Cerdas",
+    "short_en": "The Maxvision Intelligent Warning Terminal is a laser-based safety device installed at both ends of unsignalized crosswalks",
+    "short_id": "Terminal Peringatan Cerdas Maxvision adalah perangkat keselamatan berbasis laser yang dipasang di kedua ujung penyeberangan tanpa sinyal",
+    "desc_en": "The Maxvision Intelligent Warning Terminal is a laser-based safety device installed at both ends of unsignalized crosswalks. Utilizing nano-grade semiconductor lasers and precision optical lenses, the device projects 28 red laser lines onto pedestrians' lower legs the moment they step toward the zebra crossing. This creates a highly visible red warning zone that alerts approaching drivers from a distance, enabling timely response to pedestrian presence. Simultaneously, the terminal emits an audio alert to prompt pedestrians to stay aware and cross quickly, significantly improving nighttime safety at crosswalks without traffic lights.",
+    "desc_id": "Terminal Peringatan Cerdas Maxvision adalah perangkat keselamatan berbasis laser yang dipasang di kedua ujung penyeberangan tanpa sinyal. Dengan memanfaatkan laser semikonduktor nano-grade dan lensa optik presisi, perangkat ini memproyeksikan 28 garis laser merah ke kaki bagian bawah pejalan kaki saat mereka melangkah menuju zebra cross. Hal ini menciptakan zona peringatan merah yang sangat terlihat yang memperingatkan pengemudi yang mendekat dari kejauhan, memungkinkan respons tepat waktu terhadap keberadaan pejalan kaki. Bersamaan dengan itu, terminal memancarkan peringatan audio untuk mengingatkan pejalan kaki agar tetap waspada dan menyeberang dengan cepat, yang secara signifikan meningkatkan keselamatan malam hari di penyeberangan tanpa lampu lalu lintas.",
+    "main_category_id": "560fb570-d94d-441a-9de8-44677b1d3f64",
+    "main_category_en": "Intelligent Transportation",
+    "main_category_id_name": "Transportasi Cerdas",
+    "sub_category_id": "f2616f09-2ff0-4470-b346-a34246320f71",
+    "sub_category_en": "Traffic Services",
+    "sub_category_id_name": "Layanan Lalu Lintas",
+    "image": "/images/uploads/intelligent-warning-terminal.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
     "id": "386b97af-1306-45f0-bd76-9f068b2f1b3d",
     "name_en": "Embedded Palm Vein Recognition Terminal",
     "name_id": "Terminal Pengenalan Vena Telapak Tangan Tertanam",
@@ -300,6 +400,26 @@
     ]
   },
   {
+    "id": "3d43bbb6-d53d-4df1-9767-8b30722ed746",
+    "name_en": "Integrated Control System",
+    "name_id": "Sistem Kontrol Terpadu",
+    "short_en": "The Integrated Control System is a product for centralized control of lane inspection equipment",
+    "short_id": "Sistem Kontrol Terpadu adalah produk untuk kontrol terpusat peralatan inspeksi lajur",
+    "desc_en": "The Integrated Control System is a product for centralized control of lane inspection equipment. The equipment can linkage control the ground sensing, traffic guidance lights, interactive anti-smashing system, anti-break-in system, barrier gates, lifting column and other equipment in the lane. It has functions such as remote control, terminal access equipment self-inspection, online upgrades, etc., and it can achieve the efficient lane control on one machine and ensure safe and orderly inspection. It is suitable for scenes such as checkpoints in campuses, ports, airports, andvarious special supervision areas.",
+    "desc_id": "Sistem Kontrol Terpadu adalah produk untuk kontrol terpusat peralatan inspeksi lajur. Peralatan ini dapat menghubungkan kontrol sensor tanah, lampu lalu lintas, sistem anti-tabrakan interaktif, sistem anti-bobol, gerbang pembatas, kolom pengangkat, dan peralatan lainnya di lajur. Sistem ini memiliki fungsi seperti kendali jarak jauh, inspeksi mandiri peralatan akses terminal, peningkatan daring, dll., dan dapat mencapai kontrol lajur yang efisien dalam satu mesin serta memastikan inspeksi yang aman dan tertib. Sistem ini cocok untuk lokasi seperti pos pemeriksaan di kampus, pelabuhan, bandara, dan berbagai area pengawasan khusus.",
+    "main_category_id": "35280ea7-5b63-4ffd-affd-b72dd6ccb6ed",
+    "main_category_en": "Vehicle Security",
+    "main_category_id_name": "Keamanan Kendaraan",
+    "sub_category_id": "c1fb6f30-0359-4590-ba0c-da498b74285e",
+    "sub_category_en": "Customs Authority",
+    "sub_category_id_name": "Otoritas Bea Cukai",
+    "image": "/images/uploads/integrated-control-system.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
     "id": "3f16729a-dbe5-4bd9-8134-11657e80fd7a",
     "name_en": "Multi-Biometric Capture Terminal (Face)",
     "name_id": "Terminal Pengambilan Multi-Biometrik (Wajah)",
@@ -334,6 +454,26 @@
     "sub_category_en": "Customs Authority",
     "sub_category_id_name": "Otoritas Bea Cukai",
     "image": "/images/uploads/infrared_thermometer.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "475dcd8e-2db7-4a71-b18e-817be0174382",
+    "name_en": "Traffic Incident Detection Algorithms",
+    "name_id": "Algoritma Deteksi Insiden Lalu Lintas",
+    "short_en": "Powered by deep learning and video analytics, the Traffic Incident Detection Algorithm suite accurately identifies a wide range of abnormal driving behaviors and risk events-including illegal parking, wrong-way driving, congestion, etc.",
+    "short_id": "Didukung oleh pembelajaran mendalam dan analitik video, rangkaian Algoritma Deteksi Insiden Lalu Lintas secara akurat mengidentifikasi berbagai perilaku mengemudi abnormal dan peristiwa berisiko—termasuk parkir ilegal, mengemudi di jalur yang salah, kemacetan, dll.",
+    "desc_en": "Powered by deep learning and video analytics, the Traffic Incident Detection Algorithm suite accurately identifies a wide range of abnormal driving behaviors and risk events-including illegal parking, wrong-way driving, congestion, fatigue driving, pedestrian or animal intrusion, object dropping, emergency lane occupation, and lane departure. The system also incorporates intelligent driver attribute recognition, enabling comprehensive situational awareness of traffic participants. Designed for complex environments such as urban roads, highways, and transportation hubs, it enhances traffic management with greater automation, precision, and responsiveness.",
+    "desc_id": "Didukung oleh pembelajaran mendalam dan analitik video, rangkaian Algoritma Deteksi Insiden Lalu Lintas secara akurat mengidentifikasi berbagai perilaku mengemudi abnormal dan peristiwa berisiko—termasuk parkir ilegal, mengemudi di jalur yang salah, kemacetan, mengemudi karena kelelahan, gangguan pejalan kaki atau hewan, menjatuhkan benda, penggunaan jalur darurat, dan keluar jalur. Sistem ini juga menggabungkan pengenalan atribut pengemudi yang cerdas, yang memungkinkan kesadaran situasional yang komprehensif terhadap peserta lalu lintas. Dirancang untuk lingkungan kompleks seperti jalan perkotaan, jalan tol, dan pusat transportasi, sistem ini meningkatkan manajemen lalu lintas dengan otomatisasi, presisi, dan respons yang lebih baik.",
+    "main_category_id": "098aa37a-534a-4a78-a08a-66ea59da8f1a",
+    "main_category_en": "Intelligent Algorithms",
+    "main_category_id_name": "Algoritma Cerdas",
+    "sub_category_id": "996c2350-54b9-4397-b497-5b79b8c7720f",
+    "sub_category_en": "AI Algorithms",
+    "sub_category_id_name": "Algoritma AI",
+    "image": "/images/uploads/traffic-incident-detection-algorithms.png",
     "compatibility": [
       "wifi",
       "mqtt"
@@ -400,6 +540,26 @@
     ]
   },
   {
+    "id": "4bbfd80d-2603-4041-9a89-48ddf69f46d0",
+    "name_en": "Intelligent Traffic Signal Controller",
+    "name_id": "Pengendali Sinyal Lalu Lintas Cerdas",
+    "short_en": "The Maxvision Intelligent Traffic Signal Controller is a networked coordination device designed for managing traffic signals at road intersections",
+    "short_id": "Pengendali Sinyal Lalu Lintas Cerdas Maxvision adalah perangkat koordinasi jaringan yang dirancang untuk mengelola sinyal lalu lintas di persimpangan jalan. ",
+    "desc_en": "The Maxvision Intelligent Traffic Signal Controller is a networked coordination device designed for managing traffic signals at road intersections. It supports multiple control modes including fixed-time, actuated, and adaptive control, enabling flexible scheduling based on real-time traffic conditions. The controller features reliable fault monitoring and alerting, versatile communication interfaces, and manual override capabilities, making it suitable for various urban road applications such as T-junctions, crossroads, and on/off-ramps.",
+    "desc_id": "Pengendali Sinyal Lalu Lintas Cerdas Maxvision adalah perangkat koordinasi jaringan yang dirancang untuk mengelola sinyal lalu lintas di persimpangan jalan. Perangkat ini mendukung berbagai mode kontrol, termasuk kontrol waktu tetap, aktuasi, dan adaptif, yang memungkinkan penjadwalan fleksibel berdasarkan kondisi lalu lintas waktu nyata. Pengendali ini dilengkapi pemantauan dan peringatan gangguan yang andal, antarmuka komunikasi yang serbaguna, dan kemampuan penggantian manual, sehingga cocok untuk berbagai aplikasi jalan perkotaan seperti persimpangan berbentuk T, persimpangan jalan, dan jalur masuk/keluar.",
+    "main_category_id": "560fb570-d94d-441a-9de8-44677b1d3f64",
+    "main_category_en": "Intelligent Transportation",
+    "main_category_id_name": "Transportasi Cerdas",
+    "sub_category_id": "97ac00cd-3d66-418e-bbf3-e47ee7f8f5a0",
+    "sub_category_en": "Traffic Efficiency",
+    "sub_category_id_name": "Efisiensi Lalu Lintas",
+    "image": "/images/uploads/intelligent-traffic-signal-controller.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
     "id": "4d286693-a6d3-4f8f-ae03-dc8f4bbc4507",
     "name_en": "Multi-Biometric Capture Terminal (Iris)",
     "name_id": "Terminal Pengambilan Multi-Biometrik (Iris)",
@@ -434,6 +594,26 @@
     "sub_category_en": "Immigration Authority",
     "sub_category_id_name": "Otoritas Imigrasi",
     "image": "/images/uploads/portable-under-vehicle-surveilance-system.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "596364e0-bc3d-4c08-afe7-dce2c08d8d5c",
+    "name_en": "Vehicle Recognition and Detection Algorithms",
+    "name_id": "Algoritma Pengenalan dan Deteksi Kendaraan",
+    "short_en": "The Vehicle Recognition and Detection Algorithms class encompasses a series of advanced intelligent algorithms based on deep learning, computer vision, and image processing technologies",
+    "short_id": "Kelas Algoritma Pengenalan dan Deteksi Kendaraan mencakup serangkaian algoritma cerdas canggih berbasis pembelajaran mendalam, visi komputer, dan teknologi pemrosesan gambar",
+    "desc_en": "The Vehicle Recognition and Detection Algorithms class encompasses a series of advanced intelligent algorithms based on deep learning, computer vision, and image processing technologies. These algorithms are widely applied in fields such as traffic management, logistics monitoring, and intelligent security. They enable the automated identification and analysis of vehicles and related identifiers, covering functionalities such as license plate recognition, vehicle attribute identification, traffic flow analysis, and parking status detection. Capable of efficiently and accurately processing complex image and video data in various environmental conditions, these algorithms significantly enhance automation and intelligent decision-making across industries like traffic management, logistics, and security.",
+    "desc_id": "Kelas Algoritma Pengenalan dan Deteksi Kendaraan mencakup serangkaian algoritma cerdas canggih berbasis pembelajaran mendalam, visi komputer, dan teknologi pemrosesan gambar. Algoritma ini banyak digunakan di berbagai bidang seperti manajemen lalu lintas, pemantauan logistik, dan keamanan cerdas. Algoritma ini memungkinkan identifikasi dan analisis otomatis kendaraan dan pengenal terkait, yang mencakup fungsi-fungsi seperti pengenalan plat nomor, identifikasi atribut kendaraan, analisis arus lalu lintas, dan deteksi status parkir. Mampu memproses data gambar dan video kompleks secara efisien dan akurat dalam berbagai kondisi lingkungan, algoritma ini secara signifikan meningkatkan otomatisasi dan pengambilan keputusan cerdas di berbagai industri seperti manajemen lalu lintas, logistik, dan keamanan.",
+    "main_category_id": "098aa37a-534a-4a78-a08a-66ea59da8f1a",
+    "main_category_en": "Intelligent Algorithms",
+    "main_category_id_name": "Algoritma Cerdas",
+    "sub_category_id": "996c2350-54b9-4397-b497-5b79b8c7720f",
+    "sub_category_en": "AI Algorithms",
+    "sub_category_id_name": "Algoritma AI",
+    "image": "/images/uploads/vehicle-recognition-and-detection-algorithms.png",
     "compatibility": [
       "wifi",
       "mqtt"
@@ -560,6 +740,26 @@
     ]
   },
   {
+    "id": "6dae28eb-938e-4d17-9143-302c24024757",
+    "name_en": "Indoor Intelligent Cleaning Robot",
+    "name_id": "Robot Pembersih Cerdas Dalam Ruangan",
+    "short_en": "The Indoor Intelligent Cleaning Robot integrates sweeping, scrubbing, vacuuming, and dust-mopping into a single unit",
+    "short_id": "Robot Pembersih Cerdas Dalam Ruangan ini mengintegrasikan fungsi menyapu, menggosok, menyedot debu, dan mengepel debu dalam satu unit",
+    "desc_en": "The Indoor Intelligent Cleaning Robot integrates sweeping, scrubbing, vacuuming, and dust-mopping into a single unit. Powered by advanced sensor fusion, deep learning, autonomous navigation, and motion control technologies, it features a smart cleaning system capable of autonomous floor cleaning, waste collection, auto water refill and drainage, and self-charging. Designed to operate efficiently in complex indoor environments, it delivers intelligent, around-the-clock cleaning services that significantly improve operational efficiency and reduce labor costs. Ideal for use in office buildings, hotels, shopping malls, and transportation hubs.",
+    "desc_id": "Robot Pembersih Cerdas Dalam Ruangan ini mengintegrasikan fungsi menyapu, menggosok, menyedot debu, dan mengepel debu dalam satu unit. Didukung oleh fusi sensor canggih, pembelajaran mendalam, navigasi otonom, dan teknologi kendali gerak, robot ini dilengkapi sistem pembersihan cerdas yang mampu membersihkan lantai secara otomatis, mengumpulkan sampah, mengisi ulang dan menguras air secara otomatis, serta mengisi daya sendiri. Dirancang untuk beroperasi secara efisien di lingkungan dalam ruangan yang kompleks, robot ini memberikan layanan pembersihan cerdas 24 jam yang secara signifikan meningkatkan efisiensi operasional dan mengurangi biaya tenaga kerja. Ideal untuk digunakan di gedung perkantoran, hotel, pusat perbelanjaan, dan pusat transportasi.",
+    "main_category_id": "77a88fcb-777e-4860-a9ce-c2cbb78816e5",
+    "main_category_en": "Intelligent Robot",
+    "main_category_id_name": "Robot Cerdas",
+    "sub_category_id": "050014f1-aa7e-432d-b89c-3522f78183ce",
+    "sub_category_en": "Cleaning Robot",
+    "sub_category_id_name": "Robot Pembersih",
+    "image": "/images/uploads/indoor-intelligent-cleaning-robot.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
     "id": "6e52335c-497c-4bc7-b8c5-87e28aaa3a77",
     "name_en": "Restricted Area Access Verification E-gate (Single-gate)",
     "name_id": "Verifikasi Akses Area Terbatas E-gate (Gerbang Tunggal)",
@@ -620,6 +820,26 @@
     ]
   },
   {
+    "id": "737a3f1b-51d7-445f-9aa9-ab5ea3168c47",
+    "name_en": "Maxvision AI Analysis Terminal",
+    "name_id": "Terminal Analisis AI Maxvision",
+    "short_en": "The Maxvision Al Analysis Terminal leverages deep learning-based algorithms to automatically analyze and interpret X-ray security images",
+    "short_id": "Terminal Analisis Maxvision AI memanfaatkan algoritma berbasis pembelajaran mendalam untuk menganalisis dan menginterpretasi citra keamanan sinar-X secara otomatis",
+    "desc_en": "The Maxvision Al Analysis Terminal leverages deep learning-based algorithms to automatically analyze and interpret X-ray security images. It can identify over a hundred categories of prohibited items, including corrosives, explosives, infectious substances, spontaneously combustible materials, flammable solids and liquids, water-reactive substances, organic peroxides, oxidizers, toxic substances, poisonous gases, and contraband such as banned publications, pirated media, and counterfeit branded goods (detection of certain items may require specific hardware configurations). The system offers high accuracy, operational stability, intelligent data processing, and powerful analytics capabilities-enabling efficient and reliable threat detection in modern security screening environments.",
+    "desc_id": "Terminal Analisis Maxvision AI memanfaatkan algoritma berbasis pembelajaran mendalam untuk menganalisis dan menginterpretasi citra keamanan sinar-X secara otomatis. Sistem ini dapat mengidentifikasi lebih dari seratus kategori barang terlarang, termasuk bahan korosif, bahan peledak, zat infeksius, bahan yang mudah terbakar spontan, zat padat dan cair yang mudah terbakar, zat yang bereaksi dengan air, peroksida organik, oksidator, zat beracun, gas beracun, dan barang selundupan seperti publikasi terlarang, media bajakan, dan barang bermerek palsu (deteksi barang tertentu mungkin memerlukan konfigurasi perangkat keras khusus). Sistem ini menawarkan akurasi tinggi, stabilitas operasional, pemrosesan data cerdas, dan kemampuan analitik yang canggih—memungkinkan deteksi ancaman yang efisien dan andal dalam lingkungan penyaringan keamanan modern.",
+    "main_category_id": "098aa37a-534a-4a78-a08a-66ea59da8f1a",
+    "main_category_en": "Intelligent Algorithms",
+    "main_category_id_name": "Algoritma Cerdas",
+    "sub_category_id": "d97576e6-502a-4da3-84b3-a5c0fee3f45e",
+    "sub_category_en": "Server",
+    "sub_category_id_name": "Server",
+    "image": "/images/uploads/maxvision-ai-analysis-terminal.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
     "id": "7af3a9a8-a3e6-4a0f-8d48-5937a573b45c",
     "name_en": "Multi-biometric Self-service Capture Device",
     "name_id": "Perangkat Pengambilan Layanan Mandiri Multi-biometrik",
@@ -640,6 +860,26 @@
     ]
   },
   {
+    "id": "7c36ec97-93a4-4e84-9edf-16d7e1f2ca26",
+    "name_en": "Fire Fighting Robot - Water Spraying",
+    "name_id": "Robot Pemadam Kebakaran - Penyemprotan Air",
+    "short_en": "In a fire scene, extreme conditions such as fierce flames, explosions, high temperatures, thick smoke, toxic gases, and lack of oxygen make it difficult for firefighters to carry out rescue operations",
+    "short_id": "Di lokasi kebakaran, kondisi ekstrem seperti api yang besar, ledakan, suhu tinggi, asap tebal, gas beracun, dan kekurangan oksigen menyulitkan petugas pemadam kebakaran untuk melakukan operasi penyelamatan",
+    "desc_en": "In a fire scene, extreme conditions such as fierce flames, explosions, high temperatures, thick smoke, toxic gases, and lack of oxygen make it difficult for firefighters to carry out rescue operations. Our company has independently developed fire-fighting robot that can replace firefighters in extremely hazardous areas for firefighting and rescue work. These robots play a crucial role in enhancing the safety of firefighting operations and reducing casualties. Additionally, they are equipped with multiple functions such as extinguishing fires, reconnaissance, and rescue, gradually becoming more automated and intelligent, allowing them to be utilized in a wider range of complex rescue situations.",
+    "desc_id": "Di lokasi kebakaran, kondisi ekstrem seperti api yang besar, ledakan, suhu tinggi, asap tebal, gas beracun, dan kekurangan oksigen menyulitkan petugas pemadam kebakaran untuk melakukan operasi penyelamatan. Perusahaan kami telah mengembangkan robot pemadam kebakaran secara independen yang dapat menggantikan petugas pemadam kebakaran di area yang sangat berbahaya untuk pekerjaan pemadaman kebakaran dan penyelamatan. Robot-robot ini memainkan peran penting dalam meningkatkan keselamatan operasi pemadaman kebakaran dan mengurangi korban jiwa. Selain itu, robot-robot ini dilengkapi dengan berbagai fungsi seperti pemadaman api, pengintaian, dan penyelamatan, yang secara bertahap menjadi lebih otomatis dan cerdas, sehingga dapat digunakan dalam berbagai situasi penyelamatan yang kompleks.",
+    "main_category_id": "77a88fcb-777e-4860-a9ce-c2cbb78816e5",
+    "main_category_en": "Intelligent Robot",
+    "main_category_id_name": "Robot Cerdas",
+    "sub_category_id": "90d5598a-e102-4889-b286-2695f8272642",
+    "sub_category_en": "Firefighting Robot",
+    "sub_category_id_name": "Robot Pemadam Kebakaran",
+    "image": "/images/uploads/fire-fighting-robot-water-spraying.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
     "id": "85e22b11-97ad-47e8-8d7f-1a03ac92be1b",
     "name_en": "Intelligent Security Tray Return System - Basic",
     "name_id": "Sistem Pengembalian Baki Keamanan Cerdas - Dasar",
@@ -654,6 +894,46 @@
     "sub_category_en": "Security Checking",
     "sub_category_id_name": "Pemeriksaan Keamanan",
     "image": "/images/uploads/intelligent_security_tray.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "86e1acce-5308-4179-be8b-0b3dcad392a3",
+    "name_en": "Multi-purpose Radar Speedometer",
+    "name_id": "Speedometer Radar Serbaguna",
+    "short_en": "Multi-purpose Radar Speedometer is the third generation law enforcement equipment independently developed and launched by Maxvision",
+    "short_id": "Speedometer Radar Serbaguna adalah peralatan penegakan hukum generasi ketiga yang dikembangkan dan diluncurkan secara independen oleh Maxvision",
+    "desc_en": "Multi-purpose Radar Speedometer is the third generation law enforcement equipment independently developed and launched by Maxvision. The equipment adopts a multi-screen folding design and has a variety of built-in intelligent algorithms. It supports a variety of illegal evidence collection and is widely used in highways, expressways, urban roads and all roads and all scenes including rural roads.",
+    "desc_id": "Speedometer Radar Serbaguna adalah peralatan penegakan hukum generasi ketiga yang dikembangkan dan diluncurkan secara independen oleh Maxvision. Peralatan ini mengadopsi desain lipat multi-layar dan memiliki beragam algoritma cerdas bawaan. Alat ini mendukung berbagai pengumpulan barang bukti ilegal dan banyak digunakan di jalan raya, jalan tol, jalan perkotaan, dan semua jenis jalan, termasuk jalan pedesaan.",
+    "main_category_id": "560fb570-d94d-441a-9de8-44677b1d3f64",
+    "main_category_en": "Intelligent Transportation",
+    "main_category_id_name": "Transportasi Cerdas",
+    "sub_category_id": "4b15db0d-05a8-42c7-aa80-d8e93fe090ee",
+    "sub_category_en": "Traffic Safety",
+    "sub_category_id_name": "Keselamatan Lalu Lintas",
+    "image": "/images/uploads/multi-purpose-radar-speedometer.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "875ac6ff-085c-4abc-81c4-ab3e874f4c44",
+    "name_en": "Under-vehicle Surveillance Robot",
+    "name_id": "Robot Pengawasan Bawah Kendaraan",
+    "short_en": "The Under-Vehicle Surveilance Robot is a portable device for inspecting the vehicle bottom",
+    "short_id": "Robot Pengawas Bawah Kendaraan adalah perangkat portabel untuk memeriksa bagian bawah kendaraan",
+    "desc_en": "The Under-Vehicle Surveilance Robot is a portable device for inspecting the vehicle bottom. It equipped with functions such as automatic LPR,HD display of vehicle bottom images, and suspected position recognition. The robot is compact, mobile, and easy to deploy, can automatically complete vehicle bottom inspection with one click, It is suitable or temporary vehicle control and inspection in places such as customs, border inspection, border management, public security checkpoints, large-scale events, and important conference security.",
+    "desc_id": "Robot Pengawas Bawah Kendaraan adalah perangkat portabel untuk memeriksa bagian bawah kendaraan. Dilengkapi dengan fungsi-fungsi seperti LPR otomatis, tampilan HD gambar bawah kendaraan, dan pengenalan posisi yang dicurigai. Robot ini ringkas, mobile, dan mudah digunakan, serta dapat menyelesaikan pemeriksaan bawah kendaraan secara otomatis dengan satu klik. Robot ini cocok untuk kontrol dan inspeksi kendaraan sementara di tempat-tempat seperti bea cukai, inspeksi perbatasan, manajemen perbatasan, pos pemeriksaan keamanan publik, acara berskala besar, dan keamanan konferensi penting.",
+    "main_category_id": "77a88fcb-777e-4860-a9ce-c2cbb78816e5",
+    "main_category_en": "Intelligent Robot",
+    "main_category_id_name": "Robot Cerdas",
+    "sub_category_id": "67db5356-a892-4d4e-9348-1750507aecf9",
+    "sub_category_en": "Under-vehicle Inspection Robot",
+    "sub_category_id_name": "Robot Inspeksi Bawah Kendaraan",
+    "image": "/images/uploads/surveillance2.png",
     "compatibility": [
       "wifi",
       "mqtt"
@@ -694,6 +974,26 @@
     "sub_category_en": "Customs Authority",
     "sub_category_id_name": "Otoritas Bea Cukai",
     "image": "/images/uploads/anpr-all-in-one-machine.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "8a01bd1b-51d3-4adf-9505-c11834258f64",
+    "name_en": "Smart Traffic Surveillance Camera",
+    "name_id": "Kamera Pengawas Lalu Lintas Cerdas",
+    "short_en": "Smart Traffc Surveilance Camera is a smart camera launched by Maxvision to serve the road traffic business",
+    "short_id": "Kamera Pengawas Lalu Lintas Pintar adalah kamera pintar yang diluncurkan oleh Maxvision untuk melayani bisnis lalu lintas jalan raya",
+    "desc_en": "Smart Traffc Surveilance Camera is a smart camera launched by Maxvision to serve the road traffic business. It adopts an embedded industrial-grade design and built-in deep learning algorithm. It supports a variety of illegal detection and is widely used in red light running, speeding, bayonet, entrance and exit, events and other various application scenarios.",
+    "desc_id": "Kamera Pengawas Lalu Lintas Pintar adalah kamera pintar yang diluncurkan oleh Maxvision untuk melayani bisnis lalu lintas jalan raya. Kamera ini mengadopsi desain kelas industri tertanam dan algoritma pembelajaran mendalam bawaan. Kamera ini mendukung berbagai deteksi pelanggaran hukum dan banyak digunakan untuk menerobos lampu merah, mengebut, bayonet, masuk dan keluar, berbagai acara, dan berbagai skenario aplikasi lainnya.",
+    "main_category_id": "560fb570-d94d-441a-9de8-44677b1d3f64",
+    "main_category_en": "Intelligent Transportation",
+    "main_category_id_name": "Transportasi Cerdas",
+    "sub_category_id": "4b15db0d-05a8-42c7-aa80-d8e93fe090ee",
+    "sub_category_en": "Traffic Safety",
+    "sub_category_id_name": "Keselamatan Lalu Lintas",
+    "image": "/images/uploads/smart-traffic-surveillance-camera.png",
     "compatibility": [
       "wifi",
       "mqtt"
@@ -774,6 +1074,46 @@
     "sub_category_en": "ID/Travel Document Reader",
     "sub_category_id_name": "Pembaca Dokumen ID/Perjalanan",
     "image": "/images/uploads/document_reader_a.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "a004ebc9-0591-4dcf-b234-274d626e361c",
+    "name_en": "Outdoor Intelligent Cleaning Robot",
+    "name_id": "Robot Pembersih Cerdas Luar Ruangan",
+    "short_en": "The Outdoor Intelligent Cleaning Robot is designed for semi-open environments, offering fully autonomous sweeping capabilities",
+    "short_id": "Robot Pembersih Cerdas Luar Ruangan dirancang untuk lingkungan semi-terbuka, menawarkan kemampuan menyapu yang sepenuhnya otonom",
+    "desc_en": "The Outdoor Intelligent Cleaning Robot is designed for semi-open environments, offering fully autonomous sweeping capabilities. Equipped with a suite of advanced sensors, it integrates LiDAR-based visual positioning and point cloud perception technologies to enable autonomous driving, smart navigation, and safe obstacle avoidance. Engineered for complex and variable outdoor surfaces, it delivers powerful cleaning performance with extended battery life and intelligent control. Ideal for unmanned cleaning and environmental maintenance in plazas, campuses, industrial parks, scenic areas, and other large-scale outdoor spaces.",
+    "desc_id": "Robot Pembersih Cerdas Luar Ruangan dirancang untuk lingkungan semi-terbuka, menawarkan kemampuan menyapu yang sepenuhnya otonom. Dilengkapi dengan serangkaian sensor canggih, robot ini mengintegrasikan teknologi pemosisian visual berbasis LiDAR dan persepsi titik awan untuk memungkinkan pengemudian otonom, navigasi cerdas, dan penghindaran rintangan yang aman. Dirancang untuk permukaan luar ruangan yang kompleks dan bervariasi, robot ini memberikan kinerja pembersihan yang andal dengan daya tahan baterai yang lebih lama dan kontrol cerdas. Ideal untuk pembersihan tanpa awak dan pemeliharaan lingkungan di plaza, kampus, kawasan industri, area pemandangan, dan ruang luar ruangan berskala besar lainnya.",
+    "main_category_id": "77a88fcb-777e-4860-a9ce-c2cbb78816e5",
+    "main_category_en": "Intelligent Robot",
+    "main_category_id_name": "Robot Cerdas",
+    "sub_category_id": "050014f1-aa7e-432d-b89c-3522f78183ce",
+    "sub_category_en": "Cleaning Robot",
+    "sub_category_id_name": "Robot Pembersih",
+    "image": "/images/uploads/outdoor-intelligent-cleaning-robot.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "a0a5ee05-a5bb-49c0-b344-061eb2681639",
+    "name_en": "Radar-vision Fusion Camera",
+    "name_id": "Kamera Fusion Penglihatan Radar",
+    "short_en": "Powered by integrated radar and video sensing, this device delivers real-time, high-precision detection and classification of motor vehicles, non-motorized traffic, pedestrians, and miscellaneous road objects",
+    "short_id": "Didukung oleh radar dan penginderaan video terintegrasi, perangkat ini memberikan deteksi dan klasifikasi kendaraan bermotor, lalu lintas non-motor, pejalan kaki, dan berbagai objek jalan raya lainnya secara real-time dan presisi tinggi",
+    "desc_en": "Powered by integrated radar and video sensing, this device delivers real-time, high-precision detection and classification of motor vehicles, non-motorized traffic, pedestrians, and miscellaneous road objects. Through seamless fusion of visual and radar data, it enables intelligent perception with rich contextual awareness - including object type, count, movement direction, and abnormal behavior - to support data-driven traffic management and safety enforcement.",
+    "desc_id": "Didukung oleh radar dan penginderaan video terintegrasi, perangkat ini memberikan deteksi dan klasifikasi kendaraan bermotor, lalu lintas non-motor, pejalan kaki, dan berbagai objek jalan raya lainnya secara real-time dan presisi tinggi. Melalui integrasi data visual dan radar yang mulus, perangkat ini memungkinkan persepsi cerdas dengan kesadaran kontekstual yang kaya—termasuk jenis, jumlah, arah pergerakan, dan perilaku abnormal objek—untuk mendukung manajemen lalu lintas berbasis data dan penegakan keselamatan.",
+    "main_category_id": "560fb570-d94d-441a-9de8-44677b1d3f64",
+    "main_category_en": "Intelligent Transportation",
+    "main_category_id_name": "Transportasi Cerdas",
+    "sub_category_id": "97ac00cd-3d66-418e-bbf3-e47ee7f8f5a0",
+    "sub_category_en": "Traffic Efficiency",
+    "sub_category_id_name": "Efisiensi Lalu Lintas",
+    "image": "/images/uploads/radar-vision-fusion-camera.png",
     "compatibility": [
       "wifi",
       "mqtt"
@@ -880,6 +1220,26 @@
     ]
   },
   {
+    "id": "b6b25ebd-6ee7-4f69-aa04-317e98d7d44d",
+    "name_en": "Exit Lane Inspection and Control System",
+    "name_id": "Sistem Inspeksi dan Kontrol Jalur Keluar",
+    "short_en": "The Exit Lane Inspection and Control System is an intelligent inspection system that detects the position of vehicles at lane exits in real-timeand automatically checks and releases the vehicles",
+    "short_id": "Sistem Inspeksi dan Kontrol Jalur Keluar adalah sistem inspeksi cerdas yang mendeteksi posisi kendaraan di jalur keluar secara real-time dan secara otomatis memeriksa serta melepaskan kendaraan",
+    "desc_en": "The Exit Lane Inspection and Control System is an intelligent inspection system that detects the position of vehicles at lane exits in real-timeand automatically checks and releases the vehicles. The equipment is linked with the lane inspection platform to realize real-time monitoring of the location and traffic direction status of exit vehicles, and automatic control of the gate inspection. The device integrates license plate recognition, online OTA upgrade, interactive anti-smashing and other intelligent functions to effectively realize safe and efficient vehicle inspection and passage. This product can be widely used invehicle export scenarios such as transportation, airports, and ports.",
+    "desc_id": "Sistem Inspeksi dan Kontrol Jalur Keluar adalah sistem inspeksi cerdas yang mendeteksi posisi kendaraan di jalur keluar secara real-time dan secara otomatis memeriksa serta melepaskan kendaraan. Peralatan ini terhubung dengan platform inspeksi jalur untuk memantau lokasi dan status arah lalu lintas kendaraan keluar secara real-time, serta mengontrol inspeksi gerbang secara otomatis. Perangkat ini mengintegrasikan pengenalan plat nomor, peningkatan OTA daring, anti-smashing interaktif, dan fungsi cerdas lainnya untuk mewujudkan inspeksi dan perjalanan kendaraan yang aman dan efisien. Produk ini dapat digunakan secara luas dalam berbagai skenario ekspor kendaraan seperti transportasi, bandara, dan pelabuhan.",
+    "main_category_id": "35280ea7-5b63-4ffd-affd-b72dd6ccb6ed",
+    "main_category_en": "Vehicle Security",
+    "main_category_id_name": "Keamanan Kendaraan",
+    "sub_category_id": "c1fb6f30-0359-4590-ba0c-da498b74285e",
+    "sub_category_en": "Customs Authority",
+    "sub_category_id_name": "Otoritas Bea Cukai",
+    "image": "/images/uploads/exit-lane-inspection-and-control-system.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
     "id": "bca77bc8-7714-493e-ad53-5624640c5ebb",
     "name_en": "Electronic Cargo Tracking System",
     "name_id": "Sistem Pelacakan Kargo Elektronik",
@@ -894,6 +1254,26 @@
     "sub_category_en": "In-Transit Supervision",
     "sub_category_id_name": "Pengawasan Dalam Perjalanan",
     "image": "/images/uploads/electronic-cargo-tracking-system.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "c28240a9-c3d8-4330-9c1e-b295cec00e3e",
+    "name_en": "Fire Fighting Robot - Foam Spraying",
+    "name_id": "Robot Pemadam Kebakaran - Penyemprotan Busa",
+    "short_en": "Fire Fighting Robot (Foam Spraying) is a device specifically designed for firefighting tasks",
+    "short_id": "Robot Pemadam Kebakaran (Penyemprotan Busa) adalah perangkat yang dirancang khusus untuk tugas pemadaman kebakaran",
+    "desc_en": "Fire Fighting Robot (Foam Spraying) is a device specifically designed for firefighting tasks. It is primarily used in hazardous areas like petrochemical sites, oil tank farms, large warehouses, and buildings where high temperatures, intense heat radiation, and potential collapses make it difficult for fire trucks and personnel to access. By using the firefighting foam robot, personnel casualties can be avoided, and effective firefighting and cooling can be achieved.",
+    "desc_id": "Robot Pemadam Kebakaran (Penyemprotan Busa) adalah perangkat yang dirancang khusus untuk tugas pemadaman kebakaran. Perangkat ini terutama digunakan di area berbahaya seperti lokasi petrokimia, tangki minyak, gudang besar, dan bangunan di mana suhu tinggi, radiasi panas yang intens, dan potensi keruntuhan menyulitkan akses truk pemadam kebakaran dan personel. Dengan menggunakan robot busa pemadam kebakaran, korban jiwa personel dapat dihindari, dan pemadaman serta pendinginan yang efektif dapat tercapai.",
+    "main_category_id": "77a88fcb-777e-4860-a9ce-c2cbb78816e5",
+    "main_category_en": "Intelligent Robot",
+    "main_category_id_name": "Robot Cerdas",
+    "sub_category_id": "90d5598a-e102-4889-b286-2695f8272642",
+    "sub_category_en": "Firefighting Robot",
+    "sub_category_id_name": "Robot Pemadam Kebakaran",
+    "image": "/images/uploads/fire-fighting-robot-foam-spraying.png",
     "compatibility": [
       "wifi",
       "mqtt"
@@ -920,6 +1300,26 @@
     ]
   },
   {
+    "id": "c3944dce-be30-43d8-8c17-e8b973773ed8",
+    "name_en": "Intelligent Management Terminal - 4",
+    "name_id": "Terminal Manajemen Cerdas - 4",
+    "short_en": "Maxvision Intelligent Management Terminal is an intelligent system for centralized management and analysis of intersections, which solves the problems of image storage, uploading, and video access of multiple cameras at intersections",
+    "short_id": "Terminal Manajemen Cerdas Maxvision adalah sistem cerdas untuk manajemen dan analisis persimpangan terpusat. Sistem ini memecahkan masalah penyimpanan gambar, pengunggahan, dan akses video beberapa kamera di persimpangan",
+    "desc_en": "Maxvision Intelligent Management Terminal is an intelligent system for centralized management and analysis of intersections, which solves the problems of image storage, uploading, and video access of multiple cameras at intersections. and has multiple intelligent algorithms built in, It supports multiple image synthesis, character superimposition, traffic statistics, interval speed measurement, illegal release, and other functions, which can meet the needs of intersection deployment and network center deployment. It is widely applied to various application scenarios such as checkpoints, electronic police, road monitoring etc., to achieve 24-hour intelligent management and analysis.",
+    "desc_id": "Terminal Manajemen Cerdas Maxvision adalah sistem cerdas untuk manajemen dan analisis persimpangan terpusat. Sistem ini memecahkan masalah penyimpanan gambar, pengunggahan, dan akses video beberapa kamera di persimpangan. Sistem ini memiliki beberapa algoritma cerdas bawaan. Sistem ini mendukung sintesis beberapa gambar, superimposisi karakter, statistik lalu lintas, pengukuran kecepatan interval, pelepasan ilegal, dan fungsi lainnya, yang dapat memenuhi kebutuhan penyebaran persimpangan dan penyebaran pusat jaringan. Sistem ini banyak digunakan untuk berbagai skenario aplikasi seperti pos pemeriksaan, polisi elektronik, pemantauan jalan, dll., untuk mencapai manajemen dan analisis cerdas 24 jam.",
+    "main_category_id": "560fb570-d94d-441a-9de8-44677b1d3f64",
+    "main_category_en": "Intelligent Transportation",
+    "main_category_id_name": "Transportasi Cerdas",
+    "sub_category_id": "4b15db0d-05a8-42c7-aa80-d8e93fe090ee",
+    "sub_category_en": "Traffic Safety",
+    "sub_category_id_name": "Keselamatan Lalu Lintas",
+    "image": "/images/uploads/intelligent-management-terminal-4.jpeg",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
     "id": "c6ee2c82-ea3d-4ebe-8b1d-f6d802e51489",
     "name_en": "Vehicle Intelligent Inspection All-in-One Machine - Premium",
     "name_id": "Inspeksi Cerdas Kendaraan Semua dalam Satu Mesin - Premium",
@@ -934,6 +1334,46 @@
     "sub_category_en": "Immigration Authority",
     "sub_category_id_name": "Otoritas Imigrasi",
     "image": "/images/uploads/vehicle-intelligent-inspection-all-in-one-machine-premium.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "cbb7e3fc-0f9b-4a31-a21f-47ef5725d7b5",
+    "name_en": "Smart Pedestrian Crossing",
+    "name_id": "Penyeberangan Pejalan Kaki Cerdas",
+    "short_en": "Maxvision's Smart Pedestrian Crossing System is a next-generation pedestrian safety solution that combines in-ground LED tiles with an intelligent control cabinet.",
+    "short_id": "Sistem Penyeberangan Pejalan Kaki Pintar dari Maxvision adalah solusi keselamatan pejalan kaki generasi terbaru yang menggabungkan ubin LED tertanam dengan kabinet kontrol cerdas",
+    "desc_en": "Maxvision's Smart Pedestrian Crossing System is a next-generation pedestrian safety solution that combines in-ground LED tiles with an intelligent control cabinet. Designed to actively guide foot traffic and alert oncoming vehicles, the system leverages adaptive lighting, remote management, and real-time signal integration to improve visibility at crossings. Whether in busy intersections or mixed traffic zones, it helps reduce accidents and streamline urban mobility.",
+    "desc_id": "Sistem Penyeberangan Pejalan Kaki Pintar dari Maxvision adalah solusi keselamatan pejalan kaki generasi terbaru yang menggabungkan ubin LED tertanam dengan kabinet kontrol cerdas. Dirancang untuk memandu lalu lintas pejalan kaki secara aktif dan memperingatkan kendaraan yang datang, sistem ini memanfaatkan pencahayaan adaptif, manajemen jarak jauh, dan integrasi sinyal waktu nyata untuk meningkatkan visibilitas di penyeberangan. Baik di persimpangan yang ramai maupun zona lalu lintas campuran, sistem ini membantu mengurangi kecelakaan dan memperlancar mobilitas perkotaan.",
+    "main_category_id": "560fb570-d94d-441a-9de8-44677b1d3f64",
+    "main_category_en": "Intelligent Transportation",
+    "main_category_id_name": "Transportasi Cerdas",
+    "sub_category_id": "f2616f09-2ff0-4470-b346-a34246320f71",
+    "sub_category_en": "Traffic Services",
+    "sub_category_id_name": "Layanan Lalu Lintas",
+    "image": "/images/uploads/smart-pedestrian-crossing.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "cf0f2763-1703-4aec-9021-fe2785118aaa",
+    "name_en": "Video Vehicle Detector",
+    "name_id": "Detektor Kendaraan Video",
+    "short_en": "Powered by a high-performance multi-core heterogeneous chip architecture (ARM + NPU + CODEC), this detector integrates neural network algorithms and low-light imaging capabilities to enable real-time vehicle detection and comprehensive traffic data analysis",
+    "short_id": "Didukung oleh arsitektur chip heterogen multi-inti berkinerja tinggi (ARM + NPU + CODEC), detektor ini mengintegrasikan algoritma jaringan saraf tiruan dan kemampuan pencitraan cahaya rendah untuk memungkinkan deteksi kendaraan secara real-time dan analisis data lalu lintas yang komprehensif",
+    "desc_en": "Powered by a high-performance multi-core heterogeneous chip architecture (ARM + NPU + CODEC), this detector integrates neural network algorithms and low-light imaging capabilities to enable real-time vehicle detection and comprehensive traffic data analysis. It is widely deployed on urban roads, highways, and expressways for accurate flow monitoring and traffic control.",
+    "desc_id": "Didukung oleh arsitektur chip heterogen multi-inti berkinerja tinggi (ARM + NPU + CODEC), detektor ini mengintegrasikan algoritma jaringan saraf tiruan dan kemampuan pencitraan cahaya rendah untuk memungkinkan deteksi kendaraan secara real-time dan analisis data lalu lintas yang komprehensif. Detektor ini banyak digunakan di jalan perkotaan, jalan raya, dan jalan tol untuk pemantauan arus dan pengaturan lalu lintas yang akurat.",
+    "main_category_id": "560fb570-d94d-441a-9de8-44677b1d3f64",
+    "main_category_en": "Intelligent Transportation",
+    "main_category_id_name": "Transportasi Cerdas",
+    "sub_category_id": "97ac00cd-3d66-418e-bbf3-e47ee7f8f5a0",
+    "sub_category_en": "Traffic Efficiency",
+    "sub_category_id_name": "Efisiensi Lalu Lintas",
+    "image": "/images/uploads/video-vehicle-detector.png",
     "compatibility": [
       "wifi",
       "mqtt"
@@ -974,6 +1414,46 @@
     "sub_category_en": "Fingerprint Capture",
     "sub_category_id_name": "Pengambilan Sidik Jari",
     "image": "/images/uploads/fingerprint_capture_device.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "d9a0e47b-ffd4-4d9e-bd01-44cb91490cda",
+    "name_en": "Intelligent Transportation Management Platform",
+    "name_id": "Platform Manajemen Transportasi Cerdas",
+    "short_en": "Maxvision Intelligent Traffic Management Platform is a set of equipment integration management system serving urban traffic business",
+    "short_id": "Platform Manajemen Lalu Lintas Cerdas Maxvision adalah seperangkat sistem manajemen integrasi peralatan yang melayani bisnis lalu lintas perkotaan",
+    "desc_en": "Maxvision Intelligent Traffic Management Platform is a set of equipment integration management system serving urban traffic business. It adopts multi-layer software architecture design, integrates advanced technologies such as multi-dimensional perception, data integration, application development,etc. And it provides traffic law enforcement departments with business applications such as view management, vehicle passing management, illegal management, comprehensive research to achieve comprehensive control of urban traffic.",
+    "desc_id": "Platform Manajemen Lalu Lintas Cerdas Maxvision adalah seperangkat sistem manajemen integrasi peralatan yang melayani bisnis lalu lintas perkotaan. Platform ini mengadopsi desain arsitektur perangkat lunak berlapis, mengintegrasikan teknologi canggih seperti persepsi multidimensi, integrasi data, pengembangan aplikasi, dll. Platform ini juga menyediakan aplikasi bisnis bagi departemen penegakan hukum lalu lintas seperti manajemen tampilan, manajemen kendaraan yang menyalip, manajemen kendaraan ilegal, dan riset komprehensif untuk mencapai kendali lalu lintas perkotaan yang komprehensif.",
+    "main_category_id": "560fb570-d94d-441a-9de8-44677b1d3f64",
+    "main_category_en": "Intelligent Transportation",
+    "main_category_id_name": "Transportasi Cerdas",
+    "sub_category_id": "3e41fd47-8fe9-47ff-8848-aa4a81eaa75f",
+    "sub_category_en": "Platform",
+    "sub_category_id_name": "Platform",
+    "image": "/images/uploads/intelligent-transportation-management-platform.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "e11df703-2c28-4759-9ba4-9114aebb528b",
+    "name_en": "Shengsuan AI Feature Retrieval Server",
+    "name_id": "Server Pengambilan Fitur AI Shengsuan",
+    "short_en": "The Maxvision Image Retrieval Server delivers Al-powered image analysis services through two flexible modes: a visual retrieval interface and a developer-oriented algorithm API.",
+    "short_id": "Maxvision Image Retrieval Server menghadirkan layanan analisis gambar berbasis AI melalui dua mode fleksibel: antarmuka pengambilan visual dan API algoritma yang berorientasi pengembang.",
+    "desc_en": "The Maxvision Image Retrieval Server delivers Al-powered image analysis services through two flexible modes: a visual retrieval interface and a developer-oriented algorithm API.\nThe visual interface provides an intuitive user experience for essential tasks such as object detection, feature extraction, and similarity matching.\nThe algorithm API offers a more comprehensive suite of capabilities-including object detection, attribute recognition, feature extraction, image indexing, as well as both 1:1 and 1:N comparison-ensuring high algorithmic accuracy while supporting large-scale concurrent requests.\nBuilt on a microservices-based distributed architecture, the server is designed for both standalone and scalable deployments. It maximizes computing efficiency to deliver fast, accurate, and stable analysis of massive surveillance image streams-making it an ideal solution for complex environments such as industrial parks, retail hubs, airports, and border control facilities where intelligent visual recognition and matching are critical.",
+    "desc_id": "Maxvision Image Retrieval Server menghadirkan layanan analisis gambar berbasis AI melalui dua mode fleksibel: antarmuka pengambilan visual dan API algoritma yang berorientasi pengembang.\nAntarmuka visual memberikan pengalaman pengguna yang intuitif untuk tugas-tugas penting seperti deteksi objek, ekstraksi fitur, dan pencocokan kesamaan.\nAPI algoritma menawarkan rangkaian kemampuan yang lebih komprehensif—termasuk deteksi objek, pengenalan atribut, ekstraksi fitur, pengindeksan gambar, serta perbandingan 1:1 dan 1:N—yang memastikan akurasi algoritmik tinggi sekaligus mendukung permintaan serentak berskala besar.\nDibangun di atas arsitektur terdistribusi berbasis layanan mikro, server ini dirancang untuk penerapan mandiri maupun skalabel. Server ini memaksimalkan efisiensi komputasi untuk menghadirkan analisis aliran gambar pengawasan yang cepat, akurat, dan stabil—menjadikannya solusi ideal untuk lingkungan kompleks seperti kawasan industri, pusat ritel, bandara, dan fasilitas kontrol perbatasan yang membutuhkan pengenalan dan pencocokan visual cerdas.",
+    "main_category_id": "098aa37a-534a-4a78-a08a-66ea59da8f1a",
+    "main_category_en": "Intelligent Algorithms",
+    "main_category_id_name": "Algoritma Cerdas",
+    "sub_category_id": "d97576e6-502a-4da3-84b3-a5c0fee3f45e",
+    "sub_category_en": "Server",
+    "sub_category_id_name": "Server",
+    "image": "/images/uploads/shengsuan-ai-feature-retrieval-server.png",
     "compatibility": [
       "wifi",
       "mqtt"
@@ -1054,6 +1534,26 @@
     "sub_category_en": "Customs Authority",
     "sub_category_id_name": "Otoritas Bea Cukai",
     "image": "/images/uploads/multi-country-anpr-camera.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
+  },
+  {
+    "id": "f2d52d85-df75-4012-a59f-c4493f9e7dbd",
+    "name_en": "Shengxing AI Video Analytics Server",
+    "name_id": "Server Analisis Video AI Shengxing",
+    "short_en": "Maxvision's Al Video Analytics Server delivers services through two core approaches: an intuitive image retrieval interface and a comprehensive algorithm API.",
+    "short_id": "Server Al Video Analytics dari Maxvision menyediakan layanan melalui dua pendekatan inti: antarmuka pengambilan gambar yang intuitif dan API algoritma yang komprehensif.",
+    "desc_en": "Maxvision's Al Video Analytics Server delivers services through two core approaches: an intuitive image retrieval interface and a comprehensive algorithm API.\nThe image retrieval interface offers a user-friendly experience designed for essential tasks such as object detection, feature extraction, and target comparison. Meanwhile, the algorithm API provides a broader range of advanced capabilities-including object detection, attribute recognition, feature extraction, image archiving, as well as both 1:1 and 1:N matching ensuring high algorithmic accuracy while supporting high-concurrency demands.\nBuilt on a microservices and distributed architecture, the server is highly scalable-supporting both standalone deployment and large-scale distributed deployment. This architecture maximizes computational efficiency, enabling fast, accurate, and stable analysis of high-volume image data from thousands of surveillance streams. It is ideally suited for use in business parks, retail complexes, airports, border checkpoints, and other scenarios requiring intelligent image recognition and matching.",
+    "desc_id": "Server Al Video Analytics dari Maxvision menyediakan layanan melalui dua pendekatan inti: antarmuka pengambilan gambar yang intuitif dan API algoritma yang komprehensif.\nAntarmuka pengambilan gambar menawarkan pengalaman yang ramah pengguna yang dirancang untuk tugas-tugas penting seperti deteksi objek, ekstraksi fitur, dan perbandingan target. Sementara itu, API algoritma menyediakan beragam kemampuan canggih—termasuk deteksi objek, pengenalan atribut, ekstraksi fitur, pengarsipan gambar, serta pencocokan 1:1 dan 1:N yang memastikan akurasi algoritmik tinggi sekaligus mendukung tuntutan konkurensi tinggi.\nDibangun di atas arsitektur layanan mikro dan terdistribusi, server ini sangat skalabel—mendukung penerapan mandiri maupun penerapan terdistribusi skala besar. Arsitektur ini memaksimalkan efisiensi komputasi, memungkinkan analisis data gambar bervolume tinggi yang cepat, akurat, dan stabil dari ribuan aliran pengawasan. Server ini sangat cocok untuk digunakan di kawasan bisnis, kompleks ritel, bandara, pos pemeriksaan perbatasan, dan skenario lain yang membutuhkan pengenalan dan pencocokan gambar cerdas.",
+    "main_category_id": "098aa37a-534a-4a78-a08a-66ea59da8f1a",
+    "main_category_en": "Intelligent Algorithms",
+    "main_category_id_name": "Algoritma Cerdas",
+    "sub_category_id": "d97576e6-502a-4da3-84b3-a5c0fee3f45e",
+    "sub_category_en": "Server",
+    "sub_category_id_name": "Server",
+    "image": "/images/uploads/shengxing-ai-video-analytics-server.png",
     "compatibility": [
       "wifi",
       "mqtt"

@@ -1,0 +1,20 @@
+{
+  "id": "475dcd8e-2db7-4a71-b18e-817be0174382",
+  "name_en": "Traffic Incident Detection Algorithms",
+  "name_id": "Algoritma Deteksi Insiden Lalu Lintas",
+  "short_en": "Powered by deep learning and video analytics, the Traffic Incident Detection Algorithm suite accurately identifies a wide range of abnormal driving behaviors and risk events-including illegal parking, wrong-way driving, congestion, etc.",
+  "short_id": "Didukung oleh pembelajaran mendalam dan analitik video, rangkaian Algoritma Deteksi Insiden Lalu Lintas secara akurat mengidentifikasi berbagai perilaku mengemudi abnormal dan peristiwa berisiko—termasuk parkir ilegal, mengemudi di jalur yang salah, kemacetan, dll.",
+  "desc_en": "Powered by deep learning and video analytics, the Traffic Incident Detection Algorithm suite accurately identifies a wide range of abnormal driving behaviors and risk events-including illegal parking, wrong-way driving, congestion, fatigue driving, pedestrian or animal intrusion, object dropping, emergency lane occupation, and lane departure. The system also incorporates intelligent driver attribute recognition, enabling comprehensive situational awareness of traffic participants. Designed for complex environments such as urban roads, highways, and transportation hubs, it enhances traffic management with greater automation, precision, and responsiveness.",
+  "desc_id": "Didukung oleh pembelajaran mendalam dan analitik video, rangkaian Algoritma Deteksi Insiden Lalu Lintas secara akurat mengidentifikasi berbagai perilaku mengemudi abnormal dan peristiwa berisiko—termasuk parkir ilegal, mengemudi di jalur yang salah, kemacetan, mengemudi karena kelelahan, gangguan pejalan kaki atau hewan, menjatuhkan benda, penggunaan jalur darurat, dan keluar jalur. Sistem ini juga menggabungkan pengenalan atribut pengemudi yang cerdas, yang memungkinkan kesadaran situasional yang komprehensif terhadap peserta lalu lintas. Dirancang untuk lingkungan kompleks seperti jalan perkotaan, jalan tol, dan pusat transportasi, sistem ini meningkatkan manajemen lalu lintas dengan otomatisasi, presisi, dan respons yang lebih baik.",
+  "main_category_id": "098aa37a-534a-4a78-a08a-66ea59da8f1a",
+  "main_category_en": "Intelligent Algorithms",
+  "main_category_id_name": "Algoritma Cerdas",
+  "sub_category_id": "996c2350-54b9-4397-b497-5b79b8c7720f",
+  "sub_category_en": "AI Algorithms",
+  "sub_category_id_name": "Algoritma AI",
+  "image": "/images/uploads/traffic-incident-detection-algorithms.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

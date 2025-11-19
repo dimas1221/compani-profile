@@ -1,0 +1,20 @@
+{
+  "id": "737a3f1b-51d7-445f-9aa9-ab5ea3168c47",
+  "name_en": "Maxvision AI Analysis Terminal",
+  "name_id": "Terminal Analisis AI Maxvision",
+  "short_en": "The Maxvision Al Analysis Terminal leverages deep learning-based algorithms to automatically analyze and interpret X-ray security images",
+  "short_id": "Terminal Analisis Maxvision AI memanfaatkan algoritma berbasis pembelajaran mendalam untuk menganalisis dan menginterpretasi citra keamanan sinar-X secara otomatis",
+  "desc_en": "The Maxvision Al Analysis Terminal leverages deep learning-based algorithms to automatically analyze and interpret X-ray security images. It can identify over a hundred categories of prohibited items, including corrosives, explosives, infectious substances, spontaneously combustible materials, flammable solids and liquids, water-reactive substances, organic peroxides, oxidizers, toxic substances, poisonous gases, and contraband such as banned publications, pirated media, and counterfeit branded goods (detection of certain items may require specific hardware configurations). The system offers high accuracy, operational stability, intelligent data processing, and powerful analytics capabilities-enabling efficient and reliable threat detection in modern security screening environments.",
+  "desc_id": "Terminal Analisis Maxvision AI memanfaatkan algoritma berbasis pembelajaran mendalam untuk menganalisis dan menginterpretasi citra keamanan sinar-X secara otomatis. Sistem ini dapat mengidentifikasi lebih dari seratus kategori barang terlarang, termasuk bahan korosif, bahan peledak, zat infeksius, bahan yang mudah terbakar spontan, zat padat dan cair yang mudah terbakar, zat yang bereaksi dengan air, peroksida organik, oksidator, zat beracun, gas beracun, dan barang selundupan seperti publikasi terlarang, media bajakan, dan barang bermerek palsu (deteksi barang tertentu mungkin memerlukan konfigurasi perangkat keras khusus). Sistem ini menawarkan akurasi tinggi, stabilitas operasional, pemrosesan data cerdas, dan kemampuan analitik yang canggih—memungkinkan deteksi ancaman yang efisien dan andal dalam lingkungan penyaringan keamanan modern.",
+  "main_category_id": "098aa37a-534a-4a78-a08a-66ea59da8f1a",
+  "main_category_en": "Intelligent Algorithms",
+  "main_category_id_name": "Algoritma Cerdas",
+  "sub_category_id": "d97576e6-502a-4da3-84b3-a5c0fee3f45e",
+  "sub_category_en": "Server",
+  "sub_category_id_name": "Server",
+  "image": "/images/uploads/maxvision-ai-analysis-terminal.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

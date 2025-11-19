@@ -1,0 +1,20 @@
+{
+  "id": "02b0731e-a512-4ad8-842d-e1fcd5818a63",
+  "name_en": "Intelligent Management Terminal - 16",
+  "name_id": "Terminal Manajemen Cerdas - 16",
+  "short_en": "The Intelligent Management Terminal (16) from Maxvision is a next-generation multifunctional intelligent terminal designed for centralized intersection management",
+  "short_id": "Terminal Manajemen Cerdas (16) dari Maxvision adalah terminal cerdas multifungsi generasi terbaru yang dirancang untuk manajemen persimpangan terpusat",
+  "desc_en": "The Intelligent Management Terminal (16) from Maxvision is a next-generation multifunctional intelligent terminal designed for centralized intersection management. It provides comprehensive solutions for multi-channel HD camera image/video acquisition, local storage, and data transmission.\nWith integrated intelligent algorithms, the system supports: image compositing, metadata embedding, traffic flow analysis, average speed detection, violation identification and reporting.\nEngineered for flexible deployment at intersections or network centers, the solution delivers 24/7 intelligent monitoring for applications including checkpoints, electronic police systems, and traffic surveillance.",
+  "desc_id": "Terminal Manajemen Cerdas (16) dari Maxvision adalah terminal cerdas multifungsi generasi terbaru yang dirancang untuk manajemen persimpangan terpusat. Terminal ini menyediakan solusi komprehensif untuk akuisisi gambar/video kamera HD multi-kanal, penyimpanan lokal, dan transmisi data.\nDengan algoritma cerdas terintegrasi, sistem ini mendukung: pengomposisian gambar, penyisipan metadata, analisis arus lalu lintas, deteksi kecepatan rata-rata, identifikasi pelanggaran, dan pelaporan.\nDidesain untuk penerapan fleksibel di persimpangan atau pusat jaringan, solusi ini memberikan pemantauan cerdas 24/7 untuk berbagai aplikasi termasuk pos pemeriksaan, sistem kepolisian elektronik, dan pengawasan lalu lintas.",
+  "main_category_id": "560fb570-d94d-441a-9de8-44677b1d3f64",
+  "main_category_en": "Intelligent Transportation",
+  "main_category_id_name": "Transportasi Cerdas",
+  "sub_category_id": "4b15db0d-05a8-42c7-aa80-d8e93fe090ee",
+  "sub_category_en": "Traffic Safety",
+  "sub_category_id_name": "Keselamatan Lalu Lintas",
+  "image": "/images/uploads/intelligent-management-terminal-16.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

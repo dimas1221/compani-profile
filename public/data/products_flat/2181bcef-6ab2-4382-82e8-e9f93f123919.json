@@ -1,0 +1,20 @@
+{
+  "id": "2181bcef-6ab2-4382-82e8-e9f93f123919",
+  "name_en": "Entry Lane Inspection and Control System",
+  "name_id": "Sistem Inspeksi dan Kontrol Jalur Masuk",
+  "short_en": "The Entry Lane Inspection and Control System that detects theposition of vehicles at the lane entrance in real-time and automatically checks and release them",
+  "short_id": "Sistem Inspeksi dan Kontrol Jalur Masuk mendeteksi posisi kendaraan di pintu masuk jalur secara real-time dan secara otomatis memeriksa serta melepaskannya",
+  "desc_en": "The Entry Lane Inspection and Control System that detects theposition of vehicles at the lane entrance in real-time and automatically checks and release them. The equipment is linked with the lane inspection platform to realize real-time monitoring of the location and traffic direction status of entrance vehicles, and automatic control of the gate release. The device integrates the license plate recognition traffic guidance, online OTA upgrades, interactive anti-smashing and other intelligent functions to effectively realize safe and efficient vehicle inspection and passage. This product can be widely used in vehicle entrance scenarios such as transportation, airports, and ports.",
+  "desc_id": "Sistem Inspeksi dan Kontrol Jalur Masuk mendeteksi posisi kendaraan di pintu masuk jalur secara real-time dan secara otomatis memeriksa serta melepaskannya. Peralatan ini terhubung dengan platform inspeksi jalur untuk memantau lokasi dan status arah lalu lintas kendaraan masuk secara real-time, serta mengontrol pelepasan gerbang secara otomatis. Perangkat ini mengintegrasikan panduan lalu lintas dengan pengenalan plat nomor, peningkatan OTA daring, anti-smashing interaktif, dan fungsi cerdas lainnya untuk mewujudkan inspeksi dan perjalanan kendaraan yang aman dan efisien. Produk ini dapat digunakan secara luas dalam skenario pintu masuk kendaraan seperti transportasi umum, bandara, dan pelabuhan.",
+  "main_category_id": "35280ea7-5b63-4ffd-affd-b72dd6ccb6ed",
+  "main_category_en": "Vehicle Security",
+  "main_category_id_name": "Keamanan Kendaraan",
+  "sub_category_id": "c1fb6f30-0359-4590-ba0c-da498b74285e",
+  "sub_category_en": "Customs Authority",
+  "sub_category_id_name": "Otoritas Bea Cukai",
+  "image": "/images/uploads/entry-lane-inspection-and-control-system.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

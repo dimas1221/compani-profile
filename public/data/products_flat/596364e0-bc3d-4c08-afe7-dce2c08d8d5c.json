@@ -1,0 +1,20 @@
+{
+  "id": "596364e0-bc3d-4c08-afe7-dce2c08d8d5c",
+  "name_en": "Vehicle Recognition and Detection Algorithms",
+  "name_id": "Algoritma Pengenalan dan Deteksi Kendaraan",
+  "short_en": "The Vehicle Recognition and Detection Algorithms class encompasses a series of advanced intelligent algorithms based on deep learning, computer vision, and image processing technologies",
+  "short_id": "Kelas Algoritma Pengenalan dan Deteksi Kendaraan mencakup serangkaian algoritma cerdas canggih berbasis pembelajaran mendalam, visi komputer, dan teknologi pemrosesan gambar",
+  "desc_en": "The Vehicle Recognition and Detection Algorithms class encompasses a series of advanced intelligent algorithms based on deep learning, computer vision, and image processing technologies. These algorithms are widely applied in fields such as traffic management, logistics monitoring, and intelligent security. They enable the automated identification and analysis of vehicles and related identifiers, covering functionalities such as license plate recognition, vehicle attribute identification, traffic flow analysis, and parking status detection. Capable of efficiently and accurately processing complex image and video data in various environmental conditions, these algorithms significantly enhance automation and intelligent decision-making across industries like traffic management, logistics, and security.",
+  "desc_id": "Kelas Algoritma Pengenalan dan Deteksi Kendaraan mencakup serangkaian algoritma cerdas canggih berbasis pembelajaran mendalam, visi komputer, dan teknologi pemrosesan gambar. Algoritma ini banyak digunakan di berbagai bidang seperti manajemen lalu lintas, pemantauan logistik, dan keamanan cerdas. Algoritma ini memungkinkan identifikasi dan analisis otomatis kendaraan dan pengenal terkait, yang mencakup fungsi-fungsi seperti pengenalan plat nomor, identifikasi atribut kendaraan, analisis arus lalu lintas, dan deteksi status parkir. Mampu memproses data gambar dan video kompleks secara efisien dan akurat dalam berbagai kondisi lingkungan, algoritma ini secara signifikan meningkatkan otomatisasi dan pengambilan keputusan cerdas di berbagai industri seperti manajemen lalu lintas, logistik, dan keamanan.",
+  "main_category_id": "098aa37a-534a-4a78-a08a-66ea59da8f1a",
+  "main_category_en": "Intelligent Algorithms",
+  "main_category_id_name": "Algoritma Cerdas",
+  "sub_category_id": "996c2350-54b9-4397-b497-5b79b8c7720f",
+  "sub_category_en": "AI Algorithms",
+  "sub_category_id_name": "Algoritma AI",
+  "image": "/images/uploads/vehicle-recognition-and-detection-algorithms.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

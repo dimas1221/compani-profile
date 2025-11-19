@@ -1,0 +1,20 @@
+{
+  "id": "081acea7-681f-438c-90a9-a35173ea9db4",
+  "name_en": "AI Dual-Mode Intelligent PTZ Camera",
+  "name_id": "Kamera PTZ Cerdas Mode Ganda AI",
+  "short_en": "Maxvision Al Dual-Mode Intelligent PTZ Camera adopts dual-mode architecture design, built-in Al deep learning algorithm, binocular collaboration, taking into account details, full panoramic coverage, covering various scenes such as people, vehicles, roads, etc.",
+  "short_id": "Kamera PTZ Cerdas Mode Ganda Maxvision Al mengadopsi desain arsitektur mode ganda, algoritma pembelajaran mendalam Al bawaan, kolaborasi binokular, mempertimbangkan detail, cakupan panorama penuh, mencakup berbagai pemandangan seperti orang, kendaraan, jalan, dll",
+  "desc_en": "Maxvision Al Dual-Mode Intelligent PTZ Camera adopts dual-mode architecture design, built-in Al deep learning algorithm, binocular collaboration, taking into account details, full panoramic coverage, covering various scenes such as people, vehicles, roads, etc., comprehensively meet the specific needs of the industry.",
+  "desc_id": "Kamera PTZ Cerdas Mode Ganda Maxvision Al mengadopsi desain arsitektur mode ganda, algoritma pembelajaran mendalam Al bawaan, kolaborasi binokular, mempertimbangkan detail, cakupan panorama penuh, mencakup berbagai pemandangan seperti orang, kendaraan, jalan, dll., secara komprehensif memenuhi kebutuhan spesifik industri.",
+  "main_category_id": "560fb570-d94d-441a-9de8-44677b1d3f64",
+  "main_category_en": "Intelligent Transportation",
+  "main_category_id_name": "Transportasi Cerdas",
+  "sub_category_id": "4b15db0d-05a8-42c7-aa80-d8e93fe090ee",
+  "sub_category_en": "Traffic Safety",
+  "sub_category_id_name": "Keselamatan Lalu Lintas",
+  "image": "/images/uploads/ai-dual-mode-intelligent-ptz-camera.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

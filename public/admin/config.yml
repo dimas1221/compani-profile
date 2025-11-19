@@ -195,22 +195,18 @@ collections:
   # ==========================================================
   - name: "principle_items"
     label: "Principle Items"
-    folder: "public/data/principle_items"
-    create: true
-    identifier_field: id
-    format: "json"
-    extension: "json"
-
-    fields:
-      - { name: "id", label: "ID", widget: "uuid" }
-
-      - name: "image"
-        label: "Image"
-        widget: "image"
-        allow_multiple: false
-
-      - { name: "title_id", label: "Title ID", widget: "string" }
-      - { name: "subtitle_id", label: "Subtitle ID", widget: "string" }
-
-      - { name: "title_en", label: "Title (EN)", widget: "string" }
-      - { name: "subtitle_en", label: "Subtitle (EN)", widget: "text" }
+    files:
+      - file: "public/data/principle_items.json"
+        label: "Principle Items Data"
+        name: "principle_items_file"
+        fields:
+          - label: "Principle Items"
+            name: "principle_items"
+            widget: "list"
+            fields:
+              - { label: "ID", name: "id", widget: "uuid" }
+              - { label: "Image", name: "image", widget: "image" }
+              - { label: "Title ID", name: "title_id", widget: "string" }
+              - { label: "Subtitle ID", name: "subtitle_id", widget: "string" }
+              - { label: "Title EN", name: "title_en", widget: "string" }
+              - { label: "Subtitle EN", name: "subtitle_en", widget: "text" }
