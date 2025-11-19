@@ -1105,6 +1105,28 @@
           ]
         }
       ]
+    },
+    {
+      "id": "77a88fcb-777e-4860-a9ce-c2cbb78816e5",
+      "name_en": "Intelligent Robot",
+      "name_id": "Robot Cerdas",
+      "sub_categories": [
+        {
+          "id": "90d5598a-e102-4889-b286-2695f8272642",
+          "name_en": "Firefighting Robot",
+          "name_id": "Robot Pemadam Kebakaran"
+        },
+        {
+          "id": "050014f1-aa7e-432d-b89c-3522f78183ce",
+          "name_en": "Cleaning Robot",
+          "name_id": "Robot Pembersih"
+        },
+        {
+          "id": "67db5356-a892-4d4e-9348-1750507aecf9",
+          "name_en": "Under-vehicle Inspection Robot",
+          "name_id": "Robot Inspeksi Bawah Kendaraan"
+        }
+      ]
     }
   ]
 }
