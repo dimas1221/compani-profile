@@ -1332,6 +1332,20 @@
               "image": "/images/uploads/operational-safety-monitoring-algorithms.png",
               "name_en": "Operational Safety Monitoring Algorithms",
               "short_id": "Algoritma Pemantauan Keselamatan Operasional memanfaatkan visi komputer canggih dan teknologi pembelajaran mendalam, yang dirancang khusus untuk melindungi personel di lingkungan kerja berisiko tinggi"
+            },
+            {
+              "desc_id": "Algoritma Pengenalan Personel menggabungkan teknologi pengenalan biometrik dan metode analisis data untuk mengidentifikasi dan menganalisis identitas, perilaku, dan kepadatan kerumunan individu secara akurat. Dengan memantau fitur biometrik, pola perilaku, dan pergerakan secara real-time, algoritma ini banyak digunakan di sektor keamanan, keselamatan publik, dan kota pintar, meningkatkan manajemen keamanan, pemantauan arus personel, dan kemampuan tanggap darurat.",
+              "short_en": "Personnel Recognition Algorithms combine biometric recognition technology and data analysis methods to accurately identify and analyze individuals' identities, behaviors, and crowd density",
+              "name_id": "Algoritma Pengenalan Personel",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Personnel Recognition Algorithms combine biometric recognition technology and data analysis methods to accurately identify and analyze individuals' identities, behaviors, and crowd density. By monitoring real-time biometric features, behavioral patterns, and movement, these algorithms are widely applied in security, public safety, and smart city sectors, enhancing security management, personnel flow monitoring, and emergency response capabilities.",
+              "id": "ce9a19e4-9e60-4988-925a-220271e774dd",
+              "image": "/images/uploads/personnel-recognition-algorithms.png",
+              "name_en": "Personnel Recognition Algorithms",
+              "short_id": "Algoritma Pengenalan Personel menggabungkan teknologi pengenalan biometrik dan metode analisis data untuk mengidentifikasi dan menganalisis identitas, perilaku, dan kepadatan kerumunan individu secara akurat"
             }
           ]
         }
