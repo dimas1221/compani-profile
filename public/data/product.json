@@ -1066,6 +1066,20 @@
               "image": "/images/uploads/intelligent-warning-terminal.png",
               "name_en": "Intelligent Warning Terminal",
               "short_id": "Terminal Peringatan Cerdas Maxvision adalah perangkat keselamatan berbasis laser yang dipasang di kedua ujung penyeberangan tanpa sinyal"
+            },
+            {
+              "desc_id": "Sistem Penyeberangan Pejalan Kaki Pintar dari Maxvision adalah solusi keselamatan pejalan kaki generasi terbaru yang menggabungkan ubin LED tertanam dengan kabinet kontrol cerdas. Dirancang untuk memandu lalu lintas pejalan kaki secara aktif dan memperingatkan kendaraan yang datang, sistem ini memanfaatkan pencahayaan adaptif, manajemen jarak jauh, dan integrasi sinyal waktu nyata untuk meningkatkan visibilitas di penyeberangan. Baik di persimpangan yang ramai maupun zona lalu lintas campuran, sistem ini membantu mengurangi kecelakaan dan memperlancar mobilitas perkotaan.",
+              "short_en": "Maxvision's Smart Pedestrian Crossing System is a next-generation pedestrian safety solution that combines in-ground LED tiles with an intelligent control cabinet.",
+              "name_id": "Penyeberangan Pejalan Kaki Cerdas",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Maxvision's Smart Pedestrian Crossing System is a next-generation pedestrian safety solution that combines in-ground LED tiles with an intelligent control cabinet. Designed to actively guide foot traffic and alert oncoming vehicles, the system leverages adaptive lighting, remote management, and real-time signal integration to improve visibility at crossings. Whether in busy intersections or mixed traffic zones, it helps reduce accidents and streamline urban mobility.",
+              "id": "cbb7e3fc-0f9b-4a31-a21f-47ef5725d7b5",
+              "image": "/images/uploads/smart-pedestrian-crossing.png",
+              "name_en": "Smart Pedestrian Crossing",
+              "short_id": "Sistem Penyeberangan Pejalan Kaki Pintar dari Maxvision adalah solusi keselamatan pejalan kaki generasi terbaru yang menggabungkan ubin LED tertanam dengan kabinet kontrol cerdas"
             }
           ]
         },
