@@ -954,6 +954,20 @@
               "image": "/images/uploads/multi-purpose-radar-speedometer.png",
               "name_en": "Multi-purpose Radar Speedometer",
               "short_id": "Speedometer Radar Serbaguna adalah peralatan penegakan hukum generasi ketiga yang dikembangkan dan diluncurkan secara independen oleh Maxvision"
+            },
+            {
+              "desc_id": "Kamera PTZ Cerdas Mode Ganda Maxvision Al mengadopsi desain arsitektur mode ganda, algoritma pembelajaran mendalam Al bawaan, kolaborasi binokular, mempertimbangkan detail, cakupan panorama penuh, mencakup berbagai pemandangan seperti orang, kendaraan, jalan, dll., secara komprehensif memenuhi kebutuhan spesifik industri.",
+              "short_en": "Maxvision Al Dual-Mode Intelligent PTZ Camera adopts dual-mode architecture design, built-in Al deep learning algorithm, binocular collaboration, taking into account details, full panoramic coverage, covering various scenes such as people, vehicles, roads, etc.",
+              "name_id": "Kamera PTZ Cerdas Mode Ganda AI",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Maxvision Al Dual-Mode Intelligent PTZ Camera adopts dual-mode architecture design, built-in Al deep learning algorithm, binocular collaboration, taking into account details, full panoramic coverage, covering various scenes such as people, vehicles, roads, etc., comprehensively meet the specific needs of the industry.",
+              "id": "081acea7-681f-438c-90a9-a35173ea9db4",
+              "image": "/images/uploads/ai-dual-mode-intelligent-ptz-camera.png",
+              "name_en": "AI Dual-Mode Intelligent PTZ Camera",
+              "short_id": "Kamera PTZ Cerdas Mode Ganda Maxvision Al mengadopsi desain arsitektur mode ganda, algoritma pembelajaran mendalam Al bawaan, kolaborasi binokular, mempertimbangkan detail, cakupan panorama penuh, mencakup berbagai pemandangan seperti orang, kendaraan, jalan, dll"
             }
           ]
         },
