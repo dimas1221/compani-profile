@@ -610,7 +610,268 @@
         {
           "id": "c0d3e42f-c80f-4d83-ad20-2dcadba6ef4f",
           "name_en": "In-Transit Supervision",
-          "name_id": "Pengawasan Dalam Perjalanan"
+          "name_id": "Pengawasan Dalam Perjalanan",
+          "products": [
+            {
+              "desc_id": "Intelligent Lock Tracker adalah perangkat yang digunakan untuk pengawasan barang secara real-time dalam status transportasi transit. Perangkat ini mengadopsi desain slot kartu SIM ganda dan dilengkapi modul pemosisian mode ganda untuk mencapai pemosisian yang akurat, komunikasi real-time, serta pelacakan dan pemosisian otomatis. Selain itu, perangkat ini juga memiliki fungsi perekaman data satu-buta berkapasitas besar, yang secara otomatis menyimpan data lokal ketika perangkat berada di zona buta jaringan, sehingga tidak ada titik mati pengawasan. Melalui manajemen backstage, perangkat ini dapat mengelola terminal pengawasan cerdas seperti pengawasan online, pemutaran ulang trek, pengalihan dan penguncian jarak jauh, serta status real-time, dll. Perangkat ini memiliki baterai internal 15000mAh, yang memenuhi persyaratan untuk pengawasan transportasi kargo selama transit dalam berbagai skenario.",
+              "short_en": "The Intelligent Lock Tracker is a device used for real-time supervision of goods in transit transport status",
+              "name_id": "Pelacak Kunci Cerdas",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Intelligent Lock Tracker is a device used for real-time supervision of goods in transit transport status. The device adopts dual SIM card slot design, equipped with dual-mode positioning module to achieve accurate positioning, real-time communication, automatic tracking and positioning. At the same time, it has the function of large-capacity blind one data recording, which automatically stores local data when the device is in the blind zone of the network, so there is no dead corner of supervision. Through the management backstage, it can achieve the management of the intelligent supervision terminal such as on-line supervision, track replay, remote switching and locking and real-time status, etc. The device has a built-in 15000mAh battery, which meets the requirements for in-transit supervision of cargo transport in multiple scenarios.",
+              "id": "624f8b36-d3bb-4b43-9fc7-830a77e9042a",
+              "image": "/images/uploads/intelligent_lock_tracker.png",
+              "name_en": "Intelligent Lock Tracker",
+              "short_id": "Intelligent Lock Tracker adalah perangkat yang digunakan untuk pengawasan barang secara real-time dalam status transportasi transit"
+            },
+            {
+              "desc_id": "Sistem Pelacakan Kargo Elektronik menggunakan Pelacak Loker Cerdas dan terminal onboard dengan GPS, BeiDou, dan jaringan seluler untuk menjaga kargo tetap terlihat dan terkendali selama transit. Operator dapat memantau status kunci, memutar ulang rute, mengelola akses jarak jauh, dan melacak pengiriman secara real-time melalui dasbor pusat.\nSistem ini menyederhanakan pengawasan, mengurangi penundaan, dan mempercepat arus kargo, membantu penyedia logistik meningkatkan efisiensi, kualitas layanan, dan daya saing. Sistem ini sangat cocok untuk pengiriman barang, pengiriman ekspres, dan logistik rantai dingin.",
+              "short_en": "The Electronic Cargo Tracking System uses Intelligent Locker Tracker and on-board terminals with GPS, BeiDou, and mobile networks to keep cargo visible and under control throughout transit",
+              "name_id": "Sistem Pelacakan Kargo Elektronik",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Electronic Cargo Tracking System uses Intelligent Locker Tracker and on-board terminals with GPS, BeiDou, and mobile networks to keep cargo visible and under control throughout transit. Operators can monitor lock status, replay routes, manage remote access, and track shipments in real time through a central dashboard.\nThe system streamlines supervision, reduces delays, and accelerates cargo flow-helping logistics providers improve efficiency, service quality, and competitiveness. It is well suited for freight, express delivery, and cold-chain logistics.",
+              "id": "bca77bc8-7714-493e-ad53-5624640c5ebb",
+              "image": "/images/uploads/electronic-cargo-tracking-system.png",
+              "name_en": "Electronic Cargo Tracking System",
+              "short_id": "Sistem Pelacakan Kargo Elektronik menggunakan Pelacak Loker Cerdas dan terminal onboard dengan GPS, BeiDou, dan jaringan seluler untuk menjaga kargo tetap terlihat dan terkendali selama transit"
+            },
+            {
+              "desc_id": "Terminal Genggam ECTS adalah perangkat portabel yang digunakan untuk pelacakan proses pengangkutan kargo secara real-time. Dengan mengintegrasikan pemosisian rangkap tiga GPS+BD+GLONASS, sensor, dan teknologi komunikasi nirkabel, perangkat ini dapat memantau posisi kendaraan, status mengemudi, lintasan historis, dan status penyegelan/pembukaan segel kunci dari jarak jauh secara real-time, sehingga meningkatkan transparansi pengangkutan barang selama transit.",
+              "short_en": "ECTS Handheld Terminal is a portable device used for real-time tracking of the process of cargo transport",
+              "name_id": "Terminal Genggam ECTS",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "ECTS Handheld Terminal is a portable device used for real-time tracking of the process of cargo transport. By integrating GPS+BD+GLONASS triple positioning, sensors and wireless communication technologies, it can remotely monitor in real time the position of the vehicle, the driving status, the historical trajectory and the sealing/unsealing status of the shuttered locks, so as to enhance the transparency of the transport of the goods in-transit.",
+              "id": "732f0874-98e0-4e83-969f-1a740b4d31e4",
+              "image": "/images/uploads/ects-handheld-terminal.png",
+              "name_en": "ECTS Handheld Terminal",
+              "short_id": "Terminal Genggam ECTS adalah perangkat portabel yang digunakan untuk pelacakan proses pengangkutan kargo secara real-time"
+            },
+            {
+              "desc_id": "Container Smart Lock Reader adalah perangkat siap pakai yang dirancang untuk membaca dan mengelola data dari kunci kontainer nirkabel secara aman. Menggunakan teknologi berbasis RFID atau sensor, perangkat ini memungkinkan penyegelan, pembukaan kunci, dan verifikasi kerusakan dari jarak jauh—memungkinkan operator memantau status kontainer secara real-time tanpa kontak fisik.\nDidesain untuk integrasi yang mulus, pembaca ini mudah terhubung ke platform manajemen logistik hulu dan sistem pos pemeriksaan seperti pengenalan plat nomor, menyediakan antarmuka terpadu untuk kontrol kunci otomatis di seluruh pelabuhan, terminal, dan simpul transportasi. Perangkat ini meningkatkan visibilitas rantai pasokan, memperkuat keamanan aset, dan mendukung operasi kontainer yang sepenuhnya digital.",
+              "short_en": "The Container Smart Lock Reader is a field-ready device designed to securely read and manage data from wireless container locks",
+              "name_id": "Pembaca Kunci Cerdas Kontainer",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Container Smart Lock Reader is a field-ready device designed to securely read and manage data from wireless container locks. Using RFID or sensor-based technology, it enables remote sealing, unlocking, and tamper verification-allowing operators to monitor container status in real time without physical contact.\nBuilt for seamless integration, the reader connects easily to upstream logistics management platforms and checkpoint systems such as license plate recognition, providing a unified interface for automated lock control across ports, terminals, and transport nodes. It enhances supply chain visibility, strengthens asset security, and supports fully digitized container operations.",
+              "id": "15a63888-d8c5-42ac-a3f2-07b68de07788",
+              "image": "/images/uploads/container-smart-lock-reader.png",
+              "name_en": "Container Smart Lock Reader",
+              "short_id": "Container Smart Lock Reader adalah perangkat siap pakai yang dirancang untuk membaca dan mengelola data dari kunci kontainer nirkabel secara aman"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "35280ea7-5b63-4ffd-affd-b72dd6ccb6ed",
+      "name_en": "Vehicle Security",
+      "name_id": "Keamanan Kendaraan",
+      "sub_categories": [
+        {
+          "id": "4d6fb012-9ae3-4e21-90d6-42a44fb1a9ba",
+          "name_en": "Immigration Authority",
+          "name_id": "Otoritas Imigrasi",
+          "products": [
+            {
+              "desc_id": "Sistem Pengawasan Bawah Kendaraan Portabel terintegrasi dengan akuisisi citra bawah kendaraan, deteksi otomatis tampilan Mosaik gambar, dan pengisian cahaya. Sistem ini dapat secara otomatis mendeteksi kendaraan untuk inspeksi, pengisian cahaya cerdas, dan pemindaian real-time di bawah kendaraan melalui kamera HD. Sistem ini menyajikan gambar lengkap kendaraan secara akurat dan efisien, membantu petugas secara efektif memeriksa kondisi tersembunyi dan rusak di bawah kendaraan, serta mencegah tersembunyinya barang berbahaya kimia atau biologis, bom, dll. Sistem ini dapat digunakan di area bea cukai, keamanan publik, lalu lintas, bandara, hotel, dan area pemeriksaan pintu masuk lainnya.",
+              "short_en": "The Portable Under-Vehicle Surveillance System integrates with vehicle bottom image acquisition, image Mosaic display automatic detection and light filling",
+              "name_id": "Sistem Pengawasan Bawah Kendaraan Portabel",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Portable Under-Vehicle Surveillance System integrates with vehicle bottom image acquisition, image Mosaic display automatic detection and light filling. The system can automatically detect the vehicle for inspection, intelligent light filling, and real-time scanning under vehicle through the HD camera, accurately and efficiently present the full picture of the vehicle, effectively assist the staff to check the hidden and damaged conditions under the vehicle, and prevent the hiding of chemical or biological dangerous goods, bombs, etc.. It is Applicable to customs, public security, traffic, airport, hotel and other entrance control places.",
+              "id": "4f420502-34bc-464c-ac70-076c5949d60b",
+              "image": "/images/uploads/portable-under-vehicle-surveilance-system.png",
+              "name_en": "Portable Under-Vehicle Surveilance System",
+              "short_id": "Sistem Pengawasan Bawah Kendaraan Portabel terintegrasi dengan akuisisi citra bawah kendaraan, deteksi otomatis tampilan Mosaik gambar, dan pengisian cahaya"
+            },
+            {
+              "desc_id": "Sistem Pengawasan Bawah Kendaraan Tetap adalah sistem pemeriksaan keamanan kendaraan untuk akuisisi gambar, tampilan, pemantauan kondisi, dan alarm. Sistem ini secara efektif dapat mencegah orang, bom, senjata, bahan kimia, dan barang berbahaya bersembunyi di bawah mobil, dan banyak digunakan di pemerintahan, bandara, pelabuhan, militer, institusi, kedutaan besar, bank, hotel, dan tempat-tempat keamanan penting lainnya.",
+              "short_en": "The Fixed Under-Vehicle Surveillance System is a vehicle security check system for image acquisition, display, condition monitoring and alarm",
+              "name_id": "Sistem Pengawasan Bawah Kendaraan Tetap",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Fixed Under-Vehicle Surveillance System is a vehicle security check system for image acquisition, display, condition monitoring and alarm. The system can effectively prevent the hiding of people, bombs, weapons, chemical and dangerous goods under the car, and is widely used in government, airports, ports, military, institutions, embassies, banks, hotels and other important security places.",
+              "id": "2a766286-4839-4be4-baf0-cde5281bdcde",
+              "image": "/images/uploads/fixed-under-vehicle-surveilance-system.png",
+              "name_en": "Fixed Under-Vehicle Surveilance System",
+              "short_id": "Sistem Pengawasan Bawah Kendaraan Tetap adalah sistem pemeriksaan keamanan kendaraan untuk akuisisi gambar, tampilan, pemantauan kondisi, dan alarm"
+            },
+            {
+              "desc_id": "Robot Pengawas Bawah Kendaraan adalah perangkat portabel untuk memeriksa bagian bawah kendaraan. Dilengkapi dengan fungsi-fungsi seperti LPR otomatis, tampilan HD gambar bawah kendaraan, dan pengenalan posisi yang dicurigai. Robot ini ringkas, mobile, dan mudah digunakan, serta dapat menyelesaikan pemeriksaan bawah kendaraan secara otomatis dengan satu klik. Robot ini cocok untuk kontrol dan inspeksi kendaraan sementara di tempat-tempat seperti bea cukai, inspeksi perbatasan, manajemen perbatasan, pos pemeriksaan keamanan publik, acara berskala besar, dan keamanan konferensi penting.",
+              "short_en": "The Under-Vehicle Surveilance Robot is a portable device for inspecting the vehicle bottom",
+              "name_id": "Robot Pengawasan di Bawah Kendaraan",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Under-Vehicle Surveilance Robot is a portable device for inspecting the vehicle bottom. It equipped with functions such as automatic LPR,HD display of vehicle bottom images, and suspected position recognition. The robot is compact, mobile, and easy to deploy, can automatically complete vehicle bottom inspection with one click, It is suitable or temporary vehicle control and inspection in places such as customs, border inspection, border management, public security checkpoints, large-scale events, and important conference security.",
+              "id": "915a478d-ae90-40b6-8104-d8ca966496c0",
+              "image": "/images/uploads/under-vehicle-surveilance-robot.png",
+              "name_en": "Under-Vehicle Surveilance Robot",
+              "short_id": "Robot Pengawas Bawah Kendaraan adalah perangkat portabel untuk memeriksa bagian bawah kendaraan"
+            },
+            {
+              "desc_id": "Maxvision secara independen mengembangkan Mesin Inspeksi Cerdas Kendaraan All-in-one ini, sebuah produk pemeriksaan cerdas. Produk ini dirancang untuk meningkatkan manajemen lajur otomatis dan untuk merekam serta memverifikasi identitas personel yang melintas di lajur secara mandiri. Fungsi-fungsinya meliputi pengenalan wajah, pengenalan sidik jari, pemindaian kode batang, pengenalan dokumen, panduan interaktif, alarm abnormal, pencetakan tanda lulus, interkom video, kontrol tautan, dan sebagainya. Produk ini cocok untuk kampus, pelabuhan, dan kawasan perdagangan bebas terpadu yang perlu merekam dan memverifikasi informasi penumpang di lajur.",
+              "short_en": "Maxvision independently developed this Vehicle Intelligent Inspection All-in-one Machine which is an inteligent checking product",
+              "name_id": "Inspeksi Cerdas Kendaraan Semua dalam Satu Mesin - Dasar",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Maxvision independently developed this Vehicle Intelligent Inspection All-in-one Machine which is an inteligent checking product. This product is designed to enhance the automated management of lanes and to self-capture and verify the identity of personnel passing on the lanes. Functions including facial recognition, fingerprint recognition, barcode scanning, document recognition, interactive guidance, abnormal alarm, pass printing, video intercom, linkage control and so on. It is suitable for campus, ports, integrated free trade zones that need to capture and verify the information of passengers in the lane.",
+              "id": "7124fec0-ef67-41bc-aa2f-843546e5722e",
+              "image": "/images/uploads/vehicle-intelligent-inspection-all-in-one-machine-basic.png",
+              "name_en": "Vehicle Intelligent Inspection All-in-One Machine - Basic",
+              "short_id": "Maxvision secara independen mengembangkan Mesin Inspeksi Cerdas Kendaraan All-in-one ini, sebuah produk pemeriksaan cerdas"
+            },
+            {
+              "desc_id": "Maxvision secara independen mengembangkan Mesin Inspeksi Cerdas Kendaraan All-in-one ini, sebuah produk pemeriksaan cerdas. Produk ini dirancang untuk meningkatkan manajemen lajur otomatis dan untuk merekam serta memverifikasi identitas personel yang melintas di lajur secara mandiri. Fungsi-fungsinya meliputi pengenalan wajah, pengenalan sidik jari, pemindaian kode batang, pengenalan dokumen, panduan interaktif, alarm abnormal, pencetakan tanda lulus, interkom video, kontrol tautan, dan sebagainya. Produk ini cocok untuk kampus, pelabuhan, dan kawasan perdagangan bebas terpadu yang perlu merekam dan memverifikasi informasi penumpang di lajur.",
+              "short_en": "Maxvision independently developed this Vehicle Intelligent Inspection All-in-one Machine which is an intelligent checking product",
+              "name_id": "Inspeksi Cerdas Kendaraan Semua dalam Satu Mesin - Standar",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Maxvision independently developed this Vehicle Intelligent Inspection All-in-one Machine which is an intelligent checking product. This product is designed to enhance the automated management of lanes and to self-capture and verify the identity of personnel passing on the lanes. Functions including facial recognition, fingerprint recognition, barcode scanning, document recognition, interactive guidance, abnormal alarm, pass printing, video intercom, linkage control and so on. It is suitable for campus, ports, integrated free trade zones that need to capture and verify the information of passengers in the lane.",
+              "id": "48886493-f113-4746-a188-d150575c6ff4",
+              "image": "/images/uploads/vehicle-intelligent-inspection-all-in-one-machine-standard.png",
+              "name_en": "Vehicle Intelligent Inspection All-in-One Machine - Standard",
+              "short_id": "Maxvision secara independen mengembangkan Mesin Inspeksi Cerdas Kendaraan All-in-one ini, sebuah produk pemeriksaan cerdas"
+            },
+            {
+              "desc_id": "Maxvision secara independen mengembangkan Mesin Inspeksi Kendaraan Cerdas Al-in-one ini, sebuah produk pemeriksaan cerdas. Produk ini dirancang untuk meningkatkan manajemen lajur otomatis dan untuk merekam serta memverifikasi identitas personel yang melintas di lajur secara mandiri. Fungsi-fungsinya meliputi pengenalan wajah, pengenalan sidik jari, pemindaian kode batang, pengenalan dokumen, alarm abnormal, pencetakan kartu, interkom video, dan sebagainya. Secara bersamaan, mesin ini menggunakan mekanisme transmisi multi-sumbu yang dilengkapi kemampuan pengangkatan dan perpanjangan/penarikan otomatis. Hal ini memungkinkan penentuan posisi yang tepat dan efisien untuk pengumpulan data penumpang, sehingga mencapai verifikasi drive-through. Cocok untuk kampus dan pelabuhan di mana informasi penumpang di lajur perlu direkam dan diverifikasi.",
+              "short_en": "Maxvision independently developed this Vehicle intelligent Inspection Al-in-one Machine which is an intelligent checking product",
+              "name_id": "Inspeksi Cerdas Kendaraan Semua dalam Satu Mesin - Premium",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Maxvision independently developed this Vehicle intelligent Inspection Al-in-one Machine which is an intelligent checking product. This product is designed to enhance the automated management of lanes and to self-capture and verify the identity of personnel passing on the lanes. Functions including facial recognition, fingerprint recognition, barcode scanning, document recognition, abnormal alarm, pass printing, video intercom, and so on. Simultaneously, it employs a multi-axis transmission mechanism featuring automatic lifting and extension / retraction capabilities. This enables precise and eficient positioning for occupant data collection, achieving drive-through verification. It is suitable for campus, ports where the need to capture and verify the information of passengers in the lane.",
+              "id": "c6ee2c82-ea3d-4ebe-8b1d-f6d802e51489",
+              "image": "/images/uploads/vehicle-intelligent-inspection-all-in-one-machine-premium.png",
+              "name_en": "Vehicle Intelligent Inspection All-in-One Machine - Premium",
+              "short_id": "Maxvision secara independen mengembangkan Mesin Inspeksi Kendaraan Cerdas Al-in-one ini, sebuah produk pemeriksaan cerdas"
+            },
+            {
+              "desc_id": "Maxvision secara independen mengembangkan Mesin Kontrol Akses Kendaraan ini, sebuah produk pemeriksaan cerdas. Produk ini dirancang untuk meningkatkan manajemen jalur otomatis dan untuk merekam serta memverifikasi identitas personel yang melintas di jalur tersebut. Perangkat ini berfungsi untuk pemosisian otomatis perangkat akuisisi, penghindaran rintangan secara cerdas, pengenalan wajah, pengenalan iris, pembacaan ID, panduan interaktif, percakapan visual, pengawasan panorama, kontrol tautan, dan sebagainya. Produk ini cocok untuk kampus dan pelabuhan yang perlu merekam dan memverifikasi informasi penumpang di jalur.",
+              "short_en": "Maxvision independently developed this Vehicle Access Control Machine which is an intelligent checking product",
+              "name_id": "Inspeksi Cerdas Kendaraan Semua dalam Satu Mesin - Terakhir",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Maxvision independently developed this Vehicle Access Control Machine which is an intelligent checking product. This product is designed to enhance the automated management of lanes and to self-capture and verify the identity of personnel passing on the lanes. Functioning automatic positioning of the acquisition device, intelligent avoidance of obstacles, face recognition, iris recognition, ID reading, interactive guidance, visible conversation, panoramic surveillance, linkage control and so on. It is suitable for campus, ports that need to capture and verify the information of passengers in the lane.",
+              "id": "6174cc5e-d5cc-4bdc-8cc7-7282aa434e5c",
+              "image": "/images/uploads/vehicle-intelligent-inspection-all-in-one-machine-ultimate.png",
+              "name_en": "Vehicle Intelligent Inspection All-in-One Machine -Ultimate",
+              "short_id": "Maxvision secara independen mengembangkan Mesin Kontrol Akses Kendaraan ini, sebuah produk pemeriksaan cerdas"
+            }
+          ]
+        },
+        {
+          "id": "c1fb6f30-0359-4590-ba0c-da498b74285e",
+          "name_en": "Customs Authority",
+          "name_id": "Otoritas Bea Cukai",
+          "products": [
+            {
+              "desc_id": "Sistem Manajemen Pemesanan Truk adalah aplikasi cerdas yang dirancang untuk mengelola dan mengoordinasikan arus truk di terminal pelabuhan secara efisien. Sistem ini terdiri dari platform manajemen backend berbasis PC dan aplikasi seluler, yang secara efektif memungkinkan distribusi beban kerja, mengurangi kemacetan gerbang, dan meningkatkan efisiensi operasional.",
+              "short_en": "Truck Booking Management System is an intelligent application designed to efficiently manage and coordinate truck flow at port terminals",
+              "name_id": "Platform Manajemen Pemesanan Truk",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Truck Booking Management System is an intelligent application designed to efficiently manage and coordinate truck flow at port terminals. The system comprises a PC-based backend management platform and a mobile APP, effectively enabling workload distribution, mitigating gate congestion, and enhancing operational efficiency.",
+              "id": "ac621c72-b87a-4691-8680-37aa551a7a4d",
+              "image": "/images/uploads/truck-booking-management-platform.png",
+              "name_en": "Truck Booking Management Platform",
+              "short_id": "Sistem Manajemen Pemesanan Truk adalah aplikasi cerdas yang dirancang untuk mengelola dan mengoordinasikan arus truk di terminal pelabuhan secara efisien"
+            },
+            {
+              "desc_id": "Mesin ANPR All-in-one adalah solusi all-in-one bertenaga AI yang dirancang untuk mengidentifikasi pelat nomor dari berbagai negara secara akurat. Dilengkapi dengan algoritma pembelajaran mendalam (deep learning) yang tertanam, perangkat ini merekam dan menganalisis aliran video secara real-time untuk menghasilkan pengenalan yang cepat dan andal di berbagai format pelat. Ringkas dan mudah digunakan, sistem ini ideal untuk kontrol akses kendaraan di kompleks perumahan, pusat perbelanjaan, sekolah, rumah sakit, bandara, kawasan industri, dan fasilitas parkir umum—memungkinkan manajemen lalu lintas yang lebih cerdas dan integrasi yang mulus ke dalam infrastruktur mobilitas modern.",
+              "short_en": "The ANPR All-in-one Machine is an Al-powered, all-in-one solution designed to accurately identify license plates from multiple countries",
+              "name_id": "Mesin ANPR All-in-One",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The ANPR All-in-one Machine is an Al-powered, all-in-one solution designed to accurately identify license plates from multiple countries. Equipped with embedded deep learning algorithms, the device captures and analyzes video streams in real time to deliver fast, reliable recognition across a wide range of plate formats. Compact and easy to deploy, the system is ideal for vehicle access control in residential complexes, shopping centers, schools, hospitals, airports, industrial parks, and public parking facilities-enabling smarter traffic management and seamless integration into modern mobility infrastructures.",
+              "id": "88ee28a3-f88e-413f-a7fc-97353b7d8736",
+              "image": "/images/uploads/anpr-all-in-one-machine.png",
+              "name_en": "ANPR All-in-One Machine",
+              "short_id": "Mesin ANPR All-in-one adalah solusi all-in-one bertenaga AI yang dirancang untuk mengidentifikasi pelat nomor dari berbagai negara secara akurat"
+            },
+            {
+              "desc_id": "Kamera ANPR Multi-negara Maxvision dirancang untuk menjawab tantangan identifikasi plat nomor di berbagai wilayah, bahasa, dan format. Dibangun dengan AI vision canggih dan teknologi OCR multibahasa, sistem ini memberikan pengenalan yang andal dan real-time di lingkungan lalu lintas yang kompleks. Baik digunakan di perlintasan perbatasan, pusat logistik, jalan raya, tempat parkir, atau pos pemeriksaan bea cukai, sistem ini memastikan pemantauan kendaraan yang lancar di berbagai pengaturan internasional.\nSolusi ini mendukung kamera AI berbasis edge dan terminal pintar terintegrasi, menawarkan fleksibilitas penerapan untuk memenuhi berbagai kebutuhan infrastruktur. Dengan akurasi pengenalan yang tinggi dan stabilitas operasional 24/7, sistem ini membantu operator menyederhanakan identifikasi kendaraan, mengotomatiskan kontrol masuk/keluar, dan memperkuat keamanan lintas batas.",
+              "short_en": "Maxvision's Multi-country ANPR Camera is designed to meet the challenges of identifying plates across diverse regions, languages, and formats",
+              "name_id": "Kamera ANPR Multi-negara",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Maxvision's Multi-country ANPR Camera is designed to meet the challenges of identifying plates across diverse regions, languages, and formats. Built with advanced Al vision and multilingual OCR technology, the system delivers reliable, real-time recognition in complex traffic environments. Whether deployed at border crossings, logistics hubs, highways, parking lots, or customs checkpoints, it ensures seamless vehicle monitoring across international settings.\nThe solution supports both edge-based Al cameras and integrated smart terminals, offering flexible deployment to suit different infrastructure needs. With high recognition accuracy and 24/7 operational stability, it helps operators streamline vehicle identification, automate entry/exit control, and strengthen cross-border security.",
+              "id": "f1f6461a-3b68-40e9-bec0-57dc08b54f62",
+              "image": "/images/uploads/multi-country-anpr-camera.png",
+              "name_en": "Multi-country ANPR Camera",
+              "short_id": "Kamera ANPR Multi-negara Maxvision dirancang untuk menjawab tantangan identifikasi plat nomor di berbagai wilayah, bahasa, dan format"
+            },
+            {
+              "desc_id": "Sistem Pengenalan ID Kontainer terdiri dari terminal penangkap gambar nomor kontainer, algoritma identifikasi gambar nomor kontainer, dan platform manajemen sistem identifikasi nomor kontainer. Sistem ini menggunakan kamera AI cerdas front-end untuk menangkap dan mengenali nomor kontainer, dan hasil identifikasi secara otomatis dikirim ke platform manajemen sistem untuk mencapai manajemen jarak jauh identifikasi nomor kontainer di pos pemeriksaan. Sistem ini mencakup fungsi-fungsi seperti identifikasi nomor multi-jenis, identifikasi kontainer multi-jenis, statistik data operasi peralatan, statistik data identifikasi nomor kontainer, pengiriman data bisnis secara real-time, dan pemantauan jalur secara real-time. Sistem ini mewujudkan identifikasi nomor kontainer cerdas untuk izin kendaraan yang efisien, dan pos pemeriksaan tanpa awak.",
+              "short_en": "Container ID Recognition System consists of a container number image capture terminal, a container number image identification algorithm, and a container number identification system management platform",
+              "name_id": "Sistem Pengenalan ID Kontainer",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Container ID Recognition System consists of a container number image capture terminal, a container number image identification algorithm, and a container number identification system management platform. The system uses the front-end Al inteligent camera to capture and recognize the container number, the identification result is automatically pushed to the system management platform to achieve remote management of container number identification at the checkpoint. The system includes functions such as multi-type number identification multi-type container identification, equipment operation data statistics, container number identification datastatistics, real-time business data push, and real-time lane monitoring. It realizes efficient vehicle clearance intelligent container number identification, and unmanned checkpoints.",
+              "id": "076fd962-03ce-4a0c-b4b2-8fbf29972779",
+              "image": "/images/uploads/container-id-recognition-system.png",
+              "name_en": "Container ID Recognition System",
+              "short_id": "Sistem Pengenalan ID Kontainer terdiri dari terminal penangkap gambar nomor kontainer, algoritma identifikasi gambar nomor kontainer, dan platform manajemen sistem identifikasi nomor kontainer"
+            },
+            {
+              "desc_id": "Sistem Deteksi Kerusakan Kontainer Maxvision adalah platform terpadu berbasis AI yang dirancang untuk mengotomatiskan dan menyederhanakan operasi gerbang kontainer di pelabuhan, terminal, dan titik pemeriksaan bea cukai. Dengan menggabungkan pengenalan ID kontainer, deteksi kerusakan, pembacaan plat nomor, dan kontrol terintegrasi, sistem ini menghilangkan inspeksi manual dan menghadirkan pemrosesan yang cepat, akurat, dan nirsentuh.\nDibangun untuk menangani lingkungan dengan throughput tinggi, sistem ini mendukung beragam jenis dan format kontainer dalam berbagai kondisi cuaca dan pencahayaan. Sistem ini menyediakan data terstruktur secara real-time untuk platform bea cukai dan logistik, memungkinkan alur kerja pengurusan izin yang lancar dan pengawasan regulasi yang lebih ketat.",
+              "short_en": "The Maxvision Container Damage Detection System is a unified Al-driven platform designed to automate and streamline container gate operations at ports, terminals, and customs checkpoints",
+              "name_id": "Sistem Deteksi Kerusakan Kontainer",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Maxvision Container Damage Detection System is a unified Al-driven platform designed to automate and streamline container gate operations at ports, terminals, and customs checkpoints. By combining container ID recognition, damage detection, license plate reading, and integrated control, the system eliminates manual inspections and delivers fast, accurate, and contactless processing.\nBuilt to handle high-throughput environments, the system supports a wide range of container types and formats under diverse weather and lighting conditions. It provides real-time, structured data to customs and logistics platforms, enabling seamless clearance workflows and stronger regulatory oversight.",
+              "id": "06a6f018-86ca-4df7-9963-33b8b93731df",
+              "image": "/images/uploads/container-demage-detection-system.png",
+              "name_en": "Container Demage Detection System",
+              "short_id": "Sistem Deteksi Kerusakan Kontainer Maxvision adalah platform terpadu berbasis AI yang dirancang untuk mengotomatiskan dan menyederhanakan operasi gerbang kontainer di pelabuhan, terminal, dan titik pemeriksaan bea cukai"
+            },
+            {
+              "desc_id": "Pengendali Darurat Jalur adalah perangkat untuk kontrol darurat manual pembatas lajur. Ketika terjadi situasi abnormal selama pemeriksaan pembatas lajur, petugas dapat mengoperasikan pengontrol ini secara manual untuk mengontrol pembukaan atau penutupan pembatas lajur dari jarak jauh, guna memastikan pemeriksaan lajur aman, efisien, dan tertib.",
+              "short_en": "The Lane Emergency Controller is a device for manual emergency control of the lane barrier",
+              "name_id": "Pengendali Darurat Jalur",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Lane Emergency Controller is a device for manual emergency control of the lane barrier. Whenthere are abnormal situations in the inspection of the lane barrier, the staff can manually operate this controller to remotely control the opening or closing of the barrier, to ensure that the inspection of thelane is safe, efficient and orderly.",
+              "id": "f5aebbf6-4492-4750-97d6-6d53d0171a02",
+              "image": "/images/uploads/lane-emergency-controller.png",
+              "name_en": "Lane Emergency Controller",
+              "short_id": "Pengendali Darurat Jalur adalah perangkat untuk kontrol darurat manual pembatas lajur"
+            }
+          ]
         }
       ]
     }
