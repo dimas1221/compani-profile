@@ -1241,6 +1241,20 @@
               "image": "/images/uploads/maxvision-ai-analysis-terminal.png",
               "name_en": "Maxvision AI Analysis Terminal",
               "short_id": "Terminal Analisis Maxvision AI memanfaatkan algoritma berbasis pembelajaran mendalam untuk menganalisis dan menginterpretasi citra keamanan sinar-X secara otomatis"
+            },
+            {
+              "desc_id": "Server Al Video Analytics dari Maxvision menyediakan layanan melalui dua pendekatan inti: antarmuka pengambilan gambar yang intuitif dan API algoritma yang komprehensif.\nAntarmuka pengambilan gambar menawarkan pengalaman yang ramah pengguna yang dirancang untuk tugas-tugas penting seperti deteksi objek, ekstraksi fitur, dan perbandingan target. Sementara itu, API algoritma menyediakan beragam kemampuan canggih—termasuk deteksi objek, pengenalan atribut, ekstraksi fitur, pengarsipan gambar, serta pencocokan 1:1 dan 1:N yang memastikan akurasi algoritmik tinggi sekaligus mendukung tuntutan konkurensi tinggi.\nDibangun di atas arsitektur layanan mikro dan terdistribusi, server ini sangat skalabel—mendukung penerapan mandiri maupun penerapan terdistribusi skala besar. Arsitektur ini memaksimalkan efisiensi komputasi, memungkinkan analisis data gambar bervolume tinggi yang cepat, akurat, dan stabil dari ribuan aliran pengawasan. Server ini sangat cocok untuk digunakan di kawasan bisnis, kompleks ritel, bandara, pos pemeriksaan perbatasan, dan skenario lain yang membutuhkan pengenalan dan pencocokan gambar cerdas.",
+              "short_en": "Maxvision's Al Video Analytics Server delivers services through two core approaches: an intuitive image retrieval interface and a comprehensive algorithm API.",
+              "name_id": "Server Analisis Video AI Shengxing",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Maxvision's Al Video Analytics Server delivers services through two core approaches: an intuitive image retrieval interface and a comprehensive algorithm API.\nThe image retrieval interface offers a user-friendly experience designed for essential tasks such as object detection, feature extraction, and target comparison. Meanwhile, the algorithm API provides a broader range of advanced capabilities-including object detection, attribute recognition, feature extraction, image archiving, as well as both 1:1 and 1:N matching ensuring high algorithmic accuracy while supporting high-concurrency demands.\nBuilt on a microservices and distributed architecture, the server is highly scalable-supporting both standalone deployment and large-scale distributed deployment. This architecture maximizes computational efficiency, enabling fast, accurate, and stable analysis of high-volume image data from thousands of surveillance streams. It is ideally suited for use in business parks, retail complexes, airports, border checkpoints, and other scenarios requiring intelligent image recognition and matching.",
+              "id": "f2d52d85-df75-4012-a59f-c4493f9e7dbd",
+              "image": "/images/uploads/shengxing-ai-video-analytics-server.png",
+              "name_en": "Shengxing AI Video Analytics Server",
+              "short_id": "Server Al Video Analytics dari Maxvision menyediakan layanan melalui dua pendekatan inti: antarmuka pengambilan gambar yang intuitif dan API algoritma yang komprehensif."
             }
           ]
         },
