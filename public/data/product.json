@@ -916,6 +916,33 @@
           ]
         }
       ]
+    },
+    {
+      "id": "560fb570-d94d-441a-9de8-44677b1d3f64",
+      "name_en": "Intelligent Transportation",
+      "name_id": "Transportasi Cerdas",
+      "sub_categories": [
+        {
+          "id": "4b15db0d-05a8-42c7-aa80-d8e93fe090ee",
+          "name_en": "Traffic Safety",
+          "name_id": "Keselamatan Lalu Lintas"
+        },
+        {
+          "id": "97ac00cd-3d66-418e-bbf3-e47ee7f8f5a0",
+          "name_en": "Traffic Efficiency",
+          "name_id": "Efisiensi Lalu Lintas"
+        },
+        {
+          "id": "f2616f09-2ff0-4470-b346-a34246320f71",
+          "name_en": "Traffic Services",
+          "name_id": "Layanan Lalu Lintas"
+        },
+        {
+          "id": "3e41fd47-8fe9-47ff-8848-aa4a81eaa75f",
+          "name_en": "Platform",
+          "name_id": "Platform"
+        }
+      ]
     }
   ]
 }
