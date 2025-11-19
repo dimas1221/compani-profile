@@ -1255,6 +1255,20 @@
               "image": "/images/uploads/shengxing-ai-video-analytics-server.png",
               "name_en": "Shengxing AI Video Analytics Server",
               "short_id": "Server Al Video Analytics dari Maxvision menyediakan layanan melalui dua pendekatan inti: antarmuka pengambilan gambar yang intuitif dan API algoritma yang komprehensif."
+            },
+            {
+              "desc_id": "Maxvision Image Retrieval Server menghadirkan layanan analisis gambar berbasis AI melalui dua mode fleksibel: antarmuka pengambilan visual dan API algoritma yang berorientasi pengembang.\nAntarmuka visual memberikan pengalaman pengguna yang intuitif untuk tugas-tugas penting seperti deteksi objek, ekstraksi fitur, dan pencocokan kesamaan.\nAPI algoritma menawarkan rangkaian kemampuan yang lebih komprehensif—termasuk deteksi objek, pengenalan atribut, ekstraksi fitur, pengindeksan gambar, serta perbandingan 1:1 dan 1:N—yang memastikan akurasi algoritmik tinggi sekaligus mendukung permintaan serentak berskala besar.\nDibangun di atas arsitektur terdistribusi berbasis layanan mikro, server ini dirancang untuk penerapan mandiri maupun skalabel. Server ini memaksimalkan efisiensi komputasi untuk menghadirkan analisis aliran gambar pengawasan yang cepat, akurat, dan stabil—menjadikannya solusi ideal untuk lingkungan kompleks seperti kawasan industri, pusat ritel, bandara, dan fasilitas kontrol perbatasan yang membutuhkan pengenalan dan pencocokan visual cerdas.",
+              "short_en": "The Maxvision Image Retrieval Server delivers Al-powered image analysis services through two flexible modes: a visual retrieval interface and a developer-oriented algorithm API.",
+              "name_id": "Server Pengambilan Fitur AI Shengsuan",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Maxvision Image Retrieval Server delivers Al-powered image analysis services through two flexible modes: a visual retrieval interface and a developer-oriented algorithm API.\nThe visual interface provides an intuitive user experience for essential tasks such as object detection, feature extraction, and similarity matching.\nThe algorithm API offers a more comprehensive suite of capabilities-including object detection, attribute recognition, feature extraction, image indexing, as well as both 1:1 and 1:N comparison-ensuring high algorithmic accuracy while supporting large-scale concurrent requests.\nBuilt on a microservices-based distributed architecture, the server is designed for both standalone and scalable deployments. It maximizes computing efficiency to deliver fast, accurate, and stable analysis of massive surveillance image streams-making it an ideal solution for complex environments such as industrial parks, retail hubs, airports, and border control facilities where intelligent visual recognition and matching are critical.",
+              "id": "e11df703-2c28-4759-9ba4-9114aebb528b",
+              "image": "/images/uploads/shengsuan-ai-feature-retrieval-server.png",
+              "name_en": "Shengsuan AI Feature Retrieval Server",
+              "short_id": "Maxvision Image Retrieval Server menghadirkan layanan analisis gambar berbasis AI melalui dua mode fleksibel: antarmuka pengambilan visual dan API algoritma yang berorientasi pengembang."
             }
           ]
         },
