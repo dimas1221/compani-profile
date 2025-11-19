@@ -1031,6 +1031,20 @@
               "image": "/images/uploads/intelligent-traffic-signal-controller.png",
               "name_en": "Intelligent Traffic Signal Controller",
               "short_id": "Pengendali Sinyal Lalu Lintas Cerdas Maxvision adalah perangkat koordinasi jaringan yang dirancang untuk mengelola sinyal lalu lintas di persimpangan jalan. "
+            },
+            {
+              "desc_id": "Didukung oleh arsitektur chip heterogen multi-inti berkinerja tinggi (ARM + NPU + CODEC), detektor ini mengintegrasikan algoritma jaringan saraf tiruan dan kemampuan pencitraan cahaya rendah untuk memungkinkan deteksi kendaraan secara real-time dan analisis data lalu lintas yang komprehensif. Detektor ini banyak digunakan di jalan perkotaan, jalan raya, dan jalan tol untuk pemantauan arus dan pengaturan lalu lintas yang akurat.",
+              "short_en": "Powered by a high-performance multi-core heterogeneous chip architecture (ARM + NPU + CODEC), this detector integrates neural network algorithms and low-light imaging capabilities to enable real-time vehicle detection and comprehensive traffic data analysis",
+              "name_id": "Detektor Kendaraan Video",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Powered by a high-performance multi-core heterogeneous chip architecture (ARM + NPU + CODEC), this detector integrates neural network algorithms and low-light imaging capabilities to enable real-time vehicle detection and comprehensive traffic data analysis. It is widely deployed on urban roads, highways, and expressways for accurate flow monitoring and traffic control.",
+              "id": "cf0f2763-1703-4aec-9021-fe2785118aaa",
+              "image": "/images/uploads/video-vehicle-detector.png",
+              "name_en": "Video Vehicle Detector",
+              "short_id": "Didukung oleh arsitektur chip heterogen multi-inti berkinerja tinggi (ARM + NPU + CODEC), detektor ini mengintegrasikan algoritma jaringan saraf tiruan dan kemampuan pencitraan cahaya rendah untuk memungkinkan deteksi kendaraan secara real-time dan analisis data lalu lintas yang komprehensif"
             }
           ]
         },
