@@ -968,6 +968,20 @@
               "image": "/images/uploads/ai-dual-mode-intelligent-ptz-camera.png",
               "name_en": "AI Dual-Mode Intelligent PTZ Camera",
               "short_id": "Kamera PTZ Cerdas Mode Ganda Maxvision Al mengadopsi desain arsitektur mode ganda, algoritma pembelajaran mendalam Al bawaan, kolaborasi binokular, mempertimbangkan detail, cakupan panorama penuh, mencakup berbagai pemandangan seperti orang, kendaraan, jalan, dll"
+            },
+            {
+              "desc_id": "Terminal Manajemen Cerdas (16) dari Maxvision adalah terminal cerdas multifungsi generasi terbaru yang dirancang untuk manajemen persimpangan terpusat. Terminal ini menyediakan solusi komprehensif untuk akuisisi gambar/video kamera HD multi-kanal, penyimpanan lokal, dan transmisi data.\nDengan algoritma cerdas terintegrasi, sistem ini mendukung: pengomposisian gambar, penyisipan metadata, analisis arus lalu lintas, deteksi kecepatan rata-rata, identifikasi pelanggaran, dan pelaporan.\nDidesain untuk penerapan fleksibel di persimpangan atau pusat jaringan, solusi ini memberikan pemantauan cerdas 24/7 untuk berbagai aplikasi termasuk pos pemeriksaan, sistem kepolisian elektronik, dan pengawasan lalu lintas.",
+              "short_en": "The Intelligent Management Terminal (16) from Maxvision is a next-generation multifunctional intelligent terminal designed for centralized intersection management",
+              "name_id": "Terminal Manajemen Cerdas - 16",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Intelligent Management Terminal (16) from Maxvision is a next-generation multifunctional intelligent terminal designed for centralized intersection management. It provides comprehensive solutions for multi-channel HD camera image/video acquisition, local storage, and data transmission.\nWith integrated intelligent algorithms, the system supports: image compositing, metadata embedding, traffic flow analysis, average speed detection, violation identification and reporting.\nEngineered for flexible deployment at intersections or network centers, the solution delivers 24/7 intelligent monitoring for applications including checkpoints, electronic police systems, and traffic surveillance.",
+              "id": "02b0731e-a512-4ad8-842d-e1fcd5818a63",
+              "image": "/images/uploads/intelligent-management-terminal-16.png",
+              "name_en": "Intelligent Management Terminal - 16",
+              "short_id": "Terminal Manajemen Cerdas (16) dari Maxvision adalah terminal cerdas multifungsi generasi terbaru yang dirancang untuk manajemen persimpangan terpusat"
             }
           ]
         },
