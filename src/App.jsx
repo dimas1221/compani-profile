@@ -18,6 +18,7 @@ const ProductDetail = lazy(() => import("./pages/home/ProductDetail"));
 const Principle = lazy(() => import("./pages/principle/Principle"));
 const SuccessStory = lazy(() => import("./pages/successStory/SuccessStory"));
 const StoryDetail = lazy(() => import("./pages/successStory/StoryDetail"));
+const HelpResources = lazy(() => import("./pages/help/HelpResources"));
 
 export default function App() {
   const { darkMode, toggleTheme } = useApp();
@@ -82,6 +83,7 @@ export default function App() {
             <Route path="/principle" element={<Principle />} />
             <Route path="/success-story" element={<SuccessStory />} />
             <Route path="/success-story/:id" element={<StoryDetail />} />
+            <Route path="/help-resources" element={<HelpResources />} />
           </Routes>
         </Suspense>
       </main>

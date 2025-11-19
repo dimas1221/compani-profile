@@ -1,0 +1,54 @@
+{
+  "en": [
+    {
+      "question": "What data must I prepare to submit a public information request?",
+      "answer": "Lorem ipsum dolor sit amet consectetur. Et dictumst duis dui magna consectetur fames vestibulum dignissim..."
+    },
+    {
+      "question": "How to submit a public information request online?",
+      "answer": ""
+    },
+    {
+      "question": "How long does it take to obtain public information?",
+      "answer": ""
+    },
+    {
+      "question": "What time does PPID Secretariat open its public information services?",
+      "answer": ""
+    },
+    {
+      "question": "Is there any fee charged for public information requests?",
+      "answer": ""
+    },
+    {
+      "question": "What are the shipping costs for public information materials?",
+      "answer": ""
+    }
+  ],
+  "id": [
+    {
+      "question": "Data apa saja yang harus saya lengkapi untuk mengajukan permohonan informasi publik?",
+      "answer": "Lorem ipsum dolor sit amet consectetur. Et dictumst duis dui magna consectetur fames vestibulum dignissim..."
+    },
+    {
+      "question": "Bagaimana tahapan pengajuan permohonan informasi publik via media online?",
+      "answer": ""
+    },
+    {
+      "question": "Berapa lama informasi publik dapat diperoleh?",
+      "answer": ""
+    },
+    {
+      "question": "Jam berapa setiap harinya PPID Setjen DPR RI membuka layanan informasi publik?",
+      "answer": ""
+    },
+    {
+      "question": "Apakah informasi publik yang diminta dikenakan biaya atau tarif?",
+      "answer": ""
+    },
+    {
+      "question": "Berapa biaya pengiriman informasi publik?",
+      "answer": ""
+    }
+  ]
+}

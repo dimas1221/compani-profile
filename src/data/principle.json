@@ -1,78 +1,19 @@
 {
   "en": {
-    "principle_title": "Partnership Principles",
-    "principle_subtitle": "Jovision is committed to empowering our global partners through long-term collaboration, transparency, and growth opportunities.",
-    "principle_items": [
-      {
-        "title": "Brand Use",
-        "subtitle": "Rights to use, distribute, and market under the Jovision brand in your designated region."
-      },
-      {
-        "title": "Dealership Guarantee",
-        "subtitle": "Ensures exclusive distribution for specific regions or models as per signed agreements."
-      },
-      {
-        "title": "Credit Support",
-        "subtitle": "Financial assistance and credit options to help partners manage cash flow with insurance protection."
-      },
-      {
-        "title": "Marketing Support",
-        "subtitle": "Access to marketing materials, social media content, seminars, and exhibition resources."
-      },
-      {
-        "title": "Technical Support",
-        "subtitle": "Receive direct technical support and professional training from Jovision engineers."
-      },
-      {
-        "title": "Sales Lead Support",
-        "subtitle": "Partners receive leads and inquiries directly from Jovision’s global marketing channels."
-      },
-      {
-        "title": "Project Support",
-        "subtitle": "Assistance with topological design and model recommendations for project success."
-      },
-      {
-        "title": "New Products & Technology",
-        "subtitle": "Priority access to test and deploy Jovision’s latest products and technologies."
-      }
-    ]
+    "hero_title": "Transforme Partnership Principle",
+    "hero_subtitle": "Transforme Partnership",
+    "hero_desc": "Founded in 2000, is a provider of Intelligent Vision Products and Solutions. Thanks to more than 25 years of R&D and manufacturing experiences, Transforme has established a Video + AI-based Intelligent Vision Service System to empower global partners. Transforme ranked 28th of A&S 2022 Global TOP50 and China TOP10 in video surveillance area.",
+
+    "principle_title": "Principles of Partnership",
+    "principle_subtitle": "Strong collaboration for global intelligent vision solutions."
   },
+
   "id": {
+    "hero_title": "Prinsip Kemitraan Transforme",
+    "hero_subtitle": "Transforme Partnership",
+    "hero_desc": "Didirikan pada tahun 2000, penyedia produk & solusi Intelligent Vision. Dengan lebih dari 25 tahun pengalaman R&D dan manufaktur, Transforme telah membangun sistem layanan Video + AI yang memberdayakan mitra global. Transforme menempati peringkat 28 A&S 2022 Global TOP50 dan China TOP10 dalam surveilans video.",
+
     "principle_title": "Prinsip Kemitraan",
-    "principle_subtitle": "Jovision berkomitmen untuk memberdayakan mitra global kami melalui kolaborasi jangka panjang, transparansi, dan peluang pertumbuhan.",
-    "principle_items": [
-      {
-        "title": "Penggunaan Merek",
-        "subtitle": "Hak untuk menggunakan, mendistribusikan, dan memasarkan di bawah merek Jovision di wilayah Anda."
-      },
-      {
-        "title": "Jaminan Dealer",
-        "subtitle": "Menjamin distribusi eksklusif untuk wilayah atau model tertentu sesuai kontrak yang ditandatangani."
-      },
-      {
-        "title": "Dukungan Kredit",
-        "subtitle": "Memberikan dukungan kredit untuk membantu mitra mengelola arus kas dengan perlindungan asuransi."
-      },
-      {
-        "title": "Dukungan Pemasaran",
-        "subtitle": "Akses ke materi pemasaran, konten media sosial, seminar, dan sumber daya pameran."
-      },
-      {
-        "title": "Dukungan Teknis",
-        "subtitle": "Mendapatkan dukungan teknis langsung dan pelatihan profesional dari insinyur Jovision."
-      },
-      {
-        "title": "Dukungan Penjualan",
-        "subtitle": "Mitra menerima prospek dan permintaan langsung dari pemasaran global Jovision."
-      },
-      {
-        "title": "Dukungan Proyek",
-        "subtitle": "Bantuan dalam desain topologi dan rekomendasi model untuk proyek mitra."
-      },
-      {
-        "title": "Produk & Teknologi Baru",
-        "subtitle": "Prioritas untuk menguji produk terbaru dan teknologi inovatif dari Jovision."
-      }
-    ]
+    "principle_subtitle": "Kolaborasi kuat untuk solusi intelligent vision global."
   }
 }

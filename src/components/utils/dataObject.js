@@ -13,7 +13,7 @@ export const getMenuItems = () => {
     extraMenu: [
       { name: t.partners, path: "/principle" },
       { name: t.corporate, path: "/success-story" },
-      { name: t.helpResources, path: "/help" },
+      { name: t.helpResources, path: "/help-resources" },
     ],
   };
 };

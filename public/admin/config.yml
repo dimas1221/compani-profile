@@ -1,143 +1,3 @@
-# backend:
-#   name: github
-#   repo: dimas1221/compani-profile # Ganti sesuai repo kamu
-#   branch: main
-#   auth_type: oauth
-#   base_url: https://decap-oauth.vercel.app # Proxy OAuth dari Vercel
-#   auth_endpoint: auth
-#   client_id: Ov23lihVYXS9ZNZr3qaj
-
-# media_folder: "public/images/uploads"
-# public_folder: "/images/uploads"
-
-# publish_mode: simple
-
-# collections:
-#   - name: "products"
-#     label: "Product Catalogue"
-#     format: "json"
-#     extension: "json"
-#     editor:
-#       preview: false
-#     files:
-#       - file: "public/data/product.json"
-#         label: "Product Data"
-#         name: "product_json"
-#         fields:
-#           - label: "Main Categories"
-#             name: "main_categories"
-#             widget: "list"
-#             fields:
-#               - { label: "Main Category ID", name: "id", widget: "string" }
-#               - { label: "Name (EN)", name: "name_en", widget: "string" }
-#               - { label: "Name (ID)", name: "name_id", widget: "string" }
-#               - label: "Sub Categories"
-#                 name: "sub_categories"
-#                 widget: "list"
-#                 fields:
-#                   - { label: "Sub Category ID", name: "id", widget: "string" }
-#                   - { label: "Name (EN)", name: "name_en", widget: "string" }
-#                   - { label: "Name (ID)", name: "name_id", widget: "string" }
-#                   - label: "Products"
-#                     name: "products"
-#                     widget: "list"
-#                     fields:
-#                       - { label: "ID", name: "id", widget: "string" }
-#                       - {
-#                           label: "Name (EN)",
-#                           name: "name_en",
-#                           widget: "string",
-#                         }
-#                       - {
-#                           label: "Name (ID)",
-#                           name: "name_id",
-#                           widget: "string",
-#                         }
-#                       - {
-#                           label: "Short (EN)",
-#                           name: "short_en",
-#                           widget: "text",
-#                         }
-#                       - {
-#                           label: "Short (ID)",
-#                           name: "short_id",
-#                           widget: "text",
-#                         }
-#                       - {
-#                           label: "Description (EN)",
-#                           name: "desc_en",
-#                           widget: "text",
-#                         }
-#                       - {
-#                           label: "Description (ID)",
-#                           name: "desc_id",
-#                           widget: "text",
-#                         }
-#                       - { label: "Image", name: "image", widget: "image" }
-#                       - label: "Compatibility"
-#                         name: "compatibility"
-#                         widget: "list"
-#                         default: []
-
-#     # 2️⃣ Produk flatten (auto)
-#     # 2️⃣ Products_flat (auto generated) untuk relasi dropdown
-#   # 2️⃣ Produk flat (auto generator)
-#   - name: "products_flat"
-#     label: "Products Flat (Auto)"
-#     folder: "public/data/products_flat"
-#     format: "json"
-#     extension: "json"
-#     create: false
-#     editor:
-#       preview: false
-#     fields:
-#       - { label: "ID", name: "id", widget: "string" }
-#       - { label: "Name (EN)", name: "name_en", widget: "string" }
-#       - { label: "Name (ID)", name: "name_id", widget: "string" }
-#       - { label: "Main Category", name: "main_category_en", widget: "string" }
-#       - { label: "Sub Category", name: "sub_category_en", widget: "string" }
-#       - { label: "Image", name: "image", widget: "image", required: false }
-
-#   # 3️⃣ Detail produk (relasi ke produk flat)
-#   - name: "detail_product"
-#     label: "Detail Product"
-#     folder: "public/data/detail_product"
-#     format: "json"
-#     extension: "json"
-#     create: true
-#     slug: "{{fields.id}}" # Pakai slug berdasarkan field id, jadi nama file dp-001.json dst
-#     editor:
-#       preview: false
-#     fields:
-#       - { label: "ID", name: "id", widget: "string" }
-#       - label: "Product"
-#         name: "product_id"
-#         widget: "relation"
-#         collection: "products_flat"
-#         search_fields: ["name_en", "name_id"]
-#         value_field: "id"
-#         display_fields: ["name_en"]
-#       - { label: "Introduction (EN)", name: "introduction_en", widget: "text" }
-#       - { label: "Introduction (ID)", name: "introduction_id", widget: "text" }
-#       - label: "Features (EN)"
-#         name: "features_en"
-#         widget: "list" # tanpa field di dalam, supaya array string disimpan dalam 1 file
-#       - label: "Features (ID)"
-#         name: "features_id"
-#         widget: "list"
-#       - label: "Parameters (EN)"
-#         name: "parameter_en"
-#         widget: "list"
-#         fields:
-#           - { label: "Label", name: "label", widget: "string" }
-#           - { label: "Value", name: "value", widget: "string" }
-#       - label: "Parameters (ID)"
-#         name: "parameter_id"
-#         widget: "list"
-#         fields:
-#           - { label: "Label", name: "label", widget: "string" }
-#           - { label: "Value", name: "value", widget: "string" }
-
 backend:
   name: github
   repo: dimas1221/compani-profile
@@ -330,3 +190,27 @@ collections:
         fields:
           - { label: "Label", name: "label", widget: "string" }
           - { label: "Value", name: "value", widget: "string" }
+  # ==========================================================
+  # 4 Principle Item
+  # ==========================================================
+  - name: "principle_items"
+    label: "Principle Items"
+    folder: "public/data/principle_items"
+    create: true
+    identifier_field: id
+    format: "json"
+    extension: "json"
+
+    fields:
+      - { name: "id", label: "ID", widget: "uuid" }
+
+      - name: "image"
+        label: "Image"
+        widget: "image"
+        allow_multiple: false
+
+      - { name: "title_id", label: "Title ID", widget: "string" }
+      - { name: "subtitle_id", label: "Subtitle ID", widget: "string" }
+
+      - { name: "title_en", label: "Title (EN)", widget: "string" }
+      - { name: "subtitle_en", label: "Subtitle (EN)", widget: "text" }

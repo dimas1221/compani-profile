@@ -1,0 +1,213 @@
+/* ======================= */
+/* PREMIUM HERO BASE       */
+/* ======================= */
+
+.premium-bg,
+.hero-card,
+.hero-image-wrap {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ======================= */
+/* PARALLAX BACKGROUND     */
+/* ======================= */
+
+.hero-bg-light {
+  filter: brightness(1.15) contrast(1.05) saturate(1.05);
+}
+
+.hero-bg-dark {
+  filter: brightness(0.55) contrast(1.24) saturate(1.28);
+}
+
+@keyframes bgParallax {
+  0% {
+    transform: scale(1.18) translateY(0);
+  }
+  50% {
+    transform: scale(1.2) translateY(-16px);
+  }
+  100% {
+    transform: scale(1.18) translateY(0);
+  }
+}
+
+.animate-bgParallax {
+  animation: bgParallax 14s ease-in-out infinite;
+}
+
+.animate-bgParallax.scrolling {
+  filter: blur(2px) saturate(1.03);
+}
+
+/* ======================= */
+/* FLOATING RIGHT IMAGE    */
+/* ======================= */
+
+@keyframes premiumFloat {
+  0% {
+    transform: translateY(0px) scale(1);
+  }
+  50% {
+    transform: translateY(-16px) scale(1.02);
+  }
+  100% {
+    transform: translateY(0px) scale(1);
+  }
+}
+
+.animate-premiumFloat {
+  animation: premiumFloat 6s ease-in-out infinite;
+}
+
+/* ======================= */
+/* HERO CARD (GLASS)       */
+/* ======================= */
+
+.hero-card {
+  border-radius: 22px;
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  background: rgba(255, 255, 255, 0.22);
+  backdrop-filter: blur(22px);
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.22);
+}
+
+.dark .hero-card {
+  background: rgba(0, 0, 0, 0.28);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+/* ======================= */
+/* SMOOTH HOVER            */
+/* ======================= */
+
+.hover-premium {
+  transition: all 0.42s ease;
+}
+
+.hover-premium:hover {
+  transform: translateY(-6px) scale(1.03);
+  box-shadow: 0 0 40px rgba(255, 255, 255, 0.1),
+    0 0 80px rgba(255, 255, 255, 0.05);
+}
+
+/* ======================= */
+/* 3D TILT CARD            */
+/* ======================= */
+
+.tilt-card {
+  transform-style: preserve-3d;
+  transition: transform 0.45s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* .tilt-card:hover {
+  transform: perspective(1000px) rotateY(5deg) rotateX(3deg) scale(1.03);
+} */
+
+/* ======================= */
+/* GLASS SHINE             */
+/* ======================= */
+
+.glass-shine {
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(
+    120deg,
+    rgba(255, 255, 255, 0.22) 0%,
+    rgba(255, 255, 255, 0.06) 40%,
+    transparent 70%
+  );
+  opacity: 0;
+  transition: opacity 0.35s ease;
+  pointer-events: none;
+}
+
+.tilt-card:hover .glass-shine {
+  opacity: 0.35;
+}
+
+/* ======================= */
+/* REFLECTION              */
+/* ======================= */
+
+.hero-reflection {
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  mix-blend-mode: overlay;
+  background: linear-gradient(
+    115deg,
+    rgba(255, 255, 255, 0.16) 0%,
+    rgba(255, 255, 255, 0.05) 38%,
+    rgba(255, 255, 255, 0.18) 60%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  opacity: 0.35;
+  pointer-events: none;
+}
+
+/* ======================= */
+/* PARTICLE GRID (subtle)  */
+/* ======================= */
+
+.premium-bg::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background-image: radial-gradient(
+    rgba(255, 255, 255, 0.06) 1px,
+    transparent 1px
+  );
+  background-size: 36px 36px;
+  opacity: 0.18;
+  animation: particleDrift 30s linear infinite;
+}
+
+@keyframes particleDrift {
+  from {
+    transform: translateY(0);
+  }
+  to {
+    transform: translateY(-200px);
+  }
+}
+
+/* ======================= */
+/* RESPONSIVE FIXES        */
+/* ======================= */
+
+@media (max-width: 767px) {
+  .hero-card {
+    margin-top: 12px !important;
+    transform: translateY(-4px) !important;
+  }
+  .hero-image-wrap img {
+    width: 82% !important;
+    max-width: 480px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .hero-card {
+    max-width: 520px;
+    padding: 34px;
+  }
+  .hero-image-wrap img {
+    width: 40% !important;
+    max-width: 760px;
+  }
+}
+
+/* Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+  .tilt-card,
+  .animate-bgParallax,
+  .animate-premiumFloat,
+  .glass-shine {
+    animation: none !important;
+    transition: none !important;
+  }
+}

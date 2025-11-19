@@ -1,0 +1,68 @@
+{
+  "principle_items": [
+    {
+      "id": "b8e2d1fa-0f21-4a81-9bf8-614923a0b111",
+      "image": "/images/principle/brand-use.jpg",
+      "title_id": "brand_use",
+      "subtitle_id": "brand_use_sub",
+      "title_en": "Brand Use",
+      "subtitle_en": "Rights to distribute and market under the Transforme brand."
+    },
+    {
+      "id": "c5a3cc22-9d98-492e-96f3-221bd7e51a12",
+      "image": "/images/principle/dealership.jpg",
+      "title_id": "dealership",
+      "subtitle_id": "dealership_sub",
+      "title_en": "Dealership Guarantee",
+      "subtitle_en": "Exclusive distribution assurance for your region."
+    },
+    {
+      "id": "f91a423b-4fa9-4a55-8bce-76f0c19bb341",
+      "image": "/images/principle/credit-support.jpg",
+      "title_id": "credit_support",
+      "subtitle_id": "credit_support_sub",
+      "title_en": "Credit Support",
+      "subtitle_en": "Financial support for partner cash flow."
+    },
+    {
+      "id": "64c7ed95-9bdf-4d5e-a7bd-5b7f8f991910",
+      "image": "/images/principle/marketing.jpg",
+      "title_id": "marketing_support",
+      "subtitle_id": "marketing_support_sub",
+      "title_en": "Marketing Support",
+      "subtitle_en": "Access to marketing assets, events, and materials."
+    },
+    {
+      "id": "3b6bc1a9-d2cb-4fb7-8bf8-bde80e815512",
+      "image": "/images/principle/technical.jpg",
+      "title_id": "technical_support",
+      "subtitle_id": "technical_support_sub",
+      "title_en": "Technical Support",
+      "subtitle_en": "Direct support and training from engineering teams."
+    },
+    {
+      "id": "8ff312bc-94e1-49ab-a0cf-bdbe1f61d151",
+      "image": "/images/principle/sales-lead.jpg",
+      "title_id": "sales_lead",
+      "subtitle_id": "sales_lead_sub",
+      "title_en": "Sales Lead Support",
+      "subtitle_en": "Receive direct sales leads from global marketing."
+    },
+    {
+      "id": "a1e7e3d0-839e-4fac-9e28-77f5c740f899",
+      "image": "/images/principle/project-support.jpg",
+      "title_id": "project_support",
+      "subtitle_id": "project_support_sub",
+      "title_en": "Project Support",
+      "subtitle_en": "Topology design and product recommendation support."
+    },
+    {
+      "id": "d345124f-83be-4bf2-8ca5-f0f71df2faa2",
+      "image": "/images/principle/new-tech.jpg",
+      "title_id": "new_tech",
+      "subtitle_id": "new_tech_sub",
+      "title_en": "New Products & Technology",
+      "subtitle_en": "Priority access to the newest technology."
+    }
+  ]
+}
