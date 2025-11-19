@@ -1051,7 +1051,23 @@
         {
           "id": "f2616f09-2ff0-4470-b346-a34246320f71",
           "name_en": "Traffic Services",
-          "name_id": "Layanan Lalu Lintas"
+          "name_id": "Layanan Lalu Lintas",
+          "products": [
+            {
+              "desc_id": "Terminal Peringatan Cerdas Maxvision adalah perangkat keselamatan berbasis laser yang dipasang di kedua ujung penyeberangan tanpa sinyal. Dengan memanfaatkan laser semikonduktor nano-grade dan lensa optik presisi, perangkat ini memproyeksikan 28 garis laser merah ke kaki bagian bawah pejalan kaki saat mereka melangkah menuju zebra cross. Hal ini menciptakan zona peringatan merah yang sangat terlihat yang memperingatkan pengemudi yang mendekat dari kejauhan, memungkinkan respons tepat waktu terhadap keberadaan pejalan kaki. Bersamaan dengan itu, terminal memancarkan peringatan audio untuk mengingatkan pejalan kaki agar tetap waspada dan menyeberang dengan cepat, yang secara signifikan meningkatkan keselamatan malam hari di penyeberangan tanpa lampu lalu lintas.",
+              "short_en": "The Maxvision Intelligent Warning Terminal is a laser-based safety device installed at both ends of unsignalized crosswalks",
+              "name_id": "Terminal Peringatan Cerdas",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "The Maxvision Intelligent Warning Terminal is a laser-based safety device installed at both ends of unsignalized crosswalks. Utilizing nano-grade semiconductor lasers and precision optical lenses, the device projects 28 red laser lines onto pedestrians' lower legs the moment they step toward the zebra crossing. This creates a highly visible red warning zone that alerts approaching drivers from a distance, enabling timely response to pedestrian presence. Simultaneously, the terminal emits an audio alert to prompt pedestrians to stay aware and cross quickly, significantly improving nighttime safety at crosswalks without traffic lights.",
+              "id": "31a5762d-8b28-4bb0-9e87-890865c8a263",
+              "image": "/images/uploads/intelligent-warning-terminal.png",
+              "name_en": "Intelligent Warning Terminal",
+              "short_id": "Terminal Peringatan Cerdas Maxvision adalah perangkat keselamatan berbasis laser yang dipasang di kedua ujung penyeberangan tanpa sinyal"
+            }
+          ]
         },
         {
           "id": "3e41fd47-8fe9-47ff-8848-aa4a81eaa75f",
