@@ -1129,6 +1129,20 @@
               "image": "/images/uploads/fire-fighting-robot-water-spraying.png",
               "name_en": "Fire Fighting Robot - Water Spraying",
               "short_id": "Di lokasi kebakaran, kondisi ekstrem seperti api yang besar, ledakan, suhu tinggi, asap tebal, gas beracun, dan kekurangan oksigen menyulitkan petugas pemadam kebakaran untuk melakukan operasi penyelamatan"
+            },
+            {
+              "desc_id": "Robot Pemadam Kebakaran (Penghisap Asap) adalah jenis robot pemadam kebakaran khusus yang berperan penting dalam operasi pemadaman kebakaran dan penyelamatan. Robot ini dilengkapi dengan fungsi-fungsi seperti penyedotan asap, pasokan udara, pemadaman kebakaran, penghilangan debu, serta pencarian dan penyelamatan. Robot ini secara efektif mengatasi masalah-masalah seperti ancaman keselamatan pribadi yang dihadapi petugas pemadam kebakaran di lingkungan berbahaya dengan gas beracun, kekurangan oksigen, atau asap tebal, serta tantangan dalam pengumpulan data yang memadai.",
+              "short_en": "Fire Fighting Robot (Smoke Extracting) is a type of special firefighting robot that plays a crucial role in fire extinguishing and rescue operations",
+              "name_id": "Robot Pemadam Kebakaran - Ekstraksi Asap",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Fire Fighting Robot (Smoke Extracting) is a type of special firefighting robot that plays a crucial role in fire extinguishing and rescue operations. This robot is equipped with functions such as smoke extraction, air supply, fire extinguishing, dust removal, and search and rescue. It effectively addresses issues such as the personal safety threats faced by firefighters in hazardous environments with toxic gases, oxygen deficiency, or heavy smoke, as well as the challenges of in sufficient data collection.",
+              "id": "044c8046-dff2-45fa-95a4-e4af70b9592a",
+              "image": "/images/uploads/fire-fighting-robot-smoke-extracting.png",
+              "name_en": "Fire Fighting Robot - Smoke Extracting",
+              "short_id": "Robot Pemadam Kebakaran (Penghisap Asap) adalah jenis robot pemadam kebakaran khusus yang berperan penting dalam operasi pemadaman kebakaran dan penyelamatan. "
             }
           ]
         },
