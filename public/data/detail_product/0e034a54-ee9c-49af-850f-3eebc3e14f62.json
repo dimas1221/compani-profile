@@ -1,0 +1,134 @@
+{
+  "id": "0e034a54-ee9c-49af-850f-3eebc3e14f62",
+  "product_id": "d08e47e9-334c-4cec-a687-26df0c805f5c",
+  "introduction_en": "The Intelligent Security Inspection E-gate is a comprehensive personnel inspection and passage system. The system integrates face recognition, palmvein recognition, one-click start, metal detection door, carry-on baggage inspectionand other functions to achieve 100% comprehensive and intelligent inspection of passing personnel and luggage, effectively improving the security level of the park and the efficiency of personnel luggage inspection. This product can be used in entrance and exit scenarios of major airports, governments office buildings, state agencies, financial banks and other high-risk prevention-level sensitive andconfidential places.",
+  "introduction_id": "Intelligent Security Inspection E-gate adalah sistem inspeksi dan akses personel yang komprehensif. Sistem ini mengintegrasikan pengenalan wajah, pengenalan urat nadi telapak tangan, start sekali klik, pintu deteksi logam, inspeksi bagasi kabin, dan fungsi lainnya untuk mencapai inspeksi personel dan bagasi yang 100% komprehensif dan cerdas, yang secara efektif meningkatkan tingkat keamanan taman dan efisiensi inspeksi bagasi personel. Produk ini dapat digunakan dalam skenario pintu masuk dan keluar bandara besar, gedung perkantoran pemerintah, instansi pemerintah, bank keuangan, dan tempat-tempat sensitif dan rahasia berisiko tinggi lainnya.",
+  "features_en": [
+    "Highly Intelligent Integration",
+    "High Security Level Inspection",
+    "Personnel Information Binding to the Luggage",
+    "Ultra-long Service Life"
+  ],
+  "features_id": [
+    "Integrasi yang Sangat Cerdas",
+    "Inspeksi Tingkat Keamanan Tinggi",
+    "Pengikatan Informasi Personel ke Bagasi",
+    "Masa Pakai yang Sangat Panjang"
+  ],
+  "parameter_en": [
+    {
+      "label": "Face Recognition  ",
+      "value": "Face Capture Range: 1.1~1.2m Recognition Accuracy: 99% with a FAR of 0.01%"
+    },
+    {
+      "label": "Palm Vein Recognition  ",
+      "value": "FRR <0.4% at FAR <0.0001%"
+    },
+    {
+      "label": "Temperature Measurement Accuracy  ",
+      "value": "±0.3°C"
+    },
+    {
+      "label": "Luggage Recognition ",
+      "value": " Backpacks, handbags, shoulder bags, crossbody bags, and clutches"
+    },
+    {
+      "label": "Communication Interface  ",
+      "value": "Network Port"
+    },
+    {
+      "label": "Input Voltage  ",
+      "value": "AC 220V±10%, 50Hz±5%"
+    },
+    {
+      "label": "Rated Power Consumption  ",
+      "value": "600W (excluding X-ray machine)"
+    },
+    {
+      "label": "Operating Temperature ",
+      "value": " -10°C~+50°C (Indoor)"
+    },
+    {
+      "label": "Storage Temperature ",
+      "value": " -20°C~+60°C (Indoor)"
+    },
+    {
+      "label": "Relative Humidity  ",
+      "value": "10%~90%RH, No condensing"
+    },
+    {
+      "label": "Gate Type  ",
+      "value": "Swing Gate"
+    },
+    {
+      "label": "Gate Service Life  ",
+      "value": ">20 million times"
+    },
+    {
+      "label": "Channel Width  ",
+      "value": "<1200mm (Entry)"
+    },
+    {
+      "label": "Reference Size  ",
+      "value": "L*W*H=4350*2555*2400mm"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Pengenalan Wajah ",
+      "value": "Jangkauan Pengambilan Wajah: 1,1~1,2m Akurasi Pengenalan: 99% dengan FAR 0,01%"
+    },
+    {
+      "label": "Palm Vein Recognition  ",
+      "value": "FRR <0.4% at FAR <0.0001%"
+    },
+    {
+      "label": "Temperature Measurement Accuracy  ",
+      "value": "±0.3°C"
+    },
+    {
+      "label": "Luggage Recognition  ",
+      "value": "Backpacks, handbags, shoulder bags, crossbody bags, and clutches"
+    },
+    {
+      "label": "Communication Interface  ",
+      "value": "Network Port"
+    },
+    {
+      "label": "Tegangan Input  ",
+      "value": "AC 220V±10%, 50Hz±5%"
+    },
+    {
+      "label": "Konsumsi Daya Terukur  ",
+      "value": "600W (tidak termasuk mesin sinar-X)"
+    },
+    {
+      "label": "Suhu Operasional  ",
+      "value": "-10°C~+50°C (Dalam Ruangan)"
+    },
+    {
+      "label": "Suhu Penyimpanan  ",
+      "value": "-20°C~+60°C (Dalam Ruangan)"
+    },
+    {
+      "label": "Relatif Kelembapan  ",
+      "value": "10%~90%RH, Tanpa kondensasi"
+    },
+    {
+      "label": "Jenis Gerbang ",
+      "value": " Gerbang Ayun"
+    },
+    {
+      "label": "Masa Pakai Gerbang ",
+      "value": " >20 juta kali"
+    },
+    {
+      "label": "Lebar Saluran  ",
+      "value": "<1200 mm (Masuk)"
+    },
+    {
+      "label": "Ukuran Referensi  ",
+      "value": "P*L*T=4350*2555*2400 mm"
+    }
+  ]
+}
