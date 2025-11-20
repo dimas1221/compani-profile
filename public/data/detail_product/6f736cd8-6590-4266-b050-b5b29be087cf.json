@@ -1,0 +1,110 @@
+{
+  "id": "6f736cd8-6590-4266-b050-b5b29be087cf",
+  "product_id": "4d286693-a6d3-4f8f-ae03-dc8f4bbc4507",
+  "introduction_en": "Multi-Biometric Capture Terminal integrates ten-finger fingerprints capture, HD iris capture and visible light face capture functions. While performing fingerprint, iris, and face capture, it can realize the rapid capture and verification of multiple biometric information of passengers. The device is characterized by its small size and flexible placement, and is widely applied in high-security areas such as airports, ports, police stations, and border checkpoints where personnel biometric data capture and identity verification are required.",
+  "introduction_id": "Terminal Pengambilan Multi-Biometrik mengintegrasikan fungsi pengambilan sidik jari sepuluh jari, pengambilan iris HD, dan pengambilan wajah dengan cahaya tampak. Sambil melakukan pengambilan sidik jari, iris, dan wajah, perangkat ini dapat melakukan pengambilan dan verifikasi berbagai informasi biometrik penumpang dengan cepat. Perangkat ini dicirikan oleh ukurannya yang kecil dan penempatannya yang fleksibel, dan banyak digunakan di area dengan keamanan tinggi seperti bandara, pelabuhan, kantor polisi, dan pos pemeriksaan perbatasan yang memerlukan pengambilan data biometrik personel dan verifikasi identitas.",
+  "features_en": [
+    "Multiple Fingerprints Capture",
+    "Non-sensing Face Information Capture",
+    "HD Iris Capture",
+    "Automatic Swinging Mechanism"
+  ],
+  "features_id": [
+    "Perekaman Sidik Jari Ganda",
+    "Penangkapan Informasi Wajah Tanpa Sensor",
+    "Penangkapan Iris HD",
+    "Mekanisme Pengayun Otomatis"
+  ],
+  "parameter_en": [
+    {
+      "label": "Screen Size  ",
+      "value": "10.1\""
+    },
+    {
+      "label": "Input Voltage  ",
+      "value": "AC 220V±10% 50Hz±5%"
+    },
+    {
+      "label": "Working Temperature  ",
+      "value": "-10°C-+50°C (Indoor)"
+    },
+    {
+      "label": "Storage Temperature  ",
+      "value": "-20°C-+60°C (Indoor)"
+    },
+    {
+      "label": "Relative Humidity  ",
+      "value": "10%-90%RH"
+    },
+    {
+      "label": "Weight  ",
+      "value": "4.5kg"
+    },
+    {
+      "label": "Installation Environment ",
+      "value": " Indoor"
+    },
+    {
+      "label": "Fingerprint Capture Types",
+      "value": "Single-finger scrolling capture, single-finger flat stamping, four-finger flat capture, two thumb flat capture"
+    },
+    {
+      "label": "Recognition and Acquisition Distance  ",
+      "value": "Iris: 30cm~70cm, face: 0.3m~2m"
+    },
+    {
+      "label": "Acquisition Speed  ",
+      "value": "Iris <1s, face <0.5s"
+    },
+    {
+      "label": "Equipment Size  ",
+      "value": "218mm*242mm*370mm"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Ukuran Layar  ",
+      "value": "10,1\""
+    },
+    {
+      "label": "Tegangan Input  ",
+      "value": "AC 220V±10% 50Hz±5%"
+    },
+    {
+      "label": "Suhu Kerja  ",
+      "value": "-10°C-+50°C (Dalam Ruangan)"
+    },
+    {
+      "label": "Suhu Penyimpanan  ",
+      "value": "-20°C-+60°C (Dalam Ruangan)"
+    },
+    {
+      "label": "Kelembapan Relatif  ",
+      "value": "10%-90%RH"
+    },
+    {
+      "label": "Berat",
+      "value": "4,5 kg"
+    },
+    {
+      "label": "Lingkungan Pemasangan  ",
+      "value": "Dalam Ruangan"
+    },
+    {
+      "label": "Jenis Pengambilan Sidik Jari",
+      "value": "Pengambilan dengan satu jari, satu jari datar, pengambilan dengan empat jari datar, pengambilan dengan dua ibu jari datar"
+    },
+    {
+      "label": "Jarak Pengenalan dan Akuisisi",
+      "value": "Iris: 30 cm~70 cm, muka: 0,3 m~2 m"
+    },
+    {
+      "label": "Kecepatan Akuisisi  ",
+      "value": "Iris <1 detik, muka <0,5 detik"
+    },
+    {
+      "label": "Ukuran Peralatan  ",
+      "value": "218 mm*242 mm*370 mm"
+    }
+  ]
+}
