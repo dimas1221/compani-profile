@@ -1,0 +1,86 @@
+{
+  "id": "ea86fc7a-0523-4449-be11-c2a843eedc8d",
+  "product_id": "d925155d-8e96-4173-b50b-2bfb3309ed76",
+  "introduction_en": "The Fingerprint Capture Device is a fully proprietary solution developed by Maxvision for high-accuracy ten-finger capture. Built with advanced optical and imaging technologies, it supports single-finger scans as well as full ten-finger acquisition, including flat impressions (4-4-2) and rolled prints.\nIt delivers reliable performance with features such as wet-finger detection, automatic four-finger segmentation, finger position recognition, and real-time quality feedback. The scanner produces clear images without glare or residual artifacts from repeated use, ensuring consistent results and a smooth user experience. Trusted by banks, social security agencies, law enforcement, immigration, and border control authorities, the device is designed for secure and efficient identity authentication in mission-critical environments.",
+  "introduction_id": "Perangkat Perekam Sidik Jari adalah solusi eksklusif yang dikembangkan oleh Maxvision untuk perekaman sepuluh jari dengan akurasi tinggi. Dibangun dengan teknologi optik dan pencitraan canggih, perangkat ini mendukung pemindaian satu jari serta akuisisi sepuluh jari secara penuh, termasuk cetakan datar (4-4-2) dan cetakan gulung.\nPerangkat ini memberikan kinerja yang andal dengan fitur-fitur seperti deteksi jari basah, segmentasi empat jari otomatis, pengenalan posisi jari, dan umpan balik kualitas secara real-time. Pemindai ini menghasilkan gambar yang jernih tanpa silau atau artefak sisa akibat penggunaan berulang, memastikan hasil yang konsisten dan pengalaman pengguna yang lancar. Dipercaya oleh bank, lembaga jaminan sosial, penegak hukum, imigrasi, dan otoritas kontrol perbatasan, perangkat ini dirancang untuk autentikasi identitas yang aman dan efisien di lingkungan yang sangat penting.",
+  "features_en": [
+    "Wet Fingerprint Recognition",
+    "Four-finger Image Segmentation",
+    "Finger Position Distinction",
+    "Quality Judgment and Feedback"
+  ],
+  "features_id": [
+    "Pengenalan Sidik Jari Basah",
+    "Segmentasi Gambar Empat Jari",
+    "Pembeda Posisi Jari",
+    "Penilaian Kualitas dan Umpan Balik"
+  ],
+  "parameter_en": [
+    {
+      "label": "Image resolution  ",
+      "value": "500DPI"
+    },
+    {
+      "label": "Communication Interfaces  ",
+      "value": "USB"
+    },
+    {
+      "label": "Input Voltage  ",
+      "value": "DC 5V"
+    },
+    {
+      "label": "Working Temperature  ",
+      "value": "-10°C~+50°C"
+    },
+    {
+      "label": "Storage Temperature  ",
+      "value": "-20°C~+60°C"
+    },
+    {
+      "label": "Relative Humidity  ",
+      "value": "10%~90%RH, Non-Condensation"
+    },
+    {
+      "label": "Working Environment  ",
+      "value": "Indoor"
+    },
+    {
+      "label": "Equipment Size  ",
+      "value": "L*W*H=159*135*119mm"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Resolusi Gambar ",
+      "value": "500DPI"
+    },
+    {
+      "label": "Antarmuka Komunikasi  ",
+      "value": "USB"
+    },
+    {
+      "label": "Tegangan Input  ",
+      "value": "DC 5V"
+    },
+    {
+      "label": "Suhu Kerja ",
+      "value": " -10°C~+50°C"
+    },
+    {
+      "label": "Suhu Penyimpanan  ",
+      "value": "-20°C~+60°C"
+    },
+    {
+      "label": "Kelembapan Relatif  ",
+      "value": "10%~90%RH, Non-Kondensasi"
+    },
+    {
+      "label": "Lingkungan Kerja  ",
+      "value": "Dalam Ruangan"
+    },
+    {
+      "label": "Ukuran Peralatan  ",
+      "value": "P*L*T=159*135*119mm"
+    }
+  ]
+}
