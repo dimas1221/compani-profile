@@ -1,0 +1,104 @@
+{
+  "id": "df397f60-073f-4472-b205-63aa5b8635ca",
+  "product_id": "ae068971-315b-4d5e-a52b-0eb49d0075c6",
+  "introduction_en": "Maxvision Iris & Face Recognition Terminal has an integrated front panel design, the screen frame and the body are integrated, and the back is made of aluminum material, which is lightweight, durable and corrosion-resistant. The device integrates iris recognition, face recognition, iris and face fusion recognition, intelligent iris capture and tracking, and other functions. The system can customize 1:1 or 1:N iris recognition comparison to meet the functional requirements of different application scenarios. The equipment can be installed in systems such as access control, gates, and self-service terminals, which is widely used in personnel access control places such as customs, border defense, seaports, communities and buildings.",
+  "introduction_id": "Terminal Pengenalan Iris & Wajah Maxvision memiliki desain panel depan terintegrasi, rangka layar dan bodi terintegrasi, sementara bagian belakangnya terbuat dari aluminium, yang ringan, tahan lama, dan tahan korosi. Perangkat ini mengintegrasikan pengenalan iris, pengenalan wajah, pengenalan fusi iris dan wajah, penangkapan dan pelacakan iris cerdas, serta fungsi lainnya. Sistem ini dapat menyesuaikan perbandingan pengenalan iris 1:1 atau 1:N untuk memenuhi persyaratan fungsional berbagai skenario aplikasi. Peralatan ini dapat dipasang di sistem seperti kontrol akses, gerbang, dan terminal swalayan, yang banyak digunakan di area kontrol akses personel seperti bea cukai, pertahanan perbatasan, pelabuhan, komunitas, dan gedung.",
+  "features_en": [
+    "Strong Adaptability to Complex Environments",
+    "HD Imaging",
+    "Automatic Positioning",
+    "Algorithm Leads",
+    "Iris Face Automatic Capture"
+  ],
+  "features_id": [
+    "Kemampuan Beradaptasi yang Kuat terhadap Lingkungan yang Kompleks",
+    "Pencitraan HD",
+    "Pemosisian Otomatis",
+    "Algoritma Leads",
+    "Pengambilan Otomatis Iris Wajah"
+  ],
+  "parameter_en": [
+    {
+      "label": "Image Output Format ",
+      "value": " JPG, PNG"
+    },
+    {
+      "label": "Recognition Distance  ",
+      "value": "Iris: 30cm-70cm, Face: 30cm-200cm"
+    },
+    {
+      "label": "Recognition Speed  ",
+      "value": "Iris: <1s, Face: <0.5s"
+    },
+    {
+      "label": "Recognition Rate  ",
+      "value": "FAR<0.0001%, FRR<0.1%"
+    },
+    {
+      "label": "Operating System  ",
+      "value": "Linux"
+    },
+    {
+      "label": "Product Power Consumption  ",
+      "value": "9W"
+    },
+    {
+      "label": "Working Voltage  ",
+      "value": "DC 12V"
+    },
+    {
+      "label": "Working Temperature  ",
+      "value": "-20°C~+70°C"
+    },
+    {
+      "label": "Working Humidity  ",
+      "value": "10~90%, No condensation"
+    },
+    {
+      "label": "Size  ",
+      "value": "310*175*41mm"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Format Keluaran Gambar  ",
+      "value": "JPG, PNG"
+    },
+    {
+      "label": "Jarak Pengenalan  ",
+      "value": "Iris: 30cm-70cm, Wajah: 30cm-200cm"
+    },
+    {
+      "label": "Kecepatan Pengenalan  ",
+      "value": "Iris: <1 detik, Wajah: <0,5 detik"
+    },
+    {
+      "label": "Tingkat Pengenalan  ",
+      "value": "FAR<0,0001%, FRR<0,1%"
+    },
+    {
+      "label": "Sistem Operasi ",
+      "value": " Linux"
+    },
+    {
+      "label": "Konsumsi Daya Produk ",
+      "value": " 9W"
+    },
+    {
+      "label": "Tegangan Kerja  ",
+      "value": "DC 12V"
+    },
+    {
+      "label": "Suhu Kerja ",
+      "value": " -20°C~+70°C"
+    },
+    {
+      "label": "Kelembapan Kerja  ",
+      "value": "10~90%, Tanpa Kondensasi"
+    },
+    {
+      "label": "Ukuran ",
+      "value": " 310*175*41mm"
+    }
+  ]
+}
