@@ -12,7 +12,7 @@ export default function ProductGrid({ products = [] }) {
         <motion.div
           layout
           className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 
-                     gap-6 sm:gap-8 px-2 sm:px-4 place-items-center"
+                     gap-6 sm:gap-8 px-0 sm:px-4 place-items-center"
         >
           {products.map((p) => (
             <motion.div

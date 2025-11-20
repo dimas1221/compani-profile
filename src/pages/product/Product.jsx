@@ -88,10 +88,10 @@ export default function Product() {
         </div>
 
         {/* Main Content */}
-        <div className="lg:col-span-9">
-          <div className="flex items-center justify-between mb-4">
-            <div>
-              <h2 className="text-lg font-semibold">
+        <section className="lg:col-span-9 flex flex-col">
+          <div className="flex items-center justify-between mb-6 gap-4 flex-wrap sm:flex-nowrap">
+            <div className="min-w-0 flex-1">
+              <h2 className="text-xl font-semibold text-gray-900 dark:text-gray-100 truncate">
                 {selectedCategory
                   ? lang === "id"
                     ? selectedCategory.name_id
@@ -100,23 +100,32 @@ export default function Product() {
                   ? "Semua Produk"
                   : "All Products"}
               </h2>
-              <p className="text-sm text-gray-500">
+              <p className="text-sm text-gray-500 dark:text-gray-400 mt-1 truncate">
                 {filteredProducts.length}{" "}
                 {lang === "id" ? "produk" : "products"}
               </p>
             </div>
+
             {/* Mobile Filter Button */}
-            <div className="lg:hidden mb-5 flex justify-start">
+            <div className="lg:hidden flex-shrink-0">
               <GlobalButton
                 size="small"
-                children={lang === "id" ? "Filter" : "Filter"}
+                className="px-5 py-2 rounded-md shadow-md hover:shadow-lg transition bg-blue-600 text-white hover:bg-blue-700"
                 onClick={() => setShowMobileSidebar(true)}
-              />
+              >
+                {lang === "id" ? "Menyaring" : "Filter"}
+              </GlobalButton>
             </div>
           </div>
 
-          <ProductGrid products={filteredProducts} />
-        </div>
+          {/* Product Grid with padding & gap optimized for mobile */}
+          <div className="flex-grow">
+            <ProductGrid
+              products={filteredProducts}
+              className="grid grid-cols-2 sm:grid-cols-3 gap-4 sm:gap-6"
+            />
+          </div>
+        </section>
       </div>
 
       {/* Mobile Sidebar Overlay */}

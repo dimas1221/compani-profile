@@ -4,7 +4,7 @@ import { useI18n } from "../../i18n/I18nProvider";
 import ProductCarousel from "../../components/ProductCarousel";
 import { X, Filter } from "lucide-react";
 
-export default function ProductSection() {
+export default function ProductSection({ idProductActive = null }) {
   const { lang } = useI18n();
   const [selectedMain, setSelectedMain] = useState("all");
   const [selectedSubs, setSelectedSubs] = useState([]);
@@ -47,12 +47,46 @@ export default function ProductSection() {
   const subCategories = currentMain?.sub_categories || [];
 
   // === Ambil produk aktif ===
+  // const currentProducts = useMemo(() => {
+  //   if (!dataProducts.length) return [];
+
+  //   // Semua produk
+  //   if (selectedMain === "all") {
+  //     const allProducts = dataProducts.flatMap((m) =>
+  //       (m.sub_categories || []).flatMap((s) =>
+  //         (s.products || []).map((p) => ({
+  //           ...p,
+  //           sub_category_id: s.id,
+  //         }))
+  //       )
+  //     );
+  //     if (!selectedSubs.length) return allProducts;
+  //     return allProducts.filter((p) =>
+  //       selectedSubs.includes(p.sub_category_id)
+  //     );
+  //   }
+
+  //   // Produk dalam kategori utama tertentu
+  //   const allMainProducts = (subCategories || []).flatMap((s) =>
+  //     (s.products || []).map((p) => ({
+  //       ...p,
+  //       sub_category_id: s.id,
+  //     }))
+  //   );
+
+  //   if (!selectedSubs.length) return allMainProducts;
+  //   return allMainProducts.filter((p) =>
+  //     selectedSubs.includes(p.sub_category_id)
+  //   );
+  // }, [selectedMain, selectedSubs, subCategories, dataProducts]);
   const currentProducts = useMemo(() => {
     if (!dataProducts.length) return [];
 
-    // Semua produk
+    let productsPool = [];
+
+    // === Semua produk ===
     if (selectedMain === "all") {
-      const allProducts = dataProducts.flatMap((m) =>
+      productsPool = dataProducts.flatMap((m) =>
         (m.sub_categories || []).flatMap((s) =>
           (s.products || []).map((p) => ({
             ...p,
@@ -60,25 +94,36 @@ export default function ProductSection() {
           }))
         )
       );
-      if (!selectedSubs.length) return allProducts;
-      return allProducts.filter((p) =>
+    } else {
+      // === Produk dalam main category tertentu ===
+      productsPool = (subCategories || []).flatMap((s) =>
+        (s.products || []).map((p) => ({
+          ...p,
+          sub_category_id: s.id,
+        }))
+      );
+    }
+
+    // === Filter berdasarkan sub category ===
+    if (selectedSubs.length) {
+      productsPool = productsPool.filter((p) =>
         selectedSubs.includes(p.sub_category_id)
       );
     }
 
-    // Produk dalam kategori utama tertentu
-    const allMainProducts = (subCategories || []).flatMap((s) =>
-      (s.products || []).map((p) => ({
-        ...p,
-        sub_category_id: s.id,
-      }))
-    );
+    // === ❗ FILTER TAMBAHAN: Exclude idProductActive ===
+    if (idProductActive) {
+      productsPool = productsPool.filter((p) => p.id !== idProductActive);
+    }
 
-    if (!selectedSubs.length) return allMainProducts;
-    return allMainProducts.filter((p) =>
-      selectedSubs.includes(p.sub_category_id)
-    );
-  }, [selectedMain, selectedSubs, subCategories, dataProducts]);
+    return productsPool;
+  }, [
+    selectedMain,
+    selectedSubs,
+    subCategories,
+    dataProducts,
+    idProductActive,
+  ]);
 
   // === Toggle subcategory multiple ===
   const toggleSubCategory = (subId) => {
