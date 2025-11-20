@@ -1,0 +1,114 @@
+{
+  "id": "7ccd0caa-3666-4fdd-a867-d1bb5799fc46",
+  "product_id": "2546270d-7195-4975-afde-d032316226cc",
+  "introduction_en": "Palmprint and Palm-vein Capture Terminal uses infrared imaging technology, paired with a HD binocular camera and a high-performance processor. It is equipped with a self-developed Al palm vein recognition algorithm, enabling palm printpalm vein capture, registration, and recognition, while outputting high-quality feature capture images. This terminal has many significant advantages such as extremely high security, non-contact capture and recognition, liveness detection, low-power consumption application, closed-loop AE, and palmprint/palm-vein capture. It is widely applicable in scenarios srequiring personnel access control, identity authentication, smart payment, and more.",
+  "introduction_id": "Terminal Pengambilan Sidik Jari dan Vena Telapak Tangan menggunakan teknologi pencitraan inframerah, yang dipadukan dengan kamera binokular HD dan prosesor berkinerja tinggi. Terminal ini dilengkapi dengan algoritma pengenalan urat telapak tangan AI yang dikembangkan sendiri, yang memungkinkan pengambilan, registrasi, dan pengenalan sidik jari/vena telapak tangan, sekaligus menghasilkan gambar tangkapan fitur berkualitas tinggi. Terminal ini memiliki banyak keunggulan signifikan seperti keamanan yang sangat tinggi, pengambilan dan pengenalan tanpa kontak, deteksi keaktifan, aplikasi dengan konsumsi daya rendah, AE loop tertutup, dan pengambilan sidik jari/vena telapak tangan. Terminal ini dapat digunakan secara luas dalam skenario yang memerlukan kontrol akses personel, autentikasi identitas, pembayaran pintar, dan lainnya.",
+  "features_en": [
+    "High-speed Authentication",
+    "Non-contact Capture",
+    "Offset Capture",
+    "Wet Hand Recognition",
+    "Recognizable in Water Mist Environment",
+    "High-quality Image Capture"
+  ],
+  "features_id": [
+    "Autentikasi Kecepatan Tinggi",
+    "Pengambilan Gambar Tanpa Kontak",
+    "Pengambilan Gambar Offset",
+    "Pengenalan Tangan Basah",
+    "Dapat Dikenali di Lingkungan Kabut Air",
+    "Pengambilan Gambar Berkualitas Tinggi"
+  ],
+  "parameter_en": [
+    {
+      "label": "Palm Vein Recognition Accuracy  ",
+      "value": "FRR<1%,When FAR<0.01%"
+    },
+    {
+      "label": "Operating System  ",
+      "value": "Windows, Linux, Android"
+    },
+    {
+      "label": "Communication Interface  ",
+      "value": "USB2.0"
+    },
+    {
+      "label": "Power Supply  ",
+      "value": "DC 5V/1A (Type-C)"
+    },
+    {
+      "label": "Power Consumption ",
+      "value": " <5W"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-20°C~+70°C"
+    },
+    {
+      "label": "Storage Temperature  ",
+      "value": "-30°C~+70°C"
+    },
+    {
+      "label": "Operation Environment ",
+      "value": " Indoor"
+    },
+    {
+      "label": "IP Rating  ",
+      "value": "IP54"
+    },
+    {
+      "label": "Installation ",
+      "value": " Embedded or Desktop Mounted"
+    },
+    {
+      "label": "Size  ",
+      "value": "Ø60*20.5 mm"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Akurasi Pengenalan Vena Telapak Tangan  ",
+      "value": "FRR<1%, FAR<0,01%"
+    },
+    {
+      "label": "Sistem Operasi ",
+      "value": " Windows, Linux, Android"
+    },
+    {
+      "label": "Antarmuka Komunikasi  ",
+      "value": "USB2.0"
+    },
+    {
+      "label": "Catu Daya  ",
+      "value": "DC 5V/1A (Tipe-C)"
+    },
+    {
+      "label": "Konsumsi Daya ",
+      "value": " <5W"
+    },
+    {
+      "label": "Suhu Operasi  ",
+      "value": "-20°C~+70°C"
+    },
+    {
+      "label": "Suhu Penyimpanan  ",
+      "value": "-30°C~+70°C"
+    },
+    {
+      "label": "Lingkungan Operasi  ",
+      "value": "Dalam Ruangan"
+    },
+    {
+      "label": "Peringkat IP  ",
+      "value": "IP54"
+    },
+    {
+      "label": "Pemasangan  ",
+      "value": "Tertanam atau Terpasang di Desktop"
+    },
+    {
+      "label": "Ukuran  ",
+      "value": "Ø60*20,5 mm"
+    }
+  ]
+}

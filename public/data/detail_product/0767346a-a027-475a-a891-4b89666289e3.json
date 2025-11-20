@@ -1,0 +1,102 @@
+{
+  "id": "0767346a-a027-475a-a891-4b89666289e3",
+  "product_id": "958f3167-3ca8-4369-a4f5-ac3348c7752c",
+  "introduction_en": "Maxvision Palm Vein Recognition Terminal adopts Al recognition technology, combined with scientific applications such as vision, optics, biology, etc., uses multi-band infrared imaging technology to obtain the palm vein distribution map of the palm, and performs biometric identification through a dedicated comparison algorithm to achieve ultra-high performance. The equipment has the advantages of safety and reliability, non-contact authentication, live detection, good anti-interference, and high accuracy. It can be embedded in access control, gates, self-service terminals and other systems, and is widely used in customs, border defense, seaports, communities buildings, access controlled premises etc..",
+  "introduction_id": "Terminal Pengenalan Vena Telapak Tangan Maxvision mengadopsi teknologi pengenalan AI yang dipadukan dengan aplikasi ilmiah seperti penglihatan, optik, biologi, dll., menggunakan teknologi pencitraan inframerah multi-band untuk mendapatkan peta distribusi vena telapak tangan, dan melakukan identifikasi biometrik melalui algoritma perbandingan khusus untuk mencapai kinerja ultra-tinggi. Peralatan ini memiliki keunggulan keamanan dan keandalan, otentikasi non-kontak, deteksi langsung, anti-interferensi yang baik, dan akurasi tinggi. Terminal ini dapat diintegrasikan ke dalam kontrol akses, gerbang, terminal swalayan, dan sistem lainnya, serta banyak digunakan di bea cukai, pertahanan perbatasan, pelabuhan laut, gedung komunitas, dan area dengan akses terbatas, dll.",
+  "features_en": [
+    "High-speed Authentication",
+    "All-angles Recognition",
+    "Recognizable with Offset",
+    "Normal Recognition of Wet Hands",
+    "Recognizable in Water & Mist Environment",
+    "Backlight Recognition",
+    "Uniqueness of Identification Characteristics",
+    "Authentication Security is Extremely High"
+  ],
+  "features_id": [
+    "Autentikasi Berkecepatan Tinggi",
+    "Pengenalan dari Semua Sudut",
+    "Dapat Dikenali dengan Offset",
+    "Pengenalan Normal untuk Tangan Basah",
+    "Dapat Dikenali di Lingkungan Air & Kabut",
+    "Pengenalan dengan Cahaya Latar",
+    "Keunikan Karakteristik Identifikasi",
+    "Keamanan Autentikasi Sangat Tinggi"
+  ],
+  "parameter_en": [
+    {
+      "label": "Screen  ",
+      "value": "7\" HD LCD touch screen"
+    },
+    {
+      "label": "Operating System ",
+      "value": " Linux"
+    },
+    {
+      "label": "Recognition Accuracy ",
+      "value": " Rejection rate <0.4% when false positive rate <0.01%"
+    },
+    {
+      "label": "Operating Voltage  ",
+      "value": "DC 12V/2A"
+    },
+    {
+      "label": "Operating Temperature ",
+      "value": " -20°C~+60°C"
+    },
+    {
+      "label": "Working Humidity  ",
+      "value": "10%RH~95%RH"
+    },
+    {
+      "label": "Operation Environment ",
+      "value": " Indoor"
+    },
+    {
+      "label": "Installation  ",
+      "value": "Wall-mounted or desktop mounted"
+    },
+    {
+      "label": "Size  ",
+      "value": "221.4*181.4*25.8mm"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Layar ",
+      "value": " Layar sentuh LCD HD 7\""
+    },
+    {
+      "label": "Sistem Operasi ",
+      "value": "Linux"
+    },
+    {
+      "label": "Akurasi Pengenalan  ",
+      "value": "Tingkat penolakan <0,4% ketika tingkat positif palsu <0,01%"
+    },
+    {
+      "label": "Tegangan Operasi  ",
+      "value": "DC 12V/2A"
+    },
+    {
+      "label": "Suhu Operasi  ",
+      "value": "-20°C~+60°C"
+    },
+    {
+      "label": "Kelembapan Kerja  ",
+      "value": "10%RH~95%RH"
+    },
+    {
+      "label": "Lingkungan Operasi ",
+      "value": " Dalam Ruangan"
+    },
+    {
+      "label": "Pemasangan  ",
+      "value": "Dapat dipasang di dinding atau di atas meja"
+    },
+    {
+      "label": "Ukuran  ",
+      "value": "221,4*181,4*25,8mm"
+    }
+  ]
+}
