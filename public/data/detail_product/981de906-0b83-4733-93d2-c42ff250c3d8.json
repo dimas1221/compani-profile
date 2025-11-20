@@ -1,0 +1,114 @@
+{
+  "id": "981de906-0b83-4733-93d2-c42ff250c3d8",
+  "product_id": "2d48ae28-b2e6-4e22-ac9a-4f3bf59d68b2",
+  "introduction_en": "Palm Vein Recognition Terminal is a biometric identification terminal based on Linux operating system launched by Maxvision. It uses infrared imaging technology and integrates visual and optical technology to obtain the palm vein image accurately. It is equipped with a self-developed Al recognition algorithm to achieve high-security biometric identification. This terminal has many significant advantages such as extremely high security, non-contact identification, live detection, strong anti-interference ability, and high identification accuracy. It can be integrated into access control systems, gate channels, and various self-service terminals to provide users with a convenient and safe identity authentication experience.",
+  "introduction_id": "Terminal Pengenalan Vena Telapak Tangan adalah terminal identifikasi biometrik berbasis sistem operasi Linux yang diluncurkan oleh Maxvision. Terminal ini menggunakan teknologi pencitraan inframerah dan mengintegrasikan teknologi visual dan optik untuk mendapatkan citra vena telapak tangan secara akurat. Dilengkapi dengan algoritma pengenalan AI yang dikembangkan sendiri untuk mencapai identifikasi biometrik dengan keamanan tinggi. Terminal ini memiliki banyak keunggulan signifikan seperti keamanan yang sangat tinggi, identifikasi tanpa kontak, deteksi langsung, kemampuan anti-interferensi yang kuat, dan akurasi identifikasi yang tinggi. Terminal ini dapat diintegrasikan ke dalam sistem kontrol akses, kanal gerbang, dan berbagai terminal swalayan untuk memberikan pengalaman otentikasi identitas yang nyaman dan aman bagi pengguna.",
+  "features_en": [
+    "High-speed Authentication",
+    "Recognizable in Water Mist Environment",
+    "Recognizable with Offset",
+    "Backlight Recognition",
+    "Normal Recognition of Wet Hands",
+    "Uniqueness of Identification Characteristics"
+  ],
+  "features_id": [
+    "Autentikasi Berkecepatan Tinggi",
+    "Dapat Dikenali di Lingkungan Kabut Air",
+    "Dapat Dikenali dengan Offset",
+    "Pengenalan Cahaya Latar",
+    "Pengenalan Normal Tangan Basah",
+    "Keunikan Karakteristik Identifikasi"
+  ],
+  "parameter_en": [
+    {
+      "label": "Screen  ",
+      "value": "5\" Touch Screen"
+    },
+    {
+      "label": "Operating System  ",
+      "value": "Linux"
+    },
+    {
+      "label": "Recognition Distance  ",
+      "value": "10~20cm"
+    },
+    {
+      "label": "Recognition Accuracy  ",
+      "value": "FAR≤0.0001%, FRR≤0.4%"
+    },
+    {
+      "label": "Operating Voltage ",
+      "value": " DC 12V/2A"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-20°C~+60°C"
+    },
+    {
+      "label": "Storage Temperature  ",
+      "value": "-30°C~+70°C"
+    },
+    {
+      "label": "IP Rating ",
+      "value": "IP56"
+    },
+    {
+      "label": "Operating Environment  ",
+      "value": "Indoor/Outdoor"
+    },
+    {
+      "label": "Installation  ",
+      "value": "Wall-mounted"
+    },
+    {
+      "label": "Size  ",
+      "value": "171*90*23mm"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Layar ",
+      "value": " Layar Sentuh 5\""
+    },
+    {
+      "label": "Sistem Operasi  ",
+      "value": "Linux"
+    },
+    {
+      "label": "Jarak Pengenalan  ",
+      "value": "10~20 cm"
+    },
+    {
+      "label": "Akurasi Pengenalan  ",
+      "value": "FAR≤0,0001%, FRR≤0,4%"
+    },
+    {
+      "label": "Tegangan Operasi  ",
+      "value": "DC 12V/2A"
+    },
+    {
+      "label": "Suhu Operasi  ",
+      "value": "-20°C~+60°C"
+    },
+    {
+      "label": "Suhu Penyimpanan  ",
+      "value": "-30°C~+70°C"
+    },
+    {
+      "label": "Peringkat IP  ",
+      "value": "IP56"
+    },
+    {
+      "label": "Lingkungan Operasi  ",
+      "value": "Dalam/Luar Ruangan"
+    },
+    {
+      "label": "Pemasangan  ",
+      "value": "Terpasang di Dinding"
+    },
+    {
+      "label": "Ukuran  ",
+      "value": "171*90*23mm"
+    }
+  ]
+}
