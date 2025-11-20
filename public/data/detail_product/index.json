@@ -1,37 +1,395 @@
 [
   {
-    "product_id": "ed1fccd3-d6a5-4fdf-8da7-d1b78d97192b",
-    "id": "dp-001",
-    "introduction_en": "This terminal provides fast and accurate facial recognition with advanced temperature detection.",
-    "introduction_id": "Terminal ini menyediakan pengenalan wajah cepat dan akurat dengan deteksi suhu canggih.",
+    "id": "33062ed5-32d0-4117-90f7-9ce045c82d9e",
+    "product_id": "20df7aa6-3713-4723-a8a6-a53539e75039",
+    "introduction_en": "Maxvision Facial Recognition Terminal is designed with touch keys and integrated tempered glass panel protection, equipped with 8-inch IPS HD screen, which can be employed in nearly every entrance/exit where identity authentication and access control is needed. Functioning face-covering attribute detection, liveness detection, this device can recognize or verify visitors' identity using face, password, card, and other combinations swiftly, accurately, and reliably.",
+    "introduction_id": "Terminal Pengenalan Wajah Maxvision dirancang dengan tombol sentuh dan pelindung panel kaca tempered terintegrasi, dilengkapi layar IPS HD 8 inci, yang dapat digunakan di hampir setiap pintu masuk/keluar yang memerlukan otentikasi identitas dan kontrol akses. Dengan fungsi deteksi atribut penutup wajah dan deteksi keaktifan, perangkat ini dapat mengenali atau memverifikasi identitas pengunjung menggunakan wajah, kata sandi, kartu, dan kombinasi lainnya dengan cepat, akurat, dan andal.",
     "features_en": [
-      "Infrared sensor for low light environments",
-      "Temperature detection accuracy ±0.3°C",
-      "Supports WiFi and MQTT protocols"
+      "Super Anti-interference Ability",
+      "Free Choice of Access Methods",
+      "High-speed Recognition",
+      "High Security for Visitor Management",
+      "Friendly Human-computer Interaction Design",
+      "Algorithm Leads"
     ],
     "features_id": [
-      "Sensor inframerah untuk kondisi cahaya rendah",
-      "Akurasi deteksi suhu ±03°C",
-      "Mendukung protokol WiFi dan MQTT"
+      "186 / 5.000 Kemampuan Anti-interferensi Super",
+      "Pilihan Metode Akses Bebas",
+      "Pengenalan Kecepatan Tinggi",
+      "Keamanan Tinggi untuk Manajemen Pengunjung",
+      "Desain Interaksi Manusia-Komputer yang Ramah",
+      "Algoritma Memimpin"
     ],
     "parameter_en": [
       {
-        "label": "CPU",
-        "value": "Quad-core ARM Cortex-A53"
+        "label": "Screen Size",
+        "value": "8"
       },
       {
         "label": "Screen",
-        "value": "7 inch LCD"
+        "value": "HD IPS Non-touch Screen"
+      },
+      {
+        "label": "Working Voltage",
+        "value": "DC 12V/1A"
+      },
+      {
+        "label": "Dual Camera",
+        "value": "2 Megapixel"
+      },
+      {
+        "label": "Recognizable Distance",
+        "value": "0.2~3m"
+      },
+      {
+        "label": "Working Environment",
+        "value": "Indoor/Outdoor (IP65)"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-Mounted"
+      },
+      {
+        "label": "Working Temperature",
+        "value": "-20°C~+60°C"
+      },
+      {
+        "label": "Size",
+        "value": "200*260*30mm"
       }
     ],
     "parameter_id": [
       {
-        "label": "Prosesor",
-        "value": "Quad-core ARM Cortex-A53"
+        "label": "Ukuran Layar",
+        "value": "8"
       },
       {
         "label": "Layar",
-        "value": "LCD 7 inci"
+        "value": "Layar IPS HD Non-sentuh"
+      },
+      {
+        "label": "Tegangan Kerja",
+        "value": "DC 12V/1A"
+      },
+      {
+        "label": "Kamera Ganda",
+        "value": "2 Megapiksel"
+      },
+      {
+        "label": "Jarak yang Dapat Diakui",
+        "value": "0,2~3m"
+      },
+      {
+        "label": "Lingkungan Kerja",
+        "value": "Dalam/Luar Ruangan (IP65)"
+      },
+      {
+        "label": "Pemasangan",
+        "value": "Terpasang di Dinding"
+      },
+      {
+        "label": "Suhu Kerja",
+        "value": "-20°C~+60°C"
+      },
+      {
+        "label": "Ukuran",
+        "value": "200*260*30mm"
+      }
+    ]
+  },
+  {
+    "id": "50e48785-b727-4af7-84eb-e994e9c1956e",
+    "product_id": "5f984e29-6131-4ba2-a751-cf400aecf49b",
+    "introduction_en": "Maxvision Inteligent Facial Recognition Terminal adopts integrated tempered glass panel protection design, equipped with 8-inch IPS HD display, which can be applied to all kinds of places requiring face recognition authentication. The product uses independently developed face recognition algorithm. The quality of face images captured by this device would not be impacted by different lighting circumstances (e.g., weak light, backlight, strong light). Functioning mask-wearing, glass-wearing, hat-wearing, face-covering, and liveness detection with the recognition rate of all these deep learning-powered feature matching algorithms have been up to 99%.",
+    "introduction_id": "Terminal Pengenalan Wajah Cerdas Maxvision mengadopsi desain pelindung panel kaca tempered terintegrasi, dilengkapi layar IPS HD 8 inci, yang dapat diaplikasikan di berbagai tempat yang membutuhkan autentikasi pengenalan wajah. Produk ini menggunakan algoritma pengenalan wajah yang dikembangkan secara independen. Kualitas gambar wajah yang ditangkap oleh perangkat ini tidak akan terpengaruh oleh kondisi pencahayaan yang berbeda (misalnya, cahaya redup, cahaya latar, atau cahaya terang). Tingkat pengenalan semua algoritma pencocokan fitur yang didukung pembelajaran mendalam ini telah mencapai 99%, baik saat mengenakan masker, berkacamata, mengenakan topi, menutupi wajah, maupun mendeteksi keaktifan.",
+    "features_en": [
+      "Super Anti-interference Ability",
+      "Friendly Human-computer Interaction Design",
+      "High-speed Recognition",
+      "Ultra-high Recognition Accuracy"
+    ],
+    "features_id": [
+      "Kemampuan Anti-interferensi Super",
+      "Desain Interaksi Manusia-Komputer yang Ramah",
+      "Pengenalan Kecepatan Tinggi",
+      "Akurasi Pengenalan Ultra-tinggi"
+    ],
+    "parameter_en": [
+      {
+        "label": "Screen Size",
+        "value": "8"
+      },
+      {
+        "label": "Screen Type",
+        "value": "HD IPS Screen(Touch screen/non-touch screen optional)"
+      },
+      {
+        "label": "Recognizable Distance",
+        "value": "0.2m 3m"
+      },
+      {
+        "label": "Accuracy",
+        "value": "FAR<0.01%, FRR <1%, Comparison Time <100ms"
+      },
+      {
+        "label": "Working Environment  ",
+        "value": "Indoor/Outdoor"
+      },
+      {
+        "label": "Protection Grade  ",
+        "value": "IP55"
+      },
+      {
+        "label": "Installation ",
+        "value": " Hanging"
+      },
+      {
+        "label": "Input Voltage  ",
+        "value": "DC12V/2A"
+      },
+      {
+        "label": "Working Temperature  ",
+        "value": "-20°C-+60°C"
+      },
+      {
+        "label": "Size  ",
+        "value": "235mm*130mm*20mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": " 336 / 5.000 Ukuran Layar  ",
+        "value": "8"
+      },
+      {
+        "label": "Jenis Layar  ",
+        "value": "Layar HD IPS (Layar sentuh/non-layar sentuh opsional)"
+      },
+      {
+        "label": "Jarak Pengakuan  ",
+        "value": "0,2m 3m"
+      },
+      {
+        "label": "Akurasi  ",
+        "value": "FAR<0,01%, FRR <1%, Waktu Perbandingan <100ms"
+      },
+      {
+        "label": "Lingkungan Kerja  ",
+        "value": "Dalam/Luar Ruangan"
+      },
+      {
+        "label": "Tingkat Perlindungan  ",
+        "value": "IP55"
+      },
+      {
+        "label": "Pemasangan  ",
+        "value": "Digantung"
+      },
+      {
+        "label": "Tegangan Input ",
+        "value": " DC12V/2A"
+      },
+      {
+        "label": "Suhu Kerja  ",
+        "value": "-20°C-+60°C"
+      },
+      {
+        "label": "Ukuran",
+        "value": "235mm*130mm*20mm"
+      }
+    ]
+  },
+  {
+    "id": "9a116aea-3a6e-43e7-99ca-d52bfc437b85",
+    "product_id": "ed1fccd3-d6a5-4fdf-8da7-d1b78d97192b",
+    "introduction_en": "Maxvision Facial Recognition Terminal adopts integrated tempered glass panel shield design, equipped with 5-inch IPS HD display touch screen, which can be employed in nearly every entrance/exit where identity authentication and access control is needed. Functioning face-covering attribute detection, liveness detection, this device can recognize or verify visitors' identity using face, password, card, and other combinations swiftly, accurately, and reliably.",
+    "introduction_id": "Terminal Pengenalan Wajah Maxvision mengadopsi desain pelindung panel kaca tempered terintegrasi, dilengkapi layar sentuh IPS HD 5 inci, yang dapat digunakan di hampir setiap pintu masuk/keluar yang memerlukan otentikasi identitas dan kontrol akses. Dilengkapi dengan deteksi atribut penutup wajah dan deteksi keaktifan, perangkat ini dapat mengenali atau memverifikasi identitas pengunjung menggunakan wajah, kata sandi, kartu, dan kombinasi lainnya dengan cepat, akurat, dan andal.",
+    "features_en": [
+      "Super Anti-interference Ability",
+      "Free Choice of Access Methods",
+      "High-speed Recognition",
+      "High Security for Visitor Management",
+      "Friendly Human-computer Interaction Design",
+      "Algorithm Leads"
+    ],
+    "features_id": [
+      "Kemampuan Anti-interferensi Super",
+      "Pilihan Metode Akses Bebas",
+      "Pengenalan Kecepatan Tinggi",
+      "Keamanan Tinggi untuk Manajemen Pengunjung",
+      "Desain Interaksi Manusia-Komputer yang Ramah",
+      "Algoritma Memimpin"
+    ],
+    "parameter_en": [
+      {
+        "label": "Screen Size",
+        "value": "5"
+      },
+      {
+        "label": "Screen",
+        "value": "HD Capacitance Screen"
+      },
+      {
+        "label": "Recognizable Distance",
+        "value": "0.2m~3m"
+      },
+      {
+        "label": "Working Environment",
+        "value": "Indoor/Outdoor (IP65)"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-Mounted, Desktop, Column"
+      },
+      {
+        "label": "Working Temperature",
+        "value": "-20°C~+60°C"
+      },
+      {
+        "label": "Working Voltage",
+        "value": "DC 12V/1A"
+      },
+      {
+        "label": "Size",
+        "value": "171*90*23mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Ukuran Layar",
+        "value": "5"
+      },
+      {
+        "label": "Layar",
+        "value": "Layar Kapasitansi HD"
+      },
+      {
+        "label": "Jarak yang Dapat Diakui",
+        "value": "0,2m~3m"
+      },
+      {
+        "label": "Lingkungan Kerja",
+        "value": "Dalam/Luar Ruangan (IP65)"
+      },
+      {
+        "label": "Pemasangan",
+        "value": "Terpasang di Dinding, Meja, Kolom"
+      },
+      {
+        "label": "Suhu Kerja",
+        "value": "-20°C~+60°C"
+      },
+      {
+        "label": "Tegangan Kerja",
+        "value": "DC 12V/1A"
+      },
+      {
+        "label": "Ukuran",
+        "value": "171*90*23mm"
+      }
+    ]
+  },
+  {
+    "id": "df397f60-073f-4472-b205-63aa5b8635ca",
+    "product_id": "ae068971-315b-4d5e-a52b-0eb49d0075c6",
+    "introduction_en": "Maxvision Iris & Face Recognition Terminal has an integrated front panel design, the screen frame and the body are integrated, and the back is made of aluminum material, which is lightweight, durable and corrosion-resistant. The device integrates iris recognition, face recognition, iris and face fusion recognition, intelligent iris capture and tracking, and other functions. The system can customize 1:1 or 1:N iris recognition comparison to meet the functional requirements of different application scenarios. The equipment can be installed in systems such as access control, gates, and self-service terminals, which is widely used in personnel access control places such as customs, border defense, seaports, communities and buildings.",
+    "introduction_id": "Terminal Pengenalan Iris & Wajah Maxvision memiliki desain panel depan terintegrasi, rangka layar dan bodi terintegrasi, sementara bagian belakangnya terbuat dari aluminium, yang ringan, tahan lama, dan tahan korosi. Perangkat ini mengintegrasikan pengenalan iris, pengenalan wajah, pengenalan fusi iris dan wajah, penangkapan dan pelacakan iris cerdas, serta fungsi lainnya. Sistem ini dapat menyesuaikan perbandingan pengenalan iris 1:1 atau 1:N untuk memenuhi persyaratan fungsional berbagai skenario aplikasi. Peralatan ini dapat dipasang di sistem seperti kontrol akses, gerbang, dan terminal swalayan, yang banyak digunakan di area kontrol akses personel seperti bea cukai, pertahanan perbatasan, pelabuhan, komunitas, dan gedung.",
+    "features_en": [
+      "Strong Adaptability to Complex Environments",
+      "HD Imaging",
+      "Automatic Positioning",
+      "Algorithm Leads",
+      "Iris Face Automatic Capture"
+    ],
+    "features_id": [
+      "Kemampuan Beradaptasi yang Kuat terhadap Lingkungan yang Kompleks",
+      "Pencitraan HD",
+      "Pemosisian Otomatis",
+      "Algoritma Leads",
+      "Pengambilan Otomatis Iris Wajah"
+    ],
+    "parameter_en": [
+      {
+        "label": "Image Output Format ",
+        "value": " JPG, PNG"
+      },
+      {
+        "label": "Recognition Distance  ",
+        "value": "Iris: 30cm-70cm, Face: 30cm-200cm"
+      },
+      {
+        "label": "Recognition Speed  ",
+        "value": "Iris: <1s, Face: <0.5s"
+      },
+      {
+        "label": "Recognition Rate  ",
+        "value": "FAR<0.0001%, FRR<0.1%"
+      },
+      {
+        "label": "Operating System  ",
+        "value": "Linux"
+      },
+      {
+        "label": "Product Power Consumption  ",
+        "value": "9W"
+      },
+      {
+        "label": "Working Voltage  ",
+        "value": "DC 12V"
+      },
+      {
+        "label": "Working Temperature  ",
+        "value": "-20°C~+70°C"
+      },
+      {
+        "label": "Working Humidity  ",
+        "value": "10~90%, No condensation"
+      },
+      {
+        "label": "Size  ",
+        "value": "310*175*41mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Format Keluaran Gambar  ",
+        "value": "JPG, PNG"
+      },
+      {
+        "label": "Jarak Pengenalan  ",
+        "value": "Iris: 30cm-70cm, Wajah: 30cm-200cm"
+      },
+      {
+        "label": "Kecepatan Pengenalan  ",
+        "value": "Iris: <1 detik, Wajah: <0,5 detik"
+      },
+      {
+        "label": "Tingkat Pengenalan  ",
+        "value": "FAR<0,0001%, FRR<0,1%"
+      },
+      {
+        "label": "Sistem Operasi ",
+        "value": " Linux"
+      },
+      {
+        "label": "Konsumsi Daya Produk ",
+        "value": " 9W"
+      },
+      {
+        "label": "Tegangan Kerja  ",
+        "value": "DC 12V"
+      },
+      {
+        "label": "Suhu Kerja ",
+        "value": " -20°C~+70°C"
+      },
+      {
+        "label": "Kelembapan Kerja  ",
+        "value": "10~90%, Tanpa Kondensasi"
+      },
+      {
+        "label": "Ukuran ",
+        "value": " 310*175*41mm"
       }
     ]
   }

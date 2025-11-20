@@ -1,0 +1,20 @@
+{
+  "id": "da99ce22-934d-4900-9d48-f9a4cd0d8a64",
+  "name_en": "Operational Safety Monitoring Algorithms",
+  "name_id": "Algoritma Pemantauan Keselamatan Operasional",
+  "short_en": "Operational Safety Monitoring Algorithms leverage advanced computer vision and deep learning technologies, designed specifically to safeguard personnel in high-risk work environments",
+  "short_id": "Algoritma Pemantauan Keselamatan Operasional memanfaatkan visi komputer canggih dan teknologi pembelajaran mendalam, yang dirancang khusus untuk melindungi personel di lingkungan kerja berisiko tinggi",
+  "desc_en": "Operational Safety Monitoring Algorithms leverage advanced computer vision and deep learning technologies, designed specifically to safeguard personnel in high-risk work environments. These algorithms provide real-time monitoring and automatic recognition of worker behaviors and protective gear, ensuring compliance with safety regulations and promptly identifying potential hazards. Widely used in construction, mining, and industrial sectors, they significantly reduce the risk of safety incidents and enhance on-site safety management efficiency.",
+  "desc_id": "Algoritma Pemantauan Keselamatan Operasional memanfaatkan visi komputer canggih dan teknologi pembelajaran mendalam, yang dirancang khusus untuk melindungi personel di lingkungan kerja berisiko tinggi. Algoritma ini menyediakan pemantauan waktu nyata dan pengenalan otomatis perilaku pekerja dan alat pelindung diri, memastikan kepatuhan terhadap peraturan keselamatan dan mengidentifikasi potensi bahaya dengan cepat. Banyak digunakan di sektor konstruksi, pertambangan, dan industri, algoritma ini secara signifikan mengurangi risiko insiden keselamatan dan meningkatkan efisiensi manajemen keselamatan di lokasi.",
+  "main_category_id": "098aa37a-534a-4a78-a08a-66ea59da8f1a",
+  "main_category_en": "Intelligent Algorithms",
+  "main_category_id_name": "Algoritma Cerdas",
+  "sub_category_id": "996c2350-54b9-4397-b497-5b79b8c7720f",
+  "sub_category_en": "AI Algorithms",
+  "sub_category_id_name": "Algoritma AI",
+  "image": "/images/uploads/operational-safety-monitoring-algorithms.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}

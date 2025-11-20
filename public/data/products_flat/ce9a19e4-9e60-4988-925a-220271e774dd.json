@@ -1,0 +1,20 @@
+{
+  "id": "ce9a19e4-9e60-4988-925a-220271e774dd",
+  "name_en": "Personnel Recognition Algorithms",
+  "name_id": "Algoritma Pengenalan Personel",
+  "short_en": "Personnel Recognition Algorithms combine biometric recognition technology and data analysis methods to accurately identify and analyze individuals' identities, behaviors, and crowd density",
+  "short_id": "Algoritma Pengenalan Personel menggabungkan teknologi pengenalan biometrik dan metode analisis data untuk mengidentifikasi dan menganalisis identitas, perilaku, dan kepadatan kerumunan individu secara akurat",
+  "desc_en": "Personnel Recognition Algorithms combine biometric recognition technology and data analysis methods to accurately identify and analyze individuals' identities, behaviors, and crowd density. By monitoring real-time biometric features, behavioral patterns, and movement, these algorithms are widely applied in security, public safety, and smart city sectors, enhancing security management, personnel flow monitoring, and emergency response capabilities.",
+  "desc_id": "Algoritma Pengenalan Personel menggabungkan teknologi pengenalan biometrik dan metode analisis data untuk mengidentifikasi dan menganalisis identitas, perilaku, dan kepadatan kerumunan individu secara akurat. Dengan memantau fitur biometrik, pola perilaku, dan pergerakan secara real-time, algoritma ini banyak digunakan di sektor keamanan, keselamatan publik, dan kota pintar, meningkatkan manajemen keamanan, pemantauan arus personel, dan kemampuan tanggap darurat.",
+  "main_category_id": "098aa37a-534a-4a78-a08a-66ea59da8f1a",
+  "main_category_en": "Intelligent Algorithms",
+  "main_category_id_name": "Algoritma Cerdas",
+  "sub_category_id": "996c2350-54b9-4397-b497-5b79b8c7720f",
+  "sub_category_en": "AI Algorithms",
+  "sub_category_id_name": "Algoritma AI",
+  "image": "/images/uploads/personnel-recognition-algorithms.png",
+  "compatibility": [
+    "wifi",
+    "mqtt"
+  ]
+}
