@@ -2,53 +2,54 @@
   "en": [
     {
       "question": "What data must I prepare to submit a public information request?",
-      "answer": "Lorem ipsum dolor sit amet consectetur. Et dictumst duis dui magna consectetur fames vestibulum dignissim..."
+      "answer": "You need to provide basic personal information such as your full name, email address, phone number, the purpose of the request, and a clear description of the information you are seeking."
     },
     {
       "question": "How to submit a public information request online?",
-      "answer": ""
+      "answer": "You can submit a request through the official online PPID service by filling out the available form, attaching supporting documents if needed, and confirming your request through the provided submission button."
     },
     {
       "question": "How long does it take to obtain public information?",
-      "answer": ""
+      "answer": "Public bodies typically process requests within a statutory period of 10 working days, with the possibility of a 7-day extension depending on the complexity of the information requested."
     },
     {
       "question": "What time does PPID Secretariat open its public information services?",
-      "answer": ""
+      "answer": "Public information services are usually available during regular office hours, Monday to Friday, from 08:00 to 16:00 local time, excluding national holidays."
     },
     {
       "question": "Is there any fee charged for public information requests?",
-      "answer": ""
+      "answer": "Access to public information is generally free of charge, except for costs related to document reproduction such as printing, photocopying, or digital media preparation."
     },
     {
       "question": "What are the shipping costs for public information materials?",
-      "answer": ""
+      "answer": "Shipping costs, if applicable, are borne by the requester and depend on the courier service, delivery distance, and the weight of the requested documents."
     }
   ],
+
   "id": [
     {
       "question": "Data apa saja yang harus saya lengkapi untuk mengajukan permohonan informasi publik?",
-      "answer": "Lorem ipsum dolor sit amet consectetur. Et dictumst duis dui magna consectetur fames vestibulum dignissim..."
+      "answer": "Anda perlu menyiapkan data diri seperti nama lengkap, alamat email, nomor telepon, tujuan permohonan, serta deskripsi jelas mengenai informasi yang Anda butuhkan."
     },
     {
       "question": "Bagaimana tahapan pengajuan permohonan informasi publik via media online?",
-      "answer": ""
+      "answer": "Permohonan dapat diajukan melalui layanan PPID online dengan mengisi formulir yang tersedia, melampirkan dokumen pendukung bila diperlukan, dan mengirimkan permohonan melalui tombol submit."
     },
     {
       "question": "Berapa lama informasi publik dapat diperoleh?",
-      "answer": ""
+      "answer": "Proses penyediaan informasi publik umumnya memerlukan waktu maksimal 10 hari kerja, dan dapat diperpanjang 7 hari kerja apabila informasi yang diminta bersifat kompleks."
     },
     {
       "question": "Jam berapa setiap harinya PPID Setjen DPR RI membuka layanan informasi publik?",
-      "answer": ""
+      "answer": "Layanan informasi publik dibuka pada hari kerja Senin sampai Jumat, pukul 08.00–16.00 waktu setempat, tidak termasuk hari libur nasional."
     },
     {
       "question": "Apakah informasi publik yang diminta dikenakan biaya atau tarif?",
-      "answer": ""
+      "answer": "Akses terhadap informasi publik tidak dikenakan biaya, kecuali biaya penggandaan dokumen seperti fotokopi, pencetakan, atau penyediaan media digital."
     },
     {
       "question": "Berapa biaya pengiriman informasi publik?",
-      "answer": ""
+      "answer": "Biaya pengiriman, jika diperlukan, ditanggung oleh pemohon dan disesuaikan dengan jasa kurir, jarak pengiriman, serta berat dokumen yang diminta."
     }
   ]
 }

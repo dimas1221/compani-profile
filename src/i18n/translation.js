@@ -131,12 +131,12 @@ export const translations = {
     contactPage: {
       title1: "Are you looking for a trustworthy Transforme reseller?",
       subtitle1:
-        "Lorem ipsum dolor sit amet consectetur. Proin amet euismod ultrices in suspendisse aliquam.",
+        "Contact our team to obtain official information about products, solutions, and licensed Transforme resellers available in your region.",
 
       title2:
         "Are you a business representative interested in the latest smart home & building automation solutions?",
       subtitle2:
-        "Lorem ipsum dolor sit amet consectetur. Proin amet euismod ultrices in suspendisse aliquam.",
+        "Our team is ready to assist you in designing security, access, and automation solutions tailored to your company’s needs.",
 
       form_name: "Name",
       form_email: "Email",
@@ -145,6 +145,25 @@ export const translations = {
       form_send: "Send Message",
 
       location_title: "Our Location",
+
+      info_title: "Information",
+
+      info_text1:
+        "Email, call, or complete the form to learn how Transforme can help solve your security and automation challenges.",
+      info_email: "info@transforme.com",
+      info_phone: "021 1679 0921",
+
+      info_support_title: "Customer Support",
+      info_support_desc:
+        "Our support team is ready to assist you with technical issues, product guidance, troubleshooting, and after-sales service.",
+
+      info_feedback_title: "Feedback & Suggestions",
+      info_feedback_desc:
+        "We welcome your feedback to help us improve our products, services, and customer experience.",
+
+      info_media_title: "Media Inquiries",
+      info_media_desc:
+        "For interviews, press releases, media collaboration, or publication requests, please contact our media relations team.",
     },
   },
 
@@ -273,6 +292,7 @@ export const translations = {
       smarthome_sub: "CCTV, biometrik, perangkat pintar, kontrol akses.",
     },
 
+    // Cantact page
     //wa confirm message
     confirm_whatsapp: "Konfirmasi via WhatsApp",
 
@@ -281,12 +301,12 @@ export const translations = {
     contactPage: {
       title1: "Apakah Anda mencari reseller Transforme yang terpercaya?",
       subtitle1:
-        "Lorem ipsum dolor sit amet consectetur. Proin amet euismod ultrices in suspendisse aliquam.",
+        "Hubungi tim kami untuk mendapatkan informasi resmi mengenai produk, solusi, dan rekomendasi reseller berlisensi Transforme di wilayah Anda.",
 
       title2:
         "Apakah Anda perwakilan bisnis yang tertarik dengan solusi smart home & building automation terbaru?",
       subtitle2:
-        "Lorem ipsum dolor sit amet consectetur. Proin amet euismod ultrices in suspendisse aliquam.",
+        "Tim kami siap membantu Anda merancang solusi keamanan, akses, dan otomasi bangunan yang sesuai dengan kebutuhan perusahaan Anda.",
 
       form_name: "Nama",
       form_email: "Email",
@@ -295,6 +315,25 @@ export const translations = {
       form_send: "Kirim Pesan",
 
       location_title: "Lokasi Kami",
+
+      info_title: "Informasi",
+
+      info_text1:
+        "Email, telepon, atau isi formulir untuk mengetahui bagaimana Transforme dapat membantu menyelesaikan kebutuhan keamanan dan otomasi Anda.",
+      info_email: "info@transforme.com",
+      info_phone: "021 1679 0921",
+
+      info_support_title: "Dukungan Pelanggan",
+      info_support_desc:
+        "Tim dukungan kami siap membantu menyelesaikan masalah teknis, panduan produk, troubleshooting, dan layanan purna jual.",
+
+      info_feedback_title: "Masukan & Saran",
+      info_feedback_desc:
+        "Kami sangat menghargai masukan Anda dalam meningkatkan produk, layanan, dan pengalaman pelanggan kami.",
+
+      info_media_title: "Permintaan Media",
+      info_media_desc:
+        "Untuk wawancara, rilis pers, kerja sama media, atau permintaan publikasi, silakan hubungi tim hubungan media kami.",
     },
   },
 };
