@@ -1,0 +1,86 @@
+{
+  "id": "cbee96ec-d250-4d49-9ffe-ac77ef1c2761",
+  "product_id": "1e536234-80b2-4996-bd7f-a6e8a58908b8",
+  "introduction_en": "Maxvision Palm Vein Capture Module is based on the Linux operating system. It uses near-infrared band imaging technology to obtain palm vein information. It also has a visible light camera to capture palmprint information. The module has functions such as palm print and palm vein input, image processing, feature comparison, storage, etc., and can be used in smart door locks, safes, access control, gates, robots self-service terminals and other equipment.",
+  "introduction_id": "Modul Perekam Vena Telapak Tangan Maxvision berbasis sistem operasi Linux. Modul ini menggunakan teknologi pencitraan pita inframerah dekat untuk mendapatkan informasi vena telapak tangan. Modul ini juga dilengkapi kamera cahaya tampak untuk merekam informasi sidik telapak tangan. Modul ini memiliki fungsi seperti input sidik telapak tangan dan vena telapak tangan, pemrosesan gambar, perbandingan fitur, penyimpanan, dll., dan dapat digunakan pada kunci pintu pintar, brankas, kontrol akses, gerbang, terminal swalayan robot, dan peralatan lainnya.",
+  "features_en": [
+    "Quick Unlock",
+    "Modular Appearance Design",
+    "Easy to Integrate",
+    "Recognizable with Offset",
+    "Normal Recognition of Wet Hands",
+    "Authentication Security is Extremely High",
+    "International Standard Interface",
+    "Quick Docking"
+  ],
+  "features_id": [
+    "Buka Kunci Cepat",
+    "Desain Tampilan Modular",
+    "Mudah Diintegrasikan",
+    "Dapat Dikenali dengan Offset",
+    "Pengenalan Normal untuk Tangan Basah",
+    "Keamanan Autentikasi Sangat Tinggi",
+    "Antarmuka Standar Internasional",
+    "Docking Cepat"
+  ],
+  "parameter_en": [
+    {
+      "label": "Identify Speed  ",
+      "value": "<1s"
+    },
+    {
+      "label": "Identify Distance  ",
+      "value": "5~20cm"
+    },
+    {
+      "label": "Power Input  ",
+      "value": "DC1.3~5.5V"
+    },
+    {
+      "label": "Power Consumption  ",
+      "value": "Peak Power Consumptions: 1.5W Standby Power Consumptions: 0.1W"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-20°C~+60°C"
+    },
+    {
+      "label": "Working Humidity  ",
+      "value": "10%~90%, No condensation"
+    },
+    {
+      "label": "Size  ",
+      "value": "Mainboard: 40mm*40mm*6.5mmModule: 28.0mm*10.0mm*14.0mm"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Identifikasi Kecepatan  ",
+      "value": "<1 detik"
+    },
+    {
+      "label": "Identifikasi Jarak  ",
+      "value": "5~20 cm"
+    },
+    {
+      "label": "Daya Masuk  ",
+      "value": "DC1,3~5,5 V"
+    },
+    {
+      "label": "Konsumsi Daya  ",
+      "value": "Konsumsi Daya Puncak: 1,5 W Konsumsi Daya Siaga: 0,1 W"
+    },
+    {
+      "label": "Suhu Operasional  ",
+      "value": "-20°C~+60°C"
+    },
+    {
+      "label": "Kelembapan Kerja  ",
+      "value": "10%~90%, Tanpa Kondensasi"
+    },
+    {
+      "label": "Ukuran",
+      "value": "Papan Utama: 40 mm*40 mm*6,5 mm Modul: 28,0 mm*10,0 mm*14,0 mm"
+    }
+  ]
+}
