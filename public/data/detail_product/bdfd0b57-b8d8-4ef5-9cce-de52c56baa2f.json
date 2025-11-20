@@ -1,0 +1,108 @@
+{
+  "id": "bdfd0b57-b8d8-4ef5-9cce-de52c56baa2f",
+  "product_id": "8e7e98f2-537f-4277-a7d7-9165cb672a2d",
+  "introduction_en": "Palm Vein Capture Terminal, combining with self-developed Al algorithms and applications from visual, optical, and biological science to achieve ultra-high security levels in biometric identification. This terminal has many significant advantages such as safety and reliability, non-contact recognition, liven detection, and driverless operation. It can be integrated into systems such as E-gate and self-service terminals, and is widely used in scenarios that require personnel access control, identity verification, and smart payments.",
+  "introduction_id": "Terminal Penangkap Vena Telapak Tangan (Palmein Vein Capture Terminal), yang dipadukan dengan algoritma AI yang dikembangkan sendiri dan aplikasi dari ilmu visual, optik, dan biologi, mencapai tingkat keamanan yang sangat tinggi dalam identifikasi biometrik. Terminal ini memiliki banyak keunggulan signifikan seperti keamanan dan keandalan, pengenalan tanpa kontak, deteksi denyut nadi, dan pengoperasian tanpa pengemudi. Terminal ini dapat diintegrasikan ke dalam sistem seperti E-gate dan terminal swalayan, dan banyak digunakan dalam skenario yang memerlukan kontrol akses personel, verifikasi identitas, dan pembayaran pintar.",
+  "features_en": [
+    "High-speed Authentication",
+    "Recognizable with Offset",
+    "Normal Recognition of Wet Hands",
+    "Recognizable in Water Mist Environment",
+    "Uniqueness of Identification Characteristics",
+    "Authentication Security is Extremely High",
+    ""
+  ],
+  "features_id": [
+    "Autentikasi Berkecepatan Tinggi",
+    "Dapat Dikenali dengan Offset",
+    "Pengenalan Normal Tangan Basah",
+    "Dapat Dikenali di Lingkungan Kabut Air",
+    "Keunikan Karakteristik Identifikasi",
+    "Keamanan Autentikasi Sangat Tinggi",
+    ""
+  ],
+  "parameter_en": [
+    {
+      "label": "Palm Vein Recognition Accuracy  ",
+      "value": "Rejection rate <0.4% when false positive rate <0.01%"
+    },
+    {
+      "label": "Operating System  ",
+      "value": "Windows, Linux, Android"
+    },
+    {
+      "label": "Communication Interface  ",
+      "value": "USB2.0, TYPE-C"
+    },
+    {
+      "label": "Power Supply  ",
+      "value": "USB 5V Power Supply, Maximum Input Current 500mA"
+    },
+    {
+      "label": "Power Consumption  ",
+      "value": "<2W"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-10°C~+55°C"
+    },
+    {
+      "label": "Working Humidity  ",
+      "value": "20%RH~90%RH"
+    },
+    {
+      "label": "Operation Environment",
+      "value": "Indoor"
+    },
+    {
+      "label": "Installation  ",
+      "value": "Wall-Mounted or Desktop Mounted"
+    },
+    {
+      "label": "Size ",
+      "value": " 32*32*19mm"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Akurasi Pengenalan Vena Telapak Tangan  ",
+      "value": "Tingkat penolakan <0,4% ketika tingkat positif palsu <0,01%"
+    },
+    {
+      "label": "Sistem Operasi  ",
+      "value": "Windows, Linux, Android"
+    },
+    {
+      "label": "Antarmuka Komunikasi  ",
+      "value": "USB2.0, TIPE-C"
+    },
+    {
+      "label": "Catu Daya  ",
+      "value": "Catu Daya USB 5V, Arus Input Maksimum 500mA"
+    },
+    {
+      "label": "Konsumsi Daya  ",
+      "value": "<2W"
+    },
+    {
+      "label": "Suhu Operasi  ",
+      "value": "-10°C~+55°C"
+    },
+    {
+      "label": "Kelembapan Kerja ",
+      "value": " 20%RH~90%RH"
+    },
+    {
+      "label": "Lingkungan Operasi",
+      "value": "Dalam Ruangan "
+    },
+    {
+      "label": "Pemasangan  ",
+      "value": "Dapat Dipasang di Dinding atau Desktop"
+    },
+    {
+      "label": "Ukuran ",
+      "value": " 32*32*19mm"
+    }
+  ]
+}
