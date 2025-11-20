@@ -1,5 +1,241 @@
 [
   {
+    "id": "0767346a-a027-475a-a891-4b89666289e3",
+    "product_id": "958f3167-3ca8-4369-a4f5-ac3348c7752c",
+    "introduction_en": "Maxvision Palm Vein Recognition Terminal adopts Al recognition technology, combined with scientific applications such as vision, optics, biology, etc., uses multi-band infrared imaging technology to obtain the palm vein distribution map of the palm, and performs biometric identification through a dedicated comparison algorithm to achieve ultra-high performance. The equipment has the advantages of safety and reliability, non-contact authentication, live detection, good anti-interference, and high accuracy. It can be embedded in access control, gates, self-service terminals and other systems, and is widely used in customs, border defense, seaports, communities buildings, access controlled premises etc..",
+    "introduction_id": "Terminal Pengenalan Vena Telapak Tangan Maxvision mengadopsi teknologi pengenalan AI yang dipadukan dengan aplikasi ilmiah seperti penglihatan, optik, biologi, dll., menggunakan teknologi pencitraan inframerah multi-band untuk mendapatkan peta distribusi vena telapak tangan, dan melakukan identifikasi biometrik melalui algoritma perbandingan khusus untuk mencapai kinerja ultra-tinggi. Peralatan ini memiliki keunggulan keamanan dan keandalan, otentikasi non-kontak, deteksi langsung, anti-interferensi yang baik, dan akurasi tinggi. Terminal ini dapat diintegrasikan ke dalam kontrol akses, gerbang, terminal swalayan, dan sistem lainnya, serta banyak digunakan di bea cukai, pertahanan perbatasan, pelabuhan laut, gedung komunitas, dan area dengan akses terbatas, dll.",
+    "features_en": [
+      "High-speed Authentication",
+      "All-angles Recognition",
+      "Recognizable with Offset",
+      "Normal Recognition of Wet Hands",
+      "Recognizable in Water & Mist Environment",
+      "Backlight Recognition",
+      "Uniqueness of Identification Characteristics",
+      "Authentication Security is Extremely High"
+    ],
+    "features_id": [
+      "Autentikasi Berkecepatan Tinggi",
+      "Pengenalan dari Semua Sudut",
+      "Dapat Dikenali dengan Offset",
+      "Pengenalan Normal untuk Tangan Basah",
+      "Dapat Dikenali di Lingkungan Air & Kabut",
+      "Pengenalan dengan Cahaya Latar",
+      "Keunikan Karakteristik Identifikasi",
+      "Keamanan Autentikasi Sangat Tinggi"
+    ],
+    "parameter_en": [
+      {
+        "label": "Screen  ",
+        "value": "7\" HD LCD touch screen"
+      },
+      {
+        "label": "Operating System ",
+        "value": " Linux"
+      },
+      {
+        "label": "Recognition Accuracy ",
+        "value": " Rejection rate <0.4% when false positive rate <0.01%"
+      },
+      {
+        "label": "Operating Voltage  ",
+        "value": "DC 12V/2A"
+      },
+      {
+        "label": "Operating Temperature ",
+        "value": " -20°C~+60°C"
+      },
+      {
+        "label": "Working Humidity  ",
+        "value": "10%RH~95%RH"
+      },
+      {
+        "label": "Operation Environment ",
+        "value": " Indoor"
+      },
+      {
+        "label": "Installation  ",
+        "value": "Wall-mounted or desktop mounted"
+      },
+      {
+        "label": "Size  ",
+        "value": "221.4*181.4*25.8mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Layar ",
+        "value": " Layar sentuh LCD HD 7\""
+      },
+      {
+        "label": "Sistem Operasi ",
+        "value": "Linux"
+      },
+      {
+        "label": "Akurasi Pengenalan  ",
+        "value": "Tingkat penolakan <0,4% ketika tingkat positif palsu <0,01%"
+      },
+      {
+        "label": "Tegangan Operasi  ",
+        "value": "DC 12V/2A"
+      },
+      {
+        "label": "Suhu Operasi  ",
+        "value": "-20°C~+60°C"
+      },
+      {
+        "label": "Kelembapan Kerja  ",
+        "value": "10%RH~95%RH"
+      },
+      {
+        "label": "Lingkungan Operasi ",
+        "value": " Dalam Ruangan"
+      },
+      {
+        "label": "Pemasangan  ",
+        "value": "Dapat dipasang di dinding atau di atas meja"
+      },
+      {
+        "label": "Ukuran  ",
+        "value": "221,4*181,4*25,8mm"
+      }
+    ]
+  },
+  {
+    "id": "0e034a54-ee9c-49af-850f-3eebc3e14f62",
+    "product_id": "d08e47e9-334c-4cec-a687-26df0c805f5c",
+    "introduction_en": "The Intelligent Security Inspection E-gate is a comprehensive personnel inspection and passage system. The system integrates face recognition, palmvein recognition, one-click start, metal detection door, carry-on baggage inspectionand other functions to achieve 100% comprehensive and intelligent inspection of passing personnel and luggage, effectively improving the security level of the park and the efficiency of personnel luggage inspection. This product can be used in entrance and exit scenarios of major airports, governments office buildings, state agencies, financial banks and other high-risk prevention-level sensitive andconfidential places.",
+    "introduction_id": "Intelligent Security Inspection E-gate adalah sistem inspeksi dan akses personel yang komprehensif. Sistem ini mengintegrasikan pengenalan wajah, pengenalan urat nadi telapak tangan, start sekali klik, pintu deteksi logam, inspeksi bagasi kabin, dan fungsi lainnya untuk mencapai inspeksi personel dan bagasi yang 100% komprehensif dan cerdas, yang secara efektif meningkatkan tingkat keamanan taman dan efisiensi inspeksi bagasi personel. Produk ini dapat digunakan dalam skenario pintu masuk dan keluar bandara besar, gedung perkantoran pemerintah, instansi pemerintah, bank keuangan, dan tempat-tempat sensitif dan rahasia berisiko tinggi lainnya.",
+    "features_en": [
+      "Highly Intelligent Integration",
+      "High Security Level Inspection",
+      "Personnel Information Binding to the Luggage",
+      "Ultra-long Service Life"
+    ],
+    "features_id": [
+      "Integrasi yang Sangat Cerdas",
+      "Inspeksi Tingkat Keamanan Tinggi",
+      "Pengikatan Informasi Personel ke Bagasi",
+      "Masa Pakai yang Sangat Panjang"
+    ],
+    "parameter_en": [
+      {
+        "label": "Face Recognition  ",
+        "value": "Face Capture Range: 1.1~1.2m Recognition Accuracy: 99% with a FAR of 0.01%"
+      },
+      {
+        "label": "Palm Vein Recognition  ",
+        "value": "FRR <0.4% at FAR <0.0001%"
+      },
+      {
+        "label": "Temperature Measurement Accuracy  ",
+        "value": "±0.3°C"
+      },
+      {
+        "label": "Luggage Recognition ",
+        "value": " Backpacks, handbags, shoulder bags, crossbody bags, and clutches"
+      },
+      {
+        "label": "Communication Interface  ",
+        "value": "Network Port"
+      },
+      {
+        "label": "Input Voltage  ",
+        "value": "AC 220V±10%, 50Hz±5%"
+      },
+      {
+        "label": "Rated Power Consumption  ",
+        "value": "600W (excluding X-ray machine)"
+      },
+      {
+        "label": "Operating Temperature ",
+        "value": " -10°C~+50°C (Indoor)"
+      },
+      {
+        "label": "Storage Temperature ",
+        "value": " -20°C~+60°C (Indoor)"
+      },
+      {
+        "label": "Relative Humidity  ",
+        "value": "10%~90%RH, No condensing"
+      },
+      {
+        "label": "Gate Type  ",
+        "value": "Swing Gate"
+      },
+      {
+        "label": "Gate Service Life  ",
+        "value": ">20 million times"
+      },
+      {
+        "label": "Channel Width  ",
+        "value": "<1200mm (Entry)"
+      },
+      {
+        "label": "Reference Size  ",
+        "value": "L*W*H=4350*2555*2400mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Pengenalan Wajah ",
+        "value": "Jangkauan Pengambilan Wajah: 1,1~1,2m Akurasi Pengenalan: 99% dengan FAR 0,01%"
+      },
+      {
+        "label": "Palm Vein Recognition  ",
+        "value": "FRR <0.4% at FAR <0.0001%"
+      },
+      {
+        "label": "Temperature Measurement Accuracy  ",
+        "value": "±0.3°C"
+      },
+      {
+        "label": "Luggage Recognition  ",
+        "value": "Backpacks, handbags, shoulder bags, crossbody bags, and clutches"
+      },
+      {
+        "label": "Communication Interface  ",
+        "value": "Network Port"
+      },
+      {
+        "label": "Tegangan Input  ",
+        "value": "AC 220V±10%, 50Hz±5%"
+      },
+      {
+        "label": "Konsumsi Daya Terukur  ",
+        "value": "600W (tidak termasuk mesin sinar-X)"
+      },
+      {
+        "label": "Suhu Operasional  ",
+        "value": "-10°C~+50°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Suhu Penyimpanan  ",
+        "value": "-20°C~+60°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Relatif Kelembapan  ",
+        "value": "10%~90%RH, Tanpa kondensasi"
+      },
+      {
+        "label": "Jenis Gerbang ",
+        "value": " Gerbang Ayun"
+      },
+      {
+        "label": "Masa Pakai Gerbang ",
+        "value": " >20 juta kali"
+      },
+      {
+        "label": "Lebar Saluran  ",
+        "value": "<1200 mm (Masuk)"
+      },
+      {
+        "label": "Ukuran Referensi  ",
+        "value": "P*L*T=4350*2555*2400 mm"
+      }
+    ]
+  },
+  {
     "id": "33062ed5-32d0-4117-90f7-9ce045c82d9e",
     "product_id": "20df7aa6-3713-4723-a8a6-a53539e75039",
     "introduction_en": "Maxvision Facial Recognition Terminal is designed with touch keys and integrated tempered glass panel protection, equipped with 8-inch IPS HD screen, which can be employed in nearly every entrance/exit where identity authentication and access control is needed. Functioning face-covering attribute detection, liveness detection, this device can recognize or verify visitors' identity using face, password, card, and other combinations swiftly, accurately, and reliably.",
@@ -94,6 +330,116 @@
       {
         "label": "Ukuran",
         "value": "200*260*30mm"
+      }
+    ]
+  },
+  {
+    "id": "3bebc01c-2550-48b9-8884-b3335a206868",
+    "product_id": "3f16729a-dbe5-4bd9-8134-11657e80fd7a",
+    "introduction_en": "Multi-Biometric Capture Terminal integrates ten-finger fingerprints and face capture functions. While performing fingerprint and facial capture, it can realize the rapid capture and verification of multiple biometric information of passengers. The device is characterized by its small size and flexible placement, and is widely applied in high-security areas such as airports, ports, police stations, and border checkpoints where personnel biometric data capture and identity verification are required.",
+    "introduction_id": "Terminal Pengambilan Multi-Biometrik mengintegrasikan fungsi sidik jari sepuluh jari dan pengambilan wajah. Sambil melakukan pengambilan sidik jari dan wajah, perangkat ini dapat melakukan pengambilan dan verifikasi berbagai informasi biometrik penumpang dengan cepat. Perangkat ini dicirikan oleh ukurannya yang kecil dan penempatannya yang fleksibel, dan banyak digunakan di area dengan keamanan tinggi seperti bandara, pelabuhan, kantor polisi, dan pos pemeriksaan perbatasan yang memerlukan pengambilan data biometrik personel dan verifikasi identitas.",
+    "features_en": [
+      "Adaptive Face Capture for People of Different Heights",
+      "Information Storage \"One File Per Person\"",
+      "Multiple Fingerprints Capture",
+      "Non-sensing Face Information Capture"
+    ],
+    "features_id": [
+      "Pengambilan Wajah Adaptif untuk Orang dengan Tinggi Badan Berbeda",
+      "Penyimpanan Informasi \"Satu File Per Orang\"",
+      "Pengambilan Beberapa Sidik Jari",
+      "Pengambilan Informasi Wajah Tanpa Sensor"
+    ],
+    "parameter_en": [
+      {
+        "label": "Screen Size  ",
+        "value": "10.1"
+      },
+      {
+        "label": "Input Voltage  ",
+        "value": "AC 220V±10% 50Hz±5%"
+      },
+      {
+        "label": "Rated Power Consumption  ",
+        "value": "100W"
+      },
+      {
+        "label": "Working Temperature  ",
+        "value": "-10°C~+50°C (Indoor)"
+      },
+      {
+        "label": "Storage Temperature  ",
+        "value": "-20°C~+60°C (Indoor)"
+      },
+      {
+        "label": "Relative Humidity  ",
+        "value": "10%-90% RH"
+      },
+      {
+        "label": "Weight ",
+        "value": " 4.5kg"
+      },
+      {
+        "label": "Installation Environment  ",
+        "value": "Indoor"
+      },
+      {
+        "label": "Fingerprint Capture Types  ",
+        "value": "Single-finger scrolling collection, single-finger flat stamping, four-finger flat collection, two thumb flat collection"
+      },
+      {
+        "label": "Facial Capture Range (height)  ",
+        "value": "1.4 (±0.2) ~ 1.9(±0.2)m"
+      },
+      {
+        "label": "Size  ",
+        "value": "218mm*242mm*370mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Ukuran Layar  ",
+        "value": "10,1\""
+      },
+      {
+        "label": "Tegangan Input  ",
+        "value": "AC 220V±10% 50Hz±5%"
+      },
+      {
+        "label": "Konsumsi Daya Terukur  ",
+        "value": "100W"
+      },
+      {
+        "label": "Suhu Kerja  ",
+        "value": "-10°C~+50°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Suhu Penyimpanan  ",
+        "value": "-20°C~+60°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Kelembapan Relatif  ",
+        "value": "10%-90% RH"
+      },
+      {
+        "label": "Berat ",
+        "value": " 4,5 kg"
+      },
+      {
+        "label": "Lingkungan Pemasangan  ",
+        "value": "Dalam Ruangan"
+      },
+      {
+        "label": "Jenis Perekaman Sidik Jari",
+        "value": "Pengambilan gambar dengan satu jari, cap datar dengan satu jari, pengambilan gambar dengan empat jari, pengambilan gambar dengan dua ibu jari"
+      },
+      {
+        "label": "Jangkauan Perekaman Wajah (tinggi)  ",
+        "value": "1,4 (±0,2) ~ 1,9 (±0,2) m"
+      },
+      {
+        "label": "Ukuran  ",
+        "value": "218 mm*242 mm*370 mm"
       }
     ]
   },
@@ -200,6 +546,446 @@
     ]
   },
   {
+    "id": "6f736cd8-6590-4266-b050-b5b29be087cf",
+    "product_id": "4d286693-a6d3-4f8f-ae03-dc8f4bbc4507",
+    "introduction_en": "Multi-Biometric Capture Terminal integrates ten-finger fingerprints capture, HD iris capture and visible light face capture functions. While performing fingerprint, iris, and face capture, it can realize the rapid capture and verification of multiple biometric information of passengers. The device is characterized by its small size and flexible placement, and is widely applied in high-security areas such as airports, ports, police stations, and border checkpoints where personnel biometric data capture and identity verification are required.",
+    "introduction_id": "Terminal Pengambilan Multi-Biometrik mengintegrasikan fungsi pengambilan sidik jari sepuluh jari, pengambilan iris HD, dan pengambilan wajah dengan cahaya tampak. Sambil melakukan pengambilan sidik jari, iris, dan wajah, perangkat ini dapat melakukan pengambilan dan verifikasi berbagai informasi biometrik penumpang dengan cepat. Perangkat ini dicirikan oleh ukurannya yang kecil dan penempatannya yang fleksibel, dan banyak digunakan di area dengan keamanan tinggi seperti bandara, pelabuhan, kantor polisi, dan pos pemeriksaan perbatasan yang memerlukan pengambilan data biometrik personel dan verifikasi identitas.",
+    "features_en": [
+      "Multiple Fingerprints Capture",
+      "Non-sensing Face Information Capture",
+      "HD Iris Capture",
+      "Automatic Swinging Mechanism"
+    ],
+    "features_id": [
+      "Perekaman Sidik Jari Ganda",
+      "Penangkapan Informasi Wajah Tanpa Sensor",
+      "Penangkapan Iris HD",
+      "Mekanisme Pengayun Otomatis"
+    ],
+    "parameter_en": [
+      {
+        "label": "Screen Size  ",
+        "value": "10.1\""
+      },
+      {
+        "label": "Input Voltage  ",
+        "value": "AC 220V±10% 50Hz±5%"
+      },
+      {
+        "label": "Working Temperature  ",
+        "value": "-10°C-+50°C (Indoor)"
+      },
+      {
+        "label": "Storage Temperature  ",
+        "value": "-20°C-+60°C (Indoor)"
+      },
+      {
+        "label": "Relative Humidity  ",
+        "value": "10%-90%RH"
+      },
+      {
+        "label": "Weight  ",
+        "value": "4.5kg"
+      },
+      {
+        "label": "Installation Environment ",
+        "value": " Indoor"
+      },
+      {
+        "label": "Fingerprint Capture Types",
+        "value": "Single-finger scrolling capture, single-finger flat stamping, four-finger flat capture, two thumb flat capture"
+      },
+      {
+        "label": "Recognition and Acquisition Distance  ",
+        "value": "Iris: 30cm~70cm, face: 0.3m~2m"
+      },
+      {
+        "label": "Acquisition Speed  ",
+        "value": "Iris <1s, face <0.5s"
+      },
+      {
+        "label": "Equipment Size  ",
+        "value": "218mm*242mm*370mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Ukuran Layar  ",
+        "value": "10,1\""
+      },
+      {
+        "label": "Tegangan Input  ",
+        "value": "AC 220V±10% 50Hz±5%"
+      },
+      {
+        "label": "Suhu Kerja  ",
+        "value": "-10°C-+50°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Suhu Penyimpanan  ",
+        "value": "-20°C-+60°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Kelembapan Relatif  ",
+        "value": "10%-90%RH"
+      },
+      {
+        "label": "Berat",
+        "value": "4,5 kg"
+      },
+      {
+        "label": "Lingkungan Pemasangan  ",
+        "value": "Dalam Ruangan"
+      },
+      {
+        "label": "Jenis Pengambilan Sidik Jari",
+        "value": "Pengambilan dengan satu jari, satu jari datar, pengambilan dengan empat jari datar, pengambilan dengan dua ibu jari datar"
+      },
+      {
+        "label": "Jarak Pengenalan dan Akuisisi",
+        "value": "Iris: 30 cm~70 cm, muka: 0,3 m~2 m"
+      },
+      {
+        "label": "Kecepatan Akuisisi  ",
+        "value": "Iris <1 detik, muka <0,5 detik"
+      },
+      {
+        "label": "Ukuran Peralatan  ",
+        "value": "218 mm*242 mm*370 mm"
+      }
+    ]
+  },
+  {
+    "id": "7ccd0caa-3666-4fdd-a867-d1bb5799fc46",
+    "product_id": "2546270d-7195-4975-afde-d032316226cc",
+    "introduction_en": "Palmprint and Palm-vein Capture Terminal uses infrared imaging technology, paired with a HD binocular camera and a high-performance processor. It is equipped with a self-developed Al palm vein recognition algorithm, enabling palm printpalm vein capture, registration, and recognition, while outputting high-quality feature capture images. This terminal has many significant advantages such as extremely high security, non-contact capture and recognition, liveness detection, low-power consumption application, closed-loop AE, and palmprint/palm-vein capture. It is widely applicable in scenarios srequiring personnel access control, identity authentication, smart payment, and more.",
+    "introduction_id": "Terminal Pengambilan Sidik Jari dan Vena Telapak Tangan menggunakan teknologi pencitraan inframerah, yang dipadukan dengan kamera binokular HD dan prosesor berkinerja tinggi. Terminal ini dilengkapi dengan algoritma pengenalan urat telapak tangan AI yang dikembangkan sendiri, yang memungkinkan pengambilan, registrasi, dan pengenalan sidik jari/vena telapak tangan, sekaligus menghasilkan gambar tangkapan fitur berkualitas tinggi. Terminal ini memiliki banyak keunggulan signifikan seperti keamanan yang sangat tinggi, pengambilan dan pengenalan tanpa kontak, deteksi keaktifan, aplikasi dengan konsumsi daya rendah, AE loop tertutup, dan pengambilan sidik jari/vena telapak tangan. Terminal ini dapat digunakan secara luas dalam skenario yang memerlukan kontrol akses personel, autentikasi identitas, pembayaran pintar, dan lainnya.",
+    "features_en": [
+      "High-speed Authentication",
+      "Non-contact Capture",
+      "Offset Capture",
+      "Wet Hand Recognition",
+      "Recognizable in Water Mist Environment",
+      "High-quality Image Capture"
+    ],
+    "features_id": [
+      "Autentikasi Kecepatan Tinggi",
+      "Pengambilan Gambar Tanpa Kontak",
+      "Pengambilan Gambar Offset",
+      "Pengenalan Tangan Basah",
+      "Dapat Dikenali di Lingkungan Kabut Air",
+      "Pengambilan Gambar Berkualitas Tinggi"
+    ],
+    "parameter_en": [
+      {
+        "label": "Palm Vein Recognition Accuracy  ",
+        "value": "FRR<1%,When FAR<0.01%"
+      },
+      {
+        "label": "Operating System  ",
+        "value": "Windows, Linux, Android"
+      },
+      {
+        "label": "Communication Interface  ",
+        "value": "USB2.0"
+      },
+      {
+        "label": "Power Supply  ",
+        "value": "DC 5V/1A (Type-C)"
+      },
+      {
+        "label": "Power Consumption ",
+        "value": " <5W"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-20°C~+70°C"
+      },
+      {
+        "label": "Storage Temperature  ",
+        "value": "-30°C~+70°C"
+      },
+      {
+        "label": "Operation Environment ",
+        "value": " Indoor"
+      },
+      {
+        "label": "IP Rating  ",
+        "value": "IP54"
+      },
+      {
+        "label": "Installation ",
+        "value": " Embedded or Desktop Mounted"
+      },
+      {
+        "label": "Size  ",
+        "value": "Ø60*20.5 mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Akurasi Pengenalan Vena Telapak Tangan  ",
+        "value": "FRR<1%, FAR<0,01%"
+      },
+      {
+        "label": "Sistem Operasi ",
+        "value": " Windows, Linux, Android"
+      },
+      {
+        "label": "Antarmuka Komunikasi  ",
+        "value": "USB2.0"
+      },
+      {
+        "label": "Catu Daya  ",
+        "value": "DC 5V/1A (Tipe-C)"
+      },
+      {
+        "label": "Konsumsi Daya ",
+        "value": " <5W"
+      },
+      {
+        "label": "Suhu Operasi  ",
+        "value": "-20°C~+70°C"
+      },
+      {
+        "label": "Suhu Penyimpanan  ",
+        "value": "-30°C~+70°C"
+      },
+      {
+        "label": "Lingkungan Operasi  ",
+        "value": "Dalam Ruangan"
+      },
+      {
+        "label": "Peringkat IP  ",
+        "value": "IP54"
+      },
+      {
+        "label": "Pemasangan  ",
+        "value": "Tertanam atau Terpasang di Desktop"
+      },
+      {
+        "label": "Ukuran  ",
+        "value": "Ø60*20,5 mm"
+      }
+    ]
+  },
+  {
+    "id": "900235a8-ad96-4453-b9de-1e112ea8e63d",
+    "product_id": "9bcfd033-bc69-463c-9b61-4a46571a4689",
+    "introduction_en": "Maxvision Travel Document Reader is able to accurately verify the travel documents of more than 200 countries and regions around the world. It can quickly and accurately identify all kinds of document data page information with industry-leading image processing, OCR text recognition, deep learning and chip reading authentication technologies. Meanwhile, it supports automatic document classification, portrait extraction and cropping, machine readable code analysis, portrait comparison and personal information comparison and identification, offline identification, etc. The product can be customised and developed according to the user's needs, and it is widely used in all kinds of hotels, ports, border checkpoints, customs, banks, airlines and other places of control and management of personnel authentication.",
+    "introduction_id": "Maxvision Travel Document Reader mampu memverifikasi dokumen perjalanan lebih dari 200 negara dan wilayah di seluruh dunia secara akurat. Perangkat ini dapat mengidentifikasi semua jenis informasi halaman data dokumen dengan cepat dan akurat menggunakan pemrosesan gambar terdepan di industri, pengenalan teks OCR, pembelajaran mendalam, dan teknologi autentikasi pembacaan chip. Selain itu, perangkat ini mendukung klasifikasi dokumen otomatis, ekstraksi dan pemotongan potret, analisis kode yang dapat dibaca mesin, perbandingan potret, perbandingan dan identifikasi informasi pribadi, identifikasi offline, dan sebagainya. Produk ini dapat dikustomisasi dan dikembangkan sesuai kebutuhan pengguna, dan banyak digunakan di berbagai hotel, pelabuhan, pos pemeriksaan perbatasan, bea cukai, bank, maskapai penerbangan, dan tempat-tempat lain yang mengontrol dan mengelola autentikasi personel.",
+    "features_en": [
+      "Wide Range of Card Reading Types",
+      "Compatible With AB",
+      "Multi-spectral Imaging",
+      "Document Reading in Seconds-level",
+      "InstantIdentification of Document Authenticity",
+      "Supporting Optical Authentication",
+      "Flexible Selection of Installation",
+      "Methods to Meet Use in Multiple Scenarios"
+    ],
+    "features_id": [
+      "Beragam Jenis Pembacaan Kartu",
+      "Kompatibel dengan AB",
+      "Pencitraan Multispektral",
+      "Pembacaan Dokumen dalam Hitungan Detik",
+      "Identifikasi Instan Keaslian Dokumen",
+      "Mendukung Autentikasi Optik",
+      "Pilihan Instalasi Fleksibel",
+      "Metode untuk Memenuhi Kegunaan dalam Berbagai Skenario"
+    ],
+    "parameter_en": [
+      {
+        "label": "Model  ",
+        "value": "MV-PV85-A*"
+      },
+      {
+        "label": "Sensor  ",
+        "value": "1200W"
+      },
+      {
+        "label": "Power Connector  ",
+        "value": "Type-C / DC"
+      },
+      {
+        "label": "Communication Interface  ",
+        "value": "USB3.0 Type-C1"
+      },
+      {
+        "label": "Operation Environment",
+        "value": "Operating Temperature: -20°C~+60°C; Operating Humidity: 10%RH-95%RH"
+      },
+      {
+        "label": "Protection Class  ",
+        "value": "IP64"
+      },
+      {
+        "label": "ID Card Recognition  ",
+        "value": "Optional"
+      },
+      {
+        "label": "Installation Method ",
+        "value": " Embedded"
+      },
+      {
+        "label": "Size  ",
+        "value": "169*142*64mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Model  ",
+        "value": "MV-PV85-A*"
+      },
+      {
+        "label": "Sensor  ",
+        "value": "1200W"
+      },
+      {
+        "label": "Konektor Daya  ",
+        "value": "Tipe-C / DC"
+      },
+      {
+        "label": "Antarmuka Komunikasi  ",
+        "value": "USB3.0 Tipe-C1"
+      },
+      {
+        "label": "Lingkungan Operasi",
+        "value": "Suhu Operasi: -20°C~+60°C; Kelembapan Operasi: 10%RH-95%RH"
+      },
+      {
+        "label": "Kelas Perlindungan  ",
+        "value": "IP64"
+      },
+      {
+        "label": "Pengenalan Kartu ID  ",
+        "value": "Opsional"
+      },
+      {
+        "label": "Metode Pemasangan ",
+        "value": " Tertanam"
+      },
+      {
+        "label": "Ukuran  ",
+        "value": "169*142*64mm"
+      }
+    ]
+  },
+  {
+    "id": "981de906-0b83-4733-93d2-c42ff250c3d8",
+    "product_id": "2d48ae28-b2e6-4e22-ac9a-4f3bf59d68b2",
+    "introduction_en": "Palm Vein Recognition Terminal is a biometric identification terminal based on Linux operating system launched by Maxvision. It uses infrared imaging technology and integrates visual and optical technology to obtain the palm vein image accurately. It is equipped with a self-developed Al recognition algorithm to achieve high-security biometric identification. This terminal has many significant advantages such as extremely high security, non-contact identification, live detection, strong anti-interference ability, and high identification accuracy. It can be integrated into access control systems, gate channels, and various self-service terminals to provide users with a convenient and safe identity authentication experience.",
+    "introduction_id": "Terminal Pengenalan Vena Telapak Tangan adalah terminal identifikasi biometrik berbasis sistem operasi Linux yang diluncurkan oleh Maxvision. Terminal ini menggunakan teknologi pencitraan inframerah dan mengintegrasikan teknologi visual dan optik untuk mendapatkan citra vena telapak tangan secara akurat. Dilengkapi dengan algoritma pengenalan AI yang dikembangkan sendiri untuk mencapai identifikasi biometrik dengan keamanan tinggi. Terminal ini memiliki banyak keunggulan signifikan seperti keamanan yang sangat tinggi, identifikasi tanpa kontak, deteksi langsung, kemampuan anti-interferensi yang kuat, dan akurasi identifikasi yang tinggi. Terminal ini dapat diintegrasikan ke dalam sistem kontrol akses, kanal gerbang, dan berbagai terminal swalayan untuk memberikan pengalaman otentikasi identitas yang nyaman dan aman bagi pengguna.",
+    "features_en": [
+      "High-speed Authentication",
+      "Recognizable in Water Mist Environment",
+      "Recognizable with Offset",
+      "Backlight Recognition",
+      "Normal Recognition of Wet Hands",
+      "Uniqueness of Identification Characteristics"
+    ],
+    "features_id": [
+      "Autentikasi Berkecepatan Tinggi",
+      "Dapat Dikenali di Lingkungan Kabut Air",
+      "Dapat Dikenali dengan Offset",
+      "Pengenalan Cahaya Latar",
+      "Pengenalan Normal Tangan Basah",
+      "Keunikan Karakteristik Identifikasi"
+    ],
+    "parameter_en": [
+      {
+        "label": "Screen  ",
+        "value": "5\" Touch Screen"
+      },
+      {
+        "label": "Operating System  ",
+        "value": "Linux"
+      },
+      {
+        "label": "Recognition Distance  ",
+        "value": "10~20cm"
+      },
+      {
+        "label": "Recognition Accuracy  ",
+        "value": "FAR≤0.0001%, FRR≤0.4%"
+      },
+      {
+        "label": "Operating Voltage ",
+        "value": " DC 12V/2A"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-20°C~+60°C"
+      },
+      {
+        "label": "Storage Temperature  ",
+        "value": "-30°C~+70°C"
+      },
+      {
+        "label": "IP Rating ",
+        "value": "IP56"
+      },
+      {
+        "label": "Operating Environment  ",
+        "value": "Indoor/Outdoor"
+      },
+      {
+        "label": "Installation  ",
+        "value": "Wall-mounted"
+      },
+      {
+        "label": "Size  ",
+        "value": "171*90*23mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Layar ",
+        "value": " Layar Sentuh 5\""
+      },
+      {
+        "label": "Sistem Operasi  ",
+        "value": "Linux"
+      },
+      {
+        "label": "Jarak Pengenalan  ",
+        "value": "10~20 cm"
+      },
+      {
+        "label": "Akurasi Pengenalan  ",
+        "value": "FAR≤0,0001%, FRR≤0,4%"
+      },
+      {
+        "label": "Tegangan Operasi  ",
+        "value": "DC 12V/2A"
+      },
+      {
+        "label": "Suhu Operasi  ",
+        "value": "-20°C~+60°C"
+      },
+      {
+        "label": "Suhu Penyimpanan  ",
+        "value": "-30°C~+70°C"
+      },
+      {
+        "label": "Peringkat IP  ",
+        "value": "IP56"
+      },
+      {
+        "label": "Lingkungan Operasi  ",
+        "value": "Dalam/Luar Ruangan"
+      },
+      {
+        "label": "Pemasangan  ",
+        "value": "Terpasang di Dinding"
+      },
+      {
+        "label": "Ukuran  ",
+        "value": "171*90*23mm"
+      }
+    ]
+  },
+  {
     "id": "9a116aea-3a6e-43e7-99ca-d52bfc437b85",
     "product_id": "ed1fccd3-d6a5-4fdf-8da7-d1b78d97192b",
     "introduction_en": "Maxvision Facial Recognition Terminal adopts integrated tempered glass panel shield design, equipped with 5-inch IPS HD display touch screen, which can be employed in nearly every entrance/exit where identity authentication and access control is needed. Functioning face-covering attribute detection, liveness detection, this device can recognize or verify visitors' identity using face, password, card, and other combinations swiftly, accurately, and reliably.",
@@ -286,6 +1072,414 @@
       {
         "label": "Ukuran",
         "value": "171*90*23mm"
+      }
+    ]
+  },
+  {
+    "id": "b33f48fd-adf5-423e-91cc-f5fe7f7cc85e",
+    "product_id": "2c009557-1530-4344-a5a4-acd8d26a5bf4",
+    "introduction_id": "Maxvision E-gate dirancang dengan profil aluminium + kaca tempered dengan transparansi tinggi, yang tahan lama dan tahan korosi. Dilengkapi dengan lalu lintas dua arah, anti-jepit cerdas, petunjuk panduan, dan fungsi lainnya; dilengkapi dengan pengenalan wajah, penggesekan kartu IC, kode QR, dan buka-tutup pintu jarak jauh. Modul fungsional seperti ini menerapkan berbagai metode akses autentikasi. Peralatan ini memiliki integrasi cerdas yang tinggi dan stabilitas yang kuat, serta cocok untuk berbagai tempat kontrol autentikasi identitas pintu masuk dan keluar.",
+    "introduction_en": "Maxvision E-gate is designed with aluminum profile + high-transparency tempered glass, which is durable and corrosion-resistant. It has two-way traffic, intelligent anti-pinch, guidance prompts and other functions; it is equipped with face recognition, IC card swiping, QR code, and remote door opening and closing. Functional modules such as these implement multiple authentication access methods. The equipment has high intelligent integration and strong stability, and is suitable for various entrance and exit identity authentication control places.",
+    "features_en": [
+      "Extra Long Service Life",
+      "The Light Curtain is Equipped with a Self-developed Rain-proof Algorithm",
+      "Remote Control",
+      "Unattended",
+      "Channel Status Can be Remotely Viewed and Traced"
+    ],
+    "features_id": [
+      "Masa Pakai Ekstra Panjang",
+      "Tirai Lampu Dilengkapi dengan Algoritma Tahan Hujan yang Dikembangkan Sendiri",
+      "Remote Control",
+      "Tanpa Pengawasan",
+      "Status Saluran Dapat Dilihat dan Dilacak dari Jarak Jauh"
+    ],
+    "parameter_en": [
+      {
+        "label": "Opening/Closing Time  ",
+        "value": "≤1S (Adjustable)"
+      },
+      {
+        "label": "Noise  ",
+        "value": "≤ 40dB"
+      },
+      {
+        "label": "MCBF ",
+        "value": "≥ 20M"
+      },
+      {
+        "label": "Communication Interface  ",
+        "value": "TCP/IP"
+      },
+      {
+        "label": "Operating Voltage  ",
+        "value": "AC 90~264V, 47~63Hz"
+      },
+      {
+        "label": "Screen Size ",
+        "value": " 8\" HD IPS screen"
+      },
+      {
+        "label": "Face Recognition Accuracy  ",
+        "value": "FAR: 0.01%, Accuracy Rate: 99%"
+      },
+      {
+        "label": "Usage Environment  ",
+        "value": "Outdoor/Indoor"
+      },
+      {
+        "label": "Movement Style  ",
+        "value": "Swing Gate"
+      },
+      {
+        "label": "Channel Width ",
+        "value": " 600~1200mm"
+      },
+      {
+        "label": "Size  ",
+        "value": "L*W*H=1500*150*1000mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Waktu Buka/Tutup  ",
+        "value": "≤1 Detik (Dapat Disesuaikan)"
+      },
+      {
+        "label": "Kebisingan ",
+        "value": " ≤ 40 dB"
+      },
+      {
+        "label": "MCBF ",
+        "value": "≥ 20 M"
+      },
+      {
+        "label": "Antarmuka Komunikasi ",
+        "value": "TCP/IP"
+      },
+      {
+        "label": "Tegangan Operasi  ",
+        "value": "AC 90~264V, 47~63Hz"
+      },
+      {
+        "label": "Ukuran Layar  ",
+        "value": "Layar IPS HD 8\""
+      },
+      {
+        "label": "Akurasi Pengenalan Wajah ",
+        "value": " FAR: 0,01%, Tingkat Akurasi: 99%"
+      },
+      {
+        "label": "Lingkungan Penggunaan  ",
+        "value": "Luar Ruangan/Dalam Ruangan"
+      },
+      {
+        "label": "Gaya Pergerakan  ",
+        "value": "Pintu Ayun"
+      },
+      {
+        "label": "Lebar Saluran  ",
+        "value": "600~1200 mm"
+      },
+      {
+        "label": "Ukuran  ",
+        "value": "P*L*T=1500*150*1000 mm"
+      }
+    ]
+  },
+  {
+    "id": "b69344e9-3681-4f93-b411-7f3a79f6f070",
+    "product_id": "0c310b9b-3946-410e-9b6a-98c63bfa7937",
+    "introduction_en": "Maxvision Travel Document Reader-B is able to accurately verify the travel documents of more than 200 countries and regions around the world. It can quickly and accurately identify all kinds of document data page information with industry-leading image processing, OCR text recognition, deep learning and chip reading authentication technologies. Meanwhile, it supports automatic document classification, portrait extraction and cropping, machine readable code analysis, portrait comparison and personal information comparison and identification, offline identification, etc. The product can be customised and developed according to the user's needs, and it is widely used in all kinds of hotels, ports, border checkpoints, customs, banks, airlines and other places of control and management of personnel authentication.",
+    "introduction_id": "Maxvision Travel Document Reader-B mampu memverifikasi dokumen perjalanan lebih dari 200 negara dan wilayah di seluruh dunia secara akurat. Perangkat ini dapat mengidentifikasi semua jenis informasi halaman data dokumen dengan cepat dan akurat menggunakan pemrosesan gambar terdepan di industri, pengenalan teks OCR, pembelajaran mendalam, dan teknologi autentikasi pembacaan chip. Selain itu, perangkat ini mendukung klasifikasi dokumen otomatis, ekstraksi dan pemotongan potret, analisis kode yang dapat dibaca mesin, perbandingan potret, perbandingan dan identifikasi informasi pribadi, identifikasi offline, dan sebagainya. Produk ini dapat dikustomisasi dan dikembangkan sesuai kebutuhan pengguna, dan banyak digunakan di berbagai hotel, pelabuhan, pos pemeriksaan perbatasan, bea cukai, bank, maskapai penerbangan, dan tempat-tempat lain yang mengontrol dan mengelola autentikasi personel.",
+    "features_en": [
+      "Wide Range of Card Reading Types",
+      "Compatible With AB",
+      "Multi-spectral Imaging",
+      "Document Reading in Seconds-level",
+      "Instant Identification of Document Authenticit",
+      "Supporting Optical Authentication",
+      "Flexible Selection of Installation",
+      "Methods to Meet Use in Multiple Scenarios"
+    ],
+    "features_id": [
+      "Beragam Jenis Pembacaan Kartu",
+      "Kompatibel dengan AB",
+      "Pencitraan Multispektral",
+      "Pembacaan Dokumen dalam Hitungan Detik",
+      "Identifikasi Instan Keaslian Dokumen",
+      "Mendukung Autentikasi Optik",
+      "Pilihan Instalasi Fleksibel",
+      "Metode untuk Memenuhi Kegunaan dalam Berbagai Skenario"
+    ],
+    "parameter_en": [
+      {
+        "label": "Model  ",
+        "value": "MV-PV85-B*"
+      },
+      {
+        "label": "Sensor  ",
+        "value": "1200W"
+      },
+      {
+        "label": "Power Connector  ",
+        "value": "Type-C/DC"
+      },
+      {
+        "label": "Communication Interface  ",
+        "value": "USB3.0 Type-C 1"
+      },
+      {
+        "label": "Operation Environment",
+        "value": "Operating Temperature: -20°C~+60°C Operating Humidity: 10%RH~95%RH"
+      },
+      {
+        "label": "Protection Class  ",
+        "value": "IP50"
+      },
+      {
+        "label": "ID Card Recognition  ",
+        "value": "Optional"
+      },
+      {
+        "label": "Installation Method  ",
+        "value": "Desktop"
+      },
+      {
+        "label": "Size  ",
+        "value": "186*156*129mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Model  ",
+        "value": "MV-PV85-B*"
+      },
+      {
+        "label": "Sensor  ",
+        "value": "1200W"
+      },
+      {
+        "label": "Konektor Daya  ",
+        "value": "Tipe-C/DC"
+      },
+      {
+        "label": "Antarmuka Komunikasi  ",
+        "value": "USB3.0 Tipe-C 1"
+      },
+      {
+        "label": "Lingkungan Operasi",
+        "value": "Suhu Operasi: -20°C~+60°C Kelembapan Operasi: 10%RH~95%RH"
+      },
+      {
+        "label": "Kelas Perlindungan ",
+        "value": " IP50"
+      },
+      {
+        "label": "Pengenalan Kartu ID ",
+        "value": " Opsional"
+      },
+      {
+        "label": "Metode Pemasangan  ",
+        "value": "Desktop"
+      },
+      {
+        "label": "Ukuran  ",
+        "value": "186*156*129mm"
+      }
+    ]
+  },
+  {
+    "id": "bdfd0b57-b8d8-4ef5-9cce-de52c56baa2f",
+    "product_id": "8e7e98f2-537f-4277-a7d7-9165cb672a2d",
+    "introduction_en": "Palm Vein Capture Terminal, combining with self-developed Al algorithms and applications from visual, optical, and biological science to achieve ultra-high security levels in biometric identification. This terminal has many significant advantages such as safety and reliability, non-contact recognition, liven detection, and driverless operation. It can be integrated into systems such as E-gate and self-service terminals, and is widely used in scenarios that require personnel access control, identity verification, and smart payments.",
+    "introduction_id": "Terminal Penangkap Vena Telapak Tangan (Palmein Vein Capture Terminal), yang dipadukan dengan algoritma AI yang dikembangkan sendiri dan aplikasi dari ilmu visual, optik, dan biologi, mencapai tingkat keamanan yang sangat tinggi dalam identifikasi biometrik. Terminal ini memiliki banyak keunggulan signifikan seperti keamanan dan keandalan, pengenalan tanpa kontak, deteksi denyut nadi, dan pengoperasian tanpa pengemudi. Terminal ini dapat diintegrasikan ke dalam sistem seperti E-gate dan terminal swalayan, dan banyak digunakan dalam skenario yang memerlukan kontrol akses personel, verifikasi identitas, dan pembayaran pintar.",
+    "features_en": [
+      "High-speed Authentication",
+      "Recognizable with Offset",
+      "Normal Recognition of Wet Hands",
+      "Recognizable in Water Mist Environment",
+      "Uniqueness of Identification Characteristics",
+      "Authentication Security is Extremely High",
+      ""
+    ],
+    "features_id": [
+      "Autentikasi Berkecepatan Tinggi",
+      "Dapat Dikenali dengan Offset",
+      "Pengenalan Normal Tangan Basah",
+      "Dapat Dikenali di Lingkungan Kabut Air",
+      "Keunikan Karakteristik Identifikasi",
+      "Keamanan Autentikasi Sangat Tinggi",
+      ""
+    ],
+    "parameter_en": [
+      {
+        "label": "Palm Vein Recognition Accuracy  ",
+        "value": "Rejection rate <0.4% when false positive rate <0.01%"
+      },
+      {
+        "label": "Operating System  ",
+        "value": "Windows, Linux, Android"
+      },
+      {
+        "label": "Communication Interface  ",
+        "value": "USB2.0, TYPE-C"
+      },
+      {
+        "label": "Power Supply  ",
+        "value": "USB 5V Power Supply, Maximum Input Current 500mA"
+      },
+      {
+        "label": "Power Consumption  ",
+        "value": "<2W"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-10°C~+55°C"
+      },
+      {
+        "label": "Working Humidity  ",
+        "value": "20%RH~90%RH"
+      },
+      {
+        "label": "Operation Environment",
+        "value": "Indoor"
+      },
+      {
+        "label": "Installation  ",
+        "value": "Wall-Mounted or Desktop Mounted"
+      },
+      {
+        "label": "Size ",
+        "value": " 32*32*19mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Akurasi Pengenalan Vena Telapak Tangan  ",
+        "value": "Tingkat penolakan <0,4% ketika tingkat positif palsu <0,01%"
+      },
+      {
+        "label": "Sistem Operasi  ",
+        "value": "Windows, Linux, Android"
+      },
+      {
+        "label": "Antarmuka Komunikasi  ",
+        "value": "USB2.0, TIPE-C"
+      },
+      {
+        "label": "Catu Daya  ",
+        "value": "Catu Daya USB 5V, Arus Input Maksimum 500mA"
+      },
+      {
+        "label": "Konsumsi Daya  ",
+        "value": "<2W"
+      },
+      {
+        "label": "Suhu Operasi  ",
+        "value": "-10°C~+55°C"
+      },
+      {
+        "label": "Kelembapan Kerja ",
+        "value": " 20%RH~90%RH"
+      },
+      {
+        "label": "Lingkungan Operasi",
+        "value": "Dalam Ruangan "
+      },
+      {
+        "label": "Pemasangan  ",
+        "value": "Dapat Dipasang di Dinding atau Desktop"
+      },
+      {
+        "label": "Ukuran ",
+        "value": " 32*32*19mm"
+      }
+    ]
+  },
+  {
+    "id": "cbee96ec-d250-4d49-9ffe-ac77ef1c2761",
+    "product_id": "1e536234-80b2-4996-bd7f-a6e8a58908b8",
+    "introduction_en": "Maxvision Palm Vein Capture Module is based on the Linux operating system. It uses near-infrared band imaging technology to obtain palm vein information. It also has a visible light camera to capture palmprint information. The module has functions such as palm print and palm vein input, image processing, feature comparison, storage, etc., and can be used in smart door locks, safes, access control, gates, robots self-service terminals and other equipment.",
+    "introduction_id": "Modul Perekam Vena Telapak Tangan Maxvision berbasis sistem operasi Linux. Modul ini menggunakan teknologi pencitraan pita inframerah dekat untuk mendapatkan informasi vena telapak tangan. Modul ini juga dilengkapi kamera cahaya tampak untuk merekam informasi sidik telapak tangan. Modul ini memiliki fungsi seperti input sidik telapak tangan dan vena telapak tangan, pemrosesan gambar, perbandingan fitur, penyimpanan, dll., dan dapat digunakan pada kunci pintu pintar, brankas, kontrol akses, gerbang, terminal swalayan robot, dan peralatan lainnya.",
+    "features_en": [
+      "Quick Unlock",
+      "Modular Appearance Design",
+      "Easy to Integrate",
+      "Recognizable with Offset",
+      "Normal Recognition of Wet Hands",
+      "Authentication Security is Extremely High",
+      "International Standard Interface",
+      "Quick Docking"
+    ],
+    "features_id": [
+      "Buka Kunci Cepat",
+      "Desain Tampilan Modular",
+      "Mudah Diintegrasikan",
+      "Dapat Dikenali dengan Offset",
+      "Pengenalan Normal untuk Tangan Basah",
+      "Keamanan Autentikasi Sangat Tinggi",
+      "Antarmuka Standar Internasional",
+      "Docking Cepat"
+    ],
+    "parameter_en": [
+      {
+        "label": "Identify Speed  ",
+        "value": "<1s"
+      },
+      {
+        "label": "Identify Distance  ",
+        "value": "5~20cm"
+      },
+      {
+        "label": "Power Input  ",
+        "value": "DC1.3~5.5V"
+      },
+      {
+        "label": "Power Consumption  ",
+        "value": "Peak Power Consumptions: 1.5W Standby Power Consumptions: 0.1W"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-20°C~+60°C"
+      },
+      {
+        "label": "Working Humidity  ",
+        "value": "10%~90%, No condensation"
+      },
+      {
+        "label": "Size  ",
+        "value": "Mainboard: 40mm*40mm*6.5mmModule: 28.0mm*10.0mm*14.0mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Identifikasi Kecepatan  ",
+        "value": "<1 detik"
+      },
+      {
+        "label": "Identifikasi Jarak  ",
+        "value": "5~20 cm"
+      },
+      {
+        "label": "Daya Masuk  ",
+        "value": "DC1,3~5,5 V"
+      },
+      {
+        "label": "Konsumsi Daya  ",
+        "value": "Konsumsi Daya Puncak: 1,5 W Konsumsi Daya Siaga: 0,1 W"
+      },
+      {
+        "label": "Suhu Operasional  ",
+        "value": "-20°C~+60°C"
+      },
+      {
+        "label": "Kelembapan Kerja  ",
+        "value": "10%~90%, Tanpa Kondensasi"
+      },
+      {
+        "label": "Ukuran",
+        "value": "Papan Utama: 40 mm*40 mm*6,5 mm Modul: 28,0 mm*10,0 mm*14,0 mm"
       }
     ]
   },
@@ -390,6 +1584,354 @@
       {
         "label": "Ukuran ",
         "value": " 310*175*41mm"
+      }
+    ]
+  },
+  {
+    "id": "e251abc2-3a4d-4e26-aa59-d82fa3632f62",
+    "product_id": "62778efc-4782-4e92-8a9a-78dd9e509fc6",
+    "introduction_en": "The Document Recognition Terminal is a portable inspection device built on a mobile platform, designed to support OCR recognition of travel documents such as passports, visas, seafarers' books, and ID cards that comply with the International Civil Aviation Organization (ICAO) 9303 standard. The device enables fast and accurate recognition of various document information, supporting features like automatic document classification, facial extraction and cropping, machine-readable code parsing, identity matching, and personal information verification.\nThe product utilizes RFID technology to read data from electronic document chips, including electronic photos, and supports on-site facial capture and comparison. It also supports the reading of IC and HID employee cards and offers functionality for historical record queries, data export, and real-time inspection data push.\nThe Document Recognition Terminal is ideal for applications in border control zones, quarantine areas, ports, and other scenarios that require mobile inspection. The compact and portable design, along with its comprehensive functionality, allows users to efficiently manage inspections in various regions, providing unified control over passengers, staff, and businesses. The product can integrate with immigration back-end systems for passenger identity and clearance verification, and is customizable to meet specific application requirements. It also offers an SDK package for quick integration into user platform systems.",
+    "introduction_id": "Terminal Pengenalan Dokumen (DRM) adalah perangkat inspeksi portabel berbasis platform seluler yang dirancang untuk mendukung pengenalan OCR dokumen perjalanan seperti paspor, visa, buku pelaut, dan kartu identitas yang memenuhi standar Organisasi Penerbangan Sipil Internasional (ICAO) 9303. Perangkat ini memungkinkan pengenalan berbagai informasi dokumen secara cepat dan akurat, mendukung fitur-fitur seperti klasifikasi dokumen otomatis, ekstraksi dan pemotongan wajah, penguraian kode yang dapat dibaca mesin, pencocokan identitas, dan verifikasi informasi pribadi.\nProduk ini menggunakan teknologi RFID untuk membaca data dari chip dokumen elektronik, termasuk foto elektronik, dan mendukung pengambilan dan perbandingan wajah di tempat. Produk ini juga mendukung pembacaan kartu karyawan IC dan HID serta menawarkan fungsionalitas untuk kueri catatan historis, ekspor data, dan pengiriman data inspeksi secara real-time.\nDRM ideal untuk aplikasi di zona kontrol perbatasan, area karantina, pelabuhan, dan skenario lain yang memerlukan inspeksi bergerak. Desainnya yang ringkas dan portabel, serta fungsionalitasnya yang komprehensif, memungkinkan pengguna untuk mengelola inspeksi secara efisien di berbagai wilayah, memberikan kendali terpadu atas penumpang, staf, dan bisnis. Produk ini dapat terintegrasi dengan sistem back-end imigrasi untuk verifikasi identitas dan izin penumpang, dan dapat disesuaikan untuk memenuhi persyaratan aplikasi tertentu. Produk ini juga menawarkan paket SDK untuk integrasi cepat ke dalam sistem platform pengguna.",
+    "features_en": [
+      "Fast Multi-Document Recognition",
+      "Supports Multiple Identity Matching",
+      "Immigration System Integration Capability",
+      "Adaptability to Various Scenarios",
+      "Customizable Security Systems",
+      "Wide Network Coverage"
+    ],
+    "features_id": [
+      "Pengenalan Multi-Dokumen yang Cepat",
+      "Mendukung Pencocokan Beberapa Identitas",
+      "Kemampuan Integrasi Sistem Imigrasi",
+      "Kemampuan Beradaptasi dengan Berbagai Skenario",
+      "Sistem Keamanan yang Dapat Disesuaikan",
+      "Cakupan Jaringan yang Luas"
+    ],
+    "parameter_en": [
+      {
+        "label": "Operating System",
+        "value": "  AndroidR Dual System"
+      },
+      {
+        "label": "Network  ",
+        "value": "5G, Dual-Band Wi-Fi, 802.11a/b/g/n/ac"
+      },
+      {
+        "label": "Mobile Features  ",
+        "value": "Fingerprint Recognition"
+      },
+      {
+        "label": "SIM Card  ",
+        "value": "Slot 1: Nano SIM; Slot 2: Micro SIM / Nano SIM (choose one)"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Sistem Operasi  ",
+        "value": "Sistem Ganda Android R"
+      },
+      {
+        "label": "Jaringan  ",
+        "value": "5G, Wi-Fi Dual-Band, 802.11a/b/g/n/ac"
+      },
+      {
+        "label": "Fitur Seluler  ",
+        "value": "Pengenalan Sidik Jari"
+      },
+      {
+        "label": "Kartu SIM  ",
+        "value": "Slot 1: Nano SIM; Slot 2: Micro SIM / Nano SIM (pilih salah satu)"
+      }
+    ]
+  },
+  {
+    "id": "e9a08465-ac87-4ecd-8ef3-be640f330b46",
+    "product_id": "c2e72bee-62fe-4a6a-85a1-0930ce0906ec",
+    "introduction_en": "Maxvision E-gate is designed with 304 stainless steel + high-transparency tempered glass, which is durable and corrosion-resistant. It has two-way traffic, inteligent anti-pinch, guidance prompts and other functions; it is equipped with face recognition, IC card swiping, QR code, and remote door opening and closing. Functional modules such as these implement multiple authentication access methods. The equipment has high intelligent integration and strong stability, and is suitable for various entrance and exit identity authentication control places",
+    "introduction_id": "Maxvision E-gate dirancang dengan baja tahan karat 304 + kaca tempered dengan transparansi tinggi, yang tahan lama dan tahan korosi. Dilengkapi dengan lalu lintas dua arah, anti-jepit cerdas, petunjuk panduan, dan fungsi lainnya; dilengkapi dengan pengenalan wajah, penggesekan kartu IC, kode QR, dan buka-tutup pintu jarak jauh. Modul fungsional seperti ini menerapkan berbagai metode akses autentikasi. Peralatan ini memiliki integrasi cerdas yang tinggi dan stabilitas yang kuat, serta cocok untuk berbagai tempat kontrol autentikasi identitas pintu masuk dan keluar.",
+    "features_en": [
+      "Super Impact Resistant",
+      "The Light Curtain is Equipped with a Self-developed Rain-proof Algorithm",
+      "Extra Long Service Life",
+      "304+316 High Quality Stainless Steel Design"
+    ],
+    "features_id": [
+      "Tahan Benturan Super",
+      "Tirai Cahaya Dilengkapi dengan Algoritma Tahan Hujan yang Dikembangkan Sendiri",
+      "Masa Pakai Ekstra Panjang",
+      "Desain Baja Tahan Karat 304+316 Berkualitas Tinggi"
+    ],
+    "parameter_en": [
+      {
+        "label": "Opening/Closing Time  ",
+        "value": "≤1S (Adjustable)"
+      },
+      {
+        "label": "Noise ",
+        "value": " ≤ 40dB"
+      },
+      {
+        "label": "MCBF  ",
+        "value": "≥ 20M"
+      },
+      {
+        "label": "Communication Interface  ",
+        "value": "TCP/P"
+      },
+      {
+        "label": "Operating Voltage  ",
+        "value": "AC 90-264V, 47~63HZ"
+      },
+      {
+        "label": "Screen Size  ",
+        "value": "8\" HD IPS screen"
+      },
+      {
+        "label": "Face Recognition Accuracy",
+        "value": "FAR: 0.01%, Accuracy Rate: 99%"
+      },
+      {
+        "label": "Usage Environment ",
+        "value": " Outdoor/Indoor"
+      },
+      {
+        "label": "Movement Style ",
+        "value": " Swing Gate"
+      },
+      {
+        "label": "Channel Width",
+        "value": "600~1200mm"
+      },
+      {
+        "label": "Size  ",
+        "value": "L*W*H=1600*150*1000mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Waktu Buka/Tutup  ",
+        "value": "≤1 Detik (Dapat Disesuaikan)"
+      },
+      {
+        "label": "Kebisingan  ",
+        "value": "≤ 40 dB"
+      },
+      {
+        "label": "MCBF  ",
+        "value": "≥ 20 M"
+      },
+      {
+        "label": "Antarmuka Komunikasi  ",
+        "value": "TCP/P"
+      },
+      {
+        "label": "Tegangan Operasi  ",
+        "value": "AC 90-264V, 47~63HZ"
+      },
+      {
+        "label": "Ukuran Layar  ",
+        "value": "Layar IPS HD 8\""
+      },
+      {
+        "label": "Akurasi Pengenalan Wajah",
+        "value": " FAR: 0,01%, Tingkat Akurasi: 99%"
+      },
+      {
+        "label": "Lingkungan Penggunaan  ",
+        "value": "Luar Ruangan/Dalam Ruangan"
+      },
+      {
+        "label": "Gaya Pergerakan  ",
+        "value": "Pintu Ayun"
+      },
+      {
+        "label": "Lebar Saluran  ",
+        "value": "600~1200 mm"
+      },
+      {
+        "label": "Ukuran  ",
+        "value": "P*L*T=1600*150*1000 mm"
+      }
+    ]
+  },
+  {
+    "id": "ea86fc7a-0523-4449-be11-c2a843eedc8d",
+    "product_id": "d925155d-8e96-4173-b50b-2bfb3309ed76",
+    "introduction_en": "The Fingerprint Capture Device is a fully proprietary solution developed by Maxvision for high-accuracy ten-finger capture. Built with advanced optical and imaging technologies, it supports single-finger scans as well as full ten-finger acquisition, including flat impressions (4-4-2) and rolled prints.\nIt delivers reliable performance with features such as wet-finger detection, automatic four-finger segmentation, finger position recognition, and real-time quality feedback. The scanner produces clear images without glare or residual artifacts from repeated use, ensuring consistent results and a smooth user experience. Trusted by banks, social security agencies, law enforcement, immigration, and border control authorities, the device is designed for secure and efficient identity authentication in mission-critical environments.",
+    "introduction_id": "Perangkat Perekam Sidik Jari adalah solusi eksklusif yang dikembangkan oleh Maxvision untuk perekaman sepuluh jari dengan akurasi tinggi. Dibangun dengan teknologi optik dan pencitraan canggih, perangkat ini mendukung pemindaian satu jari serta akuisisi sepuluh jari secara penuh, termasuk cetakan datar (4-4-2) dan cetakan gulung.\nPerangkat ini memberikan kinerja yang andal dengan fitur-fitur seperti deteksi jari basah, segmentasi empat jari otomatis, pengenalan posisi jari, dan umpan balik kualitas secara real-time. Pemindai ini menghasilkan gambar yang jernih tanpa silau atau artefak sisa akibat penggunaan berulang, memastikan hasil yang konsisten dan pengalaman pengguna yang lancar. Dipercaya oleh bank, lembaga jaminan sosial, penegak hukum, imigrasi, dan otoritas kontrol perbatasan, perangkat ini dirancang untuk autentikasi identitas yang aman dan efisien di lingkungan yang sangat penting.",
+    "features_en": [
+      "Wet Fingerprint Recognition",
+      "Four-finger Image Segmentation",
+      "Finger Position Distinction",
+      "Quality Judgment and Feedback"
+    ],
+    "features_id": [
+      "Pengenalan Sidik Jari Basah",
+      "Segmentasi Gambar Empat Jari",
+      "Pembeda Posisi Jari",
+      "Penilaian Kualitas dan Umpan Balik"
+    ],
+    "parameter_en": [
+      {
+        "label": "Image resolution  ",
+        "value": "500DPI"
+      },
+      {
+        "label": "Communication Interfaces  ",
+        "value": "USB"
+      },
+      {
+        "label": "Input Voltage  ",
+        "value": "DC 5V"
+      },
+      {
+        "label": "Working Temperature  ",
+        "value": "-10°C~+50°C"
+      },
+      {
+        "label": "Storage Temperature  ",
+        "value": "-20°C~+60°C"
+      },
+      {
+        "label": "Relative Humidity  ",
+        "value": "10%~90%RH, Non-Condensation"
+      },
+      {
+        "label": "Working Environment  ",
+        "value": "Indoor"
+      },
+      {
+        "label": "Equipment Size  ",
+        "value": "L*W*H=159*135*119mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Resolusi Gambar ",
+        "value": "500DPI"
+      },
+      {
+        "label": "Antarmuka Komunikasi  ",
+        "value": "USB"
+      },
+      {
+        "label": "Tegangan Input  ",
+        "value": "DC 5V"
+      },
+      {
+        "label": "Suhu Kerja ",
+        "value": " -10°C~+50°C"
+      },
+      {
+        "label": "Suhu Penyimpanan  ",
+        "value": "-20°C~+60°C"
+      },
+      {
+        "label": "Kelembapan Relatif  ",
+        "value": "10%~90%RH, Non-Kondensasi"
+      },
+      {
+        "label": "Lingkungan Kerja  ",
+        "value": "Dalam Ruangan"
+      },
+      {
+        "label": "Ukuran Peralatan  ",
+        "value": "P*L*T=159*135*119mm"
+      }
+    ]
+  },
+  {
+    "id": "f7e16744-6341-4760-803b-e6df9b187843",
+    "product_id": "386b97af-1306-45f0-bd76-9f068b2f1b3d",
+    "introduction_en": "Maxvision Embedded Palm Vein Recognition Terminal adopts Al recognition technology, combined with scientific applications such as vision, optics, biology, etc., uses multi-band infrared imaging technology to obtain the palm vein distribution map of the palm, and performs biometric identification through a dedicated comparison algorithm to achieve ultra-high performance. The equipment has the advantages of safety and reliability, non-contact authentication, live detection, good anti-interference, and high accuracy. It can be embedded in access control, gates, self-service terminals andother systems, and is widely used by personnel in customs, border defense, seaports, communities, buildings access controlled premises etc..",
+    "introduction_id": "Terminal Pengenalan Vena Telapak Tangan Tertanam Maxvision mengadopsi teknologi pengenalan AI yang dipadukan dengan aplikasi ilmiah seperti penglihatan, optik, biologi, dll., menggunakan teknologi pencitraan inframerah multi-band untuk mendapatkan peta distribusi vena telapak tangan, dan melakukan identifikasi biometrik melalui algoritma perbandingan khusus untuk mencapai kinerja ultra-tinggi. Peralatan ini memiliki keunggulan keamanan dan keandalan, otentikasi non-kontak, deteksi langsung, anti-interferensi yang baik, dan akurasi tinggi. Terminal ini dapat diintegrasikan ke dalam kontrol akses, gerbang, terminal swalayan, dan sistem lainnya, serta banyak digunakan oleh petugas di bea cukai, pertahanan perbatasan, pelabuhan laut, komunitas, gedung dengan akses terkendali, dll.",
+    "features_en": [
+      "High-speed Authentication",
+      "All-angles Recognition",
+      "Recognizable with Offset",
+      "Normal Recognition of Wet Hands",
+      "Recognizable in Water Mist Environment",
+      "Backlight Recognition",
+      "Uniqueness of Identification Characteristics",
+      "Certified with a High Level of Security"
+    ],
+    "features_id": [
+      "Autentikasi Berkecepatan Tinggi",
+      "Pengenalan dari Semua Sudut",
+      "Dapat Dikenali dengan Offset",
+      "Pengenalan Normal untuk Tangan Basah",
+      "Dapat Dikenali di Lingkungan Berkabut Air",
+      "Pengenalan dengan Cahaya Latar",
+      "Keunikan Karakteristik Identifikasi",
+      "Tersertifikasi dengan Tingkat Keamanan Tinggi"
+    ],
+    "parameter_en": [
+      {
+        "label": "Device Appearance  ",
+        "value": "Integrated ABS Structure"
+      },
+      {
+        "label": "Palm Vein Recognition Accuracy  ",
+        "value": "Rejection Rate < 0.4% when False Positive Rate < 0.01%"
+      },
+      {
+        "label": "Operating voltage ",
+        "value": " DC 12V/2A"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-20°C-+60°C"
+      },
+      {
+        "label": "Working Humidity  ",
+        "value": "10%RH~95%RH"
+      },
+      {
+        "label": "Operation Environment  ",
+        "value": "Indoor"
+      },
+      {
+        "label": "Installation",
+        "value": "Embedded Standard 86 Bottom Box Mounting or Embedded Channel Mounting"
+      },
+      {
+        "label": "Size",
+        "value": "86*86*30mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Tampilan Perangkat  ",
+        "value": "Struktur ABS Terintegrasi"
+      },
+      {
+        "label": "Akurasi Pengenalan Vena Telapak Tangan ",
+        "value": " Tingkat Penolakan < 0,4% ketika Tingkat Positif Palsu < 0,01%"
+      },
+      {
+        "label": "Tegangan Operasi  ",
+        "value": "DC 12V/2A"
+      },
+      {
+        "label": "Suhu Operasi  ",
+        "value": "-20°C-+60°C"
+      },
+      {
+        "label": "Kelembapan Kerja  ",
+        "value": "10%RH~95%RH"
+      },
+      {
+        "label": "Lingkungan Operasi  ",
+        "value": "Dalam Ruangan"
+      },
+      {
+        "label": "Pemasangan",
+        "value": "Pemasangan Kotak Bawah Standar 86 Tertanam atau Pemasangan Saluran Tertanam"
+      },
+      {
+        "label": "Ukuran",
+        "value": "86*86*30mm"
       }
     ]
   }

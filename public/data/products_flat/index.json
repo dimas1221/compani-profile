@@ -1638,5 +1638,25 @@
       "wifi",
       "mqtt"
     ]
+  },
+  {
+    "id": "f96ee1fd-b93d-4756-af48-586eca42fcd6",
+    "name_en": "Intelligent Verification Terminal",
+    "name_id": "Terminal Verifikasi Cerdas",
+    "short_en": "This Intelligent Verification Terminal is built for secure, high-throughput identity verification in environments like airports, train stations, and border crossings",
+    "short_id": "Terminal Verifikasi Cerdas ini dirancang untuk verifikasi identitas yang aman dan berthroughput tinggi di lingkungan seperti bandara, stasiun kereta api, dan perlintasan perbatasan",
+    "desc_en": "This Intelligent Verification Terminal is built for secure, high-throughput identity verification in environments like airports, train stations, and border crossings. Combining advanced facial recognition with multi-document authentication, the terminal supports seamless validation of IDs, boarding passes, QR codes, and IC cards. With a dual-lens WDR camera and onboard image intelligence, it delivers fast, accurate recognition even in complex conditions-helping streamline passenger processing while maintaining a high level of security.",
+    "desc_id": "Terminal Verifikasi Cerdas ini dirancang untuk verifikasi identitas yang aman dan berthroughput tinggi di lingkungan seperti bandara, stasiun kereta api, dan perlintasan perbatasan. Menggabungkan pengenalan wajah canggih dengan autentikasi multi-dokumen, terminal ini mendukung validasi kartu identitas, boarding pass, kode QR, dan kartu IC yang lancar. Dilengkapi kamera WDR lensa ganda dan kecerdasan gambar terintegrasi, terminal ini memberikan pengenalan yang cepat dan akurat bahkan dalam kondisi kompleks—membantu menyederhanakan pemrosesan penumpang sekaligus menjaga tingkat keamanan yang tinggi.",
+    "main_category_id": "identity-auth",
+    "main_category_en": "Identity Authentication",
+    "main_category_id_name": "Otentikasi Identitas",
+    "sub_category_id": "fed07656-d99a-4885-8667-255ee6a71ab8",
+    "sub_category_en": "Visitor Management",
+    "sub_category_id_name": "Manajemen Pengunjung",
+    "image": "/images/uploads/ivt.png",
+    "compatibility": [
+      "wifi",
+      "mqtt"
+    ]
   }
 ]
