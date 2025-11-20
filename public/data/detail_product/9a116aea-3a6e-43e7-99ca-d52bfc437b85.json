@@ -1,0 +1,90 @@
+{
+  "id": "9a116aea-3a6e-43e7-99ca-d52bfc437b85",
+  "product_id": "ed1fccd3-d6a5-4fdf-8da7-d1b78d97192b",
+  "introduction_en": "Maxvision Facial Recognition Terminal adopts integrated tempered glass panel shield design, equipped with 5-inch IPS HD display touch screen, which can be employed in nearly every entrance/exit where identity authentication and access control is needed. Functioning face-covering attribute detection, liveness detection, this device can recognize or verify visitors' identity using face, password, card, and other combinations swiftly, accurately, and reliably.",
+  "introduction_id": "Terminal Pengenalan Wajah Maxvision mengadopsi desain pelindung panel kaca tempered terintegrasi, dilengkapi layar sentuh IPS HD 5 inci, yang dapat digunakan di hampir setiap pintu masuk/keluar yang memerlukan otentikasi identitas dan kontrol akses. Dilengkapi dengan deteksi atribut penutup wajah dan deteksi keaktifan, perangkat ini dapat mengenali atau memverifikasi identitas pengunjung menggunakan wajah, kata sandi, kartu, dan kombinasi lainnya dengan cepat, akurat, dan andal.",
+  "features_en": [
+    "Super Anti-interference Ability",
+    "Free Choice of Access Methods",
+    "High-speed Recognition",
+    "High Security for Visitor Management",
+    "Friendly Human-computer Interaction Design",
+    "Algorithm Leads"
+  ],
+  "features_id": [
+    "Kemampuan Anti-interferensi Super",
+    "Pilihan Metode Akses Bebas",
+    "Pengenalan Kecepatan Tinggi",
+    "Keamanan Tinggi untuk Manajemen Pengunjung",
+    "Desain Interaksi Manusia-Komputer yang Ramah",
+    "Algoritma Memimpin"
+  ],
+  "parameter_en": [
+    {
+      "label": "Screen Size",
+      "value": "5"
+    },
+    {
+      "label": "Screen",
+      "value": "HD Capacitance Screen"
+    },
+    {
+      "label": "Recognizable Distance",
+      "value": "0.2m~3m"
+    },
+    {
+      "label": "Working Environment",
+      "value": "Indoor/Outdoor (IP65)"
+    },
+    {
+      "label": "Installation",
+      "value": "Wall-Mounted, Desktop, Column"
+    },
+    {
+      "label": "Working Temperature",
+      "value": "-20°C~+60°C"
+    },
+    {
+      "label": "Working Voltage",
+      "value": "DC 12V/1A"
+    },
+    {
+      "label": "Size",
+      "value": "171*90*23mm"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Ukuran Layar",
+      "value": "5"
+    },
+    {
+      "label": "Layar",
+      "value": "Layar Kapasitansi HD"
+    },
+    {
+      "label": "Jarak yang Dapat Diakui",
+      "value": "0,2m~3m"
+    },
+    {
+      "label": "Lingkungan Kerja",
+      "value": "Dalam/Luar Ruangan (IP65)"
+    },
+    {
+      "label": "Pemasangan",
+      "value": "Terpasang di Dinding, Meja, Kolom"
+    },
+    {
+      "label": "Suhu Kerja",
+      "value": "-20°C~+60°C"
+    },
+    {
+      "label": "Tegangan Kerja",
+      "value": "DC 12V/1A"
+    },
+    {
+      "label": "Ukuran",
+      "value": "171*90*23mm"
+    }
+  ]
+}

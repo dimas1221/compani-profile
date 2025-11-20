@@ -1304,6 +1304,48 @@
               "image": "/images/uploads/traffic-incident-detection-algorithms.png",
               "name_en": "Traffic Incident Detection Algorithms",
               "short_id": "Didukung oleh pembelajaran mendalam dan analitik video, rangkaian Algoritma Deteksi Insiden Lalu Lintas secara akurat mengidentifikasi berbagai perilaku mengemudi abnormal dan peristiwa berisiko—termasuk parkir ilegal, mengemudi di jalur yang salah, kemacetan, dll."
+            },
+            {
+              "desc_id": "Algoritma Analisis Perilaku Personel memanfaatkan teknologi pembelajaran mendalam dan visi komputer untuk mengidentifikasi dan menganalisis perilaku manusia tertentu secara cerdas. Algoritma ini menyediakan pemantauan real-time terhadap perilaku abnormal di lingkungan seperti ruang publik, area komersial, dan pusat transportasi, yang memungkinkan respons cepat dan peringatan keamanan. Dengan mengidentifikasi perilaku seperti berkeliaran, memasuki batas wilayah, barang terbengkalai, berkumpul di kerumunan, berlari, jatuh, berkelahi, dan memanjat secara akurat, algoritma ini meningkatkan kemampuan keamanan dan pencegahan risiko. Algoritma ini banyak digunakan dalam pengawasan keamanan, gedung pintar, dan aplikasi keselamatan publik.",
+              "short_en": "Personnel Behavior Analysis Algorithms leverage deep learning and computer vision technologies to intelligently identify and analyze specific human behaviors",
+              "name_id": "Algoritma Analisis Perilaku Personel",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Personnel Behavior Analysis Algorithms leverage deep learning and computer vision technologies to intelligently identify and analyze specific human behaviors. These algorithms provide real-time monitoring of abnormal behaviors in environments such as public spaces, commercial areas, and transportation hubs, enabling rapid response and security alerts. By accurately identifying behaviors such as loitering, boundary intrusion, abandoned items, crowd gathering, running, falling, fighting, and climbing, these algorithms enhance security and risk prevention capabilities. They are widely used in security surveillance, smart buildings, and public safety applications.",
+              "id": "07d81923-0299-4eb2-b093-38f43884e4aa",
+              "image": "/images/uploads/personnel-bahavior-analysis-algorithms.png",
+              "name_en": "Personnel Bahavior Analysis Algorithms",
+              "short_id": "Algoritma Analisis Perilaku Personel memanfaatkan teknologi pembelajaran mendalam dan visi komputer untuk mengidentifikasi dan menganalisis perilaku manusia tertentu secara cerdas"
+            },
+            {
+              "desc_id": "Algoritma Pemantauan Keselamatan Operasional memanfaatkan visi komputer canggih dan teknologi pembelajaran mendalam, yang dirancang khusus untuk melindungi personel di lingkungan kerja berisiko tinggi. Algoritma ini menyediakan pemantauan waktu nyata dan pengenalan otomatis perilaku pekerja dan alat pelindung diri, memastikan kepatuhan terhadap peraturan keselamatan dan mengidentifikasi potensi bahaya dengan cepat. Banyak digunakan di sektor konstruksi, pertambangan, dan industri, algoritma ini secara signifikan mengurangi risiko insiden keselamatan dan meningkatkan efisiensi manajemen keselamatan di lokasi.",
+              "short_en": "Operational Safety Monitoring Algorithms leverage advanced computer vision and deep learning technologies, designed specifically to safeguard personnel in high-risk work environments",
+              "name_id": "Algoritma Pemantauan Keselamatan Operasional",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Operational Safety Monitoring Algorithms leverage advanced computer vision and deep learning technologies, designed specifically to safeguard personnel in high-risk work environments. These algorithms provide real-time monitoring and automatic recognition of worker behaviors and protective gear, ensuring compliance with safety regulations and promptly identifying potential hazards. Widely used in construction, mining, and industrial sectors, they significantly reduce the risk of safety incidents and enhance on-site safety management efficiency.",
+              "id": "da99ce22-934d-4900-9d48-f9a4cd0d8a64",
+              "image": "/images/uploads/operational-safety-monitoring-algorithms.png",
+              "name_en": "Operational Safety Monitoring Algorithms",
+              "short_id": "Algoritma Pemantauan Keselamatan Operasional memanfaatkan visi komputer canggih dan teknologi pembelajaran mendalam, yang dirancang khusus untuk melindungi personel di lingkungan kerja berisiko tinggi"
+            },
+            {
+              "desc_id": "Algoritma Pengenalan Personel menggabungkan teknologi pengenalan biometrik dan metode analisis data untuk mengidentifikasi dan menganalisis identitas, perilaku, dan kepadatan kerumunan individu secara akurat. Dengan memantau fitur biometrik, pola perilaku, dan pergerakan secara real-time, algoritma ini banyak digunakan di sektor keamanan, keselamatan publik, dan kota pintar, meningkatkan manajemen keamanan, pemantauan arus personel, dan kemampuan tanggap darurat.",
+              "short_en": "Personnel Recognition Algorithms combine biometric recognition technology and data analysis methods to accurately identify and analyze individuals' identities, behaviors, and crowd density",
+              "name_id": "Algoritma Pengenalan Personel",
+              "compatibility": [
+                "wifi",
+                "mqtt"
+              ],
+              "desc_en": "Personnel Recognition Algorithms combine biometric recognition technology and data analysis methods to accurately identify and analyze individuals' identities, behaviors, and crowd density. By monitoring real-time biometric features, behavioral patterns, and movement, these algorithms are widely applied in security, public safety, and smart city sectors, enhancing security management, personnel flow monitoring, and emergency response capabilities.",
+              "id": "ce9a19e4-9e60-4988-925a-220271e774dd",
+              "image": "/images/uploads/personnel-recognition-algorithms.png",
+              "name_en": "Personnel Recognition Algorithms",
+              "short_id": "Algoritma Pengenalan Personel menggabungkan teknologi pengenalan biometrik dan metode analisis data untuk mengidentifikasi dan menganalisis identitas, perilaku, dan kepadatan kerumunan individu secara akurat"
             }
           ]
         }

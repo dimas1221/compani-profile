@@ -1,0 +1,98 @@
+{
+  "id": "33062ed5-32d0-4117-90f7-9ce045c82d9e",
+  "product_id": "20df7aa6-3713-4723-a8a6-a53539e75039",
+  "introduction_en": "Maxvision Facial Recognition Terminal is designed with touch keys and integrated tempered glass panel protection, equipped with 8-inch IPS HD screen, which can be employed in nearly every entrance/exit where identity authentication and access control is needed. Functioning face-covering attribute detection, liveness detection, this device can recognize or verify visitors' identity using face, password, card, and other combinations swiftly, accurately, and reliably.",
+  "introduction_id": "Terminal Pengenalan Wajah Maxvision dirancang dengan tombol sentuh dan pelindung panel kaca tempered terintegrasi, dilengkapi layar IPS HD 8 inci, yang dapat digunakan di hampir setiap pintu masuk/keluar yang memerlukan otentikasi identitas dan kontrol akses. Dengan fungsi deteksi atribut penutup wajah dan deteksi keaktifan, perangkat ini dapat mengenali atau memverifikasi identitas pengunjung menggunakan wajah, kata sandi, kartu, dan kombinasi lainnya dengan cepat, akurat, dan andal.",
+  "features_en": [
+    "Super Anti-interference Ability",
+    "Free Choice of Access Methods",
+    "High-speed Recognition",
+    "High Security for Visitor Management",
+    "Friendly Human-computer Interaction Design",
+    "Algorithm Leads"
+  ],
+  "features_id": [
+    "186 / 5.000 Kemampuan Anti-interferensi Super",
+    "Pilihan Metode Akses Bebas",
+    "Pengenalan Kecepatan Tinggi",
+    "Keamanan Tinggi untuk Manajemen Pengunjung",
+    "Desain Interaksi Manusia-Komputer yang Ramah",
+    "Algoritma Memimpin"
+  ],
+  "parameter_en": [
+    {
+      "label": "Screen Size",
+      "value": "8"
+    },
+    {
+      "label": "Screen",
+      "value": "HD IPS Non-touch Screen"
+    },
+    {
+      "label": "Working Voltage",
+      "value": "DC 12V/1A"
+    },
+    {
+      "label": "Dual Camera",
+      "value": "2 Megapixel"
+    },
+    {
+      "label": "Recognizable Distance",
+      "value": "0.2~3m"
+    },
+    {
+      "label": "Working Environment",
+      "value": "Indoor/Outdoor (IP65)"
+    },
+    {
+      "label": "Installation",
+      "value": "Wall-Mounted"
+    },
+    {
+      "label": "Working Temperature",
+      "value": "-20°C~+60°C"
+    },
+    {
+      "label": "Size",
+      "value": "200*260*30mm"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Ukuran Layar",
+      "value": "8"
+    },
+    {
+      "label": "Layar",
+      "value": "Layar IPS HD Non-sentuh"
+    },
+    {
+      "label": "Tegangan Kerja",
+      "value": "DC 12V/1A"
+    },
+    {
+      "label": "Kamera Ganda",
+      "value": "2 Megapiksel"
+    },
+    {
+      "label": "Jarak yang Dapat Diakui",
+      "value": "0,2~3m"
+    },
+    {
+      "label": "Lingkungan Kerja",
+      "value": "Dalam/Luar Ruangan (IP65)"
+    },
+    {
+      "label": "Pemasangan",
+      "value": "Terpasang di Dinding"
+    },
+    {
+      "label": "Suhu Kerja",
+      "value": "-20°C~+60°C"
+    },
+    {
+      "label": "Ukuran",
+      "value": "200*260*30mm"
+    }
+  ]
+}
