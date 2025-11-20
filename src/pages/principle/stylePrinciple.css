@@ -101,10 +101,6 @@
   transition: transform 0.45s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-/* .tilt-card:hover {
-  transform: perspective(1000px) rotateY(5deg) rotateX(3deg) scale(1.03);
-} */
-
 /* ======================= */
 /* GLASS SHINE             */
 /* ======================= */
@@ -149,7 +145,7 @@
 }
 
 /* ======================= */
-/* PARTICLE GRID (subtle)  */
+/* PARTICLE GRID           */
 /* ======================= */
 
 .premium-bg::before {
@@ -176,17 +172,58 @@
 }
 
 /* ======================= */
-/* RESPONSIVE FIXES        */
+/* HERO IMAGE WRAP (FINAL FIX – NO OVERLAP) */
+/* ======================= */
+
+.hero-image-wrap {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  margin-top: 1.5rem;
+  pointer-events: none;
+  z-index: 3;
+}
+
+@media (min-width: 768px) {
+  .hero-image-wrap {
+    position: absolute !important;
+    right: 3% !important;
+    bottom: 0 !important;
+    display: flex !important;
+    justify-content: flex-end !important;
+    align-items: flex-end !important;
+    height: 100% !important;
+    margin: 0 !important;
+    z-index: 3 !important;
+  }
+}
+
+/* ======================= */
+/* RESPONSIVE IMAGE SIZE   */
+/* ======================= */
+
+@media (max-width: 767px) {
+  .hero-image-wrap img {
+    width: 82% !important;
+    max-width: 480px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .hero-image-wrap img {
+    width: 40% !important;
+    max-width: 760px;
+  }
+}
+
+/* ======================= */
+/* HERO CARD RESPONSIVE    */
 /* ======================= */
 
 @media (max-width: 767px) {
   .hero-card {
     margin-top: 12px !important;
     transform: translateY(-4px) !important;
-  }
-  .hero-image-wrap img {
-    width: 82% !important;
-    max-width: 480px;
   }
 }
 
@@ -195,13 +232,12 @@
     max-width: 520px;
     padding: 34px;
   }
-  .hero-image-wrap img {
-    width: 40% !important;
-    max-width: 760px;
-  }
 }
 
-/* Reduced Motion */
+/* ======================= */
+/* Reduced Motion          */
+/* ======================= */
+
 @media (prefers-reduced-motion: reduce) {
   .tilt-card,
   .animate-bgParallax,

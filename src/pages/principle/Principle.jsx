@@ -64,7 +64,6 @@ export default function Principle() {
         className="premium-bg relative w-full min-h-[90vh] overflow-hidden flex flex-col md:flex-row items-start md:items-center bg-black"
         aria-label="Principle hero"
       >
-        {/* Noise & Particles (CSS ::before) */}
         {/* Parallax background */}
         <div
           ref={bgRef}
@@ -76,12 +75,12 @@ export default function Principle() {
         <div
           className="
             hero-card
-            relative z-[5]
+            relative z-[20]
             w-[92%] md:w-auto mx-auto mt-8 md:mt-0
             px-6 py-6 md:px-10 md:py-10
             text-center md:text-left
             max-w-md md:max-w-xl
-            md:absolute md:left-[6%] md:top-[44%] md:-translate-y-1/2
+            md:absolute md:left-[6%] md:top-[50%] md:-translate-y-1/2
             tilt-card
           "
           role="region"
@@ -108,7 +107,7 @@ export default function Principle() {
 
         {/* ================= RIGHT IMAGE (FLOATING PREMIUM) ================= */}
         <div
-          className="hero-image-wrap w-full relative flex justify-center md:block mt-6 md:mt-0 z-[3] pointer-events-none"
+          className="hero-image-wrap w-full relative flex justify-center md:block mt-6 md:mt-0 z-[10] pointer-events-none md:absolute md:right-[6%] md:bottom-0 md:left-auto"
           aria-hidden="true"
         >
           <img
@@ -116,9 +115,8 @@ export default function Principle() {
             alt="Principle Visual"
             className="
               object-contain opacity-95
-              w-[78%] sm:w-[62%] md:w-[45%] lg:w-[28%]
+              hero-visual
               drop-shadow-[0_12px_40px_rgba(0,0,0,0.45)]
-              md:absolute md:right-[3%] md:bottom-0
               animate-premiumFloat
             "
           />
@@ -127,7 +125,7 @@ export default function Principle() {
 
       {/* ================= CONTENT ================= */}
       <div className="mt-20 px-4 md:px-0">
-        <DesignGlobal1 items={mappedItems} useIcon={false} />
+        <DesignGlobal1 items={mappedItems} useIcon={false} useImage={true} />
       </div>
     </div>
   );
