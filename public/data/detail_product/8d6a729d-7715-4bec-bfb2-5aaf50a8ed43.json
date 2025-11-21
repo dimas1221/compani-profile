@@ -1,0 +1,99 @@
+{
+  "id": "8d6a729d-7715-4bec-bfb2-5aaf50a8ed43",
+  "product_id": "f96ee1fd-b93d-4756-af48-586eca42fcd6",
+  "introduction_en": "This Intelligent Verification Terminal is built for secure, high-throughput identity verification in environments like airports, train stations, and border crossings. Combining advanced facial recognition with multi-document authentication, the terminal supports seamless validation of IDs, boarding passes, QR codes, and IC cards. With a dual-lens WDR camera and onboard image intelligence, it delivers fast, accurate recognition even in complex conditions-helping streamline passenger processing while maintaining a high level of security.",
+  "introduction_id": "Terminal Verifikasi Cerdas ini dirancang untuk verifikasi identitas yang aman dan berthroughput tinggi di lingkungan seperti bandara, stasiun kereta api, dan perlintasan perbatasan. Menggabungkan pengenalan wajah canggih dengan autentikasi multi-dokumen, terminal ini mendukung validasi kartu identitas, boarding pass, kode QR, dan kartu IC yang lancar. Dilengkapi kamera WDR lensa ganda dan kecerdasan gambar terintegrasi, terminal ini memberikan pengenalan yang cepat dan akurat bahkan dalam kondisi kompleks—membantu menyederhanakan pemrosesan penumpang sekaligus menjaga tingkat keamanan yang tinggi.",
+  "features_en": [
+    "Fast",
+    "Accurate Facial Recognition",
+    "Versatile Multi-Modal Verification",
+    "Robust Environmental Adaptability",
+    "Live Data Integration",
+    "Seamless System Integration",
+    "Designed for Operator Flexibility"
+  ],
+  "features_id": [
+    "Pengenalan Wajah yang Cepat dan Akurat",
+    "Verifikasi Multi-Modal yang Serbaguna",
+    "Adaptasi Lingkungan yang Tangguh",
+    "Integrasi Data Langsung",
+    "Integrasi Sistem yang Lancar",
+    "Dirancang untuk Fleksibilitas Operator"
+  ],
+  "parameter_en": [
+    {
+      "label": "Screen  ",
+      "value": "10\" HD LCDDual-side Screens"
+    },
+    {
+      "label": "Facial Recognition Range  ",
+      "value": "0.3m ~ 2m"
+    },
+    {
+      "label": "Recognition Speed ",
+      "value": "< 100ms"
+    },
+    {
+      "label": "Recognition Accuracy",
+      "value": " > 99%"
+    },
+    {
+      "label": "Anti-Spoofing   ",
+      "value": "Supports advanced liveness detection against photo and video spoofing"
+    },
+    {
+      "label": "Attribute Detection  ",
+      "value": "Capable of recognizing individuals wearing glasses, hats, and masks"
+    },
+    {
+      "label": "Audio Output  ",
+      "value": "Dual-speaker system with real-time voice prompts; noise-free and latency-free"
+    },
+    {
+      "label": "IC Card  ",
+      "value": "Supports"
+    },
+    {
+      "label": "Size ",
+      "value": " L*W*H=243.2*210.2*286.6mm"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Layar  ",
+      "value": "Layar LCD HD 10\"Dua Sisi"
+    },
+    {
+      "label": "Jangkauan Pengenalan Wajah ",
+      "value": " 0,3m ~ 2m"
+    },
+    {
+      "label": "Kecepatan Pengenalan ",
+      "value": "< 100ms"
+    },
+    {
+      "label": "Akurasi Pengenalan ",
+      "value": "> 99%"
+    },
+    {
+      "label": "Anti-Spoofing ",
+      "value": " Mendukung deteksi keaktifan tingkat lanjut terhadap spoofing foto dan video"
+    },
+    {
+      "label": "Deteksi Atribut  ",
+      "value": "Mampu mengenali individu yang mengenakan kacamata, topi, dan masker"
+    },
+    {
+      "label": "Keluaran Audio  ",
+      "value": "Sistem speaker ganda dengan perintah suara real-time; bebas noise dan latensi"
+    },
+    {
+      "label": "Kartu IC ",
+      "value": "Mendukung"
+    },
+    {
+      "label": "Ukuran  ",
+      "value": "P*L*T=243,2*210,2*286,6mm"
+    }
+  ]
+}
