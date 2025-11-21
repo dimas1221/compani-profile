@@ -1,0 +1,148 @@
+{
+  "id": "059f802b-67bd-4590-b436-5fab9a9999a5",
+  "product_id": "6e52335c-497c-4bc7-b8c5-87e28aaa3a77",
+  "introduction_en": "Designed for secure border environments, the Restricted Area Access Verification E-gate provides reliable, automated access control for authorized personnel. By combining facial recognition, fingerprint scanning, and smart card authentication, the system ensures accurate identity verification while maintaining smooth and secure lane operations. It features built-in gate control, behavior monitoring, and alarm triggers for tailgating, unauthorized access, or extended presence. With bidirectional passage support and seamless integration with border control systems, this solution enhances security and operational efficiency across seaports, airports, land checkpoints, and joint inspection facilities.",
+  "introduction_id": "Dirancang untuk lingkungan perbatasan yang aman, E-gate Verifikasi Akses Area Terbatas menyediakan kontrol akses otomatis yang andal bagi personel yang berwenang. Dengan menggabungkan pengenalan wajah, pemindaian sidik jari, dan autentikasi kartu pintar, sistem ini memastikan verifikasi identitas yang akurat sekaligus menjaga kelancaran dan keamanan operasional jalur. Sistem ini dilengkapi kontrol gerbang terintegrasi, pemantauan perilaku, dan pemicu alarm untuk tailgating, akses tanpa izin, atau kehadiran yang diperpanjang. Dengan dukungan jalur dua arah dan integrasi yang mulus dengan sistem kontrol perbatasan, solusi ini meningkatkan keamanan dan efisiensi operasional di seluruh pelabuhan laut, bandara, pos pemeriksaan darat, dan fasilitas inspeksi bersama.",
+  "features_en": [
+    "Multi-factor biometric authentication",
+    "All-in-one access and identity management",
+    "Fast",
+    "stable",
+    "and high-throughput performance",
+    "Enhanced safety with intrusion and pinch detection",
+    "Full compatibility with border management systems"
+  ],
+  "features_id": [
+    "Autentikasi biometrik multi-faktor",
+    "Akses dan manajemen identitas all-in-one",
+    "Performa cepat",
+    "stabil",
+    "dan throughput tinggi",
+    "Keamanan yang ditingkatkan dengan deteksi intrusi dan pinch",
+    "Kompatibilitas penuh dengan sistem manajemen perbatasan"
+  ],
+  "parameter_en": [
+    {
+      "label": "E-gate Width  ",
+      "value": "700~1100mm"
+    },
+    {
+      "label": "Turnstile Lifespan  ",
+      "value": "≥10 million cycles"
+    },
+    {
+      "label": "Face Recognition Accuracy ",
+      "value": " FAR < 0.1%, FRR < 0.1%, Accuracy > 98%, Speed < 0.01s"
+    },
+    {
+      "label": "Liveness Detection Accuracy  ",
+      "value": "FAR < 0.1%, FRR < 0.1%, Accuracy > 98%, Speed < 0.01s"
+    },
+    {
+      "label": "Authentication Methods  ",
+      "value": "Liveness detection, fingerprint, staff card, remote key"
+    },
+    {
+      "label": "Screen Size  ",
+      "value": "8"
+    },
+    {
+      "label": "Communication Interfaces  ",
+      "value": "Standard Ethernet"
+    },
+    {
+      "label": "Input Voltage  ",
+      "value": "AC 220V ±10%, 50Hz ±5%"
+    },
+    {
+      "label": "Circuit Breaker Overcurrent Protection  ",
+      "value": "6A"
+    },
+    {
+      "label": "Power Consumption  ",
+      "value": "≤500W"
+    },
+    {
+      "label": "Operating Temperature",
+      "value": "-10°C ~ +50°C (Indoor)"
+    },
+    {
+      "label": "Storage Temperature  ",
+      "value": "-20°C~+60°C"
+    },
+    {
+      "label": "Relative Humidity  ",
+      "value": "10% ~ 90% RH, Non-condensing"
+    },
+    {
+      "label": "Application Scenarios  ",
+      "value": "Suitable for both indoor and outdoor environments"
+    },
+    {
+      "label": "Dimensions  ",
+      "value": "1630*150*1440mm"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Lebar E-gate  ",
+      "value": "700~1100 mm"
+    },
+    {
+      "label": "Umur Turnstile ",
+      "value": " ≥10 juta siklus"
+    },
+    {
+      "label": "Akurasi Pengenalan Wajah ",
+      "value": " FAR < 0,1%, FRR < 0,1%, Akurasi > 98%, Kecepatan < 0,01 detik"
+    },
+    {
+      "label": "Akurasi Deteksi Keaktifan  ",
+      "value": "FAR < 0,1%, FRR < 0,1%, Akurasi > 98%, Kecepatan < 0,01 detik"
+    },
+    {
+      "label": "Metode Autentikasi  ",
+      "value": "Deteksi keaktifan, sidik jari, kartu staf, kunci jarak jauh"
+    },
+    {
+      "label": "Ukuran Layar  ",
+      "value": "8"
+    },
+    {
+      "label": "Antarmuka Komunikasi  ",
+      "value": "Ethernet Standar"
+    },
+    {
+      "label": "Tegangan Input  ",
+      "value": "AC 220V ±10%, 50Hz ±5%"
+    },
+    {
+      "label": "Perlindungan Arus Lebih Pemutus Sirkuit  ",
+      "value": "6A"
+    },
+    {
+      "label": "Konsumsi Daya ",
+      "value": " ≤500W"
+    },
+    {
+      "label": "Suhu Operasional  ",
+      "value": "-10°C ~ +50°C (Dalam Ruangan)"
+    },
+    {
+      "label": "Suhu Penyimpanan ",
+      "value": " -20°C~+60°C"
+    },
+    {
+      "label": "Kelembapan Relatif  ",
+      "value": "10% ~ 90% RH, Non-kondensasi"
+    },
+    {
+      "label": "Skenario Aplikasi ",
+      "value": " Cocok untuk penggunaan di dalam dan luar ruangan"
+    },
+    {
+      "label": "Dimensi  ",
+      "value": "1630*150*1440mm"
+    }
+  ]
+}
