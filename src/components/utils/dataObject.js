@@ -7,7 +7,7 @@ export const getMenuItems = () => {
     mainMenu: [
       { name: t.product, path: "/product" },
       { name: t.about, path: "/about" },
-      { name: t.solution, path: "/solution" },
+      // { name: t.solution, path: "/solution" },
       { name: t.contact, path: "/contact" },
     ],
     extraMenu: [

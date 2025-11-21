@@ -168,6 +168,8 @@ collections:
 
       - { label: "Introduction (EN)", name: "introduction_en", widget: "text" }
       - { label: "Introduction (ID)", name: "introduction_id", widget: "text" }
+      - { label: "Description (EN)", name: "description_en", widget: "text" }
+      - { label: "Description (ID)", name: "description_id", widget: "text" }
 
       - label: "Features (EN)"
         name: "features_en"

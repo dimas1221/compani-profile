@@ -83,6 +83,8 @@ export default function ProductDetail() {
     lang === "id" ? detail.introduction_id : detail.introduction_en;
   const features = lang === "id" ? detail.features_id : detail.features_en;
   const parameters = lang === "id" ? detail.parameter_id : detail.parameter_en;
+  const descript =
+    lang === "id" ? detail?.description_id : detail.description_en;
 
   const sendWhatsappConfirm = () => {
     const phone = "6281993434837";
@@ -203,8 +205,8 @@ export default function ProductDetail() {
                       {/* Show Parameters */}
                       <GlobalButton
                         onClick={() => setSidebarOpen(true)}
-                        size="large"
-                        className="text-lg font-semibold py-3 px-8 shadow-lg hover:shadow-xl transition w-full sm:w-auto"
+                        size="medium"
+                        className="text-sm font-semibold py-3 px-8 shadow-lg hover:shadow-xl transition w-full sm:w-auto"
                       >
                         {translate("Show Parameters")}
                       </GlobalButton>
@@ -212,14 +214,14 @@ export default function ProductDetail() {
                       {/* WhatsApp Button */}
                       <GlobalButton
                         variant="whatsapp"
-                        size="large"
+                        size="medium"
                         onClick={sendWhatsappConfirm}
-                        className="text-lg font-semibold py-3 px-8 w-full sm:w-auto flex items-center gap-2 shadow-lg hover:shadow-xl transition"
+                        className="text-sm font-semibold py-3 px-8 w-full sm:w-auto flex items-center gap-2 shadow-lg hover:shadow-xl transition"
                       >
                         {/* ICON WA SUPAYA PREMIUM */}
                         <svg
                           xmlns="http://www.w3.org/2000/svg"
-                          className="w-6 h-6"
+                          className="w-4 h-4"
                           fill="currentColor"
                           viewBox="0 0 24 24"
                         >
@@ -268,7 +270,7 @@ export default function ProductDetail() {
                   {/* SIDEBAR CONTENT */}
                   <div className="p-6 overflow-y-auto flex-grow max-h-[calc(100vh-64px)] space-y-6 scrollbar-thin scrollbar-thumb-blue-400 scrollbar-track-gray-100 dark:scrollbar-thumb-blue-600 dark:scrollbar-track-gray-800">
                     <p className="text-sm text-gray-600 dark:text-gray-400 leading-relaxed whitespace-pre-line">
-                      {lorem}
+                      {descript}
                     </p>
 
                     {parameters && parameters.length > 0 ? (
