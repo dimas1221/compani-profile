@@ -1,0 +1,144 @@
+{
+  "id": "5a2ce62a-da1e-43c2-9a23-84ad6769a6e3",
+  "product_id": "af960ef5-beda-436c-994e-9bf4023feec4",
+  "introduction_en": "The Video-based Anti-Tailgating System is purpose-built for immigration e-gate, enabling real-time monitoring of unauthorized passage through advanced on-device video analytics.\nUsing embedded Al, behavior recognition, and machine vision, the system identifies security risks such as tailgating, evasive movement, and abnormal entries without relying on backend servers.\nMounted above the inspection e-gate, it works autonomously and integrates seamlessly with e-gates, biometric verification stations, and security checking systems. The system delivers instant alerts, video capture, and event logging, helping border control agencies reduce manual oversight while significantly enhancing port security and throughput efficiency.",
+  "introduction_id": "Sistem Anti-Tailgating Berbasis Video dirancang khusus untuk e-gate imigrasi, memungkinkan pemantauan waktu nyata (real-time) terhadap lalu lintas tanpa izin melalui analitik video canggih pada perangkat.\nDengan menggunakan AI tertanam, pengenalan perilaku, dan visi mesin, sistem ini mengidentifikasi risiko keamanan seperti tailgating, pergerakan mengelak, dan entri abnormal tanpa bergantung pada server backend.\nDipasang di atas e-gate inspeksi, sistem ini bekerja secara otonom dan terintegrasi secara mulus dengan e-gate, stasiun verifikasi biometrik, dan sistem pemeriksaan keamanan. Sistem ini memberikan peringatan instan, perekaman video, dan pencatatan kejadian, membantu badan kontrol perbatasan mengurangi pengawasan manual sekaligus meningkatkan keamanan pelabuhan dan efisiensi throughput secara signifikan.",
+  "features_en": [
+    "Detects tailgating",
+    "climbing",
+    "crawling",
+    "and multiple-person entry",
+    "Based on front-end processing with no server dependency",
+    "Real-time alerts",
+    "automated recording",
+    "and event traceability",
+    "High detection accuracy with ultra-low false alarm rates",
+    "Supports single or dual-camera configurations for variable lane widths",
+    "Compact",
+    "ceiling- or bracket-mounted design for flexible deployment",
+    "Luggage-aware algorithm avoids misidentifying normal carry-ons"
+  ],
+  "features_id": [
+    "Mendeteksi aktivitas membuntuti",
+    "memanjat",
+    "merangkak",
+    "dan masuknya banyak orang",
+    "Berdasarkan pemrosesan front-end tanpa ketergantungan server",
+    "Peringatan real-time",
+    "perekaman otomatis",
+    "dan keterlacakan kejadian",
+    "Akurasi deteksi tinggi dengan tingkat alarm palsu yang sangat rendah",
+    "Mendukung konfigurasi kamera tunggal atau ganda untuk lebar jalur yang bervariasi",
+    "Desain ringkas",
+    "terpasang di langit-langit atau braket untuk penggunaan yang fleksibel",
+    "Algoritma yang peka terhadap bagasi mencegah kesalahan identifikasi barang bawaan normal"
+  ],
+  "parameter_en": [
+    {
+      "label": "Video Recording Capability  ",
+      "value": "Supported"
+    },
+    {
+      "label": "Depth Sensing Technology  ",
+      "value": "Infrared Support"
+    },
+    {
+      "label": "Minimum Depth Range ",
+      "value": " 0.105m"
+    },
+    {
+      "label": "Multi-Person Entry Detection  Accuracy ",
+      "value": " > 99.9%"
+    },
+    {
+      "label": "Operating Voltage  ",
+      "value": "DC12V±10%"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-40°C~+70°C"
+    },
+    {
+      "label": "Storage Temperature  ",
+      "value": "-50°C~+120°C"
+    },
+    {
+      "label": "Operating Humidity  ",
+      "value": "5%~95%RH, Non-condensing"
+    },
+    {
+      "label": "Power Consumption ",
+      "value": " ≤15W"
+    },
+    {
+      "label": "Mounting Height  ",
+      "value": "2.5~3m"
+    },
+    {
+      "label": "Mounting Method  ",
+      "value": "Ceiling-mount, suspension, and other flexible installation modes"
+    },
+    {
+      "label": "Weight  ",
+      "value": "0.6kg"
+    },
+    {
+      "label": "Dimensions  ",
+      "value": "196mm*69mm*60mm"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Kemampuan Merekam Video  ",
+      "value": "Didukung"
+    },
+    {
+      "label": "Teknologi Penginderaan Kedalaman  ",
+      "value": "Dukungan Inframerah"
+    },
+    {
+      "label": "Jangkauan Kedalaman Minimum ",
+      "value": " 0,105 m"
+    },
+    {
+      "label": "Deteksi Masuk Banyak Orang  Akurasi  ",
+      "value": "> 99,9%"
+    },
+    {
+      "label": "Tegangan Operasional  ",
+      "value": "DC12V±10%"
+    },
+    {
+      "label": "Suhu Operasional  ",
+      "value": "-40°C~+70°C"
+    },
+    {
+      "label": "Suhu Penyimpanan  ",
+      "value": "-50°C~+120°C"
+    },
+    {
+      "label": "Kelembapan Operasional  ",
+      "value": "5%~95%RH, Non-kondensasi"
+    },
+    {
+      "label": "Konsumsi Daya  ",
+      "value": "≤15W"
+    },
+    {
+      "label": "Tinggi Pemasangan  ",
+      "value": "2,5~3 m"
+    },
+    {
+      "label": "Metode Pemasangan ",
+      "value": "Pemasangan di langit-langit, suspensi, dan mode pemasangan fleksibel lainnya"
+    },
+    {
+      "label": "Weight  ",
+      "value": "0.6kg"
+    },
+    {
+      "label": "Dimensi  ",
+      "value": "196 mm*69 mm*60 mm"
+    }
+  ]
+}
