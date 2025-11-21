@@ -1,0 +1,192 @@
+{
+  "id": "3106fd10-e0ed-4fa7-95ab-5441c3dda96e",
+  "product_id": "4a898305-b1e2-47bf-9447-da247d717370",
+  "introduction_en": "The Restricted Area Access Verification E-gate (Dual-Gate) is a purpose-built solution for managing personnel access within restricted zones at border control points. Designed for high-security environments, the system combines multi-factor authentication-including facial recognition, fingerprint recognition, and smart card verification-with intelligent gate control and behavior analytics. It enables real-name access management while enhancing both security and operational efficiency.\nThe system integrates seamlessly with immigration platforms and supports bidirectional access, real-time tailgating detection, intrusion alerts, anti-pinch safeguards, access flow monitoring, and audio-visual guidance-making it ideal for ports, airports, land crossings, and joint inspection areas.",
+  "introduction_id": "Verifikasi Akses Area Terbatas E-gate (Dual-Gate) adalah solusi yang dirancang khusus untuk mengelola akses personel di zona terbatas di titik kontrol perbatasan. Dirancang untuk lingkungan dengan keamanan tinggi, sistem ini menggabungkan autentikasi multi-faktor—termasuk pengenalan wajah, pengenalan sidik jari, dan verifikasi kartu pintar—dengan kontrol gerbang cerdas dan analitik perilaku. Sistem ini memungkinkan manajemen akses dengan nama asli sekaligus meningkatkan keamanan dan efisiensi operasional.\nSistem ini terintegrasi secara mulus dengan platform imigrasi dan mendukung akses dua arah, deteksi tailgating secara real-time, peringatan intrusi, perlindungan anti-pinch, pemantauan arus akses, dan panduan audio-visual—sehingga ideal untuk pelabuhan, bandara, perlintasan darat, dan area inspeksi bersama.",
+  "features_en": [
+    "Seamless Biometric Verification",
+    "High-speed",
+    "High-reliability Access",
+    "Built-in Intelligent Threat Detection",
+    "Safety-first Design",
+    "Full System Interoperability",
+    "Bidirectional Flow Management",
+    "Intuitive User Interface",
+    "Compact",
+    "Modular Construction"
+  ],
+  "features_id": [
+    "Verifikasi Biometrik yang Lancar",
+    "Akses Berkecepatan Tinggi dan Keandalan Tinggi",
+    "Deteksi Ancaman Cerdas Terpadu",
+    "Desain yang Mengutamakan Keselamatan",
+    "Interoperabilitas Sistem yang Lengkap",
+    "Manajemen Aliran Dua Arah",
+    "Antarmuka Pengguna yang Intuitif",
+    "Konstruksi Modular yang Ringkas"
+  ],
+  "parameter_en": [
+    {
+      "label": "Input Voltage  ",
+      "value": "AC 220V±10%; 50Hz±5%"
+    },
+    {
+      "label": "Circuit Breaker Overcurrent Protection  ",
+      "value": "10A"
+    },
+    {
+      "label": "Rated Power  ",
+      "value": "1200W"
+    },
+    {
+      "label": "Operating Temperature ",
+      "value": " -10°C~+50°C (Indoor)"
+    },
+    {
+      "label": "Storage Temperature  ",
+      "value": "-20°C~+60°C(Indoor)"
+    },
+    {
+      "label": "Relative Humidity  ",
+      "value": "10%~90%RH, Non-condensing"
+    },
+    {
+      "label": "Installation Environment  ",
+      "value": "Indoor"
+    },
+    {
+      "label": "Communication Interface  ",
+      "value": "Standard Ethernet"
+    },
+    {
+      "label": "MCBF  ",
+      "value": "≥ 5.5million cycles"
+    },
+    {
+      "label": "Front/Rear Screen ",
+      "value": " 8\""
+    },
+    {
+      "label": "Center Display  ",
+      "value": "10.1\""
+    },
+    {
+      "label": "Employee Badge ",
+      "value": " Supported"
+    },
+    {
+      "label": "National ID Card  ",
+      "value": "Supported"
+    },
+    {
+      "label": "Facial Recognition Accuracy ",
+      "value": " FAR < 0.1%, FRR < 0.1%, Accuracy > 98%, Recognition Speed < 0.01s"
+    },
+    {
+      "label": "Liveness Detection Accuracy ",
+      "value": "FAR < 0.1%, FRR < 0.1%, Accuracy > 98%, Detection Speed < 0.01s"
+    },
+    {
+      "label": "Fingerprint Recognition Accuracy  ",
+      "value": "FAR < 0.00001%, FRR < 0.1%, Accuracy > 99.9%, Match Speed < 0.01s"
+    },
+    {
+      "label": "System Response Time ",
+      "value": " ≤100ms"
+    },
+    {
+      "label": "System Stability  ",
+      "value": "24/7 Non-stop Operation Without Power Cycling"
+    },
+    {
+      "label": "E-gate Width ",
+      "value": "1000mm"
+    },
+    {
+      "label": "Dimensions  ",
+      "value": "3000*180*1700mm(Including 3000 mm Anti-Tailgating Extension)"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Tegangan Masukan  ",
+      "value": "AC 220V±10%; 50Hz±5%"
+    },
+    {
+      "label": "Perlindungan Arus Lebih Pemutus Sirkuit  ",
+      "value": "10A"
+    },
+    {
+      "label": "Daya Terukur  ",
+      "value": "1200W"
+    },
+    {
+      "label": "Suhu Operasional  ",
+      "value": "-10°C~+50°C (Dalam Ruangan)"
+    },
+    {
+      "label": "Suhu Penyimpanan  ",
+      "value": "-20°C~+60°C (Dalam Ruangan)"
+    },
+    {
+      "label": "Kelembapan Relatif  ",
+      "value": "10%~90%RH, Non-kondensasi"
+    },
+    {
+      "label": "Lingkungan Instalasi  ",
+      "value": "Dalam Ruangan"
+    },
+    {
+      "label": "Antarmuka Komunikasi  ",
+      "value": "Ethernet Standar"
+    },
+    {
+      "label": "MCBF  ",
+      "value": "≥ 5,5 juta siklus"
+    },
+    {
+      "label": "Layar Depan/Belakang  ",
+      "value": "8\""
+    },
+    {
+      "label": "Layar Tengah  ",
+      "value": "10,1\""
+    },
+    {
+      "label": "Lencana Karyawan  ",
+      "value": "Didukung"
+    },
+    {
+      "label": "KTP  ",
+      "value": "Didukung"
+    },
+    {
+      "label": "Akurasi Pengenalan Wajah",
+      "value": "FAR < 0,1%, FRR < 0,1%, Akurasi > 98%, Kecepatan Pengenalan < 0,01 detik"
+    },
+    {
+      "label": "Akurasi Deteksi Keaktifan  ",
+      "value": "FAR < 0,1%, FRR < 0,1%, Akurasi > 98%, Kecepatan Deteksi < 0,01 detik"
+    },
+    {
+      "label": "Akurasi Pengenalan Sidik Jari ",
+      "value": " FAR < 0,00001%, FRR < 0,1%, Akurasi > 99,9%, Kecepatan Pencocokan < 0,01 detik"
+    },
+    {
+      "label": "Waktu Respons Sistem  ",
+      "value": "≤100 ms"
+    },
+    {
+      "label": "Stabilitas Sistem  ",
+      "value": "Operasi Non-stop 24/7 Tanpa Siklus Daya"
+    },
+    {
+      "label": "Lebar E-gate  ",
+      "value": "1000 mm"
+    },
+    {
+      "label": "Dimensi  ",
+      "value": "3000*180*1700 mm (Termasuk Ekstensi Anti-Tailgating 3000 mm)"
+    }
+  ]
+}
