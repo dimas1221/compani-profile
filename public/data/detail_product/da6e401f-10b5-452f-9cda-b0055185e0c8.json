@@ -1,0 +1,143 @@
+{
+  "id": "da6e401f-10b5-452f-9cda-b0055185e0c8",
+  "product_id": "e7d14e2d-3e39-4eae-b430-40e48768ed62",
+  "introduction_en": "Maxvision's E-Gate (Dual-Gate) is a fully integrated, intelligent border control solution designed to automate passenger identity verification at controlled entry and exit points. Built for high-throughput environments like airports and seaports, the system combines advanced biometrics with smart control and Al technologies to deliver secure, seamless, and contactless clearance.\nThe E-gate supports multiple biometric modalities including facial, palm vein, and fingerprint recognition-alongside document authentication, anti-tailgating video analytics, and one-touch operational control. By eliminating manual checks and reducing processing time, it enhances both traveler experience and border security, making it an ideal fit for modern, high-security transit hubs.",
+  "introduction_id": "E-Gate (Dual-Gate) dari Maxvision adalah solusi kontrol perbatasan cerdas yang terintegrasi penuh, dirancang untuk mengotomatiskan verifikasi identitas penumpang di titik masuk dan keluar yang terkontrol. Dirancang untuk lingkungan dengan lalu lintas tinggi seperti bandara dan pelabuhan, sistem ini menggabungkan biometrik canggih dengan kontrol cerdas dan teknologi AI untuk memberikan proses pengurusan yang aman, lancar, dan nirsentuh.\nE-Gate mendukung berbagai modalitas biometrik termasuk pengenalan wajah, urat telapak tangan, dan sidik jari—bersama autentikasi dokumen, analitik video anti-tailgating, dan kontrol operasional sekali sentuh. Dengan menghilangkan pemeriksaan manual dan mengurangi waktu pemrosesan, sistem ini meningkatkan pengalaman pelancong dan keamanan perbatasan, menjadikannya pilihan ideal untuk pusat transit modern dengan keamanan tinggi.",
+  "features_en": [
+    "Flexible and Diverse Access Methods",
+    "Reduce the Risks of Tailgating / Missed Detection / Abnormal Inspection",
+    "Self-service Authentication Efficient Passage",
+    "Super Long Service Life"
+  ],
+  "features_id": [
+    "Metode Akses Fleksibel dan Beragam",
+    "Mengurangi Risiko Tailgating/Kehilangan Deteksi/Inspeksi Abnormal",
+    "Otentikasi Mandiri",
+    "Lintasan Efisien",
+    "Umur Pakai Super Panjang"
+  ],
+  "parameter_en": [
+    {
+      "label": "Facial Recognition  ",
+      "value": "FAR < 0.0001%, FRR < 0.01%"
+    },
+    {
+      "label": "Palm Vein Recognition  ",
+      "value": "Accuracy > 99%, FAR < 0.0001%, FRR < 0.01%"
+    },
+    {
+      "label": "Fingerprint Recognition  ",
+      "value": "Speed >20 fps"
+    },
+    {
+      "label": "Barcode Scanning Speed  ",
+      "value": "<1s"
+    },
+    {
+      "label": "Door Opening/Closing Time ",
+      "value": " ≥0.3s (adjustable)"
+    },
+    {
+      "label": "Rated Lifecycle  ",
+      "value": "≥10.5 million times"
+    },
+    {
+      "label": "Maintainability MTTR  ",
+      "value": "30 minutes"
+    },
+    {
+      "label": "Noise Level  ",
+      "value": "< 20dB"
+    },
+    {
+      "label": "Operating Voltage  ",
+      "value": "DC 48V"
+    },
+    {
+      "label": "Rated Power  ",
+      "value": "1500W"
+    },
+    {
+      "label": "Operating Temperature ",
+      "value": "-20°C~+60°C (Indoors)"
+    },
+    {
+      "label": "Storage Temperature  ",
+      "value": "-20°C~+60°C (Intdoors)"
+    },
+    {
+      "label": "Operating Environment  ",
+      "value": "Indoors/Outdoors"
+    },
+    {
+      "label": "IP Rating  ",
+      "value": "IP65"
+    },
+    {
+      "label": "Dimensions  ",
+      "value": "3000*180*1405mm"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Pengenalan Wajah  ",
+      "value": "FAR < 0,0001%, FRR < 0,01%"
+    },
+    {
+      "label": "Pengenalan Vena Telapak Tangan  ",
+      "value": "Akurasi > 99%, FAR < 0,0001%, FRR < 0,01%"
+    },
+    {
+      "label": "Pengenalan Sidik Jari  ",
+      "value": "Kecepatan > 20 fps"
+    },
+    {
+      "label": "Kecepatan Pemindaian Kode Batang  ",
+      "value": "<1 detik"
+    },
+    {
+      "label": "Waktu Buka/Tutup Pintu  ",
+      "value": "≥0,3 detik (dapat disesuaikan)"
+    },
+    {
+      "label": "Siklus Hidup Terukur ",
+      "value": " ≥10,5 juta kali"
+    },
+    {
+      "label": "MTTR Kemudahan Perawatan  ",
+      "value": "30 menit"
+    },
+    {
+      "label": "Tingkat Kebisingan ",
+      "value": " < 20 dB"
+    },
+    {
+      "label": "Tegangan Operasi  ",
+      "value": "DC 48V"
+    },
+    {
+      "label": "Daya Terukur  ",
+      "value": "1500 W"
+    },
+    {
+      "label": "Suhu Operasi ",
+      "value": "-20°C~+60°C (Dalam Ruangan)"
+    },
+    {
+      "label": "Suhu Penyimpanan  ",
+      "value": "-20°C~+60°C (Dalam Ruangan)"
+    },
+    {
+      "label": "Lingkungan Pengoperasian  ",
+      "value": "Dalam/Luar Ruangan"
+    },
+    {
+      "label": "Peringkat IP ",
+      "value": " IP65"
+    },
+    {
+      "label": "Dimensi  ",
+      "value": "3000*180*1405mm"
+    }
+  ]
+}
