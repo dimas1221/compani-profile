@@ -1,0 +1,115 @@
+{
+  "id": "ed999492-c467-4f81-8f96-c94853f234fc",
+  "product_id": "1e7fbf09-5add-4c3b-ba1d-da81fe140909",
+  "introduction_en": "Maxvision's Passenger Carry-on Baggage Inspection System is purpose-built to meet the evolving needs of global border crossings. Designed for high-volume international ports of entry, the system enables unified screening of both travelers and their personal belongings in a single, streamlined process. Its goal is simple: one inspection, one decision, one seamless release.\nBy combining Al-driven analytics, loT-based controls, and integrated data intelligence, the system overcomes the inefficiencies of traditional manual checks-reducing human error, accelerating throughput, and delivering a consistent, secure experience for both authorities and travelers.\nAs one of the first fully integrated solutions deployed at scale in China, it represents a new standard for how modern borders can operate.",
+  "introduction_id": "Sistem Pemeriksaan Bagasi Kabin Penumpang Maxvision dirancang khusus untuk memenuhi kebutuhan penyeberangan perbatasan global yang terus berkembang. Dirancang untuk pelabuhan masuk internasional dengan volume tinggi, sistem ini memungkinkan pemeriksaan terpadu bagi pelancong dan barang bawaan pribadi mereka dalam satu proses yang efisien. Tujuannya sederhana: satu pemeriksaan, satu keputusan, satu pelepasan yang lancar.\nDengan menggabungkan analitik berbasis AI, kontrol berbasis IoT, dan kecerdasan data terintegrasi, sistem ini mengatasi inefisiensi pemeriksaan manual tradisional—mengurangi kesalahan manusia, mempercepat proses, dan memberikan pengalaman yang konsisten dan aman bagi otoritas maupun pelancong.\nSebagai salah satu solusi terintegrasi penuh pertama yang diterapkan dalam skala besar di Tiongkok, sistem ini mewakili standar baru tentang bagaimana perbatasan modern dapat beroperasi.",
+  "features_en": [
+    "Faster",
+    "Frictionless Clearance",
+    "All-in-One Intelligence",
+    "Touchless",
+    "Targeted Processing",
+    "End-to-End Baggage Oversight",
+    "Modular",
+    "Ready-to-Deploy Design"
+  ],
+  "features_id": [
+    "Proses Izin Lebih Cepat dan Tanpa Hambatan",
+    "Kecerdasan All-in-One",
+    "Pemrosesan Terarah dan Tanpa Sentuhan",
+    "Pengawasan Bagasi yang Menyeluruh",
+    "Desain Modular dan Siap Pakai"
+  ],
+  "parameter_en": [
+    {
+      "label": "Input Voltage  ",
+      "value": "AC 220V±10%, 50Hz±5%"
+    },
+    {
+      "label": "Circuit Breaker Overcurrent Protection  ",
+      "value": "20A"
+    },
+    {
+      "label": "Rated Power  ",
+      "value": "4000W (excluding X-ray system)"
+    },
+    {
+      "label": "Operating Temperature ",
+      "value": " -10°C~+50°C (Indoor)"
+    },
+    {
+      "label": "Storage Temperature  ",
+      "value": "-20°C~+60°C (Indoor)"
+    },
+    {
+      "label": "Relative Humidity  ",
+      "value": "10%~90%RH, Non-condensing"
+    },
+    {
+      "label": "Passage Width  ",
+      "value": "1200mm (Entry)"
+    },
+    {
+      "label": "Installation Environment  ",
+      "value": "Indoor"
+    },
+    {
+      "label": "Communication Interface  ",
+      "value": "Ethernet Port"
+    },
+    {
+      "label": "Inspection Speed  ",
+      "value": "9~15s (Average: 13s)"
+    },
+    {
+      "label": "Dimensions  ",
+      "value": "8710*3670*1640mm"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Tegangan Masukan  ",
+      "value": "AC 220V±10%, 50Hz±5%"
+    },
+    {
+      "label": "Perlindungan Arus Lebih Pemutus Sirkuit  ",
+      "value": "20A"
+    },
+    {
+      "label": "Daya Terukur  ",
+      "value": "4000W (tidak termasuk sistem sinar-X)"
+    },
+    {
+      "label": "Suhu Operasional  ",
+      "value": "-10°C~+50°C (Dalam Ruangan)"
+    },
+    {
+      "label": "Suhu Penyimpanan ",
+      "value": " -20°C~+60°C (Dalam Ruangan)"
+    },
+    {
+      "label": "Kelembapan Relatif  ",
+      "value": "10%~90%RH, Non-kondensasi"
+    },
+    {
+      "label": "Lebar Saluran  ",
+      "value": "1200mm (Masuk)"
+    },
+    {
+      "label": "Lingkungan Pemasangan  ",
+      "value": "Dalam Ruangan"
+    },
+    {
+      "label": "Antarmuka Komunikasi  ",
+      "value": "Port Ethernet"
+    },
+    {
+      "label": "Kecepatan Inspeksi ",
+      "value": " 9~15 detik (Rata-rata: 13 detik)"
+    },
+    {
+      "label": "Dimensi  ",
+      "value": "8710*3670*1640mm"
+    }
+  ]
+}
