@@ -1,0 +1,116 @@
+{
+  "id": "8c883a40-5d5c-436d-b6ee-36b5424317c2",
+  "product_id": "7af3a9a8-a3e6-4a0f-8d48-5937a573b45c",
+  "introduction_en": "This Multi-biometric Self-service Capture Device is purpose-built for border control, immigration processing, and identity verification. It consolidates document authentication, biometric capture, arrival card printing, fast-track registration, and entry/exit record retrieval into a single self-service platform.\nBy integrating multiple workflows into one streamlined process, the device reduces processing time, improves traveler throughput, and minimizes the need for manual assistance at checkpoints.\nEquipped with an OCR document reader, facial recognition camera, high-resolution fingerprint sensor, curved HD touchscreen, and dual printing modules, the system supports a wide range of international and domestic identity documents.\nIts modular design and open architecture allow for seamless integration with border management systems and future service extensions, making it ideal for use in airports, landports, immigration halls, and public service locations.",
+  "introduction_id": "Perangkat Perekam Swalayan Multibiometrik ini dirancang khusus untuk kontrol perbatasan, pemrosesan imigrasi, dan verifikasi identitas. Perangkat ini menggabungkan autentikasi dokumen, perekaman biometrik, pencetakan kartu kedatangan, registrasi jalur cepat, dan pengambilan catatan masuk/keluar ke dalam satu platform swalayan.\nDengan mengintegrasikan beberapa alur kerja ke dalam satu proses yang efisien, perangkat ini mengurangi waktu pemrosesan, meningkatkan throughput pelancong, dan meminimalkan kebutuhan akan bantuan manual di pos pemeriksaan.\nDilengkapi dengan pembaca dokumen OCR, kamera pengenal wajah, sensor sidik jari beresolusi tinggi, layar sentuh HD melengkung, dan modul pencetakan ganda, sistem ini mendukung beragam dokumen identitas internasional dan domestik.\nDesain modular dan arsitektur terbukanya memungkinkan integrasi yang mulus dengan sistem manajemen perbatasan dan perluasan layanan di masa mendatang, menjadikannya ideal untuk digunakan di bandara, pelabuhan darat, aula imigrasi, dan lokasi layanan publik.",
+  "features_en": [
+    "Unified platform for ID verification",
+    "registration",
+    "and document printing",
+    "Compatible with passports",
+    "visas",
+    "national IDs",
+    "and travel permits",
+    "Integrated facial recognition",
+    "fingerprint capture",
+    "and OCR reading",
+    "Auto-populates user data across all transaction modules",
+    "Supports ICAO-compliant document authentication and anti-forgery checks",
+    "Space-saving curved touchscreen with ergonomic interaction zone",
+    "Open API architecture for integration with existing government systems",
+    ""
+  ],
+  "features_id": [
+    "Platform terpadu untuk verifikasi identitas",
+    "registrasi",
+    "dan pencetakan dokumen",
+    "Kompatibel dengan paspor",
+    "visa",
+    "KTP",
+    "dan izin perjalanan",
+    "Pengenalan wajah terintegrasi",
+    "pengambilan sidik jari",
+    "dan pembacaan OCR",
+    "Mengisi data pengguna secara otomatis di semua modul transaksi",
+    "Mendukung autentikasi dokumen yang sesuai dengan ICAO dan pemeriksaan anti-pemalsuan",
+    "Layar sentuh melengkung hemat-ruang dengan zona interaksi ergonomis",
+    "Arsitektur API terbuka untuk integrasi dengan sistem pemerintahan yang ada",
+    ""
+  ],
+  "parameter_en": [
+    {
+      "label": "Input Voltage  ",
+      "value": "AC 220V±10%, 50Hz±5%"
+    },
+    {
+      "label": "Rated Power  ",
+      "value": "1000W"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-10°C~+50°C (Indoor)"
+    },
+    {
+      "label": "Storage Temperature ",
+      "value": " -20°C~+60°C (Indoor)"
+    },
+    {
+      "label": "Relative Humidity  ",
+      "value": "10%~90% RH, Non-condensing"
+    },
+    {
+      "label": "Device Material  ",
+      "value": "SPCC and 304-grade stainless steel"
+    },
+    {
+      "label": "Deployment Environment  ",
+      "value": "Indoor"
+    },
+    {
+      "label": "I/O Interfaces  ",
+      "value": "Ethernet"
+    },
+    {
+      "label": "Dimensions  ",
+      "value": "500*1737*440mm"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Tegangan Input  ",
+      "value": "AC 220V±10%, 50Hz±5%"
+    },
+    {
+      "label": "Daya Terukur  ",
+      "value": "1000W"
+    },
+    {
+      "label": "Suhu Operasional  ",
+      "value": "-10°C~+50°C (Dalam Ruangan)"
+    },
+    {
+      "label": "Suhu Penyimpanan  ",
+      "value": "-20°C~+60°C (Dalam Ruangan)"
+    },
+    {
+      "label": "Kelembapan Relatif  ",
+      "value": "10%~90% RH, Non-kondensasi"
+    },
+    {
+      "label": "Material Perangkat  ",
+      "value": "SPCC dan baja tahan karat grade 304"
+    },
+    {
+      "label": "Lingkungan Penggunaan  ",
+      "value": "Dalam Ruangan"
+    },
+    {
+      "label": "Antarmuka I/O  ",
+      "value": "Ethernet"
+    },
+    {
+      "label": "Dimensi  ",
+      "value": "500*1737*440mm"
+    }
+  ]
+}
