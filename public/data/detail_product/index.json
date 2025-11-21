@@ -1,5 +1,119 @@
 [
   {
+    "id": "0422d831-6142-4f45-8a7f-bd15dce50c32",
+    "product_id": "adc2f2a6-7155-49c4-bb57-b67597833c44",
+    "introduction_en": "The Intelligent Security Tray Return System (Standard) offers a balanced solution for mainstream inspection lanes-delivering core automation across identity verification, X-ray scanning, tray handling, sorting, and backend data integration. With a modular architecture and fast deployment capability, it fits seamlessly into airport and border control environments where efficiency, reliability, and scalability are key.",
+    "introduction_id": "Sistem Pengembalian Baki Keamanan Cerdas (Standar) menawarkan solusi seimbang untuk jalur inspeksi umum—menyediakan otomatisasi inti di seluruh proses verifikasi identitas, pemindaian sinar-X, penanganan baki, penyortiran, dan integrasi data backend. Dengan arsitektur modular dan kemampuan penerapan yang cepat, sistem ini sangat cocok dengan lingkungan kontrol bandara dan perbatasan yang mengutamakan efisiensi, keandalan, dan skalabilitas.",
+    "features_en": [
+      "Covers the full inspection workflow",
+      "from check-in to tray return",
+      "Automates tray circulation with built-in sorting and empty tray detection",
+      "Integrates image review and inspection data into backend systems",
+      "Compact and modular-easy to deploy across multiple lanes",
+      "Supports live status monitoring and remote fault alerts"
+    ],
+    "features_id": [
+      "Mencakup seluruh alur kerja inspeksi",
+      "mulai dari check-in hingga pengembalian baki",
+      "Mengotomatiskan sirkulasi baki dengan penyortiran bawaan dan deteksi baki kosong",
+      "Mengintegrasikan tinjauan gambar dan data inspeksi ke dalam sistem backend",
+      "Ringkas dan modular—mudah diterapkan di berbagai jalur",
+      "Mendukung pemantauan status langsung dan peringatan kesalahan jarak jauh"
+    ],
+    "parameter_en": [
+      {
+        "label": "Power Supply  ",
+        "value": "AC 380V±10%"
+      },
+      {
+        "label": "Rated Power  ",
+        "value": "5Kw"
+      },
+      {
+        "label": "Operational Noise Level  ",
+        "value": "≤65dB"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-10°C~+50°C"
+      },
+      {
+        "label": "Operating Humidity  ",
+        "value": "10%~90%RH, Non-condensing"
+      },
+      {
+        "label": "Image Processing Latency  ",
+        "value": "50~300ms/image"
+      },
+      {
+        "label": "Passenger ID and Baggage Matching Accuracy",
+        "value": "  ≥ 99.9%"
+      },
+      {
+        "label": "Tray Transfer Speed  ",
+        "value": "0.22 m/s"
+      },
+      {
+        "label": "System Response Time  ",
+        "value": "≤ 3s (interface load or command execution)"
+      },
+      {
+        "label": "Dimensions ",
+        "value": " 14,745mm*2,780mm*2,200mm"
+      },
+      {
+        "label": "Passenger Throughput Rate ",
+        "value": " ≥ 600 trays/hour"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Catu Daya  ",
+        "value": "AC 380V±10%"
+      },
+      {
+        "label": "Rated Power  ",
+        "value": "5Kw"
+      },
+      {
+        "label": "Operational Noise Level  ",
+        "value": "≤65dB"
+      },
+      {
+        "label": "Suhu Operasional  ",
+        "value": "-10°C~+50°C"
+      },
+      {
+        "label": "Kelembapan Operasional  ",
+        "value": "10%~90%RH, Non-kondensasi"
+      },
+      {
+        "label": "Latensi Pemrosesan Gambar  ",
+        "value": "50~300 ms/gambar"
+      },
+      {
+        "label": "Pencocokan ID Penumpang dan Bagasi Akurasi  ",
+        "value": "≥ 99,9%"
+      },
+      {
+        "label": "Kecepatan Transfer Baki  ",
+        "value": "0,22 m/dtk"
+      },
+      {
+        "label": "Waktu Respons Sistem ",
+        "value": " ≤ 3 dtk (beban antarmuka atau eksekusi perintah)"
+      },
+      {
+        "label": "Dimensi  ",
+        "value": "14.745 mm*2.780 mm*2.200 mm"
+      },
+      {
+        "label": "Tingkat Throughput Penumpang ",
+        "value": " ≥ 600 baki/jam"
+      }
+    ]
+  },
+  {
     "id": "0767346a-a027-475a-a891-4b89666289e3",
     "product_id": "958f3167-3ca8-4369-a4f5-ac3348c7752c",
     "introduction_en": "Maxvision Palm Vein Recognition Terminal adopts Al recognition technology, combined with scientific applications such as vision, optics, biology, etc., uses multi-band infrared imaging technology to obtain the palm vein distribution map of the palm, and performs biometric identification through a dedicated comparison algorithm to achieve ultra-high performance. The equipment has the advantages of safety and reliability, non-contact authentication, live detection, good anti-interference, and high accuracy. It can be embedded in access control, gates, self-service terminals and other systems, and is widely used in customs, border defense, seaports, communities buildings, access controlled premises etc..",
@@ -233,6 +347,26 @@
         "label": "Ukuran Referensi  ",
         "value": "P*L*T=4350*2555*2400 mm"
       }
+    ]
+  },
+  {
+    "id": "13f510ee-94e3-43c5-b3e5-683f5a6adf8c",
+    "product_id": "0042c6ae-43c6-4fb2-ab6f-e183f788c116",
+    "introduction_en": "Maxvision's Multi-functional Verification Counter (C) is an all-in-one inspection solution built for high-volume border checkpoints such as seaports and airports. Designed for front-line deployment, it integrates key clearance functions-including identity verification, biometric data capture, automated document stamping, multilingual communication, Al-driven video analytics, and voice interaction-into a single streamlined platform.\nThe system offers centralized control of peripheral devices such as lighting, ventilation, temperature, and surveillance, enabling a fully automated, closed-loop inspection process. It\nhelps border agencies speed up processing, reduce manual workload, and create a safer, more efficient inspection environment for travelers and officers alike.",
+    "introduction_id": "Konter Verifikasi Multifungsi (C) dari Maxvision adalah solusi inspeksi terpadu yang dirancang untuk pos pemeriksaan perbatasan bervolume tinggi seperti pelabuhan dan bandara. Dirancang untuk penerapan di garis depan, solusi ini mengintegrasikan fungsi-fungsi utama perizinan—termasuk verifikasi identitas, pengambilan data biometrik, pemberian cap dokumen otomatis, komunikasi multibahasa, analitik video berbasis AI, dan interaksi suara—ke dalam satu platform yang efisien.\nSistem ini menawarkan kontrol terpusat untuk perangkat periferal seperti pencahayaan, ventilasi, suhu, dan pengawasan, yang memungkinkan proses inspeksi loop tertutup yang sepenuhnya otomatis.\nSistem ini membantu instansi perbatasan mempercepat pemrosesan, mengurangi beban kerja manual, dan menciptakan lingkungan inspeksi yang lebih aman dan efisien bagi para pelancong dan petugas.",
+    "features_en": [
+      "Unified Clearance in One Device",
+      "Multilingual Interaction & Translation",
+      "Intelligent Voice & Guided Assistance",
+      "Visual Monitoring & Platform Integration",
+      "Built-in Security & Emergency Response"
+    ],
+    "features_id": [
+      "Izin Terpadu dalam Satu Perangkat",
+      "Interaksi & Terjemahan Multibahasa",
+      "Bantuan Suara & Panduan Cerdas",
+      "Pemantauan Visual & Integrasi Platform",
+      "Keamanan Terpadu & Respons Darurat"
     ]
   },
   {
@@ -546,6 +680,110 @@
     ]
   },
   {
+    "id": "679a7f86-d318-403d-bc00-95a984ecc9c5",
+    "product_id": "85e22b11-97ad-47e8-8d7f-1a03ac92be1b",
+    "introduction_en": "The Intelligent Security Tray Return System (Basic) is an automated solution designed for passenger security checkpoints at border control and transportation hubs. It replaces the manual process of returning trays used during carry-on baggage screening, enabling automated tray recirculation, elevation, and intelligent sorting.\nBy integrating advanced control systems, sensor-based recognition, and smart queuing algorithms, the system significantly reduces the need for manual handling while improving passenger throughput and enhancing the overall automation level of security inspection workflows.\nWith a compact and modular design, it can be flexibly deployed in a wide range of checkpoint environments. As a core component of next-generation smart security infrastructure, it helps operators streamline operations, lower labor costs, and deliver a smoother passenger experience.",
+    "introduction_id": "Sistem Pengembalian Baki Keamanan Cerdas (Dasar) adalah solusi otomatis yang dirancang untuk pos pemeriksaan keamanan penumpang di kontrol perbatasan dan pusat transportasi. Sistem ini menggantikan proses manual pengembalian baki yang digunakan selama pemeriksaan bagasi kabin, memungkinkan resirkulasi baki otomatis, elevasi, dan penyortiran cerdas.\nDengan mengintegrasikan sistem kontrol canggih, pengenalan berbasis sensor, dan algoritma antrean cerdas, sistem ini secara signifikan mengurangi kebutuhan penanganan manual sekaligus meningkatkan throughput penumpang dan meningkatkan tingkat otomatisasi keseluruhan alur kerja pemeriksaan keamanan.\nDengan desain yang ringkas dan modular, sistem ini dapat diterapkan secara fleksibel di berbagai lingkungan pos pemeriksaan. Sebagai komponen inti dari infrastruktur keamanan cerdas generasi mendatang, sistem ini membantu operator menyederhanakan operasi, menurunkan biaya tenaga kerja, dan memberikan pengalaman penumpang yang lebih lancar.",
+    "features_en": [
+      "Automated Operation for Reduced Labor Costs",
+      "Flexible Deployment Across Diverse Environments",
+      "Improved Throughput and Flow Efficiency",
+      "Smart Scheduling & Intelligent Sorting",
+      "Enhanced Passenger Experience"
+    ],
+    "features_id": [
+      "Operasi Otomatis untuk Mengurangi Biaya Tenaga Kerja",
+      "Penerapan Fleksibel di Berbagai Lingkungan",
+      "Peningkatan Throughput dan Efisiensi Aliran",
+      "Penjadwalan Cerdas & Penyortiran Cerdas",
+      "Pengalaman Penumpang yang Lebih Baik"
+    ],
+    "parameter_en": [
+      {
+        "label": "Power Supply  ",
+        "value": "220V±10%"
+      },
+      {
+        "label": "Rated Power ",
+        "value": " 3KW"
+      },
+      {
+        "label": "Operational Noise Level ",
+        "value": " ≤65dB"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-10°C~+50°C"
+      },
+      {
+        "label": "Relative Humidity  ",
+        "value": "10%~90%RH, Non-condensing"
+      },
+      {
+        "label": "Service Life  ",
+        "value": "10 years"
+      },
+      {
+        "label": "Image Handling Time  ",
+        "value": "50~300ms/image"
+      },
+      {
+        "label": "Throughput Performance  ",
+        "value": "≥360 bins/hour; ≥180 passengers/hour"
+      },
+      {
+        "label": "Tray Transfer Speed ",
+        "value": " 0.22 m/s"
+      },
+      {
+        "label": "Equipment Dimensions  ",
+        "value": "9820mm*920mm*1570mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Catu Daya ",
+        "value": " 220V±10%"
+      },
+      {
+        "label": "Daya Terukur  ",
+        "value": "3KW"
+      },
+      {
+        "label": "Tingkat Kebisingan Operasional ",
+        "value": " ≤65dB"
+      },
+      {
+        "label": "Suhu Operasional  ",
+        "value": "-10°C~+50°C"
+      },
+      {
+        "label": "Kelembapan Relatif  ",
+        "value": "10%~90%RH, Non-kondensasi"
+      },
+      {
+        "label": "Masa Pakai  ",
+        "value": "10 tahun"
+      },
+      {
+        "label": "Waktu Penanganan Gambar  ",
+        "value": "50~300ms/gambar"
+      },
+      {
+        "label": "Kinerja Throughput ",
+        "value": " ≥360 tempat sampah/jam; ≥180 penumpang/jam"
+      },
+      {
+        "label": "Kecepatan Transfer Baki  ",
+        "value": "0,22 m/s"
+      },
+      {
+        "label": "Dimensi Peralatan  ",
+        "value": "9820mm*920mm*1570mm"
+      }
+    ]
+  },
+  {
     "id": "6f736cd8-6590-4266-b050-b5b29be087cf",
     "product_id": "4d286693-a6d3-4f8f-ae03-dc8f4bbc4507",
     "introduction_en": "Multi-Biometric Capture Terminal integrates ten-finger fingerprints capture, HD iris capture and visible light face capture functions. While performing fingerprint, iris, and face capture, it can realize the rapid capture and verification of multiple biometric information of passengers. The device is characterized by its small size and flexible placement, and is widely applied in high-security areas such as airports, ports, police stations, and border checkpoints where personnel biometric data capture and identity verification are required.",
@@ -766,6 +1004,221 @@
       {
         "label": "Ukuran  ",
         "value": "Ø60*20,5 mm"
+      }
+    ]
+  },
+  {
+    "id": "8c883a40-5d5c-436d-b6ee-36b5424317c2",
+    "product_id": "7af3a9a8-a3e6-4a0f-8d48-5937a573b45c",
+    "introduction_en": "This Multi-biometric Self-service Capture Device is purpose-built for border control, immigration processing, and identity verification. It consolidates document authentication, biometric capture, arrival card printing, fast-track registration, and entry/exit record retrieval into a single self-service platform.\nBy integrating multiple workflows into one streamlined process, the device reduces processing time, improves traveler throughput, and minimizes the need for manual assistance at checkpoints.\nEquipped with an OCR document reader, facial recognition camera, high-resolution fingerprint sensor, curved HD touchscreen, and dual printing modules, the system supports a wide range of international and domestic identity documents.\nIts modular design and open architecture allow for seamless integration with border management systems and future service extensions, making it ideal for use in airports, landports, immigration halls, and public service locations.",
+    "introduction_id": "Perangkat Perekam Swalayan Multibiometrik ini dirancang khusus untuk kontrol perbatasan, pemrosesan imigrasi, dan verifikasi identitas. Perangkat ini menggabungkan autentikasi dokumen, perekaman biometrik, pencetakan kartu kedatangan, registrasi jalur cepat, dan pengambilan catatan masuk/keluar ke dalam satu platform swalayan.\nDengan mengintegrasikan beberapa alur kerja ke dalam satu proses yang efisien, perangkat ini mengurangi waktu pemrosesan, meningkatkan throughput pelancong, dan meminimalkan kebutuhan akan bantuan manual di pos pemeriksaan.\nDilengkapi dengan pembaca dokumen OCR, kamera pengenal wajah, sensor sidik jari beresolusi tinggi, layar sentuh HD melengkung, dan modul pencetakan ganda, sistem ini mendukung beragam dokumen identitas internasional dan domestik.\nDesain modular dan arsitektur terbukanya memungkinkan integrasi yang mulus dengan sistem manajemen perbatasan dan perluasan layanan di masa mendatang, menjadikannya ideal untuk digunakan di bandara, pelabuhan darat, aula imigrasi, dan lokasi layanan publik.",
+    "features_en": [
+      "Unified platform for ID verification",
+      "registration",
+      "and document printing",
+      "Compatible with passports",
+      "visas",
+      "national IDs",
+      "and travel permits",
+      "Integrated facial recognition",
+      "fingerprint capture",
+      "and OCR reading",
+      "Auto-populates user data across all transaction modules",
+      "Supports ICAO-compliant document authentication and anti-forgery checks",
+      "Space-saving curved touchscreen with ergonomic interaction zone",
+      "Open API architecture for integration with existing government systems",
+      ""
+    ],
+    "features_id": [
+      "Platform terpadu untuk verifikasi identitas",
+      "registrasi",
+      "dan pencetakan dokumen",
+      "Kompatibel dengan paspor",
+      "visa",
+      "KTP",
+      "dan izin perjalanan",
+      "Pengenalan wajah terintegrasi",
+      "pengambilan sidik jari",
+      "dan pembacaan OCR",
+      "Mengisi data pengguna secara otomatis di semua modul transaksi",
+      "Mendukung autentikasi dokumen yang sesuai dengan ICAO dan pemeriksaan anti-pemalsuan",
+      "Layar sentuh melengkung hemat-ruang dengan zona interaksi ergonomis",
+      "Arsitektur API terbuka untuk integrasi dengan sistem pemerintahan yang ada",
+      ""
+    ],
+    "parameter_en": [
+      {
+        "label": "Input Voltage  ",
+        "value": "AC 220V±10%, 50Hz±5%"
+      },
+      {
+        "label": "Rated Power  ",
+        "value": "1000W"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-10°C~+50°C (Indoor)"
+      },
+      {
+        "label": "Storage Temperature ",
+        "value": " -20°C~+60°C (Indoor)"
+      },
+      {
+        "label": "Relative Humidity  ",
+        "value": "10%~90% RH, Non-condensing"
+      },
+      {
+        "label": "Device Material  ",
+        "value": "SPCC and 304-grade stainless steel"
+      },
+      {
+        "label": "Deployment Environment  ",
+        "value": "Indoor"
+      },
+      {
+        "label": "I/O Interfaces  ",
+        "value": "Ethernet"
+      },
+      {
+        "label": "Dimensions  ",
+        "value": "500*1737*440mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Tegangan Input  ",
+        "value": "AC 220V±10%, 50Hz±5%"
+      },
+      {
+        "label": "Daya Terukur  ",
+        "value": "1000W"
+      },
+      {
+        "label": "Suhu Operasional  ",
+        "value": "-10°C~+50°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Suhu Penyimpanan  ",
+        "value": "-20°C~+60°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Kelembapan Relatif  ",
+        "value": "10%~90% RH, Non-kondensasi"
+      },
+      {
+        "label": "Material Perangkat  ",
+        "value": "SPCC dan baja tahan karat grade 304"
+      },
+      {
+        "label": "Lingkungan Penggunaan  ",
+        "value": "Dalam Ruangan"
+      },
+      {
+        "label": "Antarmuka I/O  ",
+        "value": "Ethernet"
+      },
+      {
+        "label": "Dimensi  ",
+        "value": "500*1737*440mm"
+      }
+    ]
+  },
+  {
+    "id": "8d6a729d-7715-4bec-bfb2-5aaf50a8ed43",
+    "product_id": "f96ee1fd-b93d-4756-af48-586eca42fcd6",
+    "introduction_en": "This Intelligent Verification Terminal is built for secure, high-throughput identity verification in environments like airports, train stations, and border crossings. Combining advanced facial recognition with multi-document authentication, the terminal supports seamless validation of IDs, boarding passes, QR codes, and IC cards. With a dual-lens WDR camera and onboard image intelligence, it delivers fast, accurate recognition even in complex conditions-helping streamline passenger processing while maintaining a high level of security.",
+    "introduction_id": "Terminal Verifikasi Cerdas ini dirancang untuk verifikasi identitas yang aman dan berthroughput tinggi di lingkungan seperti bandara, stasiun kereta api, dan perlintasan perbatasan. Menggabungkan pengenalan wajah canggih dengan autentikasi multi-dokumen, terminal ini mendukung validasi kartu identitas, boarding pass, kode QR, dan kartu IC yang lancar. Dilengkapi kamera WDR lensa ganda dan kecerdasan gambar terintegrasi, terminal ini memberikan pengenalan yang cepat dan akurat bahkan dalam kondisi kompleks—membantu menyederhanakan pemrosesan penumpang sekaligus menjaga tingkat keamanan yang tinggi.",
+    "features_en": [
+      "Fast",
+      "Accurate Facial Recognition",
+      "Versatile Multi-Modal Verification",
+      "Robust Environmental Adaptability",
+      "Live Data Integration",
+      "Seamless System Integration",
+      "Designed for Operator Flexibility"
+    ],
+    "features_id": [
+      "Pengenalan Wajah yang Cepat dan Akurat",
+      "Verifikasi Multi-Modal yang Serbaguna",
+      "Adaptasi Lingkungan yang Tangguh",
+      "Integrasi Data Langsung",
+      "Integrasi Sistem yang Lancar",
+      "Dirancang untuk Fleksibilitas Operator"
+    ],
+    "parameter_en": [
+      {
+        "label": "Screen  ",
+        "value": "10\" HD LCDDual-side Screens"
+      },
+      {
+        "label": "Facial Recognition Range  ",
+        "value": "0.3m ~ 2m"
+      },
+      {
+        "label": "Recognition Speed ",
+        "value": "< 100ms"
+      },
+      {
+        "label": "Recognition Accuracy",
+        "value": " > 99%"
+      },
+      {
+        "label": "Anti-Spoofing   ",
+        "value": "Supports advanced liveness detection against photo and video spoofing"
+      },
+      {
+        "label": "Attribute Detection  ",
+        "value": "Capable of recognizing individuals wearing glasses, hats, and masks"
+      },
+      {
+        "label": "Audio Output  ",
+        "value": "Dual-speaker system with real-time voice prompts; noise-free and latency-free"
+      },
+      {
+        "label": "IC Card  ",
+        "value": "Supports"
+      },
+      {
+        "label": "Size ",
+        "value": " L*W*H=243.2*210.2*286.6mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Layar  ",
+        "value": "Layar LCD HD 10\"Dua Sisi"
+      },
+      {
+        "label": "Jangkauan Pengenalan Wajah ",
+        "value": " 0,3m ~ 2m"
+      },
+      {
+        "label": "Kecepatan Pengenalan ",
+        "value": "< 100ms"
+      },
+      {
+        "label": "Akurasi Pengenalan ",
+        "value": "> 99%"
+      },
+      {
+        "label": "Anti-Spoofing ",
+        "value": " Mendukung deteksi keaktifan tingkat lanjut terhadap spoofing foto dan video"
+      },
+      {
+        "label": "Deteksi Atribut  ",
+        "value": "Mampu mengenali individu yang mengenakan kacamata, topi, dan masker"
+      },
+      {
+        "label": "Keluaran Audio  ",
+        "value": "Sistem speaker ganda dengan perintah suara real-time; bebas noise dan latensi"
+      },
+      {
+        "label": "Kartu IC ",
+        "value": "Mendukung"
+      },
+      {
+        "label": "Ukuran  ",
+        "value": "P*L*T=243,2*210,2*286,6mm"
       }
     ]
   },
@@ -1076,6 +1529,106 @@
     ]
   },
   {
+    "id": "9a2f6325-3a3f-492d-9baa-1ba6d1f0a6ad",
+    "product_id": "e58ffa5a-9f6e-439b-8e1a-b0375cc247df",
+    "introduction_en": "The Self-service Security Inspection E-gate is an advanced solution developed by Maxvision to enhance passenger entry and exit efficiency and security. It integrates document verification, identity recognition, anti-tailgating, and intrusion prevention into a streamlined system. The channel features two automatic gates: the first gate guides passengers to scan their documents, and upon successful verification, the gate opens automatically for quick clearance; the second gate is equipped with facial recognition to ensure identity matching before granting access. This system significantly improves processing speed and accuracy, making it an ideal upgrade to traditional inspection methods. It is widely used in critical areas such as airports, enhancing efficiency and security.",
+    "introduction_id": "E-gate Inspeksi Keamanan Swalayan adalah solusi canggih yang dikembangkan oleh Maxvision untuk meningkatkan efisiensi dan keamanan masuk dan keluar penumpang. Solusi ini mengintegrasikan verifikasi dokumen, pengenalan identitas, anti-tailgating, dan pencegahan intrusi ke dalam sistem yang efisien. Saluran ini memiliki dua gerbang otomatis: gerbang pertama memandu penumpang untuk memindai dokumen mereka, dan setelah verifikasi berhasil, gerbang terbuka secara otomatis untuk proses pemeriksaan cepat; gerbang kedua dilengkapi dengan pengenalan wajah untuk memastikan pencocokan identitas sebelum memberikan akses. Sistem ini secara signifikan meningkatkan kecepatan dan akurasi pemrosesan, menjadikannya peningkatan ideal untuk metode inspeksi tradisional. Sistem ini banyak digunakan di area kritis seperti bandara, meningkatkan efisiensi dan keamanan.",
+    "features_en": [
+      "Unified Identity Verification Platform",
+      "Optimized for High Throughput",
+      "Robust Security Safeguards",
+      "Multimodal User Interface",
+      "Flexible Architecture with Optional Modules",
+      "Built-in Monitoring and Incident Logging",
+      "Engineered for Reliability and Longevity"
+    ],
+    "features_id": [
+      "Platform Verifikasi Identitas Terpadu",
+      "Dioptimalkan untuk Throughput Tinggi",
+      "Perlindungan Keamanan yang Tangguh",
+      "Antarmuka Pengguna Multimoda",
+      "Arsitektur Fleksibel dengan Modul Opsional",
+      "Pemantauan dan Pencatatan Insiden Terpadu",
+      "Dirancang untuk Keandalan dan Daya Tahan"
+    ],
+    "parameter_en": [
+      {
+        "label": "Average Passage Rate  ",
+        "value": "7 persons/minute"
+      },
+      {
+        "label": "Overcurrent Protection ",
+        "value": "6A"
+      },
+      {
+        "label": "Door Opening/Closing Time  ",
+        "value": "< 0.3s/cycle (Adjustable)"
+      },
+      {
+        "label": "Storage Temperature  ",
+        "value": "-20°C~+60°C (Indoor)"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-10°C~+50°C (Indoor)"
+      },
+      {
+        "label": "Relative Humidity  ",
+        "value": "10% ~ 90% RH, Non-condensing"
+      },
+      {
+        "label": "Passage Width  ",
+        "value": "600~1100mm"
+      },
+      {
+        "label": "Turnstile Lifecycle  ",
+        "value": "MCBF ≥ 20 million"
+      },
+      {
+        "label": "Dimensions  ",
+        "value": "L*W*H = 3000 * 180 * 1595mm."
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Rata-rata Kecepatan Lalu Lintas  ",
+        "value": "7 orang/menit"
+      },
+      {
+        "label": "Perlindungan Arus Lebih  ",
+        "value": "6A"
+      },
+      {
+        "label": "Waktu Buka/Tutup Pintu ",
+        "value": " < 0,3 detik/siklus (Dapat Disesuaikan)"
+      },
+      {
+        "label": "Suhu Penyimpanan ",
+        "value": " -20°C~+60°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Suhu Operasional  ",
+        "value": "-10°C~+50°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Kelembapan Relatif  ",
+        "value": "10% ~ 90% RH, Non-kondensasi"
+      },
+      {
+        "label": "Lebar Lorong  ",
+        "value": "600~1100 mm"
+      },
+      {
+        "label": "Siklus Hidup Pintu Putar ",
+        "value": " MCBF ≥ 20 juta"
+      },
+      {
+        "label": "Dimensi ",
+        "value": " P*L*T = 3000 * 180 * 1595 mm."
+      }
+    ]
+  },
+  {
     "id": "b33f48fd-adf5-423e-91cc-f5fe7f7cc85e",
     "product_id": "2c009557-1530-4344-a5a4-acd8d26a5bf4",
     "introduction_id": "Maxvision E-gate dirancang dengan profil aluminium + kaca tempered dengan transparansi tinggi, yang tahan lama dan tahan korosi. Dilengkapi dengan lalu lintas dua arah, anti-jepit cerdas, petunjuk panduan, dan fungsi lainnya; dilengkapi dengan pengenalan wajah, penggesekan kartu IC, kode QR, dan buka-tutup pintu jarak jauh. Modul fungsional seperti ini menerapkan berbagai metode akses autentikasi. Peralatan ini memiliki integrasi cerdas yang tinggi dan stabilitas yang kuat, serta cocok untuk berbagai tempat kontrol autentikasi identitas pintu masuk dan keluar.",
@@ -1286,6 +1839,130 @@
       {
         "label": "Ukuran  ",
         "value": "186*156*129mm"
+      }
+    ]
+  },
+  {
+    "id": "b955d57c-69b7-40a7-9598-4d0f95c6acd9",
+    "product_id": "886381eb-081d-47d2-a7b4-994baf527069",
+    "introduction_en": "The Intelligent Security Tray Return System (Premium) is a fully integrated tray return system engineered for high-volume, high-security environments. It combines facial recognition, image analysis, tray tracking, automated sorting, recheck routing, and real-time operations monitoring-creating a true end-to-end automated inspection process. Designed for complex inspection scenarios, it helps streamline workflow, reduce human intervention, and enforce end-to-end process integrity.",
+    "introduction_id": "Sistem Pengembalian Baki Keamanan Cerdas (Premium) adalah sistem pengembalian baki terintegrasi penuh yang dirancang untuk lingkungan bervolume tinggi dan berkeamanan tinggi. Sistem ini menggabungkan pengenalan wajah, analisis gambar, pelacakan baki, penyortiran otomatis, perutean pemeriksaan ulang, dan pemantauan operasi waktu nyata—menciptakan proses inspeksi otomatis menyeluruh yang sesungguhnya. Dirancang untuk skenario inspeksi yang kompleks, sistem ini membantu menyederhanakan alur kerja, mengurangi intervensi manusia, dan menegakkan integritas proses menyeluruh.",
+    "features_en": [
+      "Links passenger identity with inspection processes in real time",
+      "Automates recheck routing based on image analysis results",
+      "Enables precise tray movement through live tracking and dispatch",
+      "Synchronizes baggage",
+      "tray",
+      "and data flows across the system",
+      "Centralized dashboard for intuitive system control and diagnostics"
+    ],
+    "features_id": [
+      "Menghubungkan identitas penumpang dengan proses pemeriksaan secara real-time",
+      "Mengotomatiskan perutean pemeriksaan ulang berdasarkan hasil analisis gambar",
+      "Memungkinkan pergerakan baki yang presisi melalui pelacakan dan pengiriman langsung",
+      "Menyinkronkan aliran bagasi",
+      "baki",
+      "dan data di seluruh sistem",
+      "Dasbor terpusat untuk kontrol dan diagnostik sistem yang intuitif"
+    ],
+    "parameter_en": [
+      {
+        "label": "Power Supply  ",
+        "value": "AC 380V±10%"
+      },
+      {
+        "label": "Rated Power  ",
+        "value": "7Kw"
+      },
+      {
+        "label": "Operational Noise Level  ",
+        "value": "≤65dB"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-10°C~+50°C"
+      },
+      {
+        "label": "Operating Humidity  ",
+        "value": "10%~90%RH, Non-condensing"
+      },
+      {
+        "label": "Service Life ",
+        "value": " 10 Years"
+      },
+      {
+        "label": "Image Processing Latency ",
+        "value": "50~300ms/image"
+      },
+      {
+        "label": "ID-to-Baggage Association Accuracy ",
+        "value": "99.9%"
+      },
+      {
+        "label": "Passenger Throughput Rate  ",
+        "value": "≥ 600 trays/hour"
+      },
+      {
+        "label": "Tray Transfer Speed  ",
+        "value": "0.22m/s"
+      },
+      {
+        "label": "System Response Time  ",
+        "value": "≤ 3s (from command to interface response)"
+      },
+      {
+        "label": "Dimensions  ",
+        "value": "15,250mm*2,850mm*2,600mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Catu Daya  ",
+        "value": "AC 380V±10%"
+      },
+      {
+        "label": "Daya Terukur  ",
+        "value": "7Kw"
+      },
+      {
+        "label": "Tingkat Kebisingan Operasional  ",
+        "value": "≤65dB"
+      },
+      {
+        "label": "Suhu Operasional ",
+        "value": "-10°C~+50°C"
+      },
+      {
+        "label": "Kelembapan Operasional  ",
+        "value": "10%~90%RH, Non-kondensasi"
+      },
+      {
+        "label": "Masa Pakai  ",
+        "value": "10 Tahun"
+      },
+      {
+        "label": "Latensi Pemrosesan Gambar  ",
+        "value": "50~300 ms/gambar"
+      },
+      {
+        "label": "Akurasi ID-ke-Asosiasi Bagasi ",
+        "value": "99,9%"
+      },
+      {
+        "label": "Tingkat Throughput Penumpang ",
+        "value": " ≥ 600 baki/jam"
+      },
+      {
+        "label": "Kecepatan Transfer Baki  ",
+        "value": "0,22 m/dtk"
+      },
+      {
+        "label": "Waktu Respons Sistem  ",
+        "value": "≤ 3 dtk (dari perintah ke respons antarmuka)"
+      },
+      {
+        "label": "Dimensi  ",
+        "value": "15.250 mm*2.850 mm*2.600 mm"
       }
     ]
   },
