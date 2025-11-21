@@ -1,0 +1,78 @@
+{
+  "id": "48ef4e9c-6416-4a67-b512-3956c553b5f2",
+  "product_id": "40ac3cdb-40be-47f6-ade2-0249d9a1ecfe",
+  "introduction_en": "The Infrared Thermometer is a non-contact solution designed for rapid detection of abnormal body temperatures among travelers. Leveraging thermal imaging and intelligent facial recognition algorithms, the system accurately and tracks individuals with elevated body temperatures while effectively filtering out false alarms caused by external heat sources such as hot beverages or food. Equipped with an HD camera and AI-based analysis, the system enables automatic detection, real-time alerting, and image capture of potential febrile cases.\nThe system incorporates a high-precision blackbody radiation source as a temperature reference to compensate for environmental influences and thermal drift of the imaging sensor. This ensures consistent temperature calibration, fast warm-up, and precise thermal control, significantly improving measurement accuracy and system reliability under complex environmental conditions.\nIt is ideal for deployment in wide-area temperature screening scenarios such as public halls and overhead corridor installations.",
+  "introduction_id": "Termometer Inframerah adalah solusi non-kontak yang dirancang untuk mendeteksi suhu tubuh abnormal secara cepat di antara para pelancong. Dengan memanfaatkan pencitraan termal dan algoritma pengenalan wajah cerdas, sistem ini secara akurat melacak individu dengan suhu tubuh tinggi sekaligus secara efektif menyaring alarm palsu yang disebabkan oleh sumber panas eksternal seperti minuman panas atau makanan. Dilengkapi dengan kamera HD dan analisis berbasis AI, sistem ini memungkinkan deteksi otomatis, peringatan waktu nyata, dan pengambilan gambar kasus potensial demam.\nSistem ini menggabungkan sumber radiasi benda hitam presisi tinggi sebagai referensi suhu untuk mengkompensasi pengaruh lingkungan dan pergeseran termal sensor pencitraan. Hal ini memastikan kalibrasi suhu yang konsisten, pemanasan yang cepat, dan kontrol termal yang presisi, yang secara signifikan meningkatkan akurasi pengukuran dan keandalan sistem dalam kondisi lingkungan yang kompleks.\nSistem ini ideal untuk digunakan dalam skenario pemeriksaan suhu area luas seperti aula publik dan instalasi koridor di atas kepala.",
+  "features_en": [
+    "High Throughput",
+    "Non-Intrusive Experience",
+    "Accurate and Reliable Detection",
+    "Real-Time Calibration"
+  ],
+  "features_id": [
+    "Throughput Tinggi",
+    "Pengalaman Non-Intrusif",
+    "Deteksi Akurat dan Andal",
+    "Kalibrasi Real-Time"
+  ],
+  "parameter_en": [
+    {
+      "label": "Infrared Wavelength Range ",
+      "value": " 8~14um"
+    },
+    {
+      "label": "Lens Focal Length  ",
+      "value": "5.0mm"
+    },
+    {
+      "label": "Measurement Accuracy  ",
+      "value": "±0.3°C Accuracy with Blackbody Calibration"
+    },
+    {
+      "label": "Effective Detection Distance ",
+      "value": "0.5m~2m"
+    },
+    {
+      "label": "Installation Environment  ",
+      "value": "Ceiling-MountedAbove E-gate"
+    },
+    {
+      "label": "Blackbody Dimensions  ",
+      "value": "75*75*90mm"
+    },
+    {
+      "label": "Thermal Sensor Dimensions  ",
+      "value": "116*150*57mm"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Rentang Panjang Gelombang Inframerah  ",
+      "value": "8~14um"
+    },
+    {
+      "label": "Panjang Fokus Lensa  ",
+      "value": "5,0mm"
+    },
+    {
+      "label": "Akurasi Pengukuran ",
+      "value": " Akurasi ±0,3°C dengan Kalibrasi Benda Hitam"
+    },
+    {
+      "label": "Jarak Deteksi Efektif  ",
+      "value": "0,5m~2m"
+    },
+    {
+      "label": "Lingkungan Pemasangan  ",
+      "value": "Terpasang di Langit-Langit di Atas Gerbang-E"
+    },
+    {
+      "label": "Dimensi Benda Hitam  ",
+      "value": "75*75*90mm"
+    },
+    {
+      "label": "Dimensi Sensor Termal  ",
+      "value": "116*150*57mm"
+    }
+  ]
+}
