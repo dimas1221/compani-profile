@@ -1,0 +1,124 @@
+{
+  "id": "b955d57c-69b7-40a7-9598-4d0f95c6acd9",
+  "product_id": "886381eb-081d-47d2-a7b4-994baf527069",
+  "introduction_en": "The Intelligent Security Tray Return System (Premium) is a fully integrated tray return system engineered for high-volume, high-security environments. It combines facial recognition, image analysis, tray tracking, automated sorting, recheck routing, and real-time operations monitoring-creating a true end-to-end automated inspection process. Designed for complex inspection scenarios, it helps streamline workflow, reduce human intervention, and enforce end-to-end process integrity.",
+  "introduction_id": "Sistem Pengembalian Baki Keamanan Cerdas (Premium) adalah sistem pengembalian baki terintegrasi penuh yang dirancang untuk lingkungan bervolume tinggi dan berkeamanan tinggi. Sistem ini menggabungkan pengenalan wajah, analisis gambar, pelacakan baki, penyortiran otomatis, perutean pemeriksaan ulang, dan pemantauan operasi waktu nyata—menciptakan proses inspeksi otomatis menyeluruh yang sesungguhnya. Dirancang untuk skenario inspeksi yang kompleks, sistem ini membantu menyederhanakan alur kerja, mengurangi intervensi manusia, dan menegakkan integritas proses menyeluruh.",
+  "features_en": [
+    "Links passenger identity with inspection processes in real time",
+    "Automates recheck routing based on image analysis results",
+    "Enables precise tray movement through live tracking and dispatch",
+    "Synchronizes baggage",
+    "tray",
+    "and data flows across the system",
+    "Centralized dashboard for intuitive system control and diagnostics"
+  ],
+  "features_id": [
+    "Menghubungkan identitas penumpang dengan proses pemeriksaan secara real-time",
+    "Mengotomatiskan perutean pemeriksaan ulang berdasarkan hasil analisis gambar",
+    "Memungkinkan pergerakan baki yang presisi melalui pelacakan dan pengiriman langsung",
+    "Menyinkronkan aliran bagasi",
+    "baki",
+    "dan data di seluruh sistem",
+    "Dasbor terpusat untuk kontrol dan diagnostik sistem yang intuitif"
+  ],
+  "parameter_en": [
+    {
+      "label": "Power Supply  ",
+      "value": "AC 380V±10%"
+    },
+    {
+      "label": "Rated Power  ",
+      "value": "7Kw"
+    },
+    {
+      "label": "Operational Noise Level  ",
+      "value": "≤65dB"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-10°C~+50°C"
+    },
+    {
+      "label": "Operating Humidity  ",
+      "value": "10%~90%RH, Non-condensing"
+    },
+    {
+      "label": "Service Life ",
+      "value": " 10 Years"
+    },
+    {
+      "label": "Image Processing Latency ",
+      "value": "50~300ms/image"
+    },
+    {
+      "label": "ID-to-Baggage Association Accuracy ",
+      "value": "99.9%"
+    },
+    {
+      "label": "Passenger Throughput Rate  ",
+      "value": "≥ 600 trays/hour"
+    },
+    {
+      "label": "Tray Transfer Speed  ",
+      "value": "0.22m/s"
+    },
+    {
+      "label": "System Response Time  ",
+      "value": "≤ 3s (from command to interface response)"
+    },
+    {
+      "label": "Dimensions  ",
+      "value": "15,250mm*2,850mm*2,600mm"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Catu Daya  ",
+      "value": "AC 380V±10%"
+    },
+    {
+      "label": "Daya Terukur  ",
+      "value": "7Kw"
+    },
+    {
+      "label": "Tingkat Kebisingan Operasional  ",
+      "value": "≤65dB"
+    },
+    {
+      "label": "Suhu Operasional ",
+      "value": "-10°C~+50°C"
+    },
+    {
+      "label": "Kelembapan Operasional  ",
+      "value": "10%~90%RH, Non-kondensasi"
+    },
+    {
+      "label": "Masa Pakai  ",
+      "value": "10 Tahun"
+    },
+    {
+      "label": "Latensi Pemrosesan Gambar  ",
+      "value": "50~300 ms/gambar"
+    },
+    {
+      "label": "Akurasi ID-ke-Asosiasi Bagasi ",
+      "value": "99,9%"
+    },
+    {
+      "label": "Tingkat Throughput Penumpang ",
+      "value": " ≥ 600 baki/jam"
+    },
+    {
+      "label": "Kecepatan Transfer Baki  ",
+      "value": "0,22 m/dtk"
+    },
+    {
+      "label": "Waktu Respons Sistem  ",
+      "value": "≤ 3 dtk (dari perintah ke respons antarmuka)"
+    },
+    {
+      "label": "Dimensi  ",
+      "value": "15.250 mm*2.850 mm*2.600 mm"
+    }
+  ]
+}
