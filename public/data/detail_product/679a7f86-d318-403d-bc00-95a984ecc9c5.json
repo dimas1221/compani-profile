@@ -1,0 +1,104 @@
+{
+  "id": "679a7f86-d318-403d-bc00-95a984ecc9c5",
+  "product_id": "85e22b11-97ad-47e8-8d7f-1a03ac92be1b",
+  "introduction_en": "The Intelligent Security Tray Return System (Basic) is an automated solution designed for passenger security checkpoints at border control and transportation hubs. It replaces the manual process of returning trays used during carry-on baggage screening, enabling automated tray recirculation, elevation, and intelligent sorting.\nBy integrating advanced control systems, sensor-based recognition, and smart queuing algorithms, the system significantly reduces the need for manual handling while improving passenger throughput and enhancing the overall automation level of security inspection workflows.\nWith a compact and modular design, it can be flexibly deployed in a wide range of checkpoint environments. As a core component of next-generation smart security infrastructure, it helps operators streamline operations, lower labor costs, and deliver a smoother passenger experience.",
+  "introduction_id": "Sistem Pengembalian Baki Keamanan Cerdas (Dasar) adalah solusi otomatis yang dirancang untuk pos pemeriksaan keamanan penumpang di kontrol perbatasan dan pusat transportasi. Sistem ini menggantikan proses manual pengembalian baki yang digunakan selama pemeriksaan bagasi kabin, memungkinkan resirkulasi baki otomatis, elevasi, dan penyortiran cerdas.\nDengan mengintegrasikan sistem kontrol canggih, pengenalan berbasis sensor, dan algoritma antrean cerdas, sistem ini secara signifikan mengurangi kebutuhan penanganan manual sekaligus meningkatkan throughput penumpang dan meningkatkan tingkat otomatisasi keseluruhan alur kerja pemeriksaan keamanan.\nDengan desain yang ringkas dan modular, sistem ini dapat diterapkan secara fleksibel di berbagai lingkungan pos pemeriksaan. Sebagai komponen inti dari infrastruktur keamanan cerdas generasi mendatang, sistem ini membantu operator menyederhanakan operasi, menurunkan biaya tenaga kerja, dan memberikan pengalaman penumpang yang lebih lancar.",
+  "features_en": [
+    "Automated Operation for Reduced Labor Costs",
+    "Flexible Deployment Across Diverse Environments",
+    "Improved Throughput and Flow Efficiency",
+    "Smart Scheduling & Intelligent Sorting",
+    "Enhanced Passenger Experience"
+  ],
+  "features_id": [
+    "Operasi Otomatis untuk Mengurangi Biaya Tenaga Kerja",
+    "Penerapan Fleksibel di Berbagai Lingkungan",
+    "Peningkatan Throughput dan Efisiensi Aliran",
+    "Penjadwalan Cerdas & Penyortiran Cerdas",
+    "Pengalaman Penumpang yang Lebih Baik"
+  ],
+  "parameter_en": [
+    {
+      "label": "Power Supply  ",
+      "value": "220V±10%"
+    },
+    {
+      "label": "Rated Power ",
+      "value": " 3KW"
+    },
+    {
+      "label": "Operational Noise Level ",
+      "value": " ≤65dB"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-10°C~+50°C"
+    },
+    {
+      "label": "Relative Humidity  ",
+      "value": "10%~90%RH, Non-condensing"
+    },
+    {
+      "label": "Service Life  ",
+      "value": "10 years"
+    },
+    {
+      "label": "Image Handling Time  ",
+      "value": "50~300ms/image"
+    },
+    {
+      "label": "Throughput Performance  ",
+      "value": "≥360 bins/hour; ≥180 passengers/hour"
+    },
+    {
+      "label": "Tray Transfer Speed ",
+      "value": " 0.22 m/s"
+    },
+    {
+      "label": "Equipment Dimensions  ",
+      "value": "9820mm*920mm*1570mm"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Catu Daya ",
+      "value": " 220V±10%"
+    },
+    {
+      "label": "Daya Terukur  ",
+      "value": "3KW"
+    },
+    {
+      "label": "Tingkat Kebisingan Operasional ",
+      "value": " ≤65dB"
+    },
+    {
+      "label": "Suhu Operasional  ",
+      "value": "-10°C~+50°C"
+    },
+    {
+      "label": "Kelembapan Relatif  ",
+      "value": "10%~90%RH, Non-kondensasi"
+    },
+    {
+      "label": "Masa Pakai  ",
+      "value": "10 tahun"
+    },
+    {
+      "label": "Waktu Penanganan Gambar  ",
+      "value": "50~300ms/gambar"
+    },
+    {
+      "label": "Kinerja Throughput ",
+      "value": " ≥360 tempat sampah/jam; ≥180 penumpang/jam"
+    },
+    {
+      "label": "Kecepatan Transfer Baki  ",
+      "value": "0,22 m/s"
+    },
+    {
+      "label": "Dimensi Peralatan  ",
+      "value": "9820mm*920mm*1570mm"
+    }
+  ]
+}

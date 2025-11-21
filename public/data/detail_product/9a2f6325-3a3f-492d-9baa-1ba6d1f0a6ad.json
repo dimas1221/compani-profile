@@ -1,0 +1,100 @@
+{
+  "id": "9a2f6325-3a3f-492d-9baa-1ba6d1f0a6ad",
+  "product_id": "e58ffa5a-9f6e-439b-8e1a-b0375cc247df",
+  "introduction_en": "The Self-service Security Inspection E-gate is an advanced solution developed by Maxvision to enhance passenger entry and exit efficiency and security. It integrates document verification, identity recognition, anti-tailgating, and intrusion prevention into a streamlined system. The channel features two automatic gates: the first gate guides passengers to scan their documents, and upon successful verification, the gate opens automatically for quick clearance; the second gate is equipped with facial recognition to ensure identity matching before granting access. This system significantly improves processing speed and accuracy, making it an ideal upgrade to traditional inspection methods. It is widely used in critical areas such as airports, enhancing efficiency and security.",
+  "introduction_id": "E-gate Inspeksi Keamanan Swalayan adalah solusi canggih yang dikembangkan oleh Maxvision untuk meningkatkan efisiensi dan keamanan masuk dan keluar penumpang. Solusi ini mengintegrasikan verifikasi dokumen, pengenalan identitas, anti-tailgating, dan pencegahan intrusi ke dalam sistem yang efisien. Saluran ini memiliki dua gerbang otomatis: gerbang pertama memandu penumpang untuk memindai dokumen mereka, dan setelah verifikasi berhasil, gerbang terbuka secara otomatis untuk proses pemeriksaan cepat; gerbang kedua dilengkapi dengan pengenalan wajah untuk memastikan pencocokan identitas sebelum memberikan akses. Sistem ini secara signifikan meningkatkan kecepatan dan akurasi pemrosesan, menjadikannya peningkatan ideal untuk metode inspeksi tradisional. Sistem ini banyak digunakan di area kritis seperti bandara, meningkatkan efisiensi dan keamanan.",
+  "features_en": [
+    "Unified Identity Verification Platform",
+    "Optimized for High Throughput",
+    "Robust Security Safeguards",
+    "Multimodal User Interface",
+    "Flexible Architecture with Optional Modules",
+    "Built-in Monitoring and Incident Logging",
+    "Engineered for Reliability and Longevity"
+  ],
+  "features_id": [
+    "Platform Verifikasi Identitas Terpadu",
+    "Dioptimalkan untuk Throughput Tinggi",
+    "Perlindungan Keamanan yang Tangguh",
+    "Antarmuka Pengguna Multimoda",
+    "Arsitektur Fleksibel dengan Modul Opsional",
+    "Pemantauan dan Pencatatan Insiden Terpadu",
+    "Dirancang untuk Keandalan dan Daya Tahan"
+  ],
+  "parameter_en": [
+    {
+      "label": "Average Passage Rate  ",
+      "value": "7 persons/minute"
+    },
+    {
+      "label": "Overcurrent Protection ",
+      "value": "6A"
+    },
+    {
+      "label": "Door Opening/Closing Time  ",
+      "value": "< 0.3s/cycle (Adjustable)"
+    },
+    {
+      "label": "Storage Temperature  ",
+      "value": "-20°C~+60°C (Indoor)"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-10°C~+50°C (Indoor)"
+    },
+    {
+      "label": "Relative Humidity  ",
+      "value": "10% ~ 90% RH, Non-condensing"
+    },
+    {
+      "label": "Passage Width  ",
+      "value": "600~1100mm"
+    },
+    {
+      "label": "Turnstile Lifecycle  ",
+      "value": "MCBF ≥ 20 million"
+    },
+    {
+      "label": "Dimensions  ",
+      "value": "L*W*H = 3000 * 180 * 1595mm."
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Rata-rata Kecepatan Lalu Lintas  ",
+      "value": "7 orang/menit"
+    },
+    {
+      "label": "Perlindungan Arus Lebih  ",
+      "value": "6A"
+    },
+    {
+      "label": "Waktu Buka/Tutup Pintu ",
+      "value": " < 0,3 detik/siklus (Dapat Disesuaikan)"
+    },
+    {
+      "label": "Suhu Penyimpanan ",
+      "value": " -20°C~+60°C (Dalam Ruangan)"
+    },
+    {
+      "label": "Suhu Operasional  ",
+      "value": "-10°C~+50°C (Dalam Ruangan)"
+    },
+    {
+      "label": "Kelembapan Relatif  ",
+      "value": "10% ~ 90% RH, Non-kondensasi"
+    },
+    {
+      "label": "Lebar Lorong  ",
+      "value": "600~1100 mm"
+    },
+    {
+      "label": "Siklus Hidup Pintu Putar ",
+      "value": " MCBF ≥ 20 juta"
+    },
+    {
+      "label": "Dimensi ",
+      "value": " P*L*T = 3000 * 180 * 1595 mm."
+    }
+  ]
+}
