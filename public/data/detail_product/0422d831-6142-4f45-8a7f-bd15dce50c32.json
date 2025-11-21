@@ -1,0 +1,114 @@
+{
+  "id": "0422d831-6142-4f45-8a7f-bd15dce50c32",
+  "product_id": "adc2f2a6-7155-49c4-bb57-b67597833c44",
+  "introduction_en": "The Intelligent Security Tray Return System (Standard) offers a balanced solution for mainstream inspection lanes-delivering core automation across identity verification, X-ray scanning, tray handling, sorting, and backend data integration. With a modular architecture and fast deployment capability, it fits seamlessly into airport and border control environments where efficiency, reliability, and scalability are key.",
+  "introduction_id": "Sistem Pengembalian Baki Keamanan Cerdas (Standar) menawarkan solusi seimbang untuk jalur inspeksi umum—menyediakan otomatisasi inti di seluruh proses verifikasi identitas, pemindaian sinar-X, penanganan baki, penyortiran, dan integrasi data backend. Dengan arsitektur modular dan kemampuan penerapan yang cepat, sistem ini sangat cocok dengan lingkungan kontrol bandara dan perbatasan yang mengutamakan efisiensi, keandalan, dan skalabilitas.",
+  "features_en": [
+    "Covers the full inspection workflow",
+    "from check-in to tray return",
+    "Automates tray circulation with built-in sorting and empty tray detection",
+    "Integrates image review and inspection data into backend systems",
+    "Compact and modular-easy to deploy across multiple lanes",
+    "Supports live status monitoring and remote fault alerts"
+  ],
+  "features_id": [
+    "Mencakup seluruh alur kerja inspeksi",
+    "mulai dari check-in hingga pengembalian baki",
+    "Mengotomatiskan sirkulasi baki dengan penyortiran bawaan dan deteksi baki kosong",
+    "Mengintegrasikan tinjauan gambar dan data inspeksi ke dalam sistem backend",
+    "Ringkas dan modular—mudah diterapkan di berbagai jalur",
+    "Mendukung pemantauan status langsung dan peringatan kesalahan jarak jauh"
+  ],
+  "parameter_en": [
+    {
+      "label": "Power Supply  ",
+      "value": "AC 380V±10%"
+    },
+    {
+      "label": "Rated Power  ",
+      "value": "5Kw"
+    },
+    {
+      "label": "Operational Noise Level  ",
+      "value": "≤65dB"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-10°C~+50°C"
+    },
+    {
+      "label": "Operating Humidity  ",
+      "value": "10%~90%RH, Non-condensing"
+    },
+    {
+      "label": "Image Processing Latency  ",
+      "value": "50~300ms/image"
+    },
+    {
+      "label": "Passenger ID and Baggage Matching Accuracy",
+      "value": "  ≥ 99.9%"
+    },
+    {
+      "label": "Tray Transfer Speed  ",
+      "value": "0.22 m/s"
+    },
+    {
+      "label": "System Response Time  ",
+      "value": "≤ 3s (interface load or command execution)"
+    },
+    {
+      "label": "Dimensions ",
+      "value": " 14,745mm*2,780mm*2,200mm"
+    },
+    {
+      "label": "Passenger Throughput Rate ",
+      "value": " ≥ 600 trays/hour"
+    }
+  ],
+  "parameter_id": [
+    {
+      "label": "Catu Daya  ",
+      "value": "AC 380V±10%"
+    },
+    {
+      "label": "Rated Power  ",
+      "value": "5Kw"
+    },
+    {
+      "label": "Operational Noise Level  ",
+      "value": "≤65dB"
+    },
+    {
+      "label": "Suhu Operasional  ",
+      "value": "-10°C~+50°C"
+    },
+    {
+      "label": "Kelembapan Operasional  ",
+      "value": "10%~90%RH, Non-kondensasi"
+    },
+    {
+      "label": "Latensi Pemrosesan Gambar  ",
+      "value": "50~300 ms/gambar"
+    },
+    {
+      "label": "Pencocokan ID Penumpang dan Bagasi Akurasi  ",
+      "value": "≥ 99,9%"
+    },
+    {
+      "label": "Kecepatan Transfer Baki  ",
+      "value": "0,22 m/dtk"
+    },
+    {
+      "label": "Waktu Respons Sistem ",
+      "value": " ≤ 3 dtk (beban antarmuka atau eksekusi perintah)"
+    },
+    {
+      "label": "Dimensi  ",
+      "value": "14.745 mm*2.780 mm*2.200 mm"
+    },
+    {
+      "label": "Tingkat Throughput Penumpang ",
+      "value": " ≥ 600 baki/jam"
+    }
+  ]
+}
