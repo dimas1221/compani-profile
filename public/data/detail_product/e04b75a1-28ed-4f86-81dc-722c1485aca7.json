@@ -1,0 +1,136 @@
+{
+  "introduction_id": "Sistem Deteksi Kontainer Kosong mengadopsi teknologi pembelajaran mendalam dan analisis sinyal akustik untuk mewujudkan deteksi status kontainer kosong/kontainer berat yang cerdas dan efisien. Peralatan ini menggunakan sensor presisi tinggi, dengan deteksi mandiri, penghindaran rintangan otomatis, deteksi kotak kosong, alarm suara dan cahaya, perintah suara, perlindungan keamanan, dan fungsi lainnya. Peralatan ini memiliki waktu deteksi yang singkat, akurasi deteksi yang tinggi, keamanan, dan keandalan, serta dapat dihubungkan secara cerdas dengan sistem bayonet untuk mewujudkan proses bea cukai van secara mandiri dan meningkatkan efisiensi kendaraan yang melintas. Peralatan ini dapat digunakan secara luas di pelabuhan, galangan kapal, dan tempat inspeksi kendaraan kontainer lainnya.",
+  "product_id": "b54d9355-7807-47b8-a3d2-e5e4c3b005ef",
+  "features_en": [
+    "Frame Height Adaptive",
+    "Deep Learning Algorithm",
+    "Remote Control",
+    "Offline Analysis"
+  ],
+  "description_en": "The Empty Container Detection System adopts deep learning and acoustic signal analysis technology to realize intelligent and efficient detection of empty container/heavy container status. The equipment uses high-precision sensors, with self-detection, automatic obstacle avoidance, empty box detection, sound and light alarm, voice prompt, security protection and other functions. The equipment has short detection time, high detection accuracy safety and reliability, and can be intelligently connected with the bayonet system to achieve self-service customs clearance of vans and improve vehicle passing efficiency, and can be widely used in port, freight yard, port and other container vehicle inspection places.",
+  "introduction_en": "The Empty Container Detection System adopts deep learning and acoustic signal analysis technology to realize intelligent and efficient detection of empty container/heavy container status. The equipment uses high-precision sensors, with self-detection, automatic obstacle avoidance, empty box detection, sound and light alarm, voice prompt, security protection and other functions. The equipment has short detection time, high detection accuracy safety and reliability, and can be intelligently connected with the bayonet system to achieve self-service customs clearance of vans and improve vehicle passing efficiency, and can be widely used in port, freight yard, port and other container vehicle inspection places.",
+  "parameter_id": [
+    {
+      "label": "Kontrol Lengan Ayun  ",
+      "value": "Lengan Ayun dapat berayun maju dan mundur"
+    },
+    {
+      "label": "Jarak Deteksi  ",
+      "value": "0~1000 mm"
+    },
+    {
+      "label": "Waktu Deteksi ",
+      "value": " ≤20 detik"
+    },
+    {
+      "label": "Akurasi Deteksi  ",
+      "value": "≥98%"
+    },
+    {
+      "label": "Antarmuka komunikasi  ",
+      "value": "TCP/IP, UDP"
+    },
+    {
+      "label": "Konsumsi Daya ",
+      "value": " ≤1200W"
+    },
+    {
+      "label": "Frekuensi Terukur  ",
+      "value": "50Hz±5%"
+    },
+    {
+      "label": "Tegangan Input  ",
+      "value": "AC 220V±10%"
+    },
+    {
+      "label": "Suhu Operasional  ",
+      "value": "-20°C-+65°C (Luar Ruangan)"
+    },
+    {
+      "label": "Suhu Penyimpanan  ",
+      "value": "-20°C-+65°C (Luar Ruangan)"
+    },
+    {
+      "label": "Kelembapan Relatif  ",
+      "value": "10~90% RH, Non-kondensasi"
+    },
+    {
+      "label": "Ukuran Wadah Suitablo  ",
+      "value": "Standar 20 kaki, 40 kaki, 45 kaki"
+    },
+    {
+      "label": "Pemasangan Lingkungan  ",
+      "value": "Semi-outdoor"
+    },
+    {
+      "label": "Dimensi  ",
+      "value": "P*L*T=920mm*900mm*2420mm"
+    }
+  ],
+  "id": "e04b75a1-28ed-4f86-81dc-722c1485aca7",
+  "features_id": [
+    "Adaptif Tinggi Bingkai",
+    "Algoritma Pembelajaran Mendalam",
+    "Pengendali Jarak Jauh",
+    "Analisis Offline"
+  ],
+  "description_id": "Sistem Deteksi Kontainer Kosong mengadopsi teknologi pembelajaran mendalam dan analisis sinyal akustik untuk mewujudkan deteksi status kontainer kosong/kontainer berat yang cerdas dan efisien. Peralatan ini menggunakan sensor presisi tinggi, dengan deteksi mandiri, penghindaran rintangan otomatis, deteksi kotak kosong, alarm suara dan cahaya, perintah suara, perlindungan keamanan, dan fungsi lainnya. Peralatan ini memiliki waktu deteksi yang singkat, akurasi deteksi yang tinggi, keamanan, dan keandalan, serta dapat dihubungkan secara cerdas dengan sistem bayonet untuk mewujudkan proses bea cukai van secara mandiri dan meningkatkan efisiensi kendaraan yang melintas. Peralatan ini dapat digunakan secara luas di pelabuhan, galangan kapal, dan tempat inspeksi kendaraan kontainer lainnya.",
+  "parameter_en": [
+    {
+      "label": "Swing Arm Control  ",
+      "value": "The Swing Arm can Swing Forward and Back"
+    },
+    {
+      "label": "Detection Distance ",
+      "value": " 0~1000mm"
+    },
+    {
+      "label": "Detection Time  ",
+      "value": "≤20s"
+    },
+    {
+      "label": "Detection Accurasy  ",
+      "value": "≥98%"
+    },
+    {
+      "label": "Communication interface  ",
+      "value": "TCP/IP, UDP"
+    },
+    {
+      "label": "Power Consumption  ",
+      "value": "≤1200W"
+    },
+    {
+      "label": "Rated Frequency  ",
+      "value": "50Hz±5%"
+    },
+    {
+      "label": "Input Voltage  ",
+      "value": "AC 220V±10%"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-20°C-+65°C (Outdoor)"
+    },
+    {
+      "label": "Storage Temperature  ",
+      "value": "-20°C-+65°C(Outdoor)"
+    },
+    {
+      "label": "Relative Humidity  ",
+      "value": "10~90% RH, Non-condensing"
+    },
+    {
+      "label": "Suitablo Containor Sizo ",
+      "value": " Standard 20 feet, 40 feet, 45 feet"
+    },
+    {
+      "label": "Installation Environment  ",
+      "value": "Semi-outdoor"
+    },
+    {
+      "label": "Dimension  ",
+      "value": "L*W*H=920mm*900mm*2420mm"
+    }
+  ]
+}
