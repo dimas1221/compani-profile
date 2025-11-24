@@ -1,0 +1,112 @@
+{
+  "introduction_id": "Sistem Pengawasan Bawah Kendaraan Tetap adalah sistem pemeriksaan keamanan kendaraan untuk akuisisi gambar, tampilan, pemantauan kondisi, dan alarm. Sistem ini secara efektif dapat mencegah orang, bom, senjata, bahan kimia, dan barang berbahaya bersembunyi di bawah mobil, dan banyak digunakan di pemerintahan, bandara, pelabuhan, militer, institusi, kedutaan besar, bank, hotel, dan tempat-tempat keamanan penting lainnya.",
+  "product_id": "2a766286-4839-4be4-baf0-cde5281bdcde",
+  "features_en": [
+    "Auto Match Vehicle Speed",
+    "Automatic LED Fill Light",
+    "Automatic Lens Cleaning",
+    "One-time HD Imaging"
+  ],
+  "description_en": "The Fixed Under-Vehicle Surveillance System is a vehicle security check system for image acquisition, display, condition monitoring and alarm. The system can effectively prevent the hiding of people, bombs, weapons, chemical and dangerous goods under the car, and is widely used in government, airports, ports, military, institutions, embassies, banks, hotels and other important security places.",
+  "introduction_en": "The Fixed Under-Vehicle Surveillance System is a vehicle security check system for image acquisition, display, condition monitoring and alarm. The system can effectively prevent the hiding of people, bombs, weapons, chemical and dangerous goods under the car, and is widely used in government, airports, ports, military, institutions, embassies, banks, hotels and other important security places.",
+  "parameter_id": [
+    {
+      "label": "Lebar Kendaraan Deteksi  ",
+      "value": "≤4000 mm"
+    },
+    {
+      "label": "Tinggi Kendaraan Deteksi  ",
+      "value": "≥60 mm"
+    },
+    {
+      "label": "Deteksi Kecepatan  ",
+      "value": "1~60 km/jam (disarankan ≤30 km/jam)"
+    },
+    {
+      "label": "Catu Daya  ",
+      "value": "AC 220 ± 10%V, 50/60Hz"
+    },
+    {
+      "label": "Daya Terukur  ",
+      "value": "≤1000 W"
+    },
+    {
+      "label": "Arus Terukur  ",
+      "value": "4,5 A"
+    },
+    {
+      "label": "Antarmuka Komunikasi  ",
+      "value": "RJ45, RS485"
+    },
+    {
+      "label": "Tingkat Perlindungan  ",
+      "value": "IP68"
+    },
+    {
+      "label": "Lingkungan Kerja  ",
+      "value": "-40°C~+70°C"
+    },
+    {
+      "label": "Berat  ",
+      "value": "≤60 kg"
+    },
+    {
+      "label": "Ukuran  ",
+      "value": "926*236*273 mm"
+    }
+  ],
+  "id": "6f3dfe85-9de9-4587-836b-cc02ac5e5bf8",
+  "features_id": [
+    "Pencocokan Otomatis Kecepatan Kendaraan",
+    "Lampu LED Otomatis",
+    "Pembersihan Lensa Otomatis",
+    "Pencitraan HD Sekali Pakai"
+  ],
+  "description_id": "Sistem Pengawasan Bawah Kendaraan Tetap adalah sistem pemeriksaan keamanan kendaraan untuk akuisisi gambar, tampilan, pemantauan kondisi, dan alarm. Sistem ini secara efektif dapat mencegah orang, bom, senjata, bahan kimia, dan barang berbahaya bersembunyi di bawah mobil, dan banyak digunakan di pemerintahan, bandara, pelabuhan, militer, institusi, kedutaan besar, bank, hotel, dan tempat-tempat keamanan penting lainnya.",
+  "parameter_en": [
+    {
+      "label": "Detection Vehicle Width  ",
+      "value": "≤4000mm"
+    },
+    {
+      "label": "Detection Vehicle Height  ",
+      "value": "≥60mm"
+    },
+    {
+      "label": "Speed Detection  ",
+      "value": "1~60km/h (recommended ≤30km/h)"
+    },
+    {
+      "label": "Power Supply  ",
+      "value": "AC 220 ± 10%V, 50/60Hz"
+    },
+    {
+      "label": "Rated Power  ",
+      "value": "≤1000W"
+    },
+    {
+      "label": "Rated Current  ",
+      "value": "4.5A"
+    },
+    {
+      "label": "Communication Interfaces  ",
+      "value": "RJ45, RS485"
+    },
+    {
+      "label": "Protection Level  ",
+      "value": "IP68"
+    },
+    {
+      "label": "Working Environment  ",
+      "value": "-40°C~+70°C"
+    },
+    {
+      "label": "Weight  ",
+      "value": "≤60kg"
+    },
+    {
+      "label": "Size ",
+      "value": " 926*236*273mm"
+    }
+  ]
+}
