@@ -1,0 +1,136 @@
+{
+  "introduction_id": "Terminal Genggam ECTS adalah perangkat portabel yang digunakan untuk pelacakan proses pengangkutan kargo secara real-time. Dengan mengintegrasikan pemosisian rangkap tiga GPS+BD+GLONASS, sensor, dan teknologi komunikasi nirkabel, perangkat ini dapat memantau posisi kendaraan, status mengemudi, lintasan historis, dan status penyegelan/pembukaan segel kunci dari jarak jauh secara real-time, sehingga meningkatkan transparansi pengangkutan barang selama transit.",
+  "product_id": "732f0874-98e0-4e83-969f-1a740b4d31e4",
+  "features_en": [
+    "Real-Time Location Global Coverage",
+    "Intelligent Alerts Instant Notifications",
+    "Cloud Synchronization Offline Blocking/Unblocking",
+    "Data Interconnection and Mutual Transmission"
+  ],
+  "description_en": "ECTS Handheld Terminal is a portable device used for real-time tracking of the process of cargo transport. By integrating GPS+BD+GLONASS triple positioning, sensors and wireless communication technologies, it can remotely monitor in real time the position of the vehicle, the driving status, the historical trajectory and the sealing/unsealing status of the shuttered locks, so as to enhance the transparency of the transport of the goods in-transit.",
+  "introduction_en": "ECTS Handheld Terminal is a portable device used for real-time tracking of the process of cargo transport. By integrating GPS+BD+GLONASS triple positioning, sensors and wireless communication technologies, it can remotely monitor in real time the position of the vehicle, the driving status, the historical trajectory and the sealing/unsealing status of the shuttered locks, so as to enhance the transparency of the transport of the goods in-transit.",
+  "parameter_id": [
+    {
+      "label": "OS ",
+      "value": " Android 8.1/11"
+    },
+    {
+      "label": "Kelas tahan ledakan (model khusus)  ",
+      "value": "Ex ib IIC T4 Gb"
+    },
+    {
+      "label": "Kapasitas Baterai  ",
+      "value": "6000mA"
+    },
+    {
+      "label": "Metode Pengisian Daya  ",
+      "value": "Pengisian daya cepat PE, penuh tidak lebih dari 4 jam"
+    },
+    {
+      "label": "Modul Pemosisian GPS  ",
+      "value": "GPS+BD+GLONASS"
+    },
+    {
+      "label": "Tombol  ",
+      "value": "2 tombol volume, 2 tombol fungsi kiri dan kanan, 1 tombol daya"
+    },
+    {
+      "label": "Metode Notifikasi",
+      "value": "Suara, getar, peringatan LED"
+    },
+    {
+      "label": "Kartu PSAM (Kartu Enkripsi Cerdas)  ",
+      "value": "Opsional"
+    },
+    {
+      "label": "Suhu Operasional  ",
+      "value": "-20°C~+55°C"
+    },
+    {
+      "label": "Suhu Penyimpanan  ",
+      "value": "-30°C~+70°C"
+    },
+    {
+      "label": "Kelembapan Operasional  ",
+      "value": "5%~95%RH"
+    },
+    {
+      "label": "Debu dan Tahan Air  ",
+      "value": "IP65"
+    },
+    {
+      "label": "Berat (Termasuk Baterai)  ",
+      "value": "300g"
+    },
+    {
+      "label": "Dimensi  ",
+      "value": "160*80*15.8mm"
+    }
+  ],
+  "id": "f126af3b-5f50-4ce7-b7ea-d8dcba9a2c32",
+  "features_id": [
+    "Jangkauan Global Lokasi Real-Time",
+    "Peringatan Cerdas Notifikasi Instan",
+    "Sinkronisasi Cloud Pemblokiran/Pembukaan Blokir Offline",
+    "Interkoneksi Data dan Transmisi Bersama"
+  ],
+  "description_id": "Terminal Genggam ECTS adalah perangkat portabel yang digunakan untuk pelacakan proses pengangkutan kargo secara real-time. Dengan mengintegrasikan pemosisian rangkap tiga GPS+BD+GLONASS, sensor, dan teknologi komunikasi nirkabel, perangkat ini dapat memantau posisi kendaraan, status mengemudi, lintasan historis, dan status penyegelan/pembukaan segel kunci dari jarak jauh secara real-time, sehingga meningkatkan transparansi pengangkutan barang selama transit.",
+  "parameter_en": [
+    {
+      "label": "OS ",
+      "value": " Android 8.1/11"
+    },
+    {
+      "label": "Explosion-proof Class (special model)  ",
+      "value": "Ex ib IIC T4 Gb"
+    },
+    {
+      "label": "Battery Capacity  ",
+      "value": "6000mA"
+    },
+    {
+      "label": "Charging Method  ",
+      "value": "PE fast charging, full no more than 4 hours"
+    },
+    {
+      "label": "GPS Positioning Module  ",
+      "value": "GPS+BD+GLONASS"
+    },
+    {
+      "label": "Buttons  ",
+      "value": "2 volume buttons, 2 function buttons left and right, 1 power button"
+    },
+    {
+      "label": "Notification Method  ",
+      "value": "Sound, vibration, LED alert"
+    },
+    {
+      "label": "PSAM Card (Smart Encryption Card)",
+      "value": "Optional"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-20°C~+55°C"
+    },
+    {
+      "label": "Storage Temperature  ",
+      "value": "-30°C~+70°C"
+    },
+    {
+      "label": "Operating Humidity ",
+      "value": " 5%~95%RH"
+    },
+    {
+      "label": "Dust and Waterproof  ",
+      "value": "IP65"
+    },
+    {
+      "label": "Weight (Including Battery)  ",
+      "value": "300g"
+    },
+    {
+      "label": "Dimension  ",
+      "value": "160*80*15.8mm"
+    }
+  ]
+}
