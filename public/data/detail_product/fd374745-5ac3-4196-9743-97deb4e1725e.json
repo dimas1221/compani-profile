@@ -1,0 +1,114 @@
+{
+  "introduction_id": "Sistem Pengawasan Bawah Kendaraan Portabel terintegrasi dengan akuisisi citra bawah kendaraan, deteksi otomatis tampilan Mosaik gambar, dan pengisian cahaya. Sistem ini dapat secara otomatis mendeteksi kendaraan untuk inspeksi, pengisian cahaya cerdas, dan pemindaian real-time di bawah kendaraan melalui kamera HD. Sistem ini menyajikan gambar lengkap kendaraan secara akurat dan efisien, membantu petugas secara efektif memeriksa kondisi tersembunyi dan rusak di bawah kendaraan, serta mencegah tersembunyinya barang berbahaya kimia atau biologis, bom, dll. Sistem ini dapat digunakan di area bea cukai, keamanan publik, lalu lintas, bandara, hotel, dan area pemeriksaan pintu masuk lainnya.",
+  "product_id": "4f420502-34bc-464c-ac70-076c5949d60b",
+  "features_en": [
+    "Adapt to a variety of vehicle types",
+    "180° ultra-wide angle lens",
+    "Automatic LED fill light",
+    "Mobile design for rapid deployment",
+    "License Plate Recognition"
+  ],
+  "description_en": "The Portable Under-Vehicle Surveillance System integrates with vehicle bottom image acquisition, image Mosaic display automatic detection and light filling. The system can automatically detect the vehicle for inspection, intelligent light filling, and real-time scanning under vehicle through the HD camera, accurately and efficiently present the full picture of the vehicle, effectively assist the staff to check the hidden and damaged conditions under the vehicle, and prevent the hiding of chemical or biological dangerous goods, bombs, etc.. It is Applicable to customs, public security, traffic, airport, hotel and other entrance control places.",
+  "introduction_en": "The Portable Under-Vehicle Surveillance System integrates with vehicle bottom image acquisition, image Mosaic display automatic detection and light filling. The system can automatically detect the vehicle for inspection, intelligent light filling, and real-time scanning under vehicle through the HD camera, accurately and efficiently present the full picture of the vehicle, effectively assist the staff to check the hidden and damaged conditions under the vehicle, and prevent the hiding of chemical or biological dangerous goods, bombs, etc.. It is Applicable to customs, public security, traffic, airport, hotel and other entrance control places.",
+  "parameter_id": [
+    {
+      "label": "Bidang Sudut  ",
+      "value": "180°"
+    },
+    {
+      "label": "Lebar Rangka Kendaraan Deteksi  ",
+      "value": "≤2000 mm"
+    },
+    {
+      "label": "Tinggi Rangka Kendaraan Deteksi  ",
+      "value": "≥120 mm"
+    },
+    {
+      "label": "Batas Kecepatan Inspeksi  ",
+      "value": "≤30 km/jam"
+    },
+    {
+      "label": "Konsumsi Daya Siaga ",
+      "value": " ≤10 W"
+    },
+    {
+      "label": "Konsumsi Daya Inspeksi  ",
+      "value": "≤120 W"
+    },
+    {
+      "label": "Suhu Operasional  ",
+      "value": "-20°C~+60%°C"
+    },
+    {
+      "label": "Catu Daya ",
+      "value": " AC 220V"
+    },
+    {
+      "label": "Perlindungan Ingress  ",
+      "value": "IP67"
+    },
+    {
+      "label": "Berat Produk  ",
+      "value": "≤20 kg"
+    },
+    {
+      "label": "Dimensi Produk  ",
+      "value": "460*440*90 mm"
+    }
+  ],
+  "id": "fd374745-5ac3-4196-9743-97deb4e1725e",
+  "features_id": [
+    "Dapat disesuaikan dengan berbagai jenis kendaraan",
+    "Lensa sudut ultra lebar 180°",
+    "Lampu LED otomatis",
+    "Desain mobile untuk pemasangan cepat",
+    "Pengenalan Plat Nomor"
+  ],
+  "description_id": "Sistem Pengawasan Bawah Kendaraan Portabel terintegrasi dengan akuisisi citra bawah kendaraan, deteksi otomatis tampilan Mosaik gambar, dan pengisian cahaya. Sistem ini dapat secara otomatis mendeteksi kendaraan untuk inspeksi, pengisian cahaya cerdas, dan pemindaian real-time di bawah kendaraan melalui kamera HD. Sistem ini menyajikan gambar lengkap kendaraan secara akurat dan efisien, membantu petugas secara efektif memeriksa kondisi tersembunyi dan rusak di bawah kendaraan, serta mencegah tersembunyinya barang berbahaya kimia atau biologis, bom, dll. Sistem ini dapat digunakan di area bea cukai, keamanan publik, lalu lintas, bandara, hotel, dan area pemeriksaan pintu masuk lainnya.",
+  "parameter_en": [
+    {
+      "label": "Field of Angle  ",
+      "value": "180°"
+    },
+    {
+      "label": "Detection Vehicle Chassis Width  ",
+      "value": "≤2000mm"
+    },
+    {
+      "label": "Detection Vehicle Chassis Height  ",
+      "value": "≥120mm"
+    },
+    {
+      "label": "Inspect Speed Limit  ",
+      "value": "≤30km/h"
+    },
+    {
+      "label": "Standby Consumption  ",
+      "value": "≤10W"
+    },
+    {
+      "label": "Inspection Consumption ",
+      "value": " ≤120W"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-20C~+60%C"
+    },
+    {
+      "label": "Power Supply  ",
+      "value": "AC 220V"
+    },
+    {
+      "label": "Ingress Protection  ",
+      "value": "IP67"
+    },
+    {
+      "label": "Product Weight ",
+      "value": " ≤20kg"
+    },
+    {
+      "label": "Product Dimension  ",
+      "value": "460*440*90mm"
+    }
+  ]
+}
