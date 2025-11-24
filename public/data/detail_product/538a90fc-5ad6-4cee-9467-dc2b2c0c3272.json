@@ -1,0 +1,126 @@
+{
+  "introduction_id": "Direkayasa oleh Maxvision, sistem inspeksi sinar-X dual-energi dan dual-view generasi terbaru ini dirancang khusus untuk pemeriksaan bagasi kabin dan barang-barang pribadi secara efisien di pos pemeriksaan bea cukai, bandara, stasiun kereta api, fasilitas pemerintah, dan lingkungan berkeamanan tinggi lainnya. Dilengkapi dua pasang sumber-detektor sinar-X independen, sistem ini menghasilkan pencitraan tampilan bawah dan samping pada layar ganda, yang secara signifikan meningkatkan pengenalan objek di area yang tumpang tindih atau tertutup. Desainnya memadukan fungsionalitas khusus industri dengan estetika industri modern, menghasilkan solusi yang efisien, intuitif, dan sangat adaptif untuk operasi keamanan yang krusial.",
+  "product_id": "63cb6eef-6c59-45db-a467-d3bed6ff59a0",
+  "features_en": [
+    "Superior Imaging Clarity",
+    "True Dual-View Architecture",
+    "Ultra-Low Radiation Emissions",
+    "Integrated TIP Functionality",
+    "Flexible Image Export Options",
+    "Network-Ready Data Architecture",
+    "Automated System Diagnostics"
+  ],
+  "description_en": "Engineered by Maxvision, this next-generation dual-energy, dual-view X-ray inspection system is purpose-built for efficient screening of carry-on baggage and personal belongings across customs checkpoints, airports, rail stations, government facilities, and other high-security environments. Featuring two independent X-ray source-detector pairs, the system delivers both bottom-up and side-view imaging on dual displays, significantly enhancing object recognition in areas with overlap or occlusion. Its design blends industry-specific functionality with modern industrial aesthetics, resulting in a solution that is streamlined, intuitive, and highly adaptable for mission-critical security operations.",
+  "introduction_en": "Engineered by Maxvision, this next-generation dual-energy, dual-view X-ray inspection system is purpose-built for efficient screening of carry-on baggage and personal belongings across customs checkpoints, airports, rail stations, government facilities, and other high-security environments. Featuring two independent X-ray source-detector pairs, the system delivers both bottom-up and side-view imaging on dual displays, significantly enhancing object recognition in areas with overlap or occlusion. Its design blends industry-specific functionality with modern industrial aesthetics, resulting in a solution that is streamlined, intuitive, and highly adaptable for mission-critical security operations.",
+  "parameter_id": [
+    {
+      "label": "Kecepatan Konveyor  ",
+      "value": "0,2 m/dtk ~ 0,4 m/dtk"
+    },
+    {
+      "label": "Kapasitas Beban Maksimum  ",
+      "value": "100 kg (terdistribusi merata)"
+    },
+    {
+      "label": "Penarikan Gambar  ",
+      "value": "Mendukung peninjauan gambar yang telah dipindai sebelumnya"
+    },
+    {
+      "label": "Fungsi Bantuan Operator",
+      "value": " Tampilan Tanggal/Waktu, Penghitung Bagasi, Log Operasi, Manajemen Akses Pengguna, Monitor Waktu Proses Sistem, Diagnosis Mandiri Otomatis saat Startup, Kalibrasi Gambar, Perawatan & Diagnostik Kesalahan"
+    },
+    {
+      "label": "Spesifikasi Umum",
+      "value": "-"
+    },
+    {
+      "label": "Catu Daya  ",
+      "value": "AC 220V (±10%), 50±3Hz"
+    },
+    {
+      "label": "Konsumsi Daya ",
+      "value": "1,2KW"
+    },
+    {
+      "label": "Suhu Operasional  ",
+      "value": "0~40°C"
+    },
+    {
+      "label": "Suhu Penyimpanan  ",
+      "value": "-40°C~+60°C"
+    },
+    {
+      "label": "Kelembapan Relatif  ",
+      "value": "5% ~ 95% RH, Non-kondensasi"
+    },
+    {
+      "label": "Weight  ",
+      "value": "800Kg"
+    },
+    {
+      "label": "Sistem Dimensi ",
+      "value": " 2391mm x 1227mm x 1400mm"
+    }
+  ],
+  "id": "538a90fc-5ad6-4cee-9467-dc2b2c0c3272",
+  "features_id": [
+    "Kejernihan Gambar Superior",
+    "Arsitektur Tampilan Ganda Sejati",
+    "Emisi Radiasi Ultra Rendah",
+    "Fungsi TIP Terintegrasi",
+    "Opsi Ekspor Gambar Fleksibel",
+    "Arsitektur Data Siap Jaringan",
+    "Diagnostik Sistem Otomatis"
+  ],
+  "description_id": "Direkayasa oleh Maxvision, sistem inspeksi sinar-X dual-energi dan dual-view generasi terbaru ini dirancang khusus untuk pemeriksaan bagasi kabin dan barang-barang pribadi secara efisien di pos pemeriksaan bea cukai, bandara, stasiun kereta api, fasilitas pemerintah, dan lingkungan berkeamanan tinggi lainnya. Dilengkapi dua pasang sumber-detektor sinar-X independen, sistem ini menghasilkan pencitraan tampilan bawah dan samping pada layar ganda, yang secara signifikan meningkatkan pengenalan objek di area yang tumpang tindih atau tertutup. Desainnya memadukan fungsionalitas khusus industri dengan estetika industri modern, menghasilkan solusi yang efisien, intuitif, dan sangat adaptif untuk operasi keamanan yang krusial.",
+  "parameter_en": [
+    {
+      "label": "Conveyor Speed  ",
+      "value": "0.2m/s ~ 0.4m/s"
+    },
+    {
+      "label": "Maximum Load Capacity  ",
+      "value": "100kg (evenly distributed)"
+    },
+    {
+      "label": "Image Recall  ",
+      "value": "Supports review of previously scanned images"
+    },
+    {
+      "label": "Operator Assist Functions",
+      "value": "Date/Time Display, Baggage Counter, Operation Log, User Access Management, System Runtime Monitor, Automatic Self-Diagnosis at Startup, Image Calibration, Maintenance & Fault Diagnostics"
+    },
+    {
+      "label": "General Specifications",
+      "value": "-"
+    },
+    {
+      "label": "Power Supply  ",
+      "value": "AC 220V(±10%), 50±3Hz"
+    },
+    {
+      "label": "Power Consumption ",
+      "value": "1.2KW"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "0~40°C"
+    },
+    {
+      "label": "Storage Temperature  ",
+      "value": "-40°C~+60°C"
+    },
+    {
+      "label": "Relative Humidity  ",
+      "value": "5% ~ 95% RH, Non-condensing"
+    },
+    {
+      "label": "Weight  ",
+      "value": "800Kg"
+    },
+    {
+      "label": "System Dimensions  ",
+      "value": "2391mmx1227mmx1400mm"
+    }
+  ]
+}
