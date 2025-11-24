@@ -56,7 +56,9 @@ export default function Principle() {
 
   const bgHero = "/images/logo/principle.jpg";
   const bgHeroMain = "/images/hero/hero3.jpg";
-
+  const desmaxVisionEn = `Maxvision Technology Corp. is a listed enterprise on the Main Board of Shenzhen Stock Exchange (stock code "002990"), with its headquarters in Shenzhen City, Guangdong Province, China. It is also a national high-tech company engaged in the research of artificial intelligence, big data, Internet of Things, and other new-generation information technologies, which provides users with intelligent products and "Al+Industry" solutions in line with future trends, and serves the overall construction of a smart society.The company has a team of hundreds of people working on hardware and software development and artificial intelligence algorithm research, with R&D staff accounting for over 50% of the company's total headcount. The software and hardware products formed for sale amount to more than 400 kinds. The company's annual investment in research and development accounts for more than 10% of its turnover.Over the years, Maxvision Technology Corp. has won numerous national and provincial scientific and technological achievements and invention patents, and has been recognized as a national high-tech enterprise, a national innovative enterprise, and a Guangdong provincial enterprise technology center.`;
+  const desmaxVisionIn = `Maxvision Technology Corp. adalah perusahaan yang terdaftar di Papan Utama Bursa Efek Shenzhen (kode saham "002990"), dengan kantor pusat di Kota Shenzhen, Provinsi Guangdong, Tiongkok. Perusahaan ini juga merupakan perusahaan teknologi tinggi nasional yang bergerak di bidang riset kecerdasan buatan, data besar, Internet of Things, dan teknologi informasi generasi baru lainnya, yang menyediakan produk-produk cerdas dan solusi "Al+Industry" yang sejalan dengan tren masa depan kepada para pengguna, serta mendukung pembangunan masyarakat cerdas secara menyeluruh.
+Perusahaan ini memiliki tim yang terdiri dari ratusan orang yang bekerja di bidang pengembangan perangkat keras dan perangkat lunak serta riset algoritma kecerdasan buatan, dengan staf Litbang mencakup lebih dari 50% dari total karyawan perusahaan. Produk perangkat lunak dan perangkat keras yang dipasarkan berjumlah lebih dari 400 jenis. Investasi tahunan perusahaan dalam penelitian dan pengembangan menyumbang lebih dari 10% dari omzetnya.`;
   return (
     <div className="w-full">
       {/* ================= HERO ================= */}
@@ -92,7 +94,7 @@ export default function Principle() {
           {/* reflection */}
           <div className="hero-reflection" aria-hidden="true" />
 
-          <h1 className="text-3xl md:text-5xl text-white font-semibold leading-tight drop-shadow-2xl neon-transforme">
+          <h1 className="text-3xl md:text-5xl text-white font-semibold leading-tight drop-shadow-2xl neon-transforme font-clash">
             {heroData.hero_title}
           </h1>
 
@@ -117,7 +119,9 @@ export default function Principle() {
               object-contain opacity-95
               hero-visual
               drop-shadow-[0_12px_40px_rgba(0,0,0,0.45)]
+              
               animate-premiumFloat
+              rounded-lg
             "
           />
         </div>
@@ -125,7 +129,13 @@ export default function Principle() {
 
       {/* ================= CONTENT ================= */}
       <div className="mt-20 px-4 md:px-0">
-        <DesignGlobal1 items={mappedItems} useIcon={false} useImage={true} />
+        <DesignGlobal1
+          items={mappedItems}
+          useIcon={false}
+          useImage={true}
+          title={"Maxvison"}
+          subtitle={lang === "id" ? desmaxVisionIn : desmaxVisionEn}
+        />
       </div>
     </div>
   );

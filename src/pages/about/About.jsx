@@ -51,14 +51,14 @@ export default function About() {
         }}
       />
       <br />
-      <GlobalSectionTitle
-        title={about.aboutUs_title}
-        subtitle={about.aboutUs_desc}
-      />
-
+      <br />
       <GlobalSectionTitle
         title={about.vision_mission_title}
         subtitle={about.vision_mission_desc}
+      />
+      <GlobalSectionTitle
+        title={about.aboutUs_title}
+        subtitle={about.aboutUs_desc}
       />
 
       <div

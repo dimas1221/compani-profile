@@ -212,3 +212,9 @@ collections:
               - { label: "Subtitle ID", name: "subtitle_id", widget: "string" }
               - { label: "Title EN", name: "title_en", widget: "string" }
               - { label: "Subtitle EN", name: "subtitle_en", widget: "text" }
+              - label: "Type"
+                name: "type"
+                widget: "select"
+                options:
+                  - { label: "Maxvision", value: "Maxvision" }
+                  - { label: "Jovision", value: "Jovision" }

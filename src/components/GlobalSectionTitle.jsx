@@ -31,11 +31,16 @@ export default function GlobalSectionTitle({
           transition={{ duration: 0.6, delay: 0.1, ease: "easeOut" }}
           viewport={{ once: true }}
           className="
-            mt-2 sm:mt-4
-            text-gray-600 dark:text-gray-300
-            text-sm sm:text-lg
-            leading-snug sm:leading-relaxed font-light
-          "
+    mb-10 
+    text-gray-700 dark:text-gray-300 
+    leading-relaxed 
+    text-justify 
+    text-base sm:text-lg 
+    tracking-wide 
+    space-y-4
+    [&>p:first-child]:indent-8
+    font-light
+  "
         >
           {subtitle}
         </motion.p>

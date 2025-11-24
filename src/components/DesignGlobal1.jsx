@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { motion } from "framer-motion";
 import GlobalCard from "./GlobalCard";
+import GlobalSectionTitle from "./GlobalSectionTitle";
 
 /**
  * ✅ Reusable global grid layout for content sections.
@@ -37,7 +38,7 @@ export default function DesignGlobal1({
           viewport={{ once: true }}
           className="text-center"
         >
-          <h2
+          {/* <h2
             className="text-3xl sm:text-4xl font-extrabold
                        bg-gradient-to-r from-blue-600 via-sky-500 to-cyan-400
                        text-transparent bg-clip-text dark:from-cyan-400 dark:via-sky-400 dark:to-blue-600"
@@ -48,7 +49,9 @@ export default function DesignGlobal1({
             <p className="mt-3 sm:mt-4 text-gray-600 dark:text-gray-300 text-sm sm:text-lg leading-relaxed">
               {subtitle}
             </p>
-          )}
+          )} */}
+
+          <GlobalSectionTitle title={title} subtitle={subtitle} />
         </motion.div>
 
         {/* === Grid Section === */}
