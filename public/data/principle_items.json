@@ -39,30 +39,6 @@
       "subtitle_id": "Robot pintar adalah mesin cerdas yang dilengkapi sensor yang menggunakan AI dan data waktu nyata untuk melakukan tugas secara mandiri, beradaptasi dengan lingkungannya, dan meningkatkan efisiensi dan keselamatan di berbagai aplikasi.",
       "title_en": "Smart Robot",
       "subtitle_en": "A smart robot is an intelligent, sensor-equipped machine that uses AI and real-time data to perform tasks autonomously, adapt to its environment, and enhance efficiency and safety across various applications."
-    },
-    {
-      "id": "8ff312bc-94e1-49ab-a0cf-bdbe1f61d151",
-      "image": "/images/principle/sales-lead.jpg",
-      "title_id": "sales_lead",
-      "subtitle_id": "sales_lead_sub",
-      "title_en": "Sales Lead Support",
-      "subtitle_en": "Receive direct sales leads from global marketing."
-    },
-    {
-      "id": "a1e7e3d0-839e-4fac-9e28-77f5c740f899",
-      "image": "/images/principle/project-support.jpg",
-      "title_id": "project_support",
-      "subtitle_id": "project_support_sub",
-      "title_en": "Project Support",
-      "subtitle_en": "Topology design and product recommendation support."
-    },
-    {
-      "id": "d345124f-83be-4bf2-8ca5-f0f71df2faa2",
-      "image": "/images/principle/new-tech.jpg",
-      "title_id": "new_tech",
-      "subtitle_id": "new_tech_sub",
-      "title_en": "New Products & Technology",
-      "subtitle_en": "Priority access to the newest technology."
     }
   ]
 }
