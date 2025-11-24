@@ -1,0 +1,176 @@
+{
+  "introduction_id": "Maxvision secara independen mengembangkan Mesin Inspeksi Kendaraan Cerdas Al-in-one ini, sebuah produk pemeriksaan cerdas. Produk ini dirancang untuk meningkatkan manajemen lajur otomatis dan untuk merekam serta memverifikasi identitas personel yang melintas di lajur secara mandiri. Fungsi-fungsinya meliputi pengenalan wajah, pengenalan sidik jari, pemindaian kode batang, pengenalan dokumen, alarm abnormal, pencetakan kartu, interkom video, dan sebagainya. Secara bersamaan, mesin ini menggunakan mekanisme transmisi multi-sumbu yang dilengkapi kemampuan pengangkatan dan perpanjangan/penarikan otomatis. Hal ini memungkinkan penentuan posisi yang tepat dan efisien untuk pengumpulan data penumpang, sehingga mencapai verifikasi drive-through. Cocok untuk kampus dan pelabuhan di mana informasi penumpang di lajur perlu direkam dan diverifikasi.",
+  "product_id": "c6ee2c82-ea3d-4ebe-8b1d-f6d802e51489",
+  "features_en": [
+    "Variety of Inspection Methods",
+    "Multi-dimensional Spatial Vehicle Positioning Detection",
+    "Automatically Adapts to Varying Vehicle Ride Height",
+    "Unmanned Checkpoints"
+  ],
+  "description_en": "Maxvision independently developed this Vehicle intelligent Inspection Al-in-one Machine which is an intelligent checking product. This product is designed to enhance the automated management of lanes and to self-capture and verify the identity of personnel passing on the lanes. Functions including facial recognition, fingerprint recognition, barcode scanning, document recognition, abnormal alarm, pass printing, video intercom, and so on. Simultaneously, it employs a multi-axis transmission mechanism featuring automatic lifting and extension / retraction capabilities. This enables precise and eficient positioning for occupant data collection, achieving drive-through verification. It is suitable for campus, ports where the need to capture and verify the information of passengers in the lane.",
+  "introduction_en": "Maxvision independently developed this Vehicle intelligent Inspection Al-in-one Machine which is an intelligent checking product. This product is designed to enhance the automated management of lanes and to self-capture and verify the identity of personnel passing on the lanes. Functions including facial recognition, fingerprint recognition, barcode scanning, document recognition, abnormal alarm, pass printing, video intercom, and so on. Simultaneously, it employs a multi-axis transmission mechanism featuring automatic lifting and extension / retraction capabilities. This enables precise and eficient positioning for occupant data collection, achieving drive-through verification. It is suitable for campus, ports where the need to capture and verify the information of passengers in the lane.",
+  "parameter_id": [
+    {
+      "label": "Layar Tampilan  ",
+      "value": "15,6\""
+    },
+    {
+      "label": "Pengenalan Wajah  ",
+      "value": "FRR ≤ 0,01%, FAR 299%"
+    },
+    {
+      "label": "Pengenalan Kode OR  ",
+      "value": "Didukung"
+    },
+    {
+      "label": "Verifikasi IC/D  ",
+      "value": "Didukung"
+    },
+    {
+      "label": "Pengambilan Sidik Jari  ",
+      "value": "Opsional"
+    },
+    {
+      "label": "Pembaca OCR  ",
+      "value": "Opsional"
+    },
+    {
+      "label": "Inspeksi RFID  ",
+      "value": "Opsional"
+    },
+    {
+      "label": "Pemosisian Otomatis",
+      "value": "Jarak vertikal: 1200 mm (efektif) Ekstensi horizontal: 300 mm (efektif)"
+    },
+    {
+      "label": "Percakapan Terlihat  ",
+      "value": "Searah"
+    },
+    {
+      "label": "Pencetakan Voucher ",
+      "value": " Opsional"
+    },
+    {
+      "label": "Pengukuran Suhu Personel  ",
+      "value": "OpsionalRentang pengukuran suhu: 30°C~42°C"
+    },
+    {
+      "label": "Port Komunikasi ",
+      "value": " Antarmuka Jaringan"
+    },
+    {
+      "label": "Lingkungan Kerja ",
+      "value": " Semi-luar ruangan (Pasang di dalam Langit-langit)"
+    },
+    {
+      "label": "Tegangan Kerja  ",
+      "value": "AC 220V±10%, 50Hz±5%"
+    },
+    {
+      "label": "Nilai Daya  ",
+      "value": "500W (Maks. 1200W)"
+    },
+    {
+      "label": "Suhu Kerja  ",
+      "value": "-20°C~+70°C (Dalam Ruangan)"
+    },
+    {
+      "label": "Suhu Penyimpanan ",
+      "value": " -30°C~+80°C (Dalam Ruangan)"
+    },
+    {
+      "label": "Kelembapan Relatif  ",
+      "value": "≤90%RH, Tanpa Kondensasi"
+    },
+    {
+      "label": "Ukuran  ",
+      "value": "P*L*T=650*600*2250mm"
+    }
+  ],
+  "id": "c47ced82-dd06-4b3f-8923-2f76dc76c868",
+  "features_id": [
+    "Beragam Metode Inspeksi",
+    "Deteksi Posisi Kendaraan Spasial Multidimensi",
+    "Otomatis Beradaptasi dengan Ketinggian Kendaraan yang Bervariasi",
+    "Pos Pemeriksaan Tanpa Awak"
+  ],
+  "description_id": "Maxvision secara independen mengembangkan Mesin Inspeksi Kendaraan Cerdas Al-in-one ini, sebuah produk pemeriksaan cerdas. Produk ini dirancang untuk meningkatkan manajemen lajur otomatis dan untuk merekam serta memverifikasi identitas personel yang melintas di lajur secara mandiri. Fungsi-fungsinya meliputi pengenalan wajah, pengenalan sidik jari, pemindaian kode batang, pengenalan dokumen, alarm abnormal, pencetakan kartu, interkom video, dan sebagainya. Secara bersamaan, mesin ini menggunakan mekanisme transmisi multi-sumbu yang dilengkapi kemampuan pengangkatan dan perpanjangan/penarikan otomatis. Hal ini memungkinkan penentuan posisi yang tepat dan efisien untuk pengumpulan data penumpang, sehingga mencapai verifikasi drive-through. Cocok untuk kampus dan pelabuhan di mana informasi penumpang di lajur perlu direkam dan diverifikasi.",
+  "parameter_en": [
+    {
+      "label": "Display Screen  ",
+      "value": "15.6\""
+    },
+    {
+      "label": "Facial Recognition  ",
+      "value": "FRR ≤ 0.01%, FAR 299%"
+    },
+    {
+      "label": "OR Code Recognition  ",
+      "value": "Supported"
+    },
+    {
+      "label": "IC/D Verification  ",
+      "value": "Supported"
+    },
+    {
+      "label": "Fingerprint Capture  ",
+      "value": "Optional"
+    },
+    {
+      "label": "OCR Reader  ",
+      "value": "Optional"
+    },
+    {
+      "label": "RFID Inspection  ",
+      "value": "Optional"
+    },
+    {
+      "label": "Automatic Positioning  ",
+      "value": "Vertical travel: 1200mm (effective) Horizontal extension: 300mm (effective)"
+    },
+    {
+      "label": "Visible Conversation  ",
+      "value": "Unidirectional"
+    },
+    {
+      "label": "Voucher Printing  ",
+      "value": "Optional"
+    },
+    {
+      "label": "Personnel Temperature Measurement  ",
+      "value": "OptionalTemperature measurement range: 30°C~42°C"
+    },
+    {
+      "label": "Communication Port  ",
+      "value": "Network Interface"
+    },
+    {
+      "label": "Working Environment  ",
+      "value": "Semi-outdoor (Install inside the Ceiling)"
+    },
+    {
+      "label": "Working Voltage  ",
+      "value": "AC 220V±10%, 50Hz±5%"
+    },
+    {
+      "label": "Rated Power  ",
+      "value": "500W (Max 1200w)"
+    },
+    {
+      "label": "Working Temperature ",
+      "value": " -20°C~+70°C (Indoor)"
+    },
+    {
+      "label": "Storage Temperature  ",
+      "value": "-30°C~+80°C (Indoor)"
+    },
+    {
+      "label": "Relative Humidity  ",
+      "value": "≤90%RH, Non-Condensation"
+    },
+    {
+      "label": "Size ",
+      "value": " L*W*H=650*600*2250mm"
+    }
+  ]
+}
