@@ -1,0 +1,91 @@
+{
+  "introduction_id": "Sistem Inspeksi Kontainer Multimoda adalah solusi cerdas yang dirancang untuk inspeksi kontainer di pelabuhan dan pos pemeriksaan perbatasan. Dengan mengintegrasikan radar, sensor presisi tinggi, lengan robot, dan algoritma persepsi multimoda, sistem ini menangkap citra internal, kedalaman struktur, dan data penting lainnya selama proses pembukaan kontainer. Sistem ini memungkinkan identifikasi kontainer kosong dan risiko tersembunyi dengan cepat, sehingga meningkatkan akurasi inspeksi dan efisiensi operasional. Dengan kemampuan operasional 24/7 dan integrasi yang lancar dengan platform pengawasan bea cukai, sistem ini mendukung alur kerja inspeksi yang sepenuhnya otomatis, digital, dan loop tertutup.",
+  "product_id": "4afaba0c-00e5-4a0e-8364-7483cf36fad9",
+  "features_en": [
+    "Non-Intrusive",
+    "Intelligent Inspection",
+    "Multimodal Data Fusion",
+    "Adaptive to Complex Operating Conditions",
+    "Scalable Algorithm Framework",
+    "High System Integration"
+  ],
+  "description_en": "The Multimodal Container Inspection System is an intelligent solution designed for container inspection at ports and border checkpoints. Integrating radar, high-precision sensors, robotic arms, and multimodal perception algorithms, the system captures internal imagery, structural depth, and other key data during the container opening process. It enables rapid identification of empty containers and concealed risks, enhancing both inspection accuracy and operational efficiency. With 24/7 operational capability and seamless integration with customs supervision platforms, the system supports fully automated, digitalized, and closed-loop inspection workflows.",
+  "introduction_en": "The Multimodal Container Inspection System is an intelligent solution designed for container inspection at ports and border checkpoints. Integrating radar, high-precision sensors, robotic arms, and multimodal perception algorithms, the system captures internal imagery, structural depth, and other key data during the container opening process. It enables rapid identification of empty containers and concealed risks, enhancing both inspection accuracy and operational efficiency. With 24/7 operational capability and seamless integration with customs supervision platforms, the system supports fully automated, digitalized, and closed-loop inspection workflows.",
+  "parameter_id": [
+    {
+      "label": "Daya Terukur  ",
+      "value": "≤800W"
+    },
+    {
+      "label": "Suhu Operasional  ",
+      "value": "-20°C~+65°C (Luar Ruangan)"
+    },
+    {
+      "label": "Suhu Penyimpanan  ",
+      "value": "-20°C~+65°C (Luar Ruangan)"
+    },
+    {
+      "label": "Kelembapan Relatif  ",
+      "value": "10~90% RH, Non-kondensasi"
+    },
+    {
+      "label": "Lingkungan Pemasangan  ",
+      "value": "Sepenuhnya di luar ruangan, tahan cuaca"
+    },
+    {
+      "label": "Waktu Deteksi  ",
+      "value": "≤15 detik"
+    },
+    {
+      "label": "Tingkat Akurasi Deteksi  ",
+      "value": "≥98%"
+    },
+    {
+      "label": "Dimensi Peralatan  ",
+      "value": "300*200*4000mm (Dasar: 600 x 600 mm)"
+    }
+  ],
+  "id": "11b790c5-b9e9-44f3-a521-e8606477dbe3",
+  "features_id": [
+    "Inspeksi Cerdas Non-Intrusif",
+    "Fusi Data Multimoda",
+    "Adaptif terhadap Kondisi Operasional yang Kompleks",
+    "Kerangka Algoritma yang Skalabel",
+    "Integrasi Sistem yang Tinggi"
+  ],
+  "description_id": "Sistem Inspeksi Kontainer Multimoda adalah solusi cerdas yang dirancang untuk inspeksi kontainer di pelabuhan dan pos pemeriksaan perbatasan. Dengan mengintegrasikan radar, sensor presisi tinggi, lengan robot, dan algoritma persepsi multimoda, sistem ini menangkap citra internal, kedalaman struktur, dan data penting lainnya selama proses pembukaan kontainer. Sistem ini memungkinkan identifikasi kontainer kosong dan risiko tersembunyi dengan cepat, sehingga meningkatkan akurasi inspeksi dan efisiensi operasional. Dengan kemampuan operasional 24/7 dan integrasi yang lancar dengan platform pengawasan bea cukai, sistem ini mendukung alur kerja inspeksi yang sepenuhnya otomatis, digital, dan loop tertutup.",
+  "parameter_en": [
+    {
+      "label": "Rated Power  ",
+      "value": "≤800W"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-20°C~+65°C (Outdoor)"
+    },
+    {
+      "label": "Storage Temperature  ",
+      "value": "-20°C~+65°C (Outdoor)"
+    },
+    {
+      "label": "Relative Humidity  ",
+      "value": "10~90%RH, Non-condensing"
+    },
+    {
+      "label": "Installation Environment  ",
+      "value": "Fully outdoor, weather-resistant"
+    },
+    {
+      "label": "Detection Time ",
+      "value": " ≤15s"
+    },
+    {
+      "label": "Detection Accuracy Rate  ",
+      "value": "≥98%"
+    },
+    {
+      "label": "Equipment Dimensions  ",
+      "value": "300*200*4000mm (Base: 600 x 600 mm)"
+    }
+  ]
+}
