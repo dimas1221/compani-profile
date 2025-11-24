@@ -1,10 +1,10 @@
-import React from "react";
-import { motion } from "framer-motion";
+import React from 'react';
+import { motion } from 'framer-motion';
 
 export default function GlobalSectionTitle({
   title,
   subtitle,
-  className = "",
+  className = '',
 }) {
   return (
     <div
@@ -13,7 +13,7 @@ export default function GlobalSectionTitle({
       <motion.h2
         initial={{ opacity: 0, y: 30, scale: 0.98 }}
         whileInView={{ opacity: 1, y: 0, scale: 1 }}
-        transition={{ duration: 0.7, ease: "easeOut" }}
+        transition={{ duration: 0.7, ease: 'easeOut' }}
         viewport={{ once: true }}
         className="
           text-2xl sm:text-4xl font-extrabold
@@ -28,17 +28,16 @@ export default function GlobalSectionTitle({
         <motion.p
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6, delay: 0.1, ease: "easeOut" }}
+          transition={{ duration: 0.6, delay: 0.1, ease: 'easeOut' }}
           viewport={{ once: true }}
           className="
     mb-10 
     text-gray-700 dark:text-gray-300 
     leading-relaxed 
-    text-justify 
+    text-center
     text-base sm:text-lg 
     tracking-wide 
     space-y-4
-    [&>p:first-child]:indent-8
     font-light
   "
         >

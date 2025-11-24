@@ -30,7 +30,7 @@ export default function FeatureSection() {
     <section className="relative py-3 transition-colors duration-700 px-6">
       <GlobalSectionTitle
         title={t.ourApproach}
-        subtitle={t.ourApproach_subtitle}
+        // subtitle={t.ourApproach_subtitle}
       />
 
       {/* ================= DESKTOP ================= */}

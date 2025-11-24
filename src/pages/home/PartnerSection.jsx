@@ -1,38 +1,38 @@
-import React from "react";
-import { motion } from "framer-motion";
-import { useI18n } from "../../i18n/I18nProvider";
-import GlobalSectionTitle from "../../components/GlobalSectionTitle";
+import React from 'react';
+import { motion } from 'framer-motion';
+import { useI18n } from '../../i18n/I18nProvider';
+import GlobalSectionTitle from '../../components/GlobalSectionTitle';
 
 const partners = [
   {
-    name: "Google",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
-    url: "https://www.google.com",
+    name: 'Google',
+    logo: 'https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg',
+    url: 'https://www.google.com',
   },
   {
-    name: "Microsoft",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
-    url: "https://www.microsoft.com",
+    name: 'Microsoft',
+    logo: 'https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg',
+    url: 'https://www.microsoft.com',
   },
   {
-    name: "Apple",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
-    url: "https://www.apple.com",
+    name: 'Apple',
+    logo: 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg',
+    url: 'https://www.apple.com',
   },
   {
-    name: "Amazon",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
-    url: "https://www.amazon.com",
+    name: 'Amazon',
+    logo: 'https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg',
+    url: 'https://www.amazon.com',
   },
   {
-    name: "IBM",
-    logo: "https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg",
-    url: "https://www.ibm.com",
+    name: 'IBM',
+    logo: 'https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg',
+    url: 'https://www.ibm.com',
   },
   {
-    name: "NVIDIA",
-    logo: "https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg",
-    url: "https://www.nvidia.com",
+    name: 'NVIDIA',
+    logo: 'https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg',
+    url: 'https://www.nvidia.com',
   },
 ];
 
@@ -41,11 +41,11 @@ const duplicatedPartners = [...partners, ...partners, ...partners];
 export default function PartnerSection() {
   const { lang } = useI18n();
 
-  const titleText = lang === "id" ? "Mitra Kami" : "Our Partners";
+  const titleText = lang === 'id' ? 'Mitra Kami' : 'Our Partners';
   const subtitleText =
-    lang === "id"
-      ? "Kami bangga berkolaborasi dengan lembaga dan organisasi terkemuka"
-      : "We are proud to collaborate with leading institutions and organizations";
+    lang === 'id'
+      ? 'Kami bangga berkolaborasi dengan lembaga dan organisasi terkemuka'
+      : 'We are proud to collaborate with leading institutions and organizations';
 
   return (
     <section className="relative mx-auto px-6 py-10 bg-gradient-to-b from-white to-gray-50 dark:from-gray-950 dark:to-gray-900 transition-colors duration-500 overflow-hidden">
@@ -58,10 +58,10 @@ export default function PartnerSection() {
         {/* Row 1 - Left to Right */}
         <motion.div
           className="flex gap-6 sm:gap-10"
-          animate={{ x: ["-50%", "0%"] }}
+          animate={{ x: ['-50%', '0%'] }}
           transition={{
             duration: 35,
-            ease: "linear",
+            ease: 'linear',
             repeat: Infinity,
           }}
         >
@@ -91,10 +91,10 @@ export default function PartnerSection() {
         {/* Row 2 - Right to Left */}
         <motion.div
           className="flex gap-6 sm:gap-10"
-          animate={{ x: ["0%", "-50%"] }}
+          animate={{ x: ['0%', '-50%'] }}
           transition={{
             duration: 35,
-            ease: "linear",
+            ease: 'linear',
             repeat: Infinity,
           }}
         >
