@@ -1,0 +1,144 @@
+{
+  "introduction_id": "Maxvision secara independen mengembangkan Mesin Inspeksi Cerdas Kendaraan All-in-one ini, sebuah produk pemeriksaan cerdas. Produk ini dirancang untuk meningkatkan manajemen lajur otomatis dan untuk merekam serta memverifikasi identitas personel yang melintas di lajur secara mandiri. Fungsi-fungsinya meliputi pengenalan wajah, pengenalan sidik jari, pemindaian kode batang, pengenalan dokumen, panduan interaktif, alarm abnormal, pencetakan tanda lulus, interkom video, kontrol tautan, dan sebagainya. Produk ini cocok untuk kampus, pelabuhan, dan kawasan perdagangan bebas terpadu yang perlu merekam dan memverifikasi informasi penumpang di lajur.",
+  "product_id": "48886493-f113-4746-a188-d150575c6ff4",
+  "features_en": [
+    "Variety of Inspection Methods",
+    "Linkage of Front-End Equipment",
+    "Unmanned Checkpoints",
+    "Adjustable-height Bases Cater to Different Vehicle Types"
+  ],
+  "description_en": "Maxvision independently developed this Vehicle Intelligent Inspection All-in-one Machine which is an intelligent checking product. This product is designed to enhance the automated management of lanes and to self-capture and verify the identity of personnel passing on the lanes. Functions including facial recognition, fingerprint recognition, barcode scanning, document recognition, interactive guidance, abnormal alarm, pass printing, video intercom, linkage control and so on. It is suitable for campus, ports, integrated free trade zones that need to capture and verify the information of passengers in the lane.",
+  "introduction_en": "Maxvision independently developed this Vehicle Intelligent Inspection All-in-one Machine which is an intelligent checking product. This product is designed to enhance the automated management of lanes and to self-capture and verify the identity of personnel passing on the lanes. Functions including facial recognition, fingerprint recognition, barcode scanning, document recognition, interactive guidance, abnormal alarm, pass printing, video intercom, linkage control and so on. It is suitable for campus, ports, integrated free trade zones that need to capture and verify the information of passengers in the lane.",
+  "parameter_id": [
+    {
+      "label": "Ukuran Layar  ",
+      "value": "8\""
+    },
+    {
+      "label": "Pengenalan Wajah  ",
+      "value": "Opsional. Jarak identifikasi: 30~200 cm"
+    },
+    {
+      "label": "Pengambilan Sidik Jari  ",
+      "value": "Opsional"
+    },
+    {
+      "label": "Pembacaan Dokumen  ",
+      "value": "Opsional"
+    },
+    {
+      "label": "Percakapan Terlihat  ",
+      "value": "Video satu arah"
+    },
+    {
+      "label": "Pencetakan Voucher  ",
+      "value": "Opsional"
+    },
+    {
+      "label": "Pengenalan Kode Batang",
+      "value": "  Kecepatan Pengenalan: ≤60 ms/waktu Jangkauan Pengenalan: 4~25 cm"
+    },
+    {
+      "label": "Port Komunikasi  ",
+      "value": "Antarmuka Jaringan"
+    },
+    {
+      "label": "Lingkungan Kerja  ",
+      "value": "Semi-outdoor (Pasang di dalam Langit-langit)"
+    },
+    {
+      "label": "Tegangan Kerja  ",
+      "value": "AC 220V±10%, 50Hz±5%"
+    },
+    {
+      "label": "Daya Terukur  ",
+      "value": "500W"
+    },
+    {
+      "label": "Suhu Kerja  ",
+      "value": "-20°C~+70°C (Dalam Ruangan)"
+    },
+    {
+      "label": "Suhu Penyimpanan  ",
+      "value": "-30°C~+80°C (Dalam Ruangan)"
+    },
+    {
+      "label": "Relatif Kelembapan  ",
+      "value": "10%~90%RH, Tanpa Kondensasi"
+    },
+    {
+      "label": "Ukuran  ",
+      "value": "P*L*T=650*600*1830 mm"
+    }
+  ],
+  "id": "f7e38a6c-2a31-4bfd-9b30-6e11d7e76112",
+  "features_id": [
+    "Beragam Metode Inspeksi",
+    "Penghubungan Peralatan Depan",
+    "Pos Pemeriksaan Tanpa Awak",
+    "Basis dengan Ketinggian yang Dapat Disesuaikan untuk Berbagai Jenis Kendaraan"
+  ],
+  "description_id": "Maxvision secara independen mengembangkan Mesin Inspeksi Cerdas Kendaraan All-in-one ini, sebuah produk pemeriksaan cerdas. Produk ini dirancang untuk meningkatkan manajemen lajur otomatis dan untuk merekam serta memverifikasi identitas personel yang melintas di lajur secara mandiri. Fungsi-fungsinya meliputi pengenalan wajah, pengenalan sidik jari, pemindaian kode batang, pengenalan dokumen, panduan interaktif, alarm abnormal, pencetakan tanda lulus, interkom video, kontrol tautan, dan sebagainya. Produk ini cocok untuk kampus, pelabuhan, dan kawasan perdagangan bebas terpadu yang perlu merekam dan memverifikasi informasi penumpang di lajur.",
+  "parameter_en": [
+    {
+      "label": "Screen Size  ",
+      "value": "8\""
+    },
+    {
+      "label": "Face Recognition  ",
+      "value": "Optional.Identification distance: 30~200cm"
+    },
+    {
+      "label": "Fingerprint Capture  ",
+      "value": "Optional"
+    },
+    {
+      "label": "Document Reading  ",
+      "value": "Optional"
+    },
+    {
+      "label": "Visible Conversation  ",
+      "value": "One-way video"
+    },
+    {
+      "label": "Voucher Printing  ",
+      "value": "Optional"
+    },
+    {
+      "label": "Barcode Recognition  ",
+      "value": "Recognition Speed: ≤60ms/timeRecognition Range: 4~25cm"
+    },
+    {
+      "label": "Communication Port  ",
+      "value": "Network Interface"
+    },
+    {
+      "label": "Working Environment  ",
+      "value": "Semi-outdoor (Install inside the Ceiling)"
+    },
+    {
+      "label": "Working Voltage  ",
+      "value": "AC 220V±10%, 50Hz±5%"
+    },
+    {
+      "label": "Rated Power  ",
+      "value": "500W"
+    },
+    {
+      "label": "Working Temperature  ",
+      "value": "-20°C~+70°C (Indoor)"
+    },
+    {
+      "label": "Storage Temperature  ",
+      "value": "-30°C~+80°C (Indoor)"
+    },
+    {
+      "label": "Relative Humidity  ",
+      "value": "10%~90%RH, Non-Condensation"
+    },
+    {
+      "label": "Size  ",
+      "value": "L*W*H=650*600*1830mm"
+    }
+  ]
+}
