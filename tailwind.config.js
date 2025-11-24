@@ -54,6 +54,8 @@ export default {
       fontFamily: {
         inter: ["Inter", "sans-serif"],
         calsans: ["Cal Sans", "sans-serif"],
+        satoshi: ["Satoshi", "sans-serif"], // untuk navbar
+        clash: ["Clash Display", "sans-serif"], // untuk title
       },
       keyframes: {
         fireflyBlink: {

@@ -114,6 +114,154 @@
     ]
   },
   {
+    "id": "059f802b-67bd-4590-b436-5fab9a9999a5",
+    "product_id": "6e52335c-497c-4bc7-b8c5-87e28aaa3a77",
+    "introduction_en": "Designed for secure border environments, the Restricted Area Access Verification E-gate provides reliable, automated access control for authorized personnel. By combining facial recognition, fingerprint scanning, and smart card authentication, the system ensures accurate identity verification while maintaining smooth and secure lane operations. It features built-in gate control, behavior monitoring, and alarm triggers for tailgating, unauthorized access, or extended presence. With bidirectional passage support and seamless integration with border control systems, this solution enhances security and operational efficiency across seaports, airports, land checkpoints, and joint inspection facilities.",
+    "introduction_id": "Dirancang untuk lingkungan perbatasan yang aman, E-gate Verifikasi Akses Area Terbatas menyediakan kontrol akses otomatis yang andal bagi personel yang berwenang. Dengan menggabungkan pengenalan wajah, pemindaian sidik jari, dan autentikasi kartu pintar, sistem ini memastikan verifikasi identitas yang akurat sekaligus menjaga kelancaran dan keamanan operasional jalur. Sistem ini dilengkapi kontrol gerbang terintegrasi, pemantauan perilaku, dan pemicu alarm untuk tailgating, akses tanpa izin, atau kehadiran yang diperpanjang. Dengan dukungan jalur dua arah dan integrasi yang mulus dengan sistem kontrol perbatasan, solusi ini meningkatkan keamanan dan efisiensi operasional di seluruh pelabuhan laut, bandara, pos pemeriksaan darat, dan fasilitas inspeksi bersama.",
+    "features_en": [
+      "Multi-factor biometric authentication",
+      "All-in-one access and identity management",
+      "Fast",
+      "stable",
+      "and high-throughput performance",
+      "Enhanced safety with intrusion and pinch detection",
+      "Full compatibility with border management systems"
+    ],
+    "features_id": [
+      "Autentikasi biometrik multi-faktor",
+      "Akses dan manajemen identitas all-in-one",
+      "Performa cepat",
+      "stabil",
+      "dan throughput tinggi",
+      "Keamanan yang ditingkatkan dengan deteksi intrusi dan pinch",
+      "Kompatibilitas penuh dengan sistem manajemen perbatasan"
+    ],
+    "parameter_en": [
+      {
+        "label": "E-gate Width  ",
+        "value": "700~1100mm"
+      },
+      {
+        "label": "Turnstile Lifespan  ",
+        "value": "≥10 million cycles"
+      },
+      {
+        "label": "Face Recognition Accuracy ",
+        "value": " FAR < 0.1%, FRR < 0.1%, Accuracy > 98%, Speed < 0.01s"
+      },
+      {
+        "label": "Liveness Detection Accuracy  ",
+        "value": "FAR < 0.1%, FRR < 0.1%, Accuracy > 98%, Speed < 0.01s"
+      },
+      {
+        "label": "Authentication Methods  ",
+        "value": "Liveness detection, fingerprint, staff card, remote key"
+      },
+      {
+        "label": "Screen Size  ",
+        "value": "8"
+      },
+      {
+        "label": "Communication Interfaces  ",
+        "value": "Standard Ethernet"
+      },
+      {
+        "label": "Input Voltage  ",
+        "value": "AC 220V ±10%, 50Hz ±5%"
+      },
+      {
+        "label": "Circuit Breaker Overcurrent Protection  ",
+        "value": "6A"
+      },
+      {
+        "label": "Power Consumption  ",
+        "value": "≤500W"
+      },
+      {
+        "label": "Operating Temperature",
+        "value": "-10°C ~ +50°C (Indoor)"
+      },
+      {
+        "label": "Storage Temperature  ",
+        "value": "-20°C~+60°C"
+      },
+      {
+        "label": "Relative Humidity  ",
+        "value": "10% ~ 90% RH, Non-condensing"
+      },
+      {
+        "label": "Application Scenarios  ",
+        "value": "Suitable for both indoor and outdoor environments"
+      },
+      {
+        "label": "Dimensions  ",
+        "value": "1630*150*1440mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Lebar E-gate  ",
+        "value": "700~1100 mm"
+      },
+      {
+        "label": "Umur Turnstile ",
+        "value": " ≥10 juta siklus"
+      },
+      {
+        "label": "Akurasi Pengenalan Wajah ",
+        "value": " FAR < 0,1%, FRR < 0,1%, Akurasi > 98%, Kecepatan < 0,01 detik"
+      },
+      {
+        "label": "Akurasi Deteksi Keaktifan  ",
+        "value": "FAR < 0,1%, FRR < 0,1%, Akurasi > 98%, Kecepatan < 0,01 detik"
+      },
+      {
+        "label": "Metode Autentikasi  ",
+        "value": "Deteksi keaktifan, sidik jari, kartu staf, kunci jarak jauh"
+      },
+      {
+        "label": "Ukuran Layar  ",
+        "value": "8"
+      },
+      {
+        "label": "Antarmuka Komunikasi  ",
+        "value": "Ethernet Standar"
+      },
+      {
+        "label": "Tegangan Input  ",
+        "value": "AC 220V ±10%, 50Hz ±5%"
+      },
+      {
+        "label": "Perlindungan Arus Lebih Pemutus Sirkuit  ",
+        "value": "6A"
+      },
+      {
+        "label": "Konsumsi Daya ",
+        "value": " ≤500W"
+      },
+      {
+        "label": "Suhu Operasional  ",
+        "value": "-10°C ~ +50°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Suhu Penyimpanan ",
+        "value": " -20°C~+60°C"
+      },
+      {
+        "label": "Kelembapan Relatif  ",
+        "value": "10% ~ 90% RH, Non-kondensasi"
+      },
+      {
+        "label": "Skenario Aplikasi ",
+        "value": " Cocok untuk penggunaan di dalam dan luar ruangan"
+      },
+      {
+        "label": "Dimensi  ",
+        "value": "1630*150*1440mm"
+      }
+    ]
+  },
+  {
     "id": "0767346a-a027-475a-a891-4b89666289e3",
     "product_id": "958f3167-3ca8-4369-a4f5-ac3348c7752c",
     "introduction_en": "Maxvision Palm Vein Recognition Terminal adopts Al recognition technology, combined with scientific applications such as vision, optics, biology, etc., uses multi-band infrared imaging technology to obtain the palm vein distribution map of the palm, and performs biometric identification through a dedicated comparison algorithm to achieve ultra-high performance. The equipment has the advantages of safety and reliability, non-contact authentication, live detection, good anti-interference, and high accuracy. It can be embedded in access control, gates, self-service terminals and other systems, and is widely used in customs, border defense, seaports, communities buildings, access controlled premises etc..",
@@ -212,6 +360,86 @@
       {
         "label": "Ukuran  ",
         "value": "221,4*181,4*25,8mm"
+      }
+    ]
+  },
+  {
+    "introduction_id": "Container Smart Lock Reader adalah perangkat siap pakai yang dirancang untuk membaca dan mengelola data dari kunci kontainer nirkabel secara aman. Menggunakan teknologi berbasis RFID atau sensor, perangkat ini memungkinkan penyegelan, pembukaan kunci, dan verifikasi kerusakan dari jarak jauh—memungkinkan operator memantau status kontainer secara real-time tanpa kontak fisik.\nDidesain untuk integrasi yang mulus, pembaca ini mudah terhubung ke platform manajemen logistik hulu dan sistem pos pemeriksaan seperti pengenalan plat nomor, menyediakan antarmuka terpadu untuk kontrol kunci otomatis di seluruh pelabuhan, terminal, dan simpul transportasi. Perangkat ini meningkatkan visibilitas rantai pasokan, memperkuat keamanan aset, dan mendukung operasi kontainer yang sepenuhnya digital.",
+    "product_id": "15a63888-d8c5-42ac-a3f2-07b68de07788",
+    "features_en": [
+      "Smart and Efficient",
+      "Two-way Data Interaction",
+      "Intelligent Linkage of Checkpoint",
+      "Wireless Long-Distance Access"
+    ],
+    "description_en": "The Container Smart Lock Reader is a field-ready device designed to securely read and manage data from wireless container locks. Using RFID or sensor-based technology, it enables remote sealing, unlocking, and tamper verification-allowing operators to monitor container status in real time without physical contact.\nBuilt for seamless integration, the reader connects easily to upstream logistics management platforms and checkpoint systems such as license plate recognition, providing a unified interface for automated lock control across ports, terminals, and transport nodes. It enhances supply chain visibility, strengthens asset security, and supports fully digitized container operations.",
+    "introduction_en": "The Container Smart Lock Reader is a field-ready device designed to securely read and manage data from wireless container locks. Using RFID or sensor-based technology, it enables remote sealing, unlocking, and tamper verification-allowing operators to monitor container status in real time without physical contact.\nBuilt for seamless integration, the reader connects easily to upstream logistics management platforms and checkpoint systems such as license plate recognition, providing a unified interface for automated lock control across ports, terminals, and transport nodes. It enhances supply chain visibility, strengthens asset security, and supports fully digitized container operations.",
+    "parameter_id": [
+      {
+        "label": "Metode Komunikasi  ",
+        "value": "RFID"
+      },
+      {
+        "label": "Antarmuka Komunikasi  ",
+        "value": "485"
+      },
+      {
+        "label": "Tegangan Akses  ",
+        "value": "DC 9~36V"
+      },
+      {
+        "label": "Tingkat Kedap Air  ",
+        "value": "IPX5"
+      },
+      {
+        "label": "Lingkungan Penggunaan  ",
+        "value": "Luar Ruangan/Semi-Luar Ruangan"
+      },
+      {
+        "label": "Jarak Komunikasi Maksimum  ",
+        "value": "<50m"
+      },
+      {
+        "label": "Ukuran Produk ",
+        "value": " Panjang * Lebar * Tinggi = 188*116*57mm"
+      }
+    ],
+    "id": "09d8315a-98ff-446e-a1b2-8a844b768f3e",
+    "features_id": [
+      "Cerdas dan Efisien",
+      "Interaksi Data Dua Arah",
+      "Koneksi Cerdas Titik Pemeriksaan",
+      "Akses Nirkabel Jarak Jauh"
+    ],
+    "description_id": "Container Smart Lock Reader adalah perangkat siap pakai yang dirancang untuk membaca dan mengelola data dari kunci kontainer nirkabel secara aman. Menggunakan teknologi berbasis RFID atau sensor, perangkat ini memungkinkan penyegelan, pembukaan kunci, dan verifikasi kerusakan dari jarak jauh—memungkinkan operator memantau status kontainer secara real-time tanpa kontak fisik.\nDidesain untuk integrasi yang mulus, pembaca ini mudah terhubung ke platform manajemen logistik hulu dan sistem pos pemeriksaan seperti pengenalan plat nomor, menyediakan antarmuka terpadu untuk kontrol kunci otomatis di seluruh pelabuhan, terminal, dan simpul transportasi. Perangkat ini meningkatkan visibilitas rantai pasokan, memperkuat keamanan aset, dan mendukung operasi kontainer yang sepenuhnya digital.",
+    "parameter_en": [
+      {
+        "label": "Communication Method  ",
+        "value": "RFID"
+      },
+      {
+        "label": "Communication Interface ",
+        "value": " 485"
+      },
+      {
+        "label": "Access Voltage  ",
+        "value": "DC 9~36V"
+      },
+      {
+        "label": "Waterproof Level  ",
+        "value": "IPX5"
+      },
+      {
+        "label": "Usage Environment  ",
+        "value": "Outdoor/Semi-outdoor"
+      },
+      {
+        "label": "Maximum Communication Distance  ",
+        "value": "<50m"
+      },
+      {
+        "label": "Product Size  ",
+        "value": "Length * Width * Height= 188*116*57mm"
       }
     ]
   },
@@ -350,6 +578,97 @@
     ]
   },
   {
+    "introduction_id": "Sistem Inspeksi Kontainer Multimoda adalah solusi cerdas yang dirancang untuk inspeksi kontainer di pelabuhan dan pos pemeriksaan perbatasan. Dengan mengintegrasikan radar, sensor presisi tinggi, lengan robot, dan algoritma persepsi multimoda, sistem ini menangkap citra internal, kedalaman struktur, dan data penting lainnya selama proses pembukaan kontainer. Sistem ini memungkinkan identifikasi kontainer kosong dan risiko tersembunyi dengan cepat, sehingga meningkatkan akurasi inspeksi dan efisiensi operasional. Dengan kemampuan operasional 24/7 dan integrasi yang lancar dengan platform pengawasan bea cukai, sistem ini mendukung alur kerja inspeksi yang sepenuhnya otomatis, digital, dan loop tertutup.",
+    "product_id": "4afaba0c-00e5-4a0e-8364-7483cf36fad9",
+    "features_en": [
+      "Non-Intrusive",
+      "Intelligent Inspection",
+      "Multimodal Data Fusion",
+      "Adaptive to Complex Operating Conditions",
+      "Scalable Algorithm Framework",
+      "High System Integration"
+    ],
+    "description_en": "The Multimodal Container Inspection System is an intelligent solution designed for container inspection at ports and border checkpoints. Integrating radar, high-precision sensors, robotic arms, and multimodal perception algorithms, the system captures internal imagery, structural depth, and other key data during the container opening process. It enables rapid identification of empty containers and concealed risks, enhancing both inspection accuracy and operational efficiency. With 24/7 operational capability and seamless integration with customs supervision platforms, the system supports fully automated, digitalized, and closed-loop inspection workflows.",
+    "introduction_en": "The Multimodal Container Inspection System is an intelligent solution designed for container inspection at ports and border checkpoints. Integrating radar, high-precision sensors, robotic arms, and multimodal perception algorithms, the system captures internal imagery, structural depth, and other key data during the container opening process. It enables rapid identification of empty containers and concealed risks, enhancing both inspection accuracy and operational efficiency. With 24/7 operational capability and seamless integration with customs supervision platforms, the system supports fully automated, digitalized, and closed-loop inspection workflows.",
+    "parameter_id": [
+      {
+        "label": "Daya Terukur  ",
+        "value": "≤800W"
+      },
+      {
+        "label": "Suhu Operasional  ",
+        "value": "-20°C~+65°C (Luar Ruangan)"
+      },
+      {
+        "label": "Suhu Penyimpanan  ",
+        "value": "-20°C~+65°C (Luar Ruangan)"
+      },
+      {
+        "label": "Kelembapan Relatif  ",
+        "value": "10~90% RH, Non-kondensasi"
+      },
+      {
+        "label": "Lingkungan Pemasangan  ",
+        "value": "Sepenuhnya di luar ruangan, tahan cuaca"
+      },
+      {
+        "label": "Waktu Deteksi  ",
+        "value": "≤15 detik"
+      },
+      {
+        "label": "Tingkat Akurasi Deteksi  ",
+        "value": "≥98%"
+      },
+      {
+        "label": "Dimensi Peralatan  ",
+        "value": "300*200*4000mm (Dasar: 600 x 600 mm)"
+      }
+    ],
+    "id": "11b790c5-b9e9-44f3-a521-e8606477dbe3",
+    "features_id": [
+      "Inspeksi Cerdas Non-Intrusif",
+      "Fusi Data Multimoda",
+      "Adaptif terhadap Kondisi Operasional yang Kompleks",
+      "Kerangka Algoritma yang Skalabel",
+      "Integrasi Sistem yang Tinggi"
+    ],
+    "description_id": "Sistem Inspeksi Kontainer Multimoda adalah solusi cerdas yang dirancang untuk inspeksi kontainer di pelabuhan dan pos pemeriksaan perbatasan. Dengan mengintegrasikan radar, sensor presisi tinggi, lengan robot, dan algoritma persepsi multimoda, sistem ini menangkap citra internal, kedalaman struktur, dan data penting lainnya selama proses pembukaan kontainer. Sistem ini memungkinkan identifikasi kontainer kosong dan risiko tersembunyi dengan cepat, sehingga meningkatkan akurasi inspeksi dan efisiensi operasional. Dengan kemampuan operasional 24/7 dan integrasi yang lancar dengan platform pengawasan bea cukai, sistem ini mendukung alur kerja inspeksi yang sepenuhnya otomatis, digital, dan loop tertutup.",
+    "parameter_en": [
+      {
+        "label": "Rated Power  ",
+        "value": "≤800W"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-20°C~+65°C (Outdoor)"
+      },
+      {
+        "label": "Storage Temperature  ",
+        "value": "-20°C~+65°C (Outdoor)"
+      },
+      {
+        "label": "Relative Humidity  ",
+        "value": "10~90%RH, Non-condensing"
+      },
+      {
+        "label": "Installation Environment  ",
+        "value": "Fully outdoor, weather-resistant"
+      },
+      {
+        "label": "Detection Time ",
+        "value": " ≤15s"
+      },
+      {
+        "label": "Detection Accuracy Rate  ",
+        "value": "≥98%"
+      },
+      {
+        "label": "Equipment Dimensions  ",
+        "value": "300*200*4000mm (Base: 600 x 600 mm)"
+      }
+    ]
+  },
+  {
     "id": "13f510ee-94e3-43c5-b3e5-683f5a6adf8c",
     "product_id": "0042c6ae-43c6-4fb2-ab6f-e183f788c116",
     "introduction_en": "Maxvision's Multi-functional Verification Counter (C) is an all-in-one inspection solution built for high-volume border checkpoints such as seaports and airports. Designed for front-line deployment, it integrates key clearance functions-including identity verification, biometric data capture, automated document stamping, multilingual communication, Al-driven video analytics, and voice interaction-into a single streamlined platform.\nThe system offers centralized control of peripheral devices such as lighting, ventilation, temperature, and surveillance, enabling a fully automated, closed-loop inspection process. It\nhelps border agencies speed up processing, reduce manual workload, and create a safer, more efficient inspection environment for travelers and officers alike.",
@@ -367,6 +686,222 @@
       "Bantuan Suara & Panduan Cerdas",
       "Pemantauan Visual & Integrasi Platform",
       "Keamanan Terpadu & Respons Darurat"
+    ]
+  },
+  {
+    "id": "1b9b8e58-1f99-4e5a-879f-2b917390210e",
+    "product_id": "bca77bc8-7714-493e-ad53-5624640c5ebb",
+    "introduction_en": "The Electronic Cargo Tracking System uses Intelligent Locker Tracker and on-board terminals with GPS, BeiDou, and mobile networks to keep cargo visible and under control throughout transit. Operators can monitor lock status, replay routes, manage remote access, and track shipments in real time through a central dashboard.\nThe system streamlines supervision, reduces delays, and accelerates cargo flow-helping logistics providers improve efficiency, service quality, and competitiveness. It is well suited for freight, express delivery, and cold-chain logistics.",
+    "introduction_id": "Sistem Pelacakan Kargo Elektronik menggunakan Pelacak Loker Cerdas dan terminal onboard dengan GPS, BeiDou, dan jaringan seluler untuk menjaga kargo tetap terlihat dan terkendali selama transit. Operator dapat memantau status kunci, memutar ulang rute, mengelola akses jarak jauh, dan melacak pengiriman secara real-time melalui dasbor pusat.\nSistem ini menyederhanakan pengawasan, mengurangi penundaan, dan mempercepat arus kargo, membantu penyedia logistik meningkatkan efisiensi, kualitas layanan, dan daya saing. Sistem ini sangat cocok untuk pengiriman barang, pengiriman ekspres, dan logistik rantai dingin.",
+    "description_en": "The Electronic Cargo Tracking System uses Intelligent Locker Tracker and on-board terminals with GPS, BeiDou, and mobile networks to keep cargo visible and under control throughout transit. Operators can monitor lock status, replay routes, manage remote access, and track shipments in real time through a central dashboard.\nThe system streamlines supervision, reduces delays, and accelerates cargo flow-helping logistics providers improve efficiency, service quality, and competitiveness. It is well suited for freight, express delivery, and cold-chain logistics.",
+    "description_id": "Sistem Pelacakan Kargo Elektronik menggunakan Pelacak Loker Cerdas dan terminal onboard dengan GPS, BeiDou, dan jaringan seluler untuk menjaga kargo tetap terlihat dan terkendali selama transit. Operator dapat memantau status kunci, memutar ulang rute, mengelola akses jarak jauh, dan melacak pengiriman secara real-time melalui dasbor pusat.\nSistem ini menyederhanakan pengawasan, mengurangi penundaan, dan mempercepat arus kargo, membantu penyedia logistik meningkatkan efisiensi, kualitas layanan, dan daya saing. Sistem ini sangat cocok untuk pengiriman barang, pengiriman ekspres, dan logistik rantai dingin.",
+    "features_en": [
+      "Real-Time Monitoring and Tracking",
+      "Electric Fence Customization",
+      "Transport Plan Optimization",
+      "Fully Traceable",
+      "Real-Time Warnings and Alerts",
+      "Efficient Interconnection of People and Vehicles Information"
+    ],
+    "features_id": [
+      "Pemantauan dan Pelacakan Real-Time",
+      "Kustomisasi Pagar Listrik",
+      "Optimalisasi Rencana Transportasi",
+      "Dapat Dilacak Sepenuhnya",
+      "Peringatan dan Peringatan Real-Time",
+      "Interkoneksi Informasi Orang dan Kendaraan yang Efisien"
+    ]
+  },
+  {
+    "id": "3106fd10-e0ed-4fa7-95ab-5441c3dda96e",
+    "product_id": "4a898305-b1e2-47bf-9447-da247d717370",
+    "introduction_en": "The Restricted Area Access Verification E-gate (Dual-Gate) is a purpose-built solution for managing personnel access within restricted zones at border control points. Designed for high-security environments, the system combines multi-factor authentication-including facial recognition, fingerprint recognition, and smart card verification-with intelligent gate control and behavior analytics. It enables real-name access management while enhancing both security and operational efficiency.\nThe system integrates seamlessly with immigration platforms and supports bidirectional access, real-time tailgating detection, intrusion alerts, anti-pinch safeguards, access flow monitoring, and audio-visual guidance-making it ideal for ports, airports, land crossings, and joint inspection areas.",
+    "introduction_id": "Verifikasi Akses Area Terbatas E-gate (Dual-Gate) adalah solusi yang dirancang khusus untuk mengelola akses personel di zona terbatas di titik kontrol perbatasan. Dirancang untuk lingkungan dengan keamanan tinggi, sistem ini menggabungkan autentikasi multi-faktor—termasuk pengenalan wajah, pengenalan sidik jari, dan verifikasi kartu pintar—dengan kontrol gerbang cerdas dan analitik perilaku. Sistem ini memungkinkan manajemen akses dengan nama asli sekaligus meningkatkan keamanan dan efisiensi operasional.\nSistem ini terintegrasi secara mulus dengan platform imigrasi dan mendukung akses dua arah, deteksi tailgating secara real-time, peringatan intrusi, perlindungan anti-pinch, pemantauan arus akses, dan panduan audio-visual—sehingga ideal untuk pelabuhan, bandara, perlintasan darat, dan area inspeksi bersama.",
+    "features_en": [
+      "Seamless Biometric Verification",
+      "High-speed",
+      "High-reliability Access",
+      "Built-in Intelligent Threat Detection",
+      "Safety-first Design",
+      "Full System Interoperability",
+      "Bidirectional Flow Management",
+      "Intuitive User Interface",
+      "Compact",
+      "Modular Construction"
+    ],
+    "features_id": [
+      "Verifikasi Biometrik yang Lancar",
+      "Akses Berkecepatan Tinggi dan Keandalan Tinggi",
+      "Deteksi Ancaman Cerdas Terpadu",
+      "Desain yang Mengutamakan Keselamatan",
+      "Interoperabilitas Sistem yang Lengkap",
+      "Manajemen Aliran Dua Arah",
+      "Antarmuka Pengguna yang Intuitif",
+      "Konstruksi Modular yang Ringkas"
+    ],
+    "parameter_en": [
+      {
+        "label": "Input Voltage  ",
+        "value": "AC 220V±10%; 50Hz±5%"
+      },
+      {
+        "label": "Circuit Breaker Overcurrent Protection  ",
+        "value": "10A"
+      },
+      {
+        "label": "Rated Power  ",
+        "value": "1200W"
+      },
+      {
+        "label": "Operating Temperature ",
+        "value": " -10°C~+50°C (Indoor)"
+      },
+      {
+        "label": "Storage Temperature  ",
+        "value": "-20°C~+60°C(Indoor)"
+      },
+      {
+        "label": "Relative Humidity  ",
+        "value": "10%~90%RH, Non-condensing"
+      },
+      {
+        "label": "Installation Environment  ",
+        "value": "Indoor"
+      },
+      {
+        "label": "Communication Interface  ",
+        "value": "Standard Ethernet"
+      },
+      {
+        "label": "MCBF  ",
+        "value": "≥ 5.5million cycles"
+      },
+      {
+        "label": "Front/Rear Screen ",
+        "value": " 8\""
+      },
+      {
+        "label": "Center Display  ",
+        "value": "10.1\""
+      },
+      {
+        "label": "Employee Badge ",
+        "value": " Supported"
+      },
+      {
+        "label": "National ID Card  ",
+        "value": "Supported"
+      },
+      {
+        "label": "Facial Recognition Accuracy ",
+        "value": " FAR < 0.1%, FRR < 0.1%, Accuracy > 98%, Recognition Speed < 0.01s"
+      },
+      {
+        "label": "Liveness Detection Accuracy ",
+        "value": "FAR < 0.1%, FRR < 0.1%, Accuracy > 98%, Detection Speed < 0.01s"
+      },
+      {
+        "label": "Fingerprint Recognition Accuracy  ",
+        "value": "FAR < 0.00001%, FRR < 0.1%, Accuracy > 99.9%, Match Speed < 0.01s"
+      },
+      {
+        "label": "System Response Time ",
+        "value": " ≤100ms"
+      },
+      {
+        "label": "System Stability  ",
+        "value": "24/7 Non-stop Operation Without Power Cycling"
+      },
+      {
+        "label": "E-gate Width ",
+        "value": "1000mm"
+      },
+      {
+        "label": "Dimensions  ",
+        "value": "3000*180*1700mm(Including 3000 mm Anti-Tailgating Extension)"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Tegangan Masukan  ",
+        "value": "AC 220V±10%; 50Hz±5%"
+      },
+      {
+        "label": "Perlindungan Arus Lebih Pemutus Sirkuit  ",
+        "value": "10A"
+      },
+      {
+        "label": "Daya Terukur  ",
+        "value": "1200W"
+      },
+      {
+        "label": "Suhu Operasional  ",
+        "value": "-10°C~+50°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Suhu Penyimpanan  ",
+        "value": "-20°C~+60°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Kelembapan Relatif  ",
+        "value": "10%~90%RH, Non-kondensasi"
+      },
+      {
+        "label": "Lingkungan Instalasi  ",
+        "value": "Dalam Ruangan"
+      },
+      {
+        "label": "Antarmuka Komunikasi  ",
+        "value": "Ethernet Standar"
+      },
+      {
+        "label": "MCBF  ",
+        "value": "≥ 5,5 juta siklus"
+      },
+      {
+        "label": "Layar Depan/Belakang  ",
+        "value": "8\""
+      },
+      {
+        "label": "Layar Tengah  ",
+        "value": "10,1\""
+      },
+      {
+        "label": "Lencana Karyawan  ",
+        "value": "Didukung"
+      },
+      {
+        "label": "KTP  ",
+        "value": "Didukung"
+      },
+      {
+        "label": "Akurasi Pengenalan Wajah",
+        "value": "FAR < 0,1%, FRR < 0,1%, Akurasi > 98%, Kecepatan Pengenalan < 0,01 detik"
+      },
+      {
+        "label": "Akurasi Deteksi Keaktifan  ",
+        "value": "FAR < 0,1%, FRR < 0,1%, Akurasi > 98%, Kecepatan Deteksi < 0,01 detik"
+      },
+      {
+        "label": "Akurasi Pengenalan Sidik Jari ",
+        "value": " FAR < 0,00001%, FRR < 0,1%, Akurasi > 99,9%, Kecepatan Pencocokan < 0,01 detik"
+      },
+      {
+        "label": "Waktu Respons Sistem  ",
+        "value": "≤100 ms"
+      },
+      {
+        "label": "Stabilitas Sistem  ",
+        "value": "Operasi Non-stop 24/7 Tanpa Siklus Daya"
+      },
+      {
+        "label": "Lebar E-gate  ",
+        "value": "1000 mm"
+      },
+      {
+        "label": "Dimensi  ",
+        "value": "3000*180*1700 mm (Termasuk Ekstensi Anti-Tailgating 3000 mm)"
+      }
     ]
   },
   {
@@ -578,6 +1113,84 @@
     ]
   },
   {
+    "id": "48ef4e9c-6416-4a67-b512-3956c553b5f2",
+    "product_id": "40ac3cdb-40be-47f6-ade2-0249d9a1ecfe",
+    "introduction_en": "The Infrared Thermometer is a non-contact solution designed for rapid detection of abnormal body temperatures among travelers. Leveraging thermal imaging and intelligent facial recognition algorithms, the system accurately and tracks individuals with elevated body temperatures while effectively filtering out false alarms caused by external heat sources such as hot beverages or food. Equipped with an HD camera and AI-based analysis, the system enables automatic detection, real-time alerting, and image capture of potential febrile cases.\nThe system incorporates a high-precision blackbody radiation source as a temperature reference to compensate for environmental influences and thermal drift of the imaging sensor. This ensures consistent temperature calibration, fast warm-up, and precise thermal control, significantly improving measurement accuracy and system reliability under complex environmental conditions.\nIt is ideal for deployment in wide-area temperature screening scenarios such as public halls and overhead corridor installations.",
+    "introduction_id": "Termometer Inframerah adalah solusi non-kontak yang dirancang untuk mendeteksi suhu tubuh abnormal secara cepat di antara para pelancong. Dengan memanfaatkan pencitraan termal dan algoritma pengenalan wajah cerdas, sistem ini secara akurat melacak individu dengan suhu tubuh tinggi sekaligus secara efektif menyaring alarm palsu yang disebabkan oleh sumber panas eksternal seperti minuman panas atau makanan. Dilengkapi dengan kamera HD dan analisis berbasis AI, sistem ini memungkinkan deteksi otomatis, peringatan waktu nyata, dan pengambilan gambar kasus potensial demam.\nSistem ini menggabungkan sumber radiasi benda hitam presisi tinggi sebagai referensi suhu untuk mengkompensasi pengaruh lingkungan dan pergeseran termal sensor pencitraan. Hal ini memastikan kalibrasi suhu yang konsisten, pemanasan yang cepat, dan kontrol termal yang presisi, yang secara signifikan meningkatkan akurasi pengukuran dan keandalan sistem dalam kondisi lingkungan yang kompleks.\nSistem ini ideal untuk digunakan dalam skenario pemeriksaan suhu area luas seperti aula publik dan instalasi koridor di atas kepala.",
+    "features_en": [
+      "High Throughput",
+      "Non-Intrusive Experience",
+      "Accurate and Reliable Detection",
+      "Real-Time Calibration"
+    ],
+    "features_id": [
+      "Throughput Tinggi",
+      "Pengalaman Non-Intrusif",
+      "Deteksi Akurat dan Andal",
+      "Kalibrasi Real-Time"
+    ],
+    "parameter_en": [
+      {
+        "label": "Infrared Wavelength Range ",
+        "value": " 8~14um"
+      },
+      {
+        "label": "Lens Focal Length  ",
+        "value": "5.0mm"
+      },
+      {
+        "label": "Measurement Accuracy  ",
+        "value": "±0.3°C Accuracy with Blackbody Calibration"
+      },
+      {
+        "label": "Effective Detection Distance ",
+        "value": "0.5m~2m"
+      },
+      {
+        "label": "Installation Environment  ",
+        "value": "Ceiling-MountedAbove E-gate"
+      },
+      {
+        "label": "Blackbody Dimensions  ",
+        "value": "75*75*90mm"
+      },
+      {
+        "label": "Thermal Sensor Dimensions  ",
+        "value": "116*150*57mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Rentang Panjang Gelombang Inframerah  ",
+        "value": "8~14um"
+      },
+      {
+        "label": "Panjang Fokus Lensa  ",
+        "value": "5,0mm"
+      },
+      {
+        "label": "Akurasi Pengukuran ",
+        "value": " Akurasi ±0,3°C dengan Kalibrasi Benda Hitam"
+      },
+      {
+        "label": "Jarak Deteksi Efektif  ",
+        "value": "0,5m~2m"
+      },
+      {
+        "label": "Lingkungan Pemasangan  ",
+        "value": "Terpasang di Langit-Langit di Atas Gerbang-E"
+      },
+      {
+        "label": "Dimensi Benda Hitam  ",
+        "value": "75*75*90mm"
+      },
+      {
+        "label": "Dimensi Sensor Termal  ",
+        "value": "116*150*57mm"
+      }
+    ]
+  },
+  {
     "id": "50e48785-b727-4af7-84eb-e994e9c1956e",
     "product_id": "5f984e29-6131-4ba2-a751-cf400aecf49b",
     "introduction_en": "Maxvision Inteligent Facial Recognition Terminal adopts integrated tempered glass panel protection design, equipped with 8-inch IPS HD display, which can be applied to all kinds of places requiring face recognition authentication. The product uses independently developed face recognition algorithm. The quality of face images captured by this device would not be impacted by different lighting circumstances (e.g., weak light, backlight, strong light). Functioning mask-wearing, glass-wearing, hat-wearing, face-covering, and liveness detection with the recognition rate of all these deep learning-powered feature matching algorithms have been up to 99%.",
@@ -676,6 +1289,412 @@
       {
         "label": "Ukuran",
         "value": "235mm*130mm*20mm"
+      }
+    ]
+  },
+  {
+    "introduction_id": "Direkayasa oleh Maxvision, sistem inspeksi sinar-X dual-energi dan dual-view generasi terbaru ini dirancang khusus untuk pemeriksaan bagasi kabin dan barang-barang pribadi secara efisien di pos pemeriksaan bea cukai, bandara, stasiun kereta api, fasilitas pemerintah, dan lingkungan berkeamanan tinggi lainnya. Dilengkapi dua pasang sumber-detektor sinar-X independen, sistem ini menghasilkan pencitraan tampilan bawah dan samping pada layar ganda, yang secara signifikan meningkatkan pengenalan objek di area yang tumpang tindih atau tertutup. Desainnya memadukan fungsionalitas khusus industri dengan estetika industri modern, menghasilkan solusi yang efisien, intuitif, dan sangat adaptif untuk operasi keamanan yang krusial.",
+    "product_id": "63cb6eef-6c59-45db-a467-d3bed6ff59a0",
+    "features_en": [
+      "Superior Imaging Clarity",
+      "True Dual-View Architecture",
+      "Ultra-Low Radiation Emissions",
+      "Integrated TIP Functionality",
+      "Flexible Image Export Options",
+      "Network-Ready Data Architecture",
+      "Automated System Diagnostics"
+    ],
+    "description_en": "Engineered by Maxvision, this next-generation dual-energy, dual-view X-ray inspection system is purpose-built for efficient screening of carry-on baggage and personal belongings across customs checkpoints, airports, rail stations, government facilities, and other high-security environments. Featuring two independent X-ray source-detector pairs, the system delivers both bottom-up and side-view imaging on dual displays, significantly enhancing object recognition in areas with overlap or occlusion. Its design blends industry-specific functionality with modern industrial aesthetics, resulting in a solution that is streamlined, intuitive, and highly adaptable for mission-critical security operations.",
+    "introduction_en": "Engineered by Maxvision, this next-generation dual-energy, dual-view X-ray inspection system is purpose-built for efficient screening of carry-on baggage and personal belongings across customs checkpoints, airports, rail stations, government facilities, and other high-security environments. Featuring two independent X-ray source-detector pairs, the system delivers both bottom-up and side-view imaging on dual displays, significantly enhancing object recognition in areas with overlap or occlusion. Its design blends industry-specific functionality with modern industrial aesthetics, resulting in a solution that is streamlined, intuitive, and highly adaptable for mission-critical security operations.",
+    "parameter_id": [
+      {
+        "label": "Kecepatan Konveyor  ",
+        "value": "0,2 m/dtk ~ 0,4 m/dtk"
+      },
+      {
+        "label": "Kapasitas Beban Maksimum  ",
+        "value": "100 kg (terdistribusi merata)"
+      },
+      {
+        "label": "Penarikan Gambar  ",
+        "value": "Mendukung peninjauan gambar yang telah dipindai sebelumnya"
+      },
+      {
+        "label": "Fungsi Bantuan Operator",
+        "value": " Tampilan Tanggal/Waktu, Penghitung Bagasi, Log Operasi, Manajemen Akses Pengguna, Monitor Waktu Proses Sistem, Diagnosis Mandiri Otomatis saat Startup, Kalibrasi Gambar, Perawatan & Diagnostik Kesalahan"
+      },
+      {
+        "label": "Spesifikasi Umum",
+        "value": "-"
+      },
+      {
+        "label": "Catu Daya  ",
+        "value": "AC 220V (±10%), 50±3Hz"
+      },
+      {
+        "label": "Konsumsi Daya ",
+        "value": "1,2KW"
+      },
+      {
+        "label": "Suhu Operasional  ",
+        "value": "0~40°C"
+      },
+      {
+        "label": "Suhu Penyimpanan  ",
+        "value": "-40°C~+60°C"
+      },
+      {
+        "label": "Kelembapan Relatif  ",
+        "value": "5% ~ 95% RH, Non-kondensasi"
+      },
+      {
+        "label": "Weight  ",
+        "value": "800Kg"
+      },
+      {
+        "label": "Sistem Dimensi ",
+        "value": " 2391mm x 1227mm x 1400mm"
+      }
+    ],
+    "id": "538a90fc-5ad6-4cee-9467-dc2b2c0c3272",
+    "features_id": [
+      "Kejernihan Gambar Superior",
+      "Arsitektur Tampilan Ganda Sejati",
+      "Emisi Radiasi Ultra Rendah",
+      "Fungsi TIP Terintegrasi",
+      "Opsi Ekspor Gambar Fleksibel",
+      "Arsitektur Data Siap Jaringan",
+      "Diagnostik Sistem Otomatis"
+    ],
+    "description_id": "Direkayasa oleh Maxvision, sistem inspeksi sinar-X dual-energi dan dual-view generasi terbaru ini dirancang khusus untuk pemeriksaan bagasi kabin dan barang-barang pribadi secara efisien di pos pemeriksaan bea cukai, bandara, stasiun kereta api, fasilitas pemerintah, dan lingkungan berkeamanan tinggi lainnya. Dilengkapi dua pasang sumber-detektor sinar-X independen, sistem ini menghasilkan pencitraan tampilan bawah dan samping pada layar ganda, yang secara signifikan meningkatkan pengenalan objek di area yang tumpang tindih atau tertutup. Desainnya memadukan fungsionalitas khusus industri dengan estetika industri modern, menghasilkan solusi yang efisien, intuitif, dan sangat adaptif untuk operasi keamanan yang krusial.",
+    "parameter_en": [
+      {
+        "label": "Conveyor Speed  ",
+        "value": "0.2m/s ~ 0.4m/s"
+      },
+      {
+        "label": "Maximum Load Capacity  ",
+        "value": "100kg (evenly distributed)"
+      },
+      {
+        "label": "Image Recall  ",
+        "value": "Supports review of previously scanned images"
+      },
+      {
+        "label": "Operator Assist Functions",
+        "value": "Date/Time Display, Baggage Counter, Operation Log, User Access Management, System Runtime Monitor, Automatic Self-Diagnosis at Startup, Image Calibration, Maintenance & Fault Diagnostics"
+      },
+      {
+        "label": "General Specifications",
+        "value": "-"
+      },
+      {
+        "label": "Power Supply  ",
+        "value": "AC 220V(±10%), 50±3Hz"
+      },
+      {
+        "label": "Power Consumption ",
+        "value": "1.2KW"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "0~40°C"
+      },
+      {
+        "label": "Storage Temperature  ",
+        "value": "-40°C~+60°C"
+      },
+      {
+        "label": "Relative Humidity  ",
+        "value": "5% ~ 95% RH, Non-condensing"
+      },
+      {
+        "label": "Weight  ",
+        "value": "800Kg"
+      },
+      {
+        "label": "System Dimensions  ",
+        "value": "2391mmx1227mmx1400mm"
+      }
+    ]
+  },
+  {
+    "id": "5a2ce62a-da1e-43c2-9a23-84ad6769a6e3",
+    "product_id": "af960ef5-beda-436c-994e-9bf4023feec4",
+    "introduction_en": "The Video-based Anti-Tailgating System is purpose-built for immigration e-gate, enabling real-time monitoring of unauthorized passage through advanced on-device video analytics.\nUsing embedded Al, behavior recognition, and machine vision, the system identifies security risks such as tailgating, evasive movement, and abnormal entries without relying on backend servers.\nMounted above the inspection e-gate, it works autonomously and integrates seamlessly with e-gates, biometric verification stations, and security checking systems. The system delivers instant alerts, video capture, and event logging, helping border control agencies reduce manual oversight while significantly enhancing port security and throughput efficiency.",
+    "introduction_id": "Sistem Anti-Tailgating Berbasis Video dirancang khusus untuk e-gate imigrasi, memungkinkan pemantauan waktu nyata (real-time) terhadap lalu lintas tanpa izin melalui analitik video canggih pada perangkat.\nDengan menggunakan AI tertanam, pengenalan perilaku, dan visi mesin, sistem ini mengidentifikasi risiko keamanan seperti tailgating, pergerakan mengelak, dan entri abnormal tanpa bergantung pada server backend.\nDipasang di atas e-gate inspeksi, sistem ini bekerja secara otonom dan terintegrasi secara mulus dengan e-gate, stasiun verifikasi biometrik, dan sistem pemeriksaan keamanan. Sistem ini memberikan peringatan instan, perekaman video, dan pencatatan kejadian, membantu badan kontrol perbatasan mengurangi pengawasan manual sekaligus meningkatkan keamanan pelabuhan dan efisiensi throughput secara signifikan.",
+    "features_en": [
+      "Detects tailgating",
+      "climbing",
+      "crawling",
+      "and multiple-person entry",
+      "Based on front-end processing with no server dependency",
+      "Real-time alerts",
+      "automated recording",
+      "and event traceability",
+      "High detection accuracy with ultra-low false alarm rates",
+      "Supports single or dual-camera configurations for variable lane widths",
+      "Compact",
+      "ceiling- or bracket-mounted design for flexible deployment",
+      "Luggage-aware algorithm avoids misidentifying normal carry-ons"
+    ],
+    "features_id": [
+      "Mendeteksi aktivitas membuntuti",
+      "memanjat",
+      "merangkak",
+      "dan masuknya banyak orang",
+      "Berdasarkan pemrosesan front-end tanpa ketergantungan server",
+      "Peringatan real-time",
+      "perekaman otomatis",
+      "dan keterlacakan kejadian",
+      "Akurasi deteksi tinggi dengan tingkat alarm palsu yang sangat rendah",
+      "Mendukung konfigurasi kamera tunggal atau ganda untuk lebar jalur yang bervariasi",
+      "Desain ringkas",
+      "terpasang di langit-langit atau braket untuk penggunaan yang fleksibel",
+      "Algoritma yang peka terhadap bagasi mencegah kesalahan identifikasi barang bawaan normal"
+    ],
+    "parameter_en": [
+      {
+        "label": "Video Recording Capability  ",
+        "value": "Supported"
+      },
+      {
+        "label": "Depth Sensing Technology  ",
+        "value": "Infrared Support"
+      },
+      {
+        "label": "Minimum Depth Range ",
+        "value": " 0.105m"
+      },
+      {
+        "label": "Multi-Person Entry Detection  Accuracy ",
+        "value": " > 99.9%"
+      },
+      {
+        "label": "Operating Voltage  ",
+        "value": "DC12V±10%"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-40°C~+70°C"
+      },
+      {
+        "label": "Storage Temperature  ",
+        "value": "-50°C~+120°C"
+      },
+      {
+        "label": "Operating Humidity  ",
+        "value": "5%~95%RH, Non-condensing"
+      },
+      {
+        "label": "Power Consumption ",
+        "value": " ≤15W"
+      },
+      {
+        "label": "Mounting Height  ",
+        "value": "2.5~3m"
+      },
+      {
+        "label": "Mounting Method  ",
+        "value": "Ceiling-mount, suspension, and other flexible installation modes"
+      },
+      {
+        "label": "Weight  ",
+        "value": "0.6kg"
+      },
+      {
+        "label": "Dimensions  ",
+        "value": "196mm*69mm*60mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Kemampuan Merekam Video  ",
+        "value": "Didukung"
+      },
+      {
+        "label": "Teknologi Penginderaan Kedalaman  ",
+        "value": "Dukungan Inframerah"
+      },
+      {
+        "label": "Jangkauan Kedalaman Minimum ",
+        "value": " 0,105 m"
+      },
+      {
+        "label": "Deteksi Masuk Banyak Orang  Akurasi  ",
+        "value": "> 99,9%"
+      },
+      {
+        "label": "Tegangan Operasional  ",
+        "value": "DC12V±10%"
+      },
+      {
+        "label": "Suhu Operasional  ",
+        "value": "-40°C~+70°C"
+      },
+      {
+        "label": "Suhu Penyimpanan  ",
+        "value": "-50°C~+120°C"
+      },
+      {
+        "label": "Kelembapan Operasional  ",
+        "value": "5%~95%RH, Non-kondensasi"
+      },
+      {
+        "label": "Konsumsi Daya  ",
+        "value": "≤15W"
+      },
+      {
+        "label": "Tinggi Pemasangan  ",
+        "value": "2,5~3 m"
+      },
+      {
+        "label": "Metode Pemasangan ",
+        "value": "Pemasangan di langit-langit, suspensi, dan mode pemasangan fleksibel lainnya"
+      },
+      {
+        "label": "Weight  ",
+        "value": "0.6kg"
+      },
+      {
+        "label": "Dimensi  ",
+        "value": "196 mm*69 mm*60 mm"
+      }
+    ]
+  },
+  {
+    "introduction_id": "Maxvision secara independen mengembangkan Mesin Inspeksi Cerdas Kendaraan All-in-one ini, sebuah produk pemeriksaan cerdas. Produk ini dirancang untuk meningkatkan manajemen lajur otomatis dan untuk merekam serta memverifikasi identitas personel yang melintas di lajur secara mandiri. Fungsi-fungsinya meliputi pengenalan wajah, pengenalan sidik jari, pemindaian kode batang, pengenalan dokumen, panduan interaktif, alarm abnormal, pencetakan tanda lulus, interkom video, kontrol tautan, dan sebagainya. Produk ini cocok untuk kampus, pelabuhan, dan kawasan perdagangan bebas terpadu yang perlu merekam dan memverifikasi informasi penumpang di lajur.",
+    "product_id": "7124fec0-ef67-41bc-aa2f-843546e5722e",
+    "features_en": [
+      "Variety of Inspection Methods",
+      "Linkage of Front-End Equipment",
+      "Unmanned Checkpoints",
+      "High Temperature Environment Operation"
+    ],
+    "description_en": "Maxvision independently developed this Vehicle Intelligent Inspection All-in-one Machine which is an inteligent checking product. This product is designed to enhance the automated management of lanes and to self-capture and verify the identity of personnel passing on the lanes. Functions including facial recognition, fingerprint recognition, barcode scanning, document recognition, interactive guidance, abnormal alarm, pass printing, video intercom, linkage control and so on. It is suitable for campus, ports, integrated free trade zones that need to capture and verify the information of passengers in the lane.",
+    "introduction_en": "Maxvision independently developed this Vehicle Intelligent Inspection All-in-one Machine which is an inteligent checking product. This product is designed to enhance the automated management of lanes and to self-capture and verify the identity of personnel passing on the lanes. Functions including facial recognition, fingerprint recognition, barcode scanning, document recognition, interactive guidance, abnormal alarm, pass printing, video intercom, linkage control and so on. It is suitable for campus, ports, integrated free trade zones that need to capture and verify the information of passengers in the lane.",
+    "parameter_id": [
+      {
+        "label": "Ukuran Layar ",
+        "value": " 8\""
+      },
+      {
+        "label": "Pengenalan Wajah  ",
+        "value": "Opsional, Jarak: 30~200cm"
+      },
+      {
+        "label": "Pengambilan Sidik Jari  ",
+        "value": "Opsional"
+      },
+      {
+        "label": "Pembacaan Dokumen  ",
+        "value": "Opsional"
+      },
+      {
+        "label": "Percakapan Terlihat  ",
+        "value": "Searah"
+      },
+      {
+        "label": "Pengenalan Kode Batang  ",
+        "value": "Kecepatan Pengenalan: ≤ 60ms/waktu; Jangkauan Pengenalan: 4~25cm"
+      },
+      {
+        "label": "Port Komunikasi  ",
+        "value": "Antarmuka Jaringan"
+      },
+      {
+        "label": "Lingkungan Kerja  ",
+        "value": "Semi-luar ruangan (Pasang di dalam Langit-langit)"
+      },
+      {
+        "label": "Tegangan Kerja  ",
+        "value": "AC 220V±10%, 50Hz±5%"
+      },
+      {
+        "label": "Daya Terukur  ",
+        "value": "500W"
+      },
+      {
+        "label": "Suhu Kerja  ",
+        "value": "-20°C~+70°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Suhu Penyimpanan  ",
+        "value": "-30°C~+80°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Kelembapan Relatif  ",
+        "value": "10%~90%RH Anti-Kondensasi"
+      },
+      {
+        "label": "Ukuran  ",
+        "value": "P*L*T=440*340*1790 mm"
+      }
+    ],
+    "id": "65dae644-7af5-4e7f-ae0b-beb4146c0a45",
+    "features_id": [
+      "Berbagai Metode Inspeksi",
+      "Penghubungan Peralatan Front-End",
+      "Pos Pemeriksaan Tanpa Awak",
+      "Operasi di Lingkungan Bersuhu Tinggi"
+    ],
+    "description_id": "Maxvision secara independen mengembangkan Mesin Inspeksi Cerdas Kendaraan All-in-one ini, sebuah produk pemeriksaan cerdas. Produk ini dirancang untuk meningkatkan manajemen lajur otomatis dan untuk merekam serta memverifikasi identitas personel yang melintas di lajur secara mandiri. Fungsi-fungsinya meliputi pengenalan wajah, pengenalan sidik jari, pemindaian kode batang, pengenalan dokumen, panduan interaktif, alarm abnormal, pencetakan tanda lulus, interkom video, kontrol tautan, dan sebagainya. Produk ini cocok untuk kampus, pelabuhan, dan kawasan perdagangan bebas terpadu yang perlu merekam dan memverifikasi informasi penumpang di lajur.",
+    "parameter_en": [
+      {
+        "label": "Screen Size  ",
+        "value": "8\""
+      },
+      {
+        "label": "Face Recognition  ",
+        "value": "Optional, Distance: 30~200cm"
+      },
+      {
+        "label": "Fingerprint Capture  ",
+        "value": "Optional"
+      },
+      {
+        "label": "Document Reading  ",
+        "value": "Optional"
+      },
+      {
+        "label": "Visible Conversation ",
+        "value": " Unidirectional"
+      },
+      {
+        "label": "Barcode Recognition  ",
+        "value": "Recognition Speed: ≤ 60ms/time; Recognition Range: 4~25cm"
+      },
+      {
+        "label": "Communication Port  ",
+        "value": "Network Interface"
+      },
+      {
+        "label": "Working Environment  ",
+        "value": "Semi-outdoor (Install inside the Ceiling)"
+      },
+      {
+        "label": "Working Voltage ",
+        "value": " AC 220V±10%, 50Hz±5%"
+      },
+      {
+        "label": "Rated Power  ",
+        "value": "500W"
+      },
+      {
+        "label": "Working Temperature  ",
+        "value": "-20°C~+70°C (Indoor)"
+      },
+      {
+        "label": "Storage Temperature  ",
+        "value": "-30°C~+80°C (Indoor)"
+      },
+      {
+        "label": "Relative Humidity  ",
+        "value": "10%~90%RH, Non-Condensation"
+      },
+      {
+        "label": "Size ",
+        "value": " L*W*H=440*340*1790mm"
       }
     ]
   },
@@ -780,6 +1799,118 @@
       {
         "label": "Dimensi Peralatan  ",
         "value": "9820mm*920mm*1570mm"
+      }
+    ]
+  },
+  {
+    "introduction_id": "Sistem Pengawasan Bawah Kendaraan Tetap adalah sistem pemeriksaan keamanan kendaraan untuk akuisisi gambar, tampilan, pemantauan kondisi, dan alarm. Sistem ini secara efektif dapat mencegah orang, bom, senjata, bahan kimia, dan barang berbahaya bersembunyi di bawah mobil, dan banyak digunakan di pemerintahan, bandara, pelabuhan, militer, institusi, kedutaan besar, bank, hotel, dan tempat-tempat keamanan penting lainnya.",
+    "product_id": "2a766286-4839-4be4-baf0-cde5281bdcde",
+    "features_en": [
+      "Auto Match Vehicle Speed",
+      "Automatic LED Fill Light",
+      "Automatic Lens Cleaning",
+      "One-time HD Imaging"
+    ],
+    "description_en": "The Fixed Under-Vehicle Surveillance System is a vehicle security check system for image acquisition, display, condition monitoring and alarm. The system can effectively prevent the hiding of people, bombs, weapons, chemical and dangerous goods under the car, and is widely used in government, airports, ports, military, institutions, embassies, banks, hotels and other important security places.",
+    "introduction_en": "The Fixed Under-Vehicle Surveillance System is a vehicle security check system for image acquisition, display, condition monitoring and alarm. The system can effectively prevent the hiding of people, bombs, weapons, chemical and dangerous goods under the car, and is widely used in government, airports, ports, military, institutions, embassies, banks, hotels and other important security places.",
+    "parameter_id": [
+      {
+        "label": "Lebar Kendaraan Deteksi  ",
+        "value": "≤4000 mm"
+      },
+      {
+        "label": "Tinggi Kendaraan Deteksi  ",
+        "value": "≥60 mm"
+      },
+      {
+        "label": "Deteksi Kecepatan  ",
+        "value": "1~60 km/jam (disarankan ≤30 km/jam)"
+      },
+      {
+        "label": "Catu Daya  ",
+        "value": "AC 220 ± 10%V, 50/60Hz"
+      },
+      {
+        "label": "Daya Terukur  ",
+        "value": "≤1000 W"
+      },
+      {
+        "label": "Arus Terukur  ",
+        "value": "4,5 A"
+      },
+      {
+        "label": "Antarmuka Komunikasi  ",
+        "value": "RJ45, RS485"
+      },
+      {
+        "label": "Tingkat Perlindungan  ",
+        "value": "IP68"
+      },
+      {
+        "label": "Lingkungan Kerja  ",
+        "value": "-40°C~+70°C"
+      },
+      {
+        "label": "Berat  ",
+        "value": "≤60 kg"
+      },
+      {
+        "label": "Ukuran  ",
+        "value": "926*236*273 mm"
+      }
+    ],
+    "id": "6f3dfe85-9de9-4587-836b-cc02ac5e5bf8",
+    "features_id": [
+      "Pencocokan Otomatis Kecepatan Kendaraan",
+      "Lampu LED Otomatis",
+      "Pembersihan Lensa Otomatis",
+      "Pencitraan HD Sekali Pakai"
+    ],
+    "description_id": "Sistem Pengawasan Bawah Kendaraan Tetap adalah sistem pemeriksaan keamanan kendaraan untuk akuisisi gambar, tampilan, pemantauan kondisi, dan alarm. Sistem ini secara efektif dapat mencegah orang, bom, senjata, bahan kimia, dan barang berbahaya bersembunyi di bawah mobil, dan banyak digunakan di pemerintahan, bandara, pelabuhan, militer, institusi, kedutaan besar, bank, hotel, dan tempat-tempat keamanan penting lainnya.",
+    "parameter_en": [
+      {
+        "label": "Detection Vehicle Width  ",
+        "value": "≤4000mm"
+      },
+      {
+        "label": "Detection Vehicle Height  ",
+        "value": "≥60mm"
+      },
+      {
+        "label": "Speed Detection  ",
+        "value": "1~60km/h (recommended ≤30km/h)"
+      },
+      {
+        "label": "Power Supply  ",
+        "value": "AC 220 ± 10%V, 50/60Hz"
+      },
+      {
+        "label": "Rated Power  ",
+        "value": "≤1000W"
+      },
+      {
+        "label": "Rated Current  ",
+        "value": "4.5A"
+      },
+      {
+        "label": "Communication Interfaces  ",
+        "value": "RJ45, RS485"
+      },
+      {
+        "label": "Protection Level  ",
+        "value": "IP68"
+      },
+      {
+        "label": "Working Environment  ",
+        "value": "-40°C~+70°C"
+      },
+      {
+        "label": "Weight  ",
+        "value": "≤60kg"
+      },
+      {
+        "label": "Size ",
+        "value": " 926*236*273mm"
       }
     ]
   },
@@ -1004,6 +2135,224 @@
       {
         "label": "Ukuran  ",
         "value": "Ø60*20,5 mm"
+      }
+    ]
+  },
+  {
+    "introduction_id": "Intelligent Lock Tracker adalah perangkat yang digunakan untuk pengawasan barang secara real-time dalam status transportasi transit. Perangkat ini mengadopsi desain slot kartu SIM ganda dan dilengkapi modul pemosisian mode ganda untuk mencapai pemosisian yang akurat, komunikasi real-time, serta pelacakan dan pemosisian otomatis. Selain itu, perangkat ini juga memiliki fungsi perekaman data satu-buta berkapasitas besar, yang secara otomatis menyimpan data lokal ketika perangkat berada di zona buta jaringan, sehingga tidak ada titik mati pengawasan. Melalui manajemen backstage, perangkat ini dapat mengelola terminal pengawasan cerdas seperti pengawasan online, pemutaran ulang trek, pengalihan dan penguncian jarak jauh, serta status real-time, dll. Perangkat ini memiliki baterai internal 15000mAh, yang memenuhi persyaratan untuk pengawasan transportasi kargo selama transit dalam berbagai skenario.",
+    "product_id": "624f8b36-d3bb-4b43-9fc7-830a77e9042a",
+    "features_en": [
+      "Large-Capacity Storage",
+      "Wireless Mutual Transmission",
+      "Dual SIM",
+      "Ultra-long Battery Life",
+      "Vibration Sensing Detection",
+      "Strong Adsorption"
+    ],
+    "description_en": "The Intelligent Lock Tracker is a device used for real-time supervision of goods in transit transport status. The device adopts dual SIM card slot design, equipped with dual-mode positioning module to achieve accurate positioning, real-time communication, automatic tracking and positioning. At the same time, it has the function of large-capacity blind one data recording, which automatically stores local data when the device is in the blind zone of the network, so there is no dead corner of supervision. Through the management backstage, it can achieve the management of the intelligent supervision terminal such as on-line supervision, track replay, remote switching and locking and real-time status, etc. The device has a built-in 15000mAh battery, which meets the requirements for in-transit supervision of cargo transport in multiple scenarios.",
+    "introduction_en": "The Intelligent Lock Tracker is a device used for real-time supervision of goods in transit transport status. The device adopts dual SIM card slot design, equipped with dual-mode positioning module to achieve accurate positioning, real-time communication, automatic tracking and positioning. At the same time, it has the function of large-capacity blind one data recording, which automatically stores local data when the device is in the blind zone of the network, so there is no dead corner of supervision. Through the management backstage, it can achieve the management of the intelligent supervision terminal such as on-line supervision, track replay, remote switching and locking and real-time status, etc. The device has a built-in 15000mAh battery, which meets the requirements for in-transit supervision of cargo transport in multiple scenarios.",
+    "parameter_id": [
+      {
+        "label": "Model  ",
+        "value": "MVCM5110*"
+      },
+      {
+        "label": "Metode Pemosisian  ",
+        "value": "GPS/BDS"
+      },
+      {
+        "label": "Mode Komunikasi  ",
+        "value": "4G/Bluetooth/RFID/NFC"
+      },
+      {
+        "label": "Metode Pembukaan Kunci  ",
+        "value": "Latar Belakang/Bluetooth/RFID/NFC/APP"
+      },
+      {
+        "label": "Kapasitas Baterai  ",
+        "value": "15000mAh"
+      },
+      {
+        "label": "Daya Tahan Baterai  ",
+        "value": "Siaga unggah data 1 menit/sub sekitar 15 hari; siaga unggah data 1 jam/waktu sekitar 30 hari"
+      },
+      {
+        "label": "Peringkat IP ",
+        "value": " IP67"
+      },
+      {
+        "label": "Suhu Operasional  ",
+        "value": "-30°C~70°C"
+      },
+      {
+        "label": "Metode Pengisian Daya  ",
+        "value": "DC 5V"
+      },
+      {
+        "label": "Ukuran Bodi Kunci  ",
+        "value": "193,5mm*107mm*39,5mm"
+      }
+    ],
+    "id": "80eacd55-e479-4006-9a6b-29b3c6cd472e",
+    "features_id": [
+      "Penyimpanan Berkapasitas Besar",
+      "Transmisi Nirkabel Bersama",
+      "SIM Ganda",
+      "Daya Tahan Baterai Ultra Panjang",
+      "Deteksi Getaran",
+      "Adsorpsi Kuat"
+    ],
+    "description_id": "Intelligent Lock Tracker adalah perangkat yang digunakan untuk pengawasan barang secara real-time dalam status transportasi transit. Perangkat ini mengadopsi desain slot kartu SIM ganda dan dilengkapi modul pemosisian mode ganda untuk mencapai pemosisian yang akurat, komunikasi real-time, serta pelacakan dan pemosisian otomatis. Selain itu, perangkat ini juga memiliki fungsi perekaman data satu-buta berkapasitas besar, yang secara otomatis menyimpan data lokal ketika perangkat berada di zona buta jaringan, sehingga tidak ada titik mati pengawasan. Melalui manajemen backstage, perangkat ini dapat mengelola terminal pengawasan cerdas seperti pengawasan online, pemutaran ulang trek, pengalihan dan penguncian jarak jauh, serta status real-time, dll. Perangkat ini memiliki baterai internal 15000mAh, yang memenuhi persyaratan untuk pengawasan transportasi kargo selama transit dalam berbagai skenario.",
+    "parameter_en": [
+      {
+        "label": "Model  ",
+        "value": "MVCM5110*"
+      },
+      {
+        "label": "Positioning Method  ",
+        "value": "GPS/BDS"
+      },
+      {
+        "label": "Communication Mode  ",
+        "value": "4G/Bluetooth/RFID/NFC"
+      },
+      {
+        "label": "Unlocking Method  ",
+        "value": "Background/Bluetooth/RFID/NFC/APP"
+      },
+      {
+        "label": "Battery Capacity  ",
+        "value": "15000mAh"
+      },
+      {
+        "label": "Battery Life ",
+        "value": " 1min/sub data upload standby about 15 days; 1hour/time data upload standby about 30 days"
+      },
+      {
+        "label": "IP Rating  ",
+        "value": "IP67"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-30°C~70°C"
+      },
+      {
+        "label": "Charging Method",
+        "value": "DC 5V"
+      },
+      {
+        "label": "Lock Body Size  ",
+        "value": "193.5mm*107mm*39.5mm"
+      }
+    ]
+  },
+  {
+    "id": "852ddc19-feef-4a6f-94a0-17d798c370a8",
+    "product_id": "3a7c8d15-f283-43ac-926e-555c85c5ecc1",
+    "introduction_en": "Maxvision E-gate (Single-gate) is designed with 304 stainless steel + high-transparency tempered glass, which is durable and corrosion-resistant. It has two-way traffic, intelligent anti-pinch, guidance prompts and other functions. It is equipped with face recognition, IC card swiping, QR code, and remote door opening and closing. Functional modules such as these implement multiple authentication methods. The equipment has high intelligent integration and strong stability, and is suitable for various entrance and exit identity authentication control places.",
+    "introduction_id": "Maxvision E-gate (gerbang tunggal) dirancang dengan baja tahan karat 304 + kaca tempered dengan transparansi tinggi, yang tahan lama dan tahan korosi. Dilengkapi dengan lalu lintas dua arah, anti-jepit cerdas, petunjuk arah, dan fungsi lainnya. Dilengkapi dengan pengenalan wajah, penggesekan kartu IC, kode QR, dan buka-tutup pintu jarak jauh. Modul fungsional seperti ini menerapkan berbagai metode otentikasi. Peralatan ini memiliki integrasi cerdas yang tinggi dan stabilitas yang kuat, serta cocok untuk berbagai tempat kontrol otentikasi identitas pintu masuk dan keluar.",
+    "features_en": [
+      "The E-gate is Super Impact Resistant",
+      "The Light Curtain is Equipped with a Self-developed Rain-proof Algorithm",
+      "Extra Long Service Life",
+      "304+316 High Quality Stainless Steel Design"
+    ],
+    "features_id": [
+      "E-gate Super Tahan Benturan",
+      "Tirai Cahaya Dilengkapi dengan Algoritma Tahan Hujan yang Dikembangkan Sendiri",
+      "Masa Pakai Ekstra Panjang",
+      "Desain Baja Tahan Karat 304+316 Berkualitas Tinggi"
+    ],
+    "parameter_en": [
+      {
+        "label": "Open/Closing Time ",
+        "value": " ≤1s (Adjustable)"
+      },
+      {
+        "label": "Noise  ",
+        "value": "≤40dB"
+      },
+      {
+        "label": "MCBF  ",
+        "value": "≥20M"
+      },
+      {
+        "label": "Communications Protocol  ",
+        "value": "TCP/IP"
+      },
+      {
+        "label": "Operating Voltage  ",
+        "value": "AC 90-264V, 47-63Hz"
+      },
+      {
+        "label": "Screen Size  ",
+        "value": "8\" HD IPS Screen"
+      },
+      {
+        "label": "Face Recognition Accuracy  ",
+        "value": "99% with a FAR of 0.01%"
+      },
+      {
+        "label": "Usage Environment  ",
+        "value": "Outdoor/Indoor"
+      },
+      {
+        "label": "Movement Style  ",
+        "value": "Swing Gate"
+      },
+      {
+        "label": "Channel Width  ",
+        "value": "600~1200mm"
+      },
+      {
+        "label": "Size ",
+        "value": " L*W*H=1600*150*1000mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Waktu Buka/Tutup  ",
+        "value": "≤1 detik (Dapat Disesuaikan)"
+      },
+      {
+        "label": "Kebisingan ",
+        "value": " ≤40 dB"
+      },
+      {
+        "label": "MCBF  ",
+        "value": "≥20M"
+      },
+      {
+        "label": "Protokol Komunikasi  ",
+        "value": "TCP/IP"
+      },
+      {
+        "label": "Tegangan Operasi  ",
+        "value": "AC 90-264V, 47-63Hz"
+      },
+      {
+        "label": "Ukuran Layar  ",
+        "value": "Layar IPS HD 8\""
+      },
+      {
+        "label": "Akurasi Pengenalan Wajah  ",
+        "value": "99% dengan FAR 0,01%"
+      },
+      {
+        "label": "Lingkungan Penggunaan  ",
+        "value": "Luar Ruangan/Dalam Ruangan"
+      },
+      {
+        "label": "Gaya Pergerakan  ",
+        "value": "Pintu Ayun"
+      },
+      {
+        "label": "Lebar Saluran  ",
+        "value": "600~1200 mm"
+      },
+      {
+        "label": "Ukuran ",
+        "value": " P*L*T=1600*150*1000 mm"
       }
     ]
   },
@@ -1439,10 +2788,8 @@
     ]
   },
   {
-    "id": "9a116aea-3a6e-43e7-99ca-d52bfc437b85",
-    "product_id": "ed1fccd3-d6a5-4fdf-8da7-d1b78d97192b",
-    "introduction_en": "Maxvision Facial Recognition Terminal adopts integrated tempered glass panel shield design, equipped with 5-inch IPS HD display touch screen, which can be employed in nearly every entrance/exit where identity authentication and access control is needed. Functioning face-covering attribute detection, liveness detection, this device can recognize or verify visitors' identity using face, password, card, and other combinations swiftly, accurately, and reliably.",
     "introduction_id": "Terminal Pengenalan Wajah Maxvision mengadopsi desain pelindung panel kaca tempered terintegrasi, dilengkapi layar sentuh IPS HD 5 inci, yang dapat digunakan di hampir setiap pintu masuk/keluar yang memerlukan otentikasi identitas dan kontrol akses. Dilengkapi dengan deteksi atribut penutup wajah dan deteksi keaktifan, perangkat ini dapat mengenali atau memverifikasi identitas pengunjung menggunakan wajah, kata sandi, kartu, dan kombinasi lainnya dengan cepat, akurat, dan andal.",
+    "product_id": "ed1fccd3-d6a5-4fdf-8da7-d1b78d97192b",
     "features_en": [
       "Super Anti-interference Ability",
       "Free Choice of Access Methods",
@@ -1451,48 +2798,8 @@
       "Friendly Human-computer Interaction Design",
       "Algorithm Leads"
     ],
-    "features_id": [
-      "Kemampuan Anti-interferensi Super",
-      "Pilihan Metode Akses Bebas",
-      "Pengenalan Kecepatan Tinggi",
-      "Keamanan Tinggi untuk Manajemen Pengunjung",
-      "Desain Interaksi Manusia-Komputer yang Ramah",
-      "Algoritma Memimpin"
-    ],
-    "parameter_en": [
-      {
-        "label": "Screen Size",
-        "value": "5"
-      },
-      {
-        "label": "Screen",
-        "value": "HD Capacitance Screen"
-      },
-      {
-        "label": "Recognizable Distance",
-        "value": "0.2m~3m"
-      },
-      {
-        "label": "Working Environment",
-        "value": "Indoor/Outdoor (IP65)"
-      },
-      {
-        "label": "Installation",
-        "value": "Wall-Mounted, Desktop, Column"
-      },
-      {
-        "label": "Working Temperature",
-        "value": "-20°C~+60°C"
-      },
-      {
-        "label": "Working Voltage",
-        "value": "DC 12V/1A"
-      },
-      {
-        "label": "Size",
-        "value": "171*90*23mm"
-      }
-    ],
+    "description_en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque imperdiet ligula quis massa dictum, non fringilla elit luctus. Curabitur a consectetur purus, sit amet fringilla orci. Sed vitae metus at leo tincidunt condimentum. Proin varius, lorem ut dignissim maximus, eros nulla lobortis nisl, in facilisis magna nibh et enim. Suspendisse potenti. Cras efficitur justo nec eros tincidunt, nec bibendum eros cursus. Vivamus id nulla ut diam sollicitudin sodales. Nulla facilisi. Integer vitae ligula ligula. Nullam ut sem a nulla faucibus consequat. Etiam eget vestibulum quam. Mauris vitae erat sed libero accumsan pretium.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque imperdiet ligula quis massa dictum, non fringilla elit luctus. Curabitur a consectetur purus, sit amet fringilla orci. Sed vitae metus at leo tincidunt condimentum. Proin varius, lorem ut dignissim maximus, eros nulla lobortis nisl, in facilisis magna nibh et enim. Suspendisse potenti. Cras efficitur justo nec eros tincidunt, nec bibendum eros cursus. Vivamus id nulla ut diam sollicitudin sodales. Nulla facilisi. Integer vitae ligula ligula. Nullam ut sem a nulla faucibus consequat. Etiam eget vestibulum quam. Mauris vitae erat sed libero accumsan pretium.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque imperdiet ligula quis massa dictum, non fringilla elit luctus. Curabitur a consectetur purus, sit amet fringilla orci. Sed vitae metus at leo tincidunt condimentum. Proin varius, lorem ut dignissim maximus, eros nulla lobortis nisl, in facilisis magna nibh et enim. Suspendisse potenti. Cras efficitur justo nec eros tincidunt, nec bibendum eros cursus. Vivamus id nulla ut diam sollicitudin sodales. Nulla facilisi. Integer vitae ligula ligula. Nullam ut sem a nulla faucibus consequat. Etiam eget vestibulum quam. Mauris vitae erat sed libero accumsan pretium.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque imperdiet ligula quis massa dictum, non fringilla elit luctus. Curabitur a consectetur purus, sit amet fringilla orci. Sed vitae metus at leo tincidunt condimentum. Proin varius, lorem ut dignissim maximus, eros nulla lobortis nisl, in facilisis magna nibh et enim. Suspendisse potenti. Cras efficitur justo nec eros tincidunt, nec bibendum eros cursus. Vivamus id nulla ut diam sollicitudin sodales. Nulla facilisi. Integer vitae ligula ligula. Nullam ut sem a nulla faucibus consequat. Etiam eget vestibulum quam. Mauris vitae erat sed libero accumsan pretium.\n ",
+    "introduction_en": "Maxvision Facial Recognition Terminal adopts integrated tempered glass panel shield design, equipped with 5-inch IPS HD display touch screen, which can be employed in nearly every entrance/exit where identity authentication and access control is needed. Functioning face-covering attribute detection, liveness detection, this device can recognize or verify visitors' identity using face, password, card, and other combinations swiftly, accurately, and reliably.",
     "parameter_id": [
       {
         "label": "Ukuran Layar",
@@ -1524,6 +2831,50 @@
       },
       {
         "label": "Ukuran",
+        "value": "171*90*23mm"
+      }
+    ],
+    "id": "9a116aea-3a6e-43e7-99ca-d52bfc437b85",
+    "features_id": [
+      "Kemampuan Anti-interferensi Super",
+      "Pilihan Metode Akses Bebas",
+      "Pengenalan Kecepatan Tinggi",
+      "Keamanan Tinggi untuk Manajemen Pengunjung",
+      "Desain Interaksi Manusia-Komputer yang Ramah",
+      "Algoritma Memimpin"
+    ],
+    "description_id": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque imperdiet ligula quis massa dictum, non fringilla elit luctus. Curabitur a consectetur purus, sit amet fringilla orci. Sed vitae metus at leo tincidunt condimentum. Proin varius, lorem ut dignissim maximus, eros nulla lobortis nisl, in facilisis magna nibh et enim. Suspendisse potenti. Cras efficitur justo nec eros tincidunt, nec bibendum eros cursus. Vivamus id nulla ut diam sollicitudin sodales. Nulla facilisi. Integer vitae ligula ligula. Nullam ut sem a nulla faucibus consequat. Etiam eget vestibulum quam. Mauris vitae erat sed libero accumsan pretium.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque imperdiet ligula quis massa dictum, non fringilla elit luctus. Curabitur a consectetur purus, sit amet fringilla orci. Sed vitae metus at leo tincidunt condimentum. Proin varius, lorem ut dignissim maximus, eros nulla lobortis nisl, in facilisis magna nibh et enim. Suspendisse potenti. Cras efficitur justo nec eros tincidunt, nec bibendum eros cursus. Vivamus id nulla ut diam sollicitudin sodales. Nulla facilisi. Integer vitae ligula ligula. Nullam ut sem a nulla faucibus consequat. Etiam eget vestibulum quam. Mauris vitae erat sed libero accumsan pretium.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque imperdiet ligula quis massa dictum, non fringilla elit luctus. Curabitur a consectetur purus, sit amet fringilla orci. Sed vitae metus at leo tincidunt condimentum. Proin varius, lorem ut dignissim maximus, eros nulla lobortis nisl, in facilisis magna nibh et enim. Suspendisse potenti. Cras efficitur justo nec eros tincidunt, nec bibendum eros cursus. Vivamus id nulla ut diam sollicitudin sodales. Nulla facilisi. Integer vitae ligula ligula. Nullam ut sem a nulla faucibus consequat. Etiam eget vestibulum quam. Mauris vitae erat sed libero accumsan pretium.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque imperdiet ligula quis massa dictum, non fringilla elit luctus. Curabitur a consectetur purus, sit amet fringilla orci. Sed vitae metus at leo tincidunt condimentum. Proin varius, lorem ut dignissim maximus, eros nulla lobortis nisl, in facilisis magna nibh et enim. Suspendisse potenti. Cras efficitur justo nec eros tincidunt, nec bibendum eros cursus. Vivamus id nulla ut diam sollicitudin sodales. Nulla facilisi. Integer vitae ligula ligula. Nullam ut sem a nulla faucibus consequat. Etiam eget vestibulum quam. Mauris vitae erat sed libero accumsan pretium.",
+    "parameter_en": [
+      {
+        "label": "Screen Size",
+        "value": "5"
+      },
+      {
+        "label": "Screen",
+        "value": "HD Capacitance Screen"
+      },
+      {
+        "label": "Recognizable Distance",
+        "value": "0.2m~3m"
+      },
+      {
+        "label": "Working Environment",
+        "value": "Indoor/Outdoor (IP65)"
+      },
+      {
+        "label": "Installation",
+        "value": "Wall-Mounted, Desktop, Column"
+      },
+      {
+        "label": "Working Temperature",
+        "value": "-20°C~+60°C"
+      },
+      {
+        "label": "Working Voltage",
+        "value": "DC 12V/1A"
+      },
+      {
+        "label": "Size",
         "value": "171*90*23mm"
       }
     ]
@@ -1625,6 +2976,238 @@
       {
         "label": "Dimensi ",
         "value": " P*L*T = 3000 * 180 * 1595 mm."
+      }
+    ]
+  },
+  {
+    "introduction_id": "Robot Pengawas Bawah Kendaraan adalah perangkat portabel untuk memeriksa bagian bawah kendaraan. Dilengkapi dengan fungsi-fungsi seperti LPR otomatis, tampilan HD gambar bawah kendaraan, dan pengenalan posisi yang dicurigai. Robot ini ringkas, mobile, dan mudah digunakan, serta dapat menyelesaikan pemeriksaan bawah kendaraan secara otomatis dengan satu klik. Robot ini cocok untuk kontrol dan pemeriksaan kendaraan sementara di tempat-tempat seperti bea cukai, pemeriksaan perbatasan, manajemen perbatasan, pos pemeriksaan keamanan publik, acara berskala besar, dan keamanan konferensi penting.",
+    "product_id": "875ac6ff-085c-4abc-81c4-ab3e874f4c44",
+    "features_en": [
+      "One-click Inspection",
+      "Panoramic Video",
+      "License Plate Recognition",
+      "Exception Analysis",
+      "Maneuverable and Portable"
+    ],
+    "description_en": "The Under-Vehicle Surveilance Robot is a portable device for inspecting the vehicle bottom. It equipped with functions such as automatic LPR, HD display of vehicle bottom images, and suspected position recognition. The robot is compact, mobile, and easy to deploy, can automatically complete vehicle bottom inspection with one click, It is suitable or temporary vehicle control and inspection in places such as customs, border inspection, border management, public security checkpoints, large-scale events, and important conference security.",
+    "introduction_en": "The Under-Vehicle Surveilance Robot is a portable device for inspecting the vehicle bottom. It equipped with functions such as automatic LPR, HD display of vehicle bottom images, and suspected position recognition. The robot is compact, mobile, and easy to deploy, can automatically complete vehicle bottom inspection with one click, It is suitable or temporary vehicle control and inspection in places such as customs, border inspection, border management, public security checkpoints, large-scale events, and important conference security.",
+    "parameter_id": [
+      {
+        "label": "Layar  ",
+        "value": "Layar warna TFT 2,8 inci"
+      },
+      {
+        "label": "Mode Berkendara ",
+        "value": "Penggerak diferensial empat roda, mendukung putaran radius nol"
+      },
+      {
+        "label": "Kecepatan Gerak  ",
+        "value": "≤0,8 m/dtk"
+      },
+      {
+        "label": "Peringkat IP  ",
+        "value": "IP66"
+      },
+      {
+        "label": "Mode Pengisian Daya  ",
+        "value": "pengisian daya kabel"
+      },
+      {
+        "label": "Kapasitas Baterai  ",
+        "value": "14Ah"
+      },
+      {
+        "label": "Daya Tahan Baterai Terukur  ",
+        "value": ">4 jam"
+      },
+      {
+        "label": "Waktu Pengisian Daya Tunggal ",
+        "value": " ≤4 jam"
+      },
+      {
+        "label": "Ukuran Peralatan (mm)  ",
+        "value": "P*L*T=515*390*108"
+      },
+      {
+        "label": "Berat ",
+        "value": " ≤12 kg"
+      }
+    ],
+    "id": "9c4d8e6e-b11c-4205-950b-38ea3962562a",
+    "features_id": [
+      "Inspeksi Sekali Klik",
+      "Video Panorama",
+      "Pengenalan Plat Nomor",
+      "Analisis Pengecualian",
+      "Mudah Dimanuver dan Portabel"
+    ],
+    "description_id": "Robot Pengawas Bawah Kendaraan adalah perangkat portabel untuk memeriksa bagian bawah kendaraan. Dilengkapi dengan fungsi-fungsi seperti LPR otomatis, tampilan HD gambar bawah kendaraan, dan pengenalan posisi yang dicurigai. Robot ini ringkas, mobile, dan mudah digunakan, serta dapat menyelesaikan pemeriksaan bawah kendaraan secara otomatis dengan satu klik. Robot ini cocok untuk kontrol dan pemeriksaan kendaraan sementara di tempat-tempat seperti bea cukai, pemeriksaan perbatasan, manajemen perbatasan, pos pemeriksaan keamanan publik, acara berskala besar, dan keamanan konferensi penting.",
+    "parameter_en": [
+      {
+        "label": "Screen  ",
+        "value": "2.8-inch TFT color screen"
+      },
+      {
+        "label": "Drive Mode  ",
+        "value": "Four-wheel differential drive, supporting zero-radius turning"
+      },
+      {
+        "label": "Motion Speed  ",
+        "value": "≤0.8m/s"
+      },
+      {
+        "label": "IP Rating  ",
+        "value": "IP66"
+      },
+      {
+        "label": "Charging Mode  ",
+        "value": "wire charging"
+      },
+      {
+        "label": "Battery Capacity  ",
+        "value": "14Ah"
+      },
+      {
+        "label": "Rated Battery Life  ",
+        "value": ">4h"
+      },
+      {
+        "label": "Single Charging Time  ",
+        "value": "≤4h"
+      },
+      {
+        "label": "Equipment Size (mm) ",
+        "value": " L*W*H=515*390*108"
+      },
+      {
+        "label": "Weight ",
+        "value": " ≤12kg"
+      }
+    ]
+  },
+  {
+    "introduction_id": "Dikembangkan secara independen oleh Maxvision, Mesin Sinar-X Bagasi Tercatat ini merupakan generasi baru teknologi pemindaian energi ganda dan tampilan ganda yang dirancang untuk lingkungan dengan keamanan tinggi. Dilengkapi dengan dua sumber sinar-X dan susunan detektor independen, sistem ini menangkap gambar tampak bawah dan samping secara bersamaan dan menampilkannya secara real-time—sangat meningkatkan deteksi barang tersembunyi atau tumpang tindih. Dirancang khusus untuk pemeriksaan bagasi berukuran besar dan tidak beraturan, mesin ini ideal untuk digunakan di bea cukai, pos pemeriksaan perbatasan, bandara, stasiun kereta api, fasilitas pemerintah, dan tempat umum yang besar. Sistem ini menggabungkan fungsionalitas khusus aplikasi dengan desain industri modern, memberikan pengalaman yang ramah pengguna dan kinerja yang sangat andal.",
+    "product_id": "5ddee792-f4b8-4b54-86aa-42338e371b68",
+    "features_en": [
+      "Dual-view imaging for blind spot elimination",
+      "High-resolution imaging with strong penetration",
+      "Ultra-low radiation for safer operation",
+      "Integrated TIP functionality for operator training",
+      "Multi-format image export for flexible data use",
+      "Network-enabled for centralized management",
+      "Smart self-diagnostics for efficient maintenance"
+    ],
+    "description_en": "Developed independently by Maxvision, this Hold Baggage X-ray Machine represents a new generation of dual-energy, dual-view screening technology designed for high-security environments. Featuring two independent X-ray source and detector arrays, the system captures bottom and side view images simultaneously and displays them in real time-greatly improving the detection of concealed or overlapping items. Purpose-built for the inspection of oversized and irregular baggage, it is ideal for deployment at customs, border checkpoints, airports, railway stations, government facilities, and large public venues. The system combines application-specific functionality with modern industrial design, delivering a user-friendly experience and highly reliable performance.",
+    "introduction_en": "Developed independently by Maxvision, this Hold Baggage X-ray Machine represents a new generation of dual-energy, dual-view screening technology designed for high-security environments. Featuring two independent X-ray source and detector arrays, the system captures bottom and side view images simultaneously and displays them in real time-greatly improving the detection of concealed or overlapping items. Purpose-built for the inspection of oversized and irregular baggage, it is ideal for deployment at customs, border checkpoints, airports, railway stations, government facilities, and large public venues. The system combines application-specific functionality with modern industrial design, delivering a user-friendly experience and highly reliable performance.",
+    "parameter_id": [
+      {
+        "label": "Kecepatan Konveyor ",
+        "value": " 0,2 m/dtk ~ 0,4 m/dtk"
+      },
+      {
+        "label": "Kapasitas Beban Maksimum  ",
+        "value": "200 kg (terdistribusi merata)"
+      },
+      {
+        "label": "Pemanggilan Gambar ",
+        "value": " Memungkinkan peninjauan gambar pindaian setelah inspeksi."
+      },
+      {
+        "label": "Fungsi Bantuan Operator",
+        "value": "Tampilan Tanggal/Waktu, Penghitung Bagasi, Log Operasi, Manajemen Pengguna, Monitor Waktu Proses Sistem, Uji Mandiri Daya, Kalibrasi Gambar, Diagnostik Perawatan"
+      },
+      {
+        "label": "Monitor Layar  ",
+        "value": "24** 2"
+      },
+      {
+        "label": "Suhu Operasional  ",
+        "value": "0°C~+45°C"
+      },
+      {
+        "label": "Suhu Penyimpanan  ",
+        "value": "-40°C~+70°C"
+      },
+      {
+        "label": "Kelembapan Relatif  ",
+        "value": "5%~95%RH, Non-kondensasi"
+      },
+      {
+        "label": "Catu Daya  ",
+        "value": "AC220V (-15%~+10%), 50±3Hz"
+      },
+      {
+        "label": "Konsumsi Daya  ",
+        "value": "1,5KW"
+      },
+      {
+        "label": "Berat  ",
+        "value": "≤1500kg"
+      },
+      {
+        "label": "Dimensi Sistem  ",
+        "value": "3580mm×1745mm×1840mm"
+      }
+    ],
+    "id": "b3368b05-41a8-403b-a404-1118eb4a5052",
+    "features_id": [
+      "Pencitraan tampilan ganda untuk menghilangkan titik buta",
+      "Pencitraan beresolusi tinggi dengan penetrasi kuat",
+      "Radiasi ultra-rendah untuk pengoperasian yang lebih aman",
+      "Fungsi TIP terintegrasi untuk pelatihan operator",
+      "Ekspor gambar multi-format untuk penggunaan data yang fleksibel",
+      "Didukung jaringan untuk manajemen terpusat",
+      "Diagnostik mandiri cerdas untuk perawatan yang efisien"
+    ],
+    "description_id": "Dikembangkan secara independen oleh Maxvision, Mesin Sinar-X Bagasi Tercatat ini merupakan generasi baru teknologi pemindaian energi ganda dan tampilan ganda yang dirancang untuk lingkungan dengan keamanan tinggi. Dilengkapi dengan dua sumber sinar-X dan susunan detektor independen, sistem ini menangkap gambar tampak bawah dan samping secara bersamaan dan menampilkannya secara real-time—sangat meningkatkan deteksi barang tersembunyi atau tumpang tindih. Dirancang khusus untuk pemeriksaan bagasi berukuran besar dan tidak beraturan, mesin ini ideal untuk digunakan di bea cukai, pos pemeriksaan perbatasan, bandara, stasiun kereta api, fasilitas pemerintah, dan tempat umum yang besar. Sistem ini menggabungkan fungsionalitas khusus aplikasi dengan desain industri modern, memberikan pengalaman yang ramah pengguna dan kinerja yang sangat andal.",
+    "parameter_en": [
+      {
+        "label": "Conveyor Speed  ",
+        "value": "0.2m/s ~ 0.4m/s"
+      },
+      {
+        "label": "Maximum Load Capacity  ",
+        "value": "200Kg (evenly distributed)"
+      },
+      {
+        "label": "Image Recall ",
+        "value": "Enables review of scanned images after inspection."
+      },
+      {
+        "label": "Operator Assist Functions",
+        "value": "Date/Time Display, Baggage Counter, Operation Log, User Management, System Runtime Monitor, Power-On Self-Test, Image Calibration, Maintenance Diagnostics"
+      },
+      {
+        "label": "Screen Monitor  ",
+        "value": "24** 2"
+      },
+      {
+        "label": "Operating Temperature ",
+        "value": " 0°C~+45°C"
+      },
+      {
+        "label": "Storage Temperature  ",
+        "value": "-40°C~+70°C"
+      },
+      {
+        "label": "Relative Humidity  ",
+        "value": "5%~95%RH, Non-condensing"
+      },
+      {
+        "label": "Power Supply  ",
+        "value": "AC220V (-15%~+10%), 50±3Hz"
+      },
+      {
+        "label": "Power Consumption  ",
+        "value": "1.5KW"
+      },
+      {
+        "label": "Weight  ",
+        "value": "≤1500kg"
+      },
+      {
+        "label": "System Dimensions  ",
+        "value": "3580mm×1745mm×1840mm"
       }
     ]
   },
@@ -2161,6 +3744,173 @@
     ]
   },
   {
+    "id": "da6e401f-10b5-452f-9cda-b0055185e0c8",
+    "product_id": "e7d14e2d-3e39-4eae-b430-40e48768ed62",
+    "introduction_en": "Maxvision's E-Gate (Dual-Gate) is a fully integrated, intelligent border control solution designed to automate passenger identity verification at controlled entry and exit points. Built for high-throughput environments like airports and seaports, the system combines advanced biometrics with smart control and Al technologies to deliver secure, seamless, and contactless clearance.\nThe E-gate supports multiple biometric modalities including facial, palm vein, and fingerprint recognition-alongside document authentication, anti-tailgating video analytics, and one-touch operational control. By eliminating manual checks and reducing processing time, it enhances both traveler experience and border security, making it an ideal fit for modern, high-security transit hubs.",
+    "introduction_id": "E-Gate (Dual-Gate) dari Maxvision adalah solusi kontrol perbatasan cerdas yang terintegrasi penuh, dirancang untuk mengotomatiskan verifikasi identitas penumpang di titik masuk dan keluar yang terkontrol. Dirancang untuk lingkungan dengan lalu lintas tinggi seperti bandara dan pelabuhan, sistem ini menggabungkan biometrik canggih dengan kontrol cerdas dan teknologi AI untuk memberikan proses pengurusan yang aman, lancar, dan nirsentuh.\nE-Gate mendukung berbagai modalitas biometrik termasuk pengenalan wajah, urat telapak tangan, dan sidik jari—bersama autentikasi dokumen, analitik video anti-tailgating, dan kontrol operasional sekali sentuh. Dengan menghilangkan pemeriksaan manual dan mengurangi waktu pemrosesan, sistem ini meningkatkan pengalaman pelancong dan keamanan perbatasan, menjadikannya pilihan ideal untuk pusat transit modern dengan keamanan tinggi.",
+    "features_en": [
+      "Flexible and Diverse Access Methods",
+      "Reduce the Risks of Tailgating / Missed Detection / Abnormal Inspection",
+      "Self-service Authentication Efficient Passage",
+      "Super Long Service Life"
+    ],
+    "features_id": [
+      "Metode Akses Fleksibel dan Beragam",
+      "Mengurangi Risiko Tailgating/Kehilangan Deteksi/Inspeksi Abnormal",
+      "Otentikasi Mandiri",
+      "Lintasan Efisien",
+      "Umur Pakai Super Panjang"
+    ],
+    "parameter_en": [
+      {
+        "label": "Facial Recognition  ",
+        "value": "FAR < 0.0001%, FRR < 0.01%"
+      },
+      {
+        "label": "Palm Vein Recognition  ",
+        "value": "Accuracy > 99%, FAR < 0.0001%, FRR < 0.01%"
+      },
+      {
+        "label": "Fingerprint Recognition  ",
+        "value": "Speed >20 fps"
+      },
+      {
+        "label": "Barcode Scanning Speed  ",
+        "value": "<1s"
+      },
+      {
+        "label": "Door Opening/Closing Time ",
+        "value": " ≥0.3s (adjustable)"
+      },
+      {
+        "label": "Rated Lifecycle  ",
+        "value": "≥10.5 million times"
+      },
+      {
+        "label": "Maintainability MTTR  ",
+        "value": "30 minutes"
+      },
+      {
+        "label": "Noise Level  ",
+        "value": "< 20dB"
+      },
+      {
+        "label": "Operating Voltage  ",
+        "value": "DC 48V"
+      },
+      {
+        "label": "Rated Power  ",
+        "value": "1500W"
+      },
+      {
+        "label": "Operating Temperature ",
+        "value": "-20°C~+60°C (Indoors)"
+      },
+      {
+        "label": "Storage Temperature  ",
+        "value": "-20°C~+60°C (Intdoors)"
+      },
+      {
+        "label": "Operating Environment  ",
+        "value": "Indoors/Outdoors"
+      },
+      {
+        "label": "IP Rating  ",
+        "value": "IP65"
+      },
+      {
+        "label": "Dimensions  ",
+        "value": "3000*180*1405mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Pengenalan Wajah  ",
+        "value": "FAR < 0,0001%, FRR < 0,01%"
+      },
+      {
+        "label": "Pengenalan Vena Telapak Tangan  ",
+        "value": "Akurasi > 99%, FAR < 0,0001%, FRR < 0,01%"
+      },
+      {
+        "label": "Pengenalan Sidik Jari  ",
+        "value": "Kecepatan > 20 fps"
+      },
+      {
+        "label": "Kecepatan Pemindaian Kode Batang  ",
+        "value": "<1 detik"
+      },
+      {
+        "label": "Waktu Buka/Tutup Pintu  ",
+        "value": "≥0,3 detik (dapat disesuaikan)"
+      },
+      {
+        "label": "Siklus Hidup Terukur ",
+        "value": " ≥10,5 juta kali"
+      },
+      {
+        "label": "MTTR Kemudahan Perawatan  ",
+        "value": "30 menit"
+      },
+      {
+        "label": "Tingkat Kebisingan ",
+        "value": " < 20 dB"
+      },
+      {
+        "label": "Tegangan Operasi  ",
+        "value": "DC 48V"
+      },
+      {
+        "label": "Daya Terukur  ",
+        "value": "1500 W"
+      },
+      {
+        "label": "Suhu Operasi ",
+        "value": "-20°C~+60°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Suhu Penyimpanan  ",
+        "value": "-20°C~+60°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Lingkungan Pengoperasian  ",
+        "value": "Dalam/Luar Ruangan"
+      },
+      {
+        "label": "Peringkat IP ",
+        "value": " IP65"
+      },
+      {
+        "label": "Dimensi  ",
+        "value": "3000*180*1405mm"
+      }
+    ]
+  },
+  {
+    "id": "dc45375a-bb03-4fb5-922b-552121b83c1b",
+    "product_id": "078d118d-a4fd-4c5c-aaa2-5048aa9299be",
+    "introduction_en": "The Customs Risk Management Platform leverages facial recognition and intelligent video analytics to establish a comprehensive risk detection and alert mechanism across key customs checkpoints, including passenger flow control, baggage screening, and border inspection. By integrating front-end data capture devices, a dedicated video network platform, and a centralized intelligent application system, it enables precise profiling, trajectory tracking, coordinated alerts, and behavioral analysis for high-risk individuals. This empowers customs officers to respond in real time and take targeted action, creating a closed-loop risk management system at border entry points. Designed for seamless integration with customs operations, the system supports cross-zone coordination between inspection areas and back-office units. It allows for rule-based configuration of alert strategies based on local enforcement needs and operational characteristics. The solution is well suited for high-traffic environments such as international airports, land border crossings, and seaports, enhancing the overall efficiency and responsiveness of port security operations.",
+    "introduction_id": "Platform Manajemen Risiko Kepabeanan memanfaatkan pengenalan wajah dan analitik video cerdas untuk membangun mekanisme deteksi dan peringatan risiko yang komprehensif di seluruh titik pemeriksaan pabean utama, termasuk kontrol arus penumpang, pemeriksaan bagasi, dan pemeriksaan perbatasan. Dengan mengintegrasikan perangkat penangkap data front-end, platform jaringan video khusus, dan sistem aplikasi cerdas terpusat, platform ini memungkinkan pembuatan profil yang presisi, pelacakan lintasan, peringatan terkoordinasi, dan analisis perilaku bagi individu berisiko tinggi. Hal ini memungkinkan petugas bea cukai untuk merespons secara real-time dan mengambil tindakan yang tepat sasaran, menciptakan sistem manajemen risiko loop tertutup di titik masuk perbatasan. Dirancang untuk integrasi yang mulus dengan operasi kepabeanan, sistem ini mendukung koordinasi lintas zona antara area pemeriksaan dan unit back-office. Sistem ini memungkinkan konfigurasi strategi peringatan berbasis aturan berdasarkan kebutuhan penegakan hukum setempat dan karakteristik operasional. Solusi ini sangat cocok untuk lingkungan dengan lalu lintas tinggi seperti bandara internasional, perlintasan perbatasan darat, dan pelabuhan laut, sehingga meningkatkan efisiensi dan responsivitas operasi keamanan pelabuhan secara keseluruhan.",
+    "description_en": "The Customs Risk Management Platform leverages facial recognition and intelligent video analytics to establish a comprehensive risk detection and alert mechanism across key customs checkpoints, including passenger flow control, baggage screening, and border inspection. By integrating front-end data capture devices, a dedicated video network platform, and a centralized intelligent application system, it enables precise profiling, trajectory tracking, coordinated alerts, and behavioral analysis for high-risk individuals. This empowers customs officers to respond in real time and take targeted action, creating a closed-loop risk management system at border entry points. Designed for seamless integration with customs operations, the system supports cross-zone coordination between inspection areas and back-office units. It allows for rule-based configuration of alert strategies based on local enforcement needs and operational characteristics. The solution is well suited for high-traffic environments such as international airports, land border crossings, and seaports, enhancing the overall efficiency and responsiveness of port security operations.",
+    "description_id": "Platform Manajemen Risiko Kepabeanan memanfaatkan pengenalan wajah dan analitik video cerdas untuk membangun mekanisme deteksi dan peringatan risiko yang komprehensif di seluruh titik pemeriksaan pabean utama, termasuk kontrol arus penumpang, pemeriksaan bagasi, dan pemeriksaan perbatasan. Dengan mengintegrasikan perangkat penangkap data front-end, platform jaringan video khusus, dan sistem aplikasi cerdas terpusat, platform ini memungkinkan pembuatan profil yang presisi, pelacakan lintasan, peringatan terkoordinasi, dan analisis perilaku bagi individu berisiko tinggi. Hal ini memungkinkan petugas bea cukai untuk merespons secara real-time dan mengambil tindakan yang tepat sasaran, menciptakan sistem manajemen risiko loop tertutup di titik masuk perbatasan. Dirancang untuk integrasi yang mulus dengan operasi kepabeanan, sistem ini mendukung koordinasi lintas zona antara area pemeriksaan dan unit back-office. Sistem ini memungkinkan konfigurasi strategi peringatan berbasis aturan berdasarkan kebutuhan penegakan hukum setempat dan karakteristik operasional. Solusi ini sangat cocok untuk lingkungan dengan lalu lintas tinggi seperti bandara internasional, perlintasan perbatasan darat, dan pelabuhan laut, sehingga meningkatkan efisiensi dan responsivitas operasi keamanan pelabuhan secara keseluruhan.",
+    "features_en": [
+      "Targeted Identification Throughout the Passenger Journey",
+      "Risk-Based Profiling to Streamline Screening Workflows",
+      "Seamless Integration of Facial Tracking and Video Intelligence",
+      "Behavior-Driven Insights for Early Risk Detection",
+      "Synchronized Response Across Inspection and Command Zones",
+      "Scalable Deployment Across Varied Port Environments"
+    ],
+    "features_id": [
+      "Identifikasi Terarah Sepanjang Perjalanan Penumpang",
+      "Profil Berbasis Risiko untuk Memperlancar Alur Kerja Skrining",
+      "Integrasi Pelacakan Wajah dan Kecerdasan Video yang Lancar",
+      "Wawasan Berbasis Perilaku untuk Deteksi Risiko Dini",
+      "Respons Tersinkronisasi di Seluruh Zona Inspeksi dan Komando",
+      "Penerapan yang Skalabel di Berbagai Lingkungan Pelabuhan"
+    ]
+  },
+  {
     "id": "df397f60-073f-4472-b205-63aa5b8635ca",
     "product_id": "ae068971-315b-4d5e-a52b-0eb49d0075c6",
     "introduction_en": "Maxvision Iris & Face Recognition Terminal has an integrated front panel design, the screen frame and the body are integrated, and the back is made of aluminum material, which is lightweight, durable and corrosion-resistant. The device integrates iris recognition, face recognition, iris and face fusion recognition, intelligent iris capture and tracking, and other functions. The system can customize 1:1 or 1:N iris recognition comparison to meet the functional requirements of different application scenarios. The equipment can be installed in systems such as access control, gates, and self-service terminals, which is widely used in personnel access control places such as customs, border defense, seaports, communities and buildings.",
@@ -2261,6 +4011,142 @@
       {
         "label": "Ukuran ",
         "value": " 310*175*41mm"
+      }
+    ]
+  },
+  {
+    "introduction_id": "Sistem Deteksi Kontainer Kosong mengadopsi teknologi pembelajaran mendalam dan analisis sinyal akustik untuk mewujudkan deteksi status kontainer kosong/kontainer berat yang cerdas dan efisien. Peralatan ini menggunakan sensor presisi tinggi, dengan deteksi mandiri, penghindaran rintangan otomatis, deteksi kotak kosong, alarm suara dan cahaya, perintah suara, perlindungan keamanan, dan fungsi lainnya. Peralatan ini memiliki waktu deteksi yang singkat, akurasi deteksi yang tinggi, keamanan, dan keandalan, serta dapat dihubungkan secara cerdas dengan sistem bayonet untuk mewujudkan proses bea cukai van secara mandiri dan meningkatkan efisiensi kendaraan yang melintas. Peralatan ini dapat digunakan secara luas di pelabuhan, galangan kapal, dan tempat inspeksi kendaraan kontainer lainnya.",
+    "product_id": "b54d9355-7807-47b8-a3d2-e5e4c3b005ef",
+    "features_en": [
+      "Frame Height Adaptive",
+      "Deep Learning Algorithm",
+      "Remote Control",
+      "Offline Analysis"
+    ],
+    "description_en": "The Empty Container Detection System adopts deep learning and acoustic signal analysis technology to realize intelligent and efficient detection of empty container/heavy container status. The equipment uses high-precision sensors, with self-detection, automatic obstacle avoidance, empty box detection, sound and light alarm, voice prompt, security protection and other functions. The equipment has short detection time, high detection accuracy safety and reliability, and can be intelligently connected with the bayonet system to achieve self-service customs clearance of vans and improve vehicle passing efficiency, and can be widely used in port, freight yard, port and other container vehicle inspection places.",
+    "introduction_en": "The Empty Container Detection System adopts deep learning and acoustic signal analysis technology to realize intelligent and efficient detection of empty container/heavy container status. The equipment uses high-precision sensors, with self-detection, automatic obstacle avoidance, empty box detection, sound and light alarm, voice prompt, security protection and other functions. The equipment has short detection time, high detection accuracy safety and reliability, and can be intelligently connected with the bayonet system to achieve self-service customs clearance of vans and improve vehicle passing efficiency, and can be widely used in port, freight yard, port and other container vehicle inspection places.",
+    "parameter_id": [
+      {
+        "label": "Kontrol Lengan Ayun  ",
+        "value": "Lengan Ayun dapat berayun maju dan mundur"
+      },
+      {
+        "label": "Jarak Deteksi  ",
+        "value": "0~1000 mm"
+      },
+      {
+        "label": "Waktu Deteksi ",
+        "value": " ≤20 detik"
+      },
+      {
+        "label": "Akurasi Deteksi  ",
+        "value": "≥98%"
+      },
+      {
+        "label": "Antarmuka komunikasi  ",
+        "value": "TCP/IP, UDP"
+      },
+      {
+        "label": "Konsumsi Daya ",
+        "value": " ≤1200W"
+      },
+      {
+        "label": "Frekuensi Terukur  ",
+        "value": "50Hz±5%"
+      },
+      {
+        "label": "Tegangan Input  ",
+        "value": "AC 220V±10%"
+      },
+      {
+        "label": "Suhu Operasional  ",
+        "value": "-20°C-+65°C (Luar Ruangan)"
+      },
+      {
+        "label": "Suhu Penyimpanan  ",
+        "value": "-20°C-+65°C (Luar Ruangan)"
+      },
+      {
+        "label": "Kelembapan Relatif  ",
+        "value": "10~90% RH, Non-kondensasi"
+      },
+      {
+        "label": "Ukuran Wadah Suitablo  ",
+        "value": "Standar 20 kaki, 40 kaki, 45 kaki"
+      },
+      {
+        "label": "Pemasangan Lingkungan  ",
+        "value": "Semi-outdoor"
+      },
+      {
+        "label": "Dimensi  ",
+        "value": "P*L*T=920mm*900mm*2420mm"
+      }
+    ],
+    "id": "e04b75a1-28ed-4f86-81dc-722c1485aca7",
+    "features_id": [
+      "Adaptif Tinggi Bingkai",
+      "Algoritma Pembelajaran Mendalam",
+      "Pengendali Jarak Jauh",
+      "Analisis Offline"
+    ],
+    "description_id": "Sistem Deteksi Kontainer Kosong mengadopsi teknologi pembelajaran mendalam dan analisis sinyal akustik untuk mewujudkan deteksi status kontainer kosong/kontainer berat yang cerdas dan efisien. Peralatan ini menggunakan sensor presisi tinggi, dengan deteksi mandiri, penghindaran rintangan otomatis, deteksi kotak kosong, alarm suara dan cahaya, perintah suara, perlindungan keamanan, dan fungsi lainnya. Peralatan ini memiliki waktu deteksi yang singkat, akurasi deteksi yang tinggi, keamanan, dan keandalan, serta dapat dihubungkan secara cerdas dengan sistem bayonet untuk mewujudkan proses bea cukai van secara mandiri dan meningkatkan efisiensi kendaraan yang melintas. Peralatan ini dapat digunakan secara luas di pelabuhan, galangan kapal, dan tempat inspeksi kendaraan kontainer lainnya.",
+    "parameter_en": [
+      {
+        "label": "Swing Arm Control  ",
+        "value": "The Swing Arm can Swing Forward and Back"
+      },
+      {
+        "label": "Detection Distance ",
+        "value": " 0~1000mm"
+      },
+      {
+        "label": "Detection Time  ",
+        "value": "≤20s"
+      },
+      {
+        "label": "Detection Accurasy  ",
+        "value": "≥98%"
+      },
+      {
+        "label": "Communication interface  ",
+        "value": "TCP/IP, UDP"
+      },
+      {
+        "label": "Power Consumption  ",
+        "value": "≤1200W"
+      },
+      {
+        "label": "Rated Frequency  ",
+        "value": "50Hz±5%"
+      },
+      {
+        "label": "Input Voltage  ",
+        "value": "AC 220V±10%"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-20°C-+65°C (Outdoor)"
+      },
+      {
+        "label": "Storage Temperature  ",
+        "value": "-20°C-+65°C(Outdoor)"
+      },
+      {
+        "label": "Relative Humidity  ",
+        "value": "10~90% RH, Non-condensing"
+      },
+      {
+        "label": "Suitablo Containor Sizo ",
+        "value": " Standard 20 feet, 40 feet, 45 feet"
+      },
+      {
+        "label": "Installation Environment  ",
+        "value": "Semi-outdoor"
+      },
+      {
+        "label": "Dimension  ",
+        "value": "L*W*H=920mm*900mm*2420mm"
       }
     ]
   },
@@ -2519,6 +4405,257 @@
     ]
   },
   {
+    "id": "ed999492-c467-4f81-8f96-c94853f234fc",
+    "product_id": "1e7fbf09-5add-4c3b-ba1d-da81fe140909",
+    "introduction_en": "Maxvision's Passenger Carry-on Baggage Inspection System is purpose-built to meet the evolving needs of global border crossings. Designed for high-volume international ports of entry, the system enables unified screening of both travelers and their personal belongings in a single, streamlined process. Its goal is simple: one inspection, one decision, one seamless release.\nBy combining Al-driven analytics, loT-based controls, and integrated data intelligence, the system overcomes the inefficiencies of traditional manual checks-reducing human error, accelerating throughput, and delivering a consistent, secure experience for both authorities and travelers.\nAs one of the first fully integrated solutions deployed at scale in China, it represents a new standard for how modern borders can operate.",
+    "introduction_id": "Sistem Pemeriksaan Bagasi Kabin Penumpang Maxvision dirancang khusus untuk memenuhi kebutuhan penyeberangan perbatasan global yang terus berkembang. Dirancang untuk pelabuhan masuk internasional dengan volume tinggi, sistem ini memungkinkan pemeriksaan terpadu bagi pelancong dan barang bawaan pribadi mereka dalam satu proses yang efisien. Tujuannya sederhana: satu pemeriksaan, satu keputusan, satu pelepasan yang lancar.\nDengan menggabungkan analitik berbasis AI, kontrol berbasis IoT, dan kecerdasan data terintegrasi, sistem ini mengatasi inefisiensi pemeriksaan manual tradisional—mengurangi kesalahan manusia, mempercepat proses, dan memberikan pengalaman yang konsisten dan aman bagi otoritas maupun pelancong.\nSebagai salah satu solusi terintegrasi penuh pertama yang diterapkan dalam skala besar di Tiongkok, sistem ini mewakili standar baru tentang bagaimana perbatasan modern dapat beroperasi.",
+    "features_en": [
+      "Faster",
+      "Frictionless Clearance",
+      "All-in-One Intelligence",
+      "Touchless",
+      "Targeted Processing",
+      "End-to-End Baggage Oversight",
+      "Modular",
+      "Ready-to-Deploy Design"
+    ],
+    "features_id": [
+      "Proses Izin Lebih Cepat dan Tanpa Hambatan",
+      "Kecerdasan All-in-One",
+      "Pemrosesan Terarah dan Tanpa Sentuhan",
+      "Pengawasan Bagasi yang Menyeluruh",
+      "Desain Modular dan Siap Pakai"
+    ],
+    "parameter_en": [
+      {
+        "label": "Input Voltage  ",
+        "value": "AC 220V±10%, 50Hz±5%"
+      },
+      {
+        "label": "Circuit Breaker Overcurrent Protection  ",
+        "value": "20A"
+      },
+      {
+        "label": "Rated Power  ",
+        "value": "4000W (excluding X-ray system)"
+      },
+      {
+        "label": "Operating Temperature ",
+        "value": " -10°C~+50°C (Indoor)"
+      },
+      {
+        "label": "Storage Temperature  ",
+        "value": "-20°C~+60°C (Indoor)"
+      },
+      {
+        "label": "Relative Humidity  ",
+        "value": "10%~90%RH, Non-condensing"
+      },
+      {
+        "label": "Passage Width  ",
+        "value": "1200mm (Entry)"
+      },
+      {
+        "label": "Installation Environment  ",
+        "value": "Indoor"
+      },
+      {
+        "label": "Communication Interface  ",
+        "value": "Ethernet Port"
+      },
+      {
+        "label": "Inspection Speed  ",
+        "value": "9~15s (Average: 13s)"
+      },
+      {
+        "label": "Dimensions  ",
+        "value": "8710*3670*1640mm"
+      }
+    ],
+    "parameter_id": [
+      {
+        "label": "Tegangan Masukan  ",
+        "value": "AC 220V±10%, 50Hz±5%"
+      },
+      {
+        "label": "Perlindungan Arus Lebih Pemutus Sirkuit  ",
+        "value": "20A"
+      },
+      {
+        "label": "Daya Terukur  ",
+        "value": "4000W (tidak termasuk sistem sinar-X)"
+      },
+      {
+        "label": "Suhu Operasional  ",
+        "value": "-10°C~+50°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Suhu Penyimpanan ",
+        "value": " -20°C~+60°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Kelembapan Relatif  ",
+        "value": "10%~90%RH, Non-kondensasi"
+      },
+      {
+        "label": "Lebar Saluran  ",
+        "value": "1200mm (Masuk)"
+      },
+      {
+        "label": "Lingkungan Pemasangan  ",
+        "value": "Dalam Ruangan"
+      },
+      {
+        "label": "Antarmuka Komunikasi  ",
+        "value": "Port Ethernet"
+      },
+      {
+        "label": "Kecepatan Inspeksi ",
+        "value": " 9~15 detik (Rata-rata: 13 detik)"
+      },
+      {
+        "label": "Dimensi  ",
+        "value": "8710*3670*1640mm"
+      }
+    ]
+  },
+  {
+    "introduction_id": "Terminal Genggam ECTS adalah perangkat portabel yang digunakan untuk pelacakan proses pengangkutan kargo secara real-time. Dengan mengintegrasikan pemosisian rangkap tiga GPS+BD+GLONASS, sensor, dan teknologi komunikasi nirkabel, perangkat ini dapat memantau posisi kendaraan, status mengemudi, lintasan historis, dan status penyegelan/pembukaan segel kunci dari jarak jauh secara real-time, sehingga meningkatkan transparansi pengangkutan barang selama transit.",
+    "product_id": "732f0874-98e0-4e83-969f-1a740b4d31e4",
+    "features_en": [
+      "Real-Time Location Global Coverage",
+      "Intelligent Alerts Instant Notifications",
+      "Cloud Synchronization Offline Blocking/Unblocking",
+      "Data Interconnection and Mutual Transmission"
+    ],
+    "description_en": "ECTS Handheld Terminal is a portable device used for real-time tracking of the process of cargo transport. By integrating GPS+BD+GLONASS triple positioning, sensors and wireless communication technologies, it can remotely monitor in real time the position of the vehicle, the driving status, the historical trajectory and the sealing/unsealing status of the shuttered locks, so as to enhance the transparency of the transport of the goods in-transit.",
+    "introduction_en": "ECTS Handheld Terminal is a portable device used for real-time tracking of the process of cargo transport. By integrating GPS+BD+GLONASS triple positioning, sensors and wireless communication technologies, it can remotely monitor in real time the position of the vehicle, the driving status, the historical trajectory and the sealing/unsealing status of the shuttered locks, so as to enhance the transparency of the transport of the goods in-transit.",
+    "parameter_id": [
+      {
+        "label": "OS ",
+        "value": " Android 8.1/11"
+      },
+      {
+        "label": "Kelas tahan ledakan (model khusus)  ",
+        "value": "Ex ib IIC T4 Gb"
+      },
+      {
+        "label": "Kapasitas Baterai  ",
+        "value": "6000mA"
+      },
+      {
+        "label": "Metode Pengisian Daya  ",
+        "value": "Pengisian daya cepat PE, penuh tidak lebih dari 4 jam"
+      },
+      {
+        "label": "Modul Pemosisian GPS  ",
+        "value": "GPS+BD+GLONASS"
+      },
+      {
+        "label": "Tombol  ",
+        "value": "2 tombol volume, 2 tombol fungsi kiri dan kanan, 1 tombol daya"
+      },
+      {
+        "label": "Metode Notifikasi",
+        "value": "Suara, getar, peringatan LED"
+      },
+      {
+        "label": "Kartu PSAM (Kartu Enkripsi Cerdas)  ",
+        "value": "Opsional"
+      },
+      {
+        "label": "Suhu Operasional  ",
+        "value": "-20°C~+55°C"
+      },
+      {
+        "label": "Suhu Penyimpanan  ",
+        "value": "-30°C~+70°C"
+      },
+      {
+        "label": "Kelembapan Operasional  ",
+        "value": "5%~95%RH"
+      },
+      {
+        "label": "Debu dan Tahan Air  ",
+        "value": "IP65"
+      },
+      {
+        "label": "Berat (Termasuk Baterai)  ",
+        "value": "300g"
+      },
+      {
+        "label": "Dimensi  ",
+        "value": "160*80*15.8mm"
+      }
+    ],
+    "id": "f126af3b-5f50-4ce7-b7ea-d8dcba9a2c32",
+    "features_id": [
+      "Jangkauan Global Lokasi Real-Time",
+      "Peringatan Cerdas Notifikasi Instan",
+      "Sinkronisasi Cloud Pemblokiran/Pembukaan Blokir Offline",
+      "Interkoneksi Data dan Transmisi Bersama"
+    ],
+    "description_id": "Terminal Genggam ECTS adalah perangkat portabel yang digunakan untuk pelacakan proses pengangkutan kargo secara real-time. Dengan mengintegrasikan pemosisian rangkap tiga GPS+BD+GLONASS, sensor, dan teknologi komunikasi nirkabel, perangkat ini dapat memantau posisi kendaraan, status mengemudi, lintasan historis, dan status penyegelan/pembukaan segel kunci dari jarak jauh secara real-time, sehingga meningkatkan transparansi pengangkutan barang selama transit.",
+    "parameter_en": [
+      {
+        "label": "OS ",
+        "value": " Android 8.1/11"
+      },
+      {
+        "label": "Explosion-proof Class (special model)  ",
+        "value": "Ex ib IIC T4 Gb"
+      },
+      {
+        "label": "Battery Capacity  ",
+        "value": "6000mA"
+      },
+      {
+        "label": "Charging Method  ",
+        "value": "PE fast charging, full no more than 4 hours"
+      },
+      {
+        "label": "GPS Positioning Module  ",
+        "value": "GPS+BD+GLONASS"
+      },
+      {
+        "label": "Buttons  ",
+        "value": "2 volume buttons, 2 function buttons left and right, 1 power button"
+      },
+      {
+        "label": "Notification Method  ",
+        "value": "Sound, vibration, LED alert"
+      },
+      {
+        "label": "PSAM Card (Smart Encryption Card)",
+        "value": "Optional"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-20°C~+55°C"
+      },
+      {
+        "label": "Storage Temperature  ",
+        "value": "-30°C~+70°C"
+      },
+      {
+        "label": "Operating Humidity ",
+        "value": " 5%~95%RH"
+      },
+      {
+        "label": "Dust and Waterproof  ",
+        "value": "IP65"
+      },
+      {
+        "label": "Weight (Including Battery)  ",
+        "value": "300g"
+      },
+      {
+        "label": "Dimension  ",
+        "value": "160*80*15.8mm"
+      }
+    ]
+  },
+  {
     "id": "f7e16744-6341-4760-803b-e6df9b187843",
     "product_id": "386b97af-1306-45f0-bd76-9f068b2f1b3d",
     "introduction_en": "Maxvision Embedded Palm Vein Recognition Terminal adopts Al recognition technology, combined with scientific applications such as vision, optics, biology, etc., uses multi-band infrared imaging technology to obtain the palm vein distribution map of the palm, and performs biometric identification through a dedicated comparison algorithm to achieve ultra-high performance. The equipment has the advantages of safety and reliability, non-contact authentication, live detection, good anti-interference, and high accuracy. It can be embedded in access control, gates, self-service terminals andother systems, and is widely used by personnel in customs, border defense, seaports, communities, buildings access controlled premises etc..",
@@ -2609,6 +4746,264 @@
       {
         "label": "Ukuran",
         "value": "86*86*30mm"
+      }
+    ]
+  },
+  {
+    "introduction_id": "Maxvision secara independen mengembangkan Mesin Inspeksi Cerdas Kendaraan All-in-one ini, sebuah produk pemeriksaan cerdas. Produk ini dirancang untuk meningkatkan manajemen lajur otomatis dan untuk merekam serta memverifikasi identitas personel yang melintas di lajur secara mandiri. Fungsi-fungsinya meliputi pengenalan wajah, pengenalan sidik jari, pemindaian kode batang, pengenalan dokumen, panduan interaktif, alarm abnormal, pencetakan tanda lulus, interkom video, kontrol tautan, dan sebagainya. Produk ini cocok untuk kampus, pelabuhan, dan kawasan perdagangan bebas terpadu yang perlu merekam dan memverifikasi informasi penumpang di lajur.",
+    "product_id": "48886493-f113-4746-a188-d150575c6ff4",
+    "features_en": [
+      "Variety of Inspection Methods",
+      "Linkage of Front-End Equipment",
+      "Unmanned Checkpoints",
+      "Adjustable-height Bases Cater to Different Vehicle Types"
+    ],
+    "description_en": "Maxvision independently developed this Vehicle Intelligent Inspection All-in-one Machine which is an intelligent checking product. This product is designed to enhance the automated management of lanes and to self-capture and verify the identity of personnel passing on the lanes. Functions including facial recognition, fingerprint recognition, barcode scanning, document recognition, interactive guidance, abnormal alarm, pass printing, video intercom, linkage control and so on. It is suitable for campus, ports, integrated free trade zones that need to capture and verify the information of passengers in the lane.",
+    "introduction_en": "Maxvision independently developed this Vehicle Intelligent Inspection All-in-one Machine which is an intelligent checking product. This product is designed to enhance the automated management of lanes and to self-capture and verify the identity of personnel passing on the lanes. Functions including facial recognition, fingerprint recognition, barcode scanning, document recognition, interactive guidance, abnormal alarm, pass printing, video intercom, linkage control and so on. It is suitable for campus, ports, integrated free trade zones that need to capture and verify the information of passengers in the lane.",
+    "parameter_id": [
+      {
+        "label": "Ukuran Layar  ",
+        "value": "8\""
+      },
+      {
+        "label": "Pengenalan Wajah  ",
+        "value": "Opsional. Jarak identifikasi: 30~200 cm"
+      },
+      {
+        "label": "Pengambilan Sidik Jari  ",
+        "value": "Opsional"
+      },
+      {
+        "label": "Pembacaan Dokumen  ",
+        "value": "Opsional"
+      },
+      {
+        "label": "Percakapan Terlihat  ",
+        "value": "Video satu arah"
+      },
+      {
+        "label": "Pencetakan Voucher  ",
+        "value": "Opsional"
+      },
+      {
+        "label": "Pengenalan Kode Batang",
+        "value": "  Kecepatan Pengenalan: ≤60 ms/waktu Jangkauan Pengenalan: 4~25 cm"
+      },
+      {
+        "label": "Port Komunikasi  ",
+        "value": "Antarmuka Jaringan"
+      },
+      {
+        "label": "Lingkungan Kerja  ",
+        "value": "Semi-outdoor (Pasang di dalam Langit-langit)"
+      },
+      {
+        "label": "Tegangan Kerja  ",
+        "value": "AC 220V±10%, 50Hz±5%"
+      },
+      {
+        "label": "Daya Terukur  ",
+        "value": "500W"
+      },
+      {
+        "label": "Suhu Kerja  ",
+        "value": "-20°C~+70°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Suhu Penyimpanan  ",
+        "value": "-30°C~+80°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Relatif Kelembapan  ",
+        "value": "10%~90%RH, Tanpa Kondensasi"
+      },
+      {
+        "label": "Ukuran  ",
+        "value": "P*L*T=650*600*1830 mm"
+      }
+    ],
+    "id": "f7e38a6c-2a31-4bfd-9b30-6e11d7e76112",
+    "features_id": [
+      "Beragam Metode Inspeksi",
+      "Penghubungan Peralatan Depan",
+      "Pos Pemeriksaan Tanpa Awak",
+      "Basis dengan Ketinggian yang Dapat Disesuaikan untuk Berbagai Jenis Kendaraan"
+    ],
+    "description_id": "Maxvision secara independen mengembangkan Mesin Inspeksi Cerdas Kendaraan All-in-one ini, sebuah produk pemeriksaan cerdas. Produk ini dirancang untuk meningkatkan manajemen lajur otomatis dan untuk merekam serta memverifikasi identitas personel yang melintas di lajur secara mandiri. Fungsi-fungsinya meliputi pengenalan wajah, pengenalan sidik jari, pemindaian kode batang, pengenalan dokumen, panduan interaktif, alarm abnormal, pencetakan tanda lulus, interkom video, kontrol tautan, dan sebagainya. Produk ini cocok untuk kampus, pelabuhan, dan kawasan perdagangan bebas terpadu yang perlu merekam dan memverifikasi informasi penumpang di lajur.",
+    "parameter_en": [
+      {
+        "label": "Screen Size  ",
+        "value": "8\""
+      },
+      {
+        "label": "Face Recognition  ",
+        "value": "Optional.Identification distance: 30~200cm"
+      },
+      {
+        "label": "Fingerprint Capture  ",
+        "value": "Optional"
+      },
+      {
+        "label": "Document Reading  ",
+        "value": "Optional"
+      },
+      {
+        "label": "Visible Conversation  ",
+        "value": "One-way video"
+      },
+      {
+        "label": "Voucher Printing  ",
+        "value": "Optional"
+      },
+      {
+        "label": "Barcode Recognition  ",
+        "value": "Recognition Speed: ≤60ms/timeRecognition Range: 4~25cm"
+      },
+      {
+        "label": "Communication Port  ",
+        "value": "Network Interface"
+      },
+      {
+        "label": "Working Environment  ",
+        "value": "Semi-outdoor (Install inside the Ceiling)"
+      },
+      {
+        "label": "Working Voltage  ",
+        "value": "AC 220V±10%, 50Hz±5%"
+      },
+      {
+        "label": "Rated Power  ",
+        "value": "500W"
+      },
+      {
+        "label": "Working Temperature  ",
+        "value": "-20°C~+70°C (Indoor)"
+      },
+      {
+        "label": "Storage Temperature  ",
+        "value": "-30°C~+80°C (Indoor)"
+      },
+      {
+        "label": "Relative Humidity  ",
+        "value": "10%~90%RH, Non-Condensation"
+      },
+      {
+        "label": "Size  ",
+        "value": "L*W*H=650*600*1830mm"
+      }
+    ]
+  },
+  {
+    "introduction_id": "Sistem Pengawasan Bawah Kendaraan Portabel terintegrasi dengan akuisisi citra bawah kendaraan, deteksi otomatis tampilan Mosaik gambar, dan pengisian cahaya. Sistem ini dapat secara otomatis mendeteksi kendaraan untuk inspeksi, pengisian cahaya cerdas, dan pemindaian real-time di bawah kendaraan melalui kamera HD. Sistem ini menyajikan gambar lengkap kendaraan secara akurat dan efisien, membantu petugas secara efektif memeriksa kondisi tersembunyi dan rusak di bawah kendaraan, serta mencegah tersembunyinya barang berbahaya kimia atau biologis, bom, dll. Sistem ini dapat digunakan di area bea cukai, keamanan publik, lalu lintas, bandara, hotel, dan area pemeriksaan pintu masuk lainnya.",
+    "product_id": "4f420502-34bc-464c-ac70-076c5949d60b",
+    "features_en": [
+      "Adapt to a variety of vehicle types",
+      "180° ultra-wide angle lens",
+      "Automatic LED fill light",
+      "Mobile design for rapid deployment",
+      "License Plate Recognition"
+    ],
+    "description_en": "The Portable Under-Vehicle Surveillance System integrates with vehicle bottom image acquisition, image Mosaic display automatic detection and light filling. The system can automatically detect the vehicle for inspection, intelligent light filling, and real-time scanning under vehicle through the HD camera, accurately and efficiently present the full picture of the vehicle, effectively assist the staff to check the hidden and damaged conditions under the vehicle, and prevent the hiding of chemical or biological dangerous goods, bombs, etc.. It is Applicable to customs, public security, traffic, airport, hotel and other entrance control places.",
+    "introduction_en": "The Portable Under-Vehicle Surveillance System integrates with vehicle bottom image acquisition, image Mosaic display automatic detection and light filling. The system can automatically detect the vehicle for inspection, intelligent light filling, and real-time scanning under vehicle through the HD camera, accurately and efficiently present the full picture of the vehicle, effectively assist the staff to check the hidden and damaged conditions under the vehicle, and prevent the hiding of chemical or biological dangerous goods, bombs, etc.. It is Applicable to customs, public security, traffic, airport, hotel and other entrance control places.",
+    "parameter_id": [
+      {
+        "label": "Bidang Sudut  ",
+        "value": "180°"
+      },
+      {
+        "label": "Lebar Rangka Kendaraan Deteksi  ",
+        "value": "≤2000 mm"
+      },
+      {
+        "label": "Tinggi Rangka Kendaraan Deteksi  ",
+        "value": "≥120 mm"
+      },
+      {
+        "label": "Batas Kecepatan Inspeksi  ",
+        "value": "≤30 km/jam"
+      },
+      {
+        "label": "Konsumsi Daya Siaga ",
+        "value": " ≤10 W"
+      },
+      {
+        "label": "Konsumsi Daya Inspeksi  ",
+        "value": "≤120 W"
+      },
+      {
+        "label": "Suhu Operasional  ",
+        "value": "-20°C~+60%°C"
+      },
+      {
+        "label": "Catu Daya ",
+        "value": " AC 220V"
+      },
+      {
+        "label": "Perlindungan Ingress  ",
+        "value": "IP67"
+      },
+      {
+        "label": "Berat Produk  ",
+        "value": "≤20 kg"
+      },
+      {
+        "label": "Dimensi Produk  ",
+        "value": "460*440*90 mm"
+      }
+    ],
+    "id": "fd374745-5ac3-4196-9743-97deb4e1725e",
+    "features_id": [
+      "Dapat disesuaikan dengan berbagai jenis kendaraan",
+      "Lensa sudut ultra lebar 180°",
+      "Lampu LED otomatis",
+      "Desain mobile untuk pemasangan cepat",
+      "Pengenalan Plat Nomor"
+    ],
+    "description_id": "Sistem Pengawasan Bawah Kendaraan Portabel terintegrasi dengan akuisisi citra bawah kendaraan, deteksi otomatis tampilan Mosaik gambar, dan pengisian cahaya. Sistem ini dapat secara otomatis mendeteksi kendaraan untuk inspeksi, pengisian cahaya cerdas, dan pemindaian real-time di bawah kendaraan melalui kamera HD. Sistem ini menyajikan gambar lengkap kendaraan secara akurat dan efisien, membantu petugas secara efektif memeriksa kondisi tersembunyi dan rusak di bawah kendaraan, serta mencegah tersembunyinya barang berbahaya kimia atau biologis, bom, dll. Sistem ini dapat digunakan di area bea cukai, keamanan publik, lalu lintas, bandara, hotel, dan area pemeriksaan pintu masuk lainnya.",
+    "parameter_en": [
+      {
+        "label": "Field of Angle  ",
+        "value": "180°"
+      },
+      {
+        "label": "Detection Vehicle Chassis Width  ",
+        "value": "≤2000mm"
+      },
+      {
+        "label": "Detection Vehicle Chassis Height  ",
+        "value": "≥120mm"
+      },
+      {
+        "label": "Inspect Speed Limit  ",
+        "value": "≤30km/h"
+      },
+      {
+        "label": "Standby Consumption  ",
+        "value": "≤10W"
+      },
+      {
+        "label": "Inspection Consumption ",
+        "value": " ≤120W"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-20C~+60%C"
+      },
+      {
+        "label": "Power Supply  ",
+        "value": "AC 220V"
+      },
+      {
+        "label": "Ingress Protection  ",
+        "value": "IP67"
+      },
+      {
+        "label": "Product Weight ",
+        "value": " ≤20kg"
+      },
+      {
+        "label": "Product Dimension  ",
+        "value": "460*440*90mm"
       }
     ]
   }

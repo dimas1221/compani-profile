@@ -19,7 +19,7 @@ export default function HeaderMobile() {
       <header
         className="mt-3 mx-auto fixed top-0 left-0 w-full z-50 px-5 py-3 flex justify-between items-center
         bg-white/80 dark:bg-gray-900/80 backdrop-blur-md rounded-2xl shadow-sm border border-white/20 dark:border-gray-800/50
-        font-calsans transition-all duration-300"
+        font-satoshi transition-all duration-300"
       >
         {/* Company Name */}
 

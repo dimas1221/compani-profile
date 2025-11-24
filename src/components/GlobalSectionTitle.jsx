@@ -17,10 +17,8 @@ export default function GlobalSectionTitle({
         viewport={{ once: true }}
         className="
           text-2xl sm:text-4xl font-extrabold
-          bg-gradient-to-r from-blue-600 via-cyan-500 to-sky-400
-          text-transparent bg-clip-text
-          dark:from-cyan-400 dark:via-sky-400 dark:to-blue-600
-          leading-tight font-calsans
+          text-blue-600
+          leading-tight font-clash
         "
       >
         {title}

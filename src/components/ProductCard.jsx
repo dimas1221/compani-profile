@@ -69,7 +69,18 @@ export default function ProductCard({ product }) {
                    transition-all duration-500 ease-[cubic-bezier(0.23,1,0.32,1)]"
       >
         <p className="text-sm font-semibold mb-2 drop-shadow-md">{name}</p>
-        <p className="text-xs max-w-[88%] leading-relaxed text-white/95 drop-shadow-sm font-light">
+        <p
+          className="
+    mb-10 
+    text-gray-700 dark:text-gray-300 
+    leading-relaxed 
+    text-justify 
+    text-xs
+    tracking-wide 
+    space-y-4
+    [&>p:first-child]:indent-8
+  "
+        >
           {short}
         </p>
       </div>

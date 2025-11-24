@@ -53,26 +53,11 @@ export default function AboutSection() {
             viewport={{ once: true }}
             className="space-y-6"
           >
-            <h3
-              className="
-                text-2xl sm:text-3xl font-extrabold tracking-tight
-                bg-gradient-to-r from-blue-700 via-cyan-600 to-sky-500
-                dark:from-cyan-400 dark:via-sky-400 dark:to-blue-500
-                text-transparent bg-clip-text font-calsans
-              "
-            >
-              {t.company}
-            </h3>
-
-            <p className="text-gray-700 dark:text-gray-300 text-base leading-relaxed max-w-xl font-light">
-              {t.footer_desc}
-            </p>
-
             <div className="pt-3">
               <h4
                 className="
                   text-xl sm:text-2xl font-semibold mb-5 tracking-wide
-                  text-blue-700 dark:text-cyan-400 font-calsans
+                  text-blue-600 font-clash
                 "
               >
                 {lang === "en" ? "Vision & Mission" : "Visi & Misi"}
@@ -83,8 +68,7 @@ export default function AboutSection() {
                     key={idx}
                     className="
                       flex items-start gap-3 text-gray-900 dark:text-gray-200
-                      text-sm sm:text-base leading-snug
-                      hover:text-cyan-600 dark:hover:text-cyan-300
+                      text-sm sm:text-base leading-snug                     
                       transition-all duration-300 font-light
                     "
                   >
@@ -107,6 +91,19 @@ export default function AboutSection() {
                 ))}
               </ul>
             </div>
+            <h3
+              className="
+                 text-xl sm:text-2xl font-semibold
+               text-blue-600
+                bg-clip-text font-clash pt-3
+              "
+            >
+              {t.company}
+            </h3>
+
+            <p className="text-gray-700 dark:text-gray-300 text-base leading-relaxed max-w-xl font-light">
+              {t.footer_desc}
+            </p>
           </motion.div>
 
           {/* Right Side - Decorative Image */}

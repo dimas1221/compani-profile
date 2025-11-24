@@ -26,9 +26,9 @@ export default function Home() {
       {/* Section 2: Feature cards */}
       <FeatureSection />
 
+      <PartnerSection />
       {/* Section 4: Product carousel */}
       <ProductSection />
-      <PartnerSection />
     </div>
   );
 }
