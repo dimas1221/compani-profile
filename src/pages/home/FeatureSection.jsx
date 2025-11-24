@@ -118,7 +118,7 @@ export default function FeatureSection() {
         })}
       </div>
 
-      {/* ================= MOBILE ================= */}
+      {/* ================= MOBILE test================= */}
       <div
         className="flex sm:hidden flex-col gap-2 max-w-7xl mx-auto
                    overflow-hidden rounded-2xl shadow-md
