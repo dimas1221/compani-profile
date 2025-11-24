@@ -1,0 +1,126 @@
+{
+  "introduction_id": "Dikembangkan secara independen oleh Maxvision, Mesin Sinar-X Bagasi Tercatat ini merupakan generasi baru teknologi pemindaian energi ganda dan tampilan ganda yang dirancang untuk lingkungan dengan keamanan tinggi. Dilengkapi dengan dua sumber sinar-X dan susunan detektor independen, sistem ini menangkap gambar tampak bawah dan samping secara bersamaan dan menampilkannya secara real-time—sangat meningkatkan deteksi barang tersembunyi atau tumpang tindih. Dirancang khusus untuk pemeriksaan bagasi berukuran besar dan tidak beraturan, mesin ini ideal untuk digunakan di bea cukai, pos pemeriksaan perbatasan, bandara, stasiun kereta api, fasilitas pemerintah, dan tempat umum yang besar. Sistem ini menggabungkan fungsionalitas khusus aplikasi dengan desain industri modern, memberikan pengalaman yang ramah pengguna dan kinerja yang sangat andal.",
+  "product_id": "5ddee792-f4b8-4b54-86aa-42338e371b68",
+  "features_en": [
+    "Dual-view imaging for blind spot elimination",
+    "High-resolution imaging with strong penetration",
+    "Ultra-low radiation for safer operation",
+    "Integrated TIP functionality for operator training",
+    "Multi-format image export for flexible data use",
+    "Network-enabled for centralized management",
+    "Smart self-diagnostics for efficient maintenance"
+  ],
+  "description_en": "Developed independently by Maxvision, this Hold Baggage X-ray Machine represents a new generation of dual-energy, dual-view screening technology designed for high-security environments. Featuring two independent X-ray source and detector arrays, the system captures bottom and side view images simultaneously and displays them in real time-greatly improving the detection of concealed or overlapping items. Purpose-built for the inspection of oversized and irregular baggage, it is ideal for deployment at customs, border checkpoints, airports, railway stations, government facilities, and large public venues. The system combines application-specific functionality with modern industrial design, delivering a user-friendly experience and highly reliable performance.",
+  "introduction_en": "Developed independently by Maxvision, this Hold Baggage X-ray Machine represents a new generation of dual-energy, dual-view screening technology designed for high-security environments. Featuring two independent X-ray source and detector arrays, the system captures bottom and side view images simultaneously and displays them in real time-greatly improving the detection of concealed or overlapping items. Purpose-built for the inspection of oversized and irregular baggage, it is ideal for deployment at customs, border checkpoints, airports, railway stations, government facilities, and large public venues. The system combines application-specific functionality with modern industrial design, delivering a user-friendly experience and highly reliable performance.",
+  "parameter_id": [
+    {
+      "label": "Kecepatan Konveyor ",
+      "value": " 0,2 m/dtk ~ 0,4 m/dtk"
+    },
+    {
+      "label": "Kapasitas Beban Maksimum  ",
+      "value": "200 kg (terdistribusi merata)"
+    },
+    {
+      "label": "Pemanggilan Gambar ",
+      "value": " Memungkinkan peninjauan gambar pindaian setelah inspeksi."
+    },
+    {
+      "label": "Fungsi Bantuan Operator",
+      "value": "Tampilan Tanggal/Waktu, Penghitung Bagasi, Log Operasi, Manajemen Pengguna, Monitor Waktu Proses Sistem, Uji Mandiri Daya, Kalibrasi Gambar, Diagnostik Perawatan"
+    },
+    {
+      "label": "Monitor Layar  ",
+      "value": "24** 2"
+    },
+    {
+      "label": "Suhu Operasional  ",
+      "value": "0°C~+45°C"
+    },
+    {
+      "label": "Suhu Penyimpanan  ",
+      "value": "-40°C~+70°C"
+    },
+    {
+      "label": "Kelembapan Relatif  ",
+      "value": "5%~95%RH, Non-kondensasi"
+    },
+    {
+      "label": "Catu Daya  ",
+      "value": "AC220V (-15%~+10%), 50±3Hz"
+    },
+    {
+      "label": "Konsumsi Daya  ",
+      "value": "1,5KW"
+    },
+    {
+      "label": "Berat  ",
+      "value": "≤1500kg"
+    },
+    {
+      "label": "Dimensi Sistem  ",
+      "value": "3580mm×1745mm×1840mm"
+    }
+  ],
+  "id": "b3368b05-41a8-403b-a404-1118eb4a5052",
+  "features_id": [
+    "Pencitraan tampilan ganda untuk menghilangkan titik buta",
+    "Pencitraan beresolusi tinggi dengan penetrasi kuat",
+    "Radiasi ultra-rendah untuk pengoperasian yang lebih aman",
+    "Fungsi TIP terintegrasi untuk pelatihan operator",
+    "Ekspor gambar multi-format untuk penggunaan data yang fleksibel",
+    "Didukung jaringan untuk manajemen terpusat",
+    "Diagnostik mandiri cerdas untuk perawatan yang efisien"
+  ],
+  "description_id": "Dikembangkan secara independen oleh Maxvision, Mesin Sinar-X Bagasi Tercatat ini merupakan generasi baru teknologi pemindaian energi ganda dan tampilan ganda yang dirancang untuk lingkungan dengan keamanan tinggi. Dilengkapi dengan dua sumber sinar-X dan susunan detektor independen, sistem ini menangkap gambar tampak bawah dan samping secara bersamaan dan menampilkannya secara real-time—sangat meningkatkan deteksi barang tersembunyi atau tumpang tindih. Dirancang khusus untuk pemeriksaan bagasi berukuran besar dan tidak beraturan, mesin ini ideal untuk digunakan di bea cukai, pos pemeriksaan perbatasan, bandara, stasiun kereta api, fasilitas pemerintah, dan tempat umum yang besar. Sistem ini menggabungkan fungsionalitas khusus aplikasi dengan desain industri modern, memberikan pengalaman yang ramah pengguna dan kinerja yang sangat andal.",
+  "parameter_en": [
+    {
+      "label": "Conveyor Speed  ",
+      "value": "0.2m/s ~ 0.4m/s"
+    },
+    {
+      "label": "Maximum Load Capacity  ",
+      "value": "200Kg (evenly distributed)"
+    },
+    {
+      "label": "Image Recall ",
+      "value": "Enables review of scanned images after inspection."
+    },
+    {
+      "label": "Operator Assist Functions",
+      "value": "Date/Time Display, Baggage Counter, Operation Log, User Management, System Runtime Monitor, Power-On Self-Test, Image Calibration, Maintenance Diagnostics"
+    },
+    {
+      "label": "Screen Monitor  ",
+      "value": "24** 2"
+    },
+    {
+      "label": "Operating Temperature ",
+      "value": " 0°C~+45°C"
+    },
+    {
+      "label": "Storage Temperature  ",
+      "value": "-40°C~+70°C"
+    },
+    {
+      "label": "Relative Humidity  ",
+      "value": "5%~95%RH, Non-condensing"
+    },
+    {
+      "label": "Power Supply  ",
+      "value": "AC220V (-15%~+10%), 50±3Hz"
+    },
+    {
+      "label": "Power Consumption  ",
+      "value": "1.5KW"
+    },
+    {
+      "label": "Weight  ",
+      "value": "≤1500kg"
+    },
+    {
+      "label": "System Dimensions  ",
+      "value": "3580mm×1745mm×1840mm"
+    }
+  ]
+}
