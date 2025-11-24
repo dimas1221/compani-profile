@@ -1,0 +1,132 @@
+{
+  "introduction_id": "Maxvision secara independen mengembangkan Mesin Kontrol Akses Kendaraan ini, sebuah produk pemeriksaan cerdas. Produk ini dirancang untuk meningkatkan manajemen jalur otomatis dan untuk merekam serta memverifikasi identitas personel yang melintas di jalur tersebut. Perangkat ini berfungsi untuk pemosisian otomatis perangkat akuisisi, penghindaran rintangan secara cerdas, pengenalan wajah, pengenalan iris, pembacaan ID, panduan interaktif, percakapan visual, pengawasan panorama, kontrol tautan, dan sebagainya. Produk ini cocok untuk kampus dan pelabuhan yang perlu merekam dan memverifikasi informasi penumpang di jalur.",
+  "product_id": "6174cc5e-d5cc-4bdc-8cc7-7282aa434e5c",
+  "features_en": [
+    "Automatic Positioning of the Acquisition Device",
+    "Intelligent Avoidance of Obstacles",
+    "Panoramic Surveillance",
+    "Panoramic Surveillance",
+    "Linkage of Front-End Equipment",
+    "Unattended Operation of the Checkpoint"
+  ],
+  "description_en": "Maxvision independently developed this Vehicle Access Control Machine which is an intelligent checking product. This product is designed to enhance the automated management of lanes and to self-capture and verify the identity of personnel passing on the lanes. Functioning automatic positioning of the acquisition device, intelligent avoidance of obstacles, face recognition, iris recognition, ID reading, interactive guidance, visible conversation, panoramic surveillance, linkage control and so on. It is suitable for campus, ports that need to capture and verify the information of passengers in the lane.",
+  "introduction_en": "Maxvision independently developed this Vehicle Access Control Machine which is an intelligent checking product. This product is designed to enhance the automated management of lanes and to self-capture and verify the identity of personnel passing on the lanes. Functioning automatic positioning of the acquisition device, intelligent avoidance of obstacles, face recognition, iris recognition, ID reading, interactive guidance, visible conversation, panoramic surveillance, linkage control and so on. It is suitable for campus, ports that need to capture and verify the information of passengers in the lane.",
+  "parameter_id": [
+    {
+      "label": "Ukuran Layar ",
+      "value": "5\""
+    },
+    {
+      "label": "Pengenalan Wajah ",
+      "value": "Didukung"
+    },
+    {
+      "label": "Pengenalan Iris ",
+      "value": "Opsional"
+    },
+    {
+      "label": "Pembacaan ID  ",
+      "value": "Didukung"
+    },
+    {
+      "label": "Rute Perangkat Akusisi  ",
+      "value": "60 cm untuk Ekspansi Atas, Bawah, Maju, dan Mundur"
+    },
+    {
+      "label": "Port Komunikasi  ",
+      "value": "Antarmuka Jaringan"
+    },
+    {
+      "label": "Lingkungan Kerja  ",
+      "value": "Semi-Outdoor (Pasang di dalam Langit-langit)"
+    },
+    {
+      "label": "Tegangan Kerja  ",
+      "value": "AC220V+10%, 50Hz+5%"
+    },
+    {
+      "label": "Daya Terukur  ",
+      "value": "800W"
+    },
+    {
+      "label": "Suhu Kerja ",
+      "value": " 0°C~+55°C"
+    },
+    {
+      "label": "Suhu Penyimpanan  ",
+      "value": "0°C~+55°C"
+    },
+    {
+      "label": "Kelembapan Relatif  ",
+      "value": "10%~90%RH, Tanpa Kondensasi"
+    },
+    {
+      "label": "Ukuran  ",
+      "value": "P*L*T=450*695*1905mm"
+    }
+  ],
+  "id": "9a4ef892-bc1e-419e-9585-67122efb7e66",
+  "features_id": [
+    "Penempatan Otomatis Perangkat Akuisisi",
+    "Penghindaran Rintangan Secara Cerdas",
+    "Pengawasan Panorama",
+    "Pengawasan Panorama",
+    "Penghubung Peralatan Front-End",
+    "Pengoperasian Pos Pemeriksaan Tanpa Pengawasan"
+  ],
+  "description_id": "Maxvision secara independen mengembangkan Mesin Kontrol Akses Kendaraan ini, sebuah produk pemeriksaan cerdas. Produk ini dirancang untuk meningkatkan manajemen jalur otomatis dan untuk merekam serta memverifikasi identitas personel yang melintas di jalur tersebut. Perangkat ini berfungsi untuk pemosisian otomatis perangkat akuisisi, penghindaran rintangan secara cerdas, pengenalan wajah, pengenalan iris, pembacaan ID, panduan interaktif, percakapan visual, pengawasan panorama, kontrol tautan, dan sebagainya. Produk ini cocok untuk kampus dan pelabuhan yang perlu merekam dan memverifikasi informasi penumpang di jalur.",
+  "parameter_en": [
+    {
+      "label": "Screen Size ",
+      "value": " 5\""
+    },
+    {
+      "label": "Face Recognition ",
+      "value": "Supported"
+    },
+    {
+      "label": "Iris Recognition ",
+      "value": "Optional"
+    },
+    {
+      "label": "ID Reading  ",
+      "value": "Supported"
+    },
+    {
+      "label": "Route of the Acquisition Device  ",
+      "value": "60cm for Up, Down, Forward and Backward Expansion"
+    },
+    {
+      "label": "Communication Port  ",
+      "value": "Network Interface"
+    },
+    {
+      "label": "Working Environment  ",
+      "value": "Semi-Outdoor (Install inside the Ceiling)"
+    },
+    {
+      "label": "Working Voltage  ",
+      "value": "AC220V+10%,50Hz+5%"
+    },
+    {
+      "label": "Rated Power  ",
+      "value": "800W"
+    },
+    {
+      "label": "Working Temperature  ",
+      "value": "0°C~+55°C"
+    },
+    {
+      "label": "Storage Temperature  ",
+      "value": "0°C~+55°C"
+    },
+    {
+      "label": "Relative Humidity  ",
+      "value": "10%~90%RH, Non-Condensation"
+    },
+    {
+      "label": "Size  ",
+      "value": "L*W*H=450*695*1905mm"
+    }
+  ]
+}
