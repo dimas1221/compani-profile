@@ -8,213 +8,333 @@ backend:
   client_id: Ov23lihVYXS9ZNZr3qaj
 
 publish_mode: editorial_workflow
-media_folder: "public/images/uploads"
-public_folder: "/images/uploads"
+media_folder: 'public/images/uploads'
+public_folder: '/images/uploads'
 
 collections:
   # ==========================================================
   # 1️⃣ MAIN PRODUCT JSON (MAIN, SUB, PRODUCTS)
   # ==========================================================
-  - name: "products"
-    label: "Product Catalogue"
-    format: "json"
-    extension: "json"
+  - name: 'products'
+    label: 'Product Catalogue'
+    format: 'json'
+    extension: 'json'
     editor:
       preview: false
 
     files:
-      - file: "public/data/product.json"
-        label: "Product Data"
-        name: "product_json"
+      - file: 'public/data/product.json'
+        label: 'Product Data'
+        name: 'product_json'
 
         fields:
-          - label: "Main Categories"
-            name: "main_categories"
-            widget: "list"
+          - label: 'Main Categories'
+            name: 'main_categories'
+            widget: 'list'
             fields:
               # ------------------------------------------------
               # MAIN CATEGORY
               # ------------------------------------------------
-              - label: "Main Category ID"
-                name: "id"
-                widget: "uuid"
+              - label: 'Main Category ID'
+                name: 'id'
+                widget: 'uuid'
                 required: true
-                hint: "Generated automatically"
+                hint: 'Generated automatically'
 
-              - { label: "Name (EN)", name: "name_en", widget: "string" }
-              - { label: "Name (ID)", name: "name_id", widget: "string" }
+              - { label: 'Name (EN)', name: 'name_en', widget: 'string' }
+              - { label: 'Name (ID)', name: 'name_id', widget: 'string' }
 
               # ------------------------------------------------
               # SUB CATEGORIES
               # ------------------------------------------------
-              - label: "Sub Categories"
-                name: "sub_categories"
-                widget: "list"
+              - label: 'Sub Categories'
+                name: 'sub_categories'
+                widget: 'list'
                 fields:
-                  - label: "Sub Category ID"
-                    name: "id"
-                    widget: "uuid"
+                  - label: 'Sub Category ID'
+                    name: 'id'
+                    widget: 'uuid'
                     required: true
-                    hint: "Generated automatically"
+                    hint: 'Generated automatically'
 
-                  - { label: "Name (EN)", name: "name_en", widget: "string" }
-                  - { label: "Name (ID)", name: "name_id", widget: "string" }
+                  - { label: 'Name (EN)', name: 'name_en', widget: 'string' }
+                  - { label: 'Name (ID)', name: 'name_id', widget: 'string' }
 
                   # ------------------------------------------------
                   # PRODUCTS INSIDE SUB CATEGORY
                   # ------------------------------------------------
-                  - label: "Products"
-                    name: "products"
-                    widget: "list"
+                  - label: 'Products'
+                    name: 'products'
+                    widget: 'list'
                     fields:
-                      - label: "Product ID"
-                        name: "id"
-                        widget: "uuid"
+                      - label: 'Product ID'
+                        name: 'id'
+                        widget: 'uuid'
                         required: true
-                        hint: "Generated automatically"
+                        hint: 'Generated automatically'
 
                       - {
-                          label: "Name (EN)",
-                          name: "name_en",
-                          widget: "string",
+                          label: 'Name (EN)',
+                          name: 'name_en',
+                          widget: 'string',
                         }
                       - {
-                          label: "Name (ID)",
-                          name: "name_id",
-                          widget: "string",
-                        }
-
-                      - {
-                          label: "Short (EN)",
-                          name: "short_en",
-                          widget: "text",
-                        }
-                      - {
-                          label: "Short (ID)",
-                          name: "short_id",
-                          widget: "text",
+                          label: 'Name (ID)',
+                          name: 'name_id',
+                          widget: 'string',
                         }
 
                       - {
-                          label: "Description (EN)",
-                          name: "desc_en",
-                          widget: "text",
+                          label: 'Short (EN)',
+                          name: 'short_en',
+                          widget: 'text',
                         }
                       - {
-                          label: "Description (ID)",
-                          name: "desc_id",
-                          widget: "text",
+                          label: 'Short (ID)',
+                          name: 'short_id',
+                          widget: 'text',
                         }
 
-                      - { label: "Image", name: "image", widget: "image" }
+                      - {
+                          label: 'Description (EN)',
+                          name: 'desc_en',
+                          widget: 'text',
+                        }
+                      - {
+                          label: 'Description (ID)',
+                          name: 'desc_id',
+                          widget: 'text',
+                        }
 
-                      - label: "Compatibility"
-                        name: "compatibility"
-                        widget: "list"
+                      - { label: 'Image', name: 'image', widget: 'image' }
+
+                      - label: 'Compatibility'
+                        name: 'compatibility'
+                        widget: 'list'
                         default: []
 
   # ==========================================================
   # 2️⃣ AUTO GENERATED FLAT PRODUCT FILES
   # ==========================================================
-  - name: "products_flat"
-    label: "Products Flat (Auto)"
-    folder: "public/data/products_flat"
-    format: "json"
-    extension: "json"
+  - name: 'products_flat'
+    label: 'Products Flat (Auto)'
+    folder: 'public/data/products_flat'
+    format: 'json'
+    extension: 'json'
     create: false
     editor:
       preview: false
 
     fields:
-      - label: "ID"
-        name: "id"
-        widget: "uuid"
+      - label: 'ID'
+        name: 'id'
+        widget: 'uuid'
         required: true
-        hint: "Generated automatically"
+        hint: 'Generated automatically'
 
-      - { label: "Name (EN)", name: "name_en", widget: "string" }
-      - { label: "Name (ID)", name: "name_id", widget: "string" }
-      - { label: "Main Category", name: "main_category_en", widget: "string" }
-      - { label: "Sub Category", name: "sub_category_en", widget: "string" }
-      - { label: "Image", name: "image", widget: "image", required: false }
+      - { label: 'Name (EN)', name: 'name_en', widget: 'string' }
+      - { label: 'Name (ID)', name: 'name_id', widget: 'string' }
+      - { label: 'Main Category', name: 'main_category_en', widget: 'string' }
+      - { label: 'Sub Category', name: 'sub_category_en', widget: 'string' }
+      - { label: 'Image', name: 'image', widget: 'image', required: false }
 
   # ==========================================================
   # 3️⃣ DETAIL PRODUCT
   # ==========================================================
-  - name: "detail_product"
-    label: "Detail Product"
-    folder: "public/data/detail_product"
-    format: "json"
-    extension: "json"
+  - name: 'detail_product'
+    label: 'Detail Product'
+    folder: 'public/data/detail_product'
+    format: 'json'
+    extension: 'json'
     create: true
-    slug: "{{fields.id}}"
+    slug: '{{fields.id}}'
     editor:
       preview: false
 
     fields:
-      - label: "ID"
-        name: "id"
-        widget: "uuid"
+      - label: 'ID'
+        name: 'id'
+        widget: 'uuid'
         required: true
-        hint: "Generated automatically"
+        hint: 'Generated automatically'
 
-      - label: "Product"
-        name: "product_id"
-        widget: "relation"
-        collection: "products_flat"
-        search_fields: ["name_en", "name_id"]
-        value_field: "id"
-        display_fields: ["name_en"]
+      - label: 'Product'
+        name: 'product_id'
+        widget: 'relation'
+        collection: 'products_flat'
+        search_fields: ['name_en', 'name_id']
+        value_field: 'id'
+        display_fields: ['name_en']
 
-      - { label: "Introduction (EN)", name: "introduction_en", widget: "text" }
-      - { label: "Introduction (ID)", name: "introduction_id", widget: "text" }
-      - { label: "Description (EN)", name: "description_en", widget: "text" }
-      - { label: "Description (ID)", name: "description_id", widget: "text" }
+      - { label: 'Introduction (EN)', name: 'introduction_en', widget: 'text' }
+      - { label: 'Introduction (ID)', name: 'introduction_id', widget: 'text' }
+      - { label: 'Description (EN)', name: 'description_en', widget: 'text' }
+      - { label: 'Description (ID)', name: 'description_id', widget: 'text' }
 
-      - label: "Features (EN)"
-        name: "features_en"
-        widget: "list"
+      - label: 'Features (EN)'
+        name: 'features_en'
+        widget: 'list'
 
-      - label: "Features (ID)"
-        name: "features_id"
-        widget: "list"
+      - label: 'Features (ID)'
+        name: 'features_id'
+        widget: 'list'
 
-      - label: "Parameters (EN)"
-        name: "parameter_en"
-        widget: "list"
+      - label: 'Parameters (EN)'
+        name: 'parameter_en'
+        widget: 'list'
         fields:
-          - { label: "Label", name: "label", widget: "string" }
-          - { label: "Value", name: "value", widget: "string" }
+          - { label: 'Label', name: 'label', widget: 'string' }
+          - { label: 'Value', name: 'value', widget: 'string' }
 
-      - label: "Parameters (ID)"
-        name: "parameter_id"
-        widget: "list"
+      - label: 'Parameters (ID)'
+        name: 'parameter_id'
+        widget: 'list'
         fields:
-          - { label: "Label", name: "label", widget: "string" }
-          - { label: "Value", name: "value", widget: "string" }
+          - { label: 'Label', name: 'label', widget: 'string' }
+          - { label: 'Value', name: 'value', widget: 'string' }
   # ==========================================================
   # 4 Principle Item
   # ==========================================================
-  - name: "principle_items"
-    label: "Principle Items"
+  - name: 'principle_items'
+    label: 'Principle Items'
     files:
-      - file: "public/data/principle_items.json"
-        label: "Principle Items Data"
-        name: "principle_items_file"
+      - file: 'public/data/principle_items.json'
+        label: 'Principle Items Data'
+        name: 'principle_items_file'
         fields:
-          - label: "Principle Items"
-            name: "principle_items"
-            widget: "list"
+          - label: 'Principle Items'
+            name: 'principle_items'
+            widget: 'list'
             fields:
-              - { label: "ID", name: "id", widget: "uuid" }
-              - { label: "Image", name: "image", widget: "image" }
-              - { label: "Title ID", name: "title_id", widget: "string" }
-              - { label: "Subtitle ID", name: "subtitle_id", widget: "string" }
-              - { label: "Title EN", name: "title_en", widget: "string" }
-              - { label: "Subtitle EN", name: "subtitle_en", widget: "text" }
-              - label: "Type"
-                name: "type"
-                widget: "select"
+              - { label: 'ID', name: 'id', widget: 'uuid' }
+              - { label: 'Image', name: 'image', widget: 'image' }
+              - { label: 'Title ID', name: 'title_id', widget: 'string' }
+              - { label: 'Subtitle ID', name: 'subtitle_id', widget: 'string' }
+              - { label: 'Title EN', name: 'title_en', widget: 'string' }
+              - { label: 'Subtitle EN', name: 'subtitle_en', widget: 'text' }
+              - label: 'Type'
+                name: 'type'
+                widget: 'select'
                 options:
-                  - { label: "Maxvision", value: "Maxvision" }
-                  - { label: "Jovision", value: "Jovision" }
+                  - { label: 'Maxvision', value: 'Maxvision' }
+                  - { label: 'Jovision', value: 'Jovision' }
+  - name: 'features'
+    label: 'Features'
+    format: 'json'
+    extension: 'json'
+    files:
+      - file: 'public/data/features.json'
+        label: 'Features Data'
+        name: 'features_file'
+        fields:
+          - label: 'Features'
+            name: 'features'
+            widget: 'list'
+            fields:
+              - label: 'ID'
+                name: 'id'
+                widget: 'number'
+                required: true
+
+              - label: 'Title (EN)'
+                name: 'title_en'
+                widget: 'string'
+                required: true
+
+              - label: 'Title (ID)'
+                name: 'title_id'
+                widget: 'string'
+                required: true
+
+              - label: 'Description (EN)'
+                name: 'desc_en'
+                widget: 'text'
+
+              - label: 'Description (ID)'
+                name: 'desc_id'
+                widget: 'text'
+
+              - label: 'Icon'
+                name: 'icon'
+                widget: 'string'
+
+              - label: 'Image'
+                name: 'img'
+                widget: 'string'
+
+              - label: 'Learn More Title (EN)'
+                name: 'learn_more_title_en'
+                widget: 'string'
+
+              - label: 'Learn More Title (ID)'
+                name: 'learn_more_title_id'
+                widget: 'string'
+
+              - label: 'Learn More Description (EN)'
+                name: 'learn_more_desc_en'
+                widget: 'text'
+
+              - label: 'Learn More Description (ID)'
+                name: 'learn_more_desc_id'
+                widget: 'text'
+
+              - label: 'Learn More Image'
+                name: 'learn_more_image'
+                widget: 'string'
+
+              - label: 'Header Learn More'
+                name: 'header_learn_more'
+                widget: 'list'
+                fields:
+                  - label: 'Image'
+                    name: 'image'
+                    widget: 'string'
+                  - label: 'Title (EN)'
+                    name: 'title_en'
+                    widget: 'string'
+                  - label: 'Title (ID)'
+                    name: 'title_id'
+                    widget: 'string'
+                  - label: 'Description (EN)'
+                    name: 'desc_en'
+                    widget: 'text'
+                  - label: 'Description (ID)'
+                    name: 'desc_id'
+                    widget: 'text'
+
+              - label: 'Portfolio Learn More'
+                name: 'portofolio_learn_more'
+                widget: 'list'
+                fields:
+                  - label: 'Image'
+                    name: 'image'
+                    widget: 'string'
+                  - label: 'Title (EN)'
+                    name: 'title_en'
+                    widget: 'string'
+                  - label: 'Title (ID)'
+                    name: 'title_id'
+                    widget: 'string'
+                  - label: 'Description (EN)'
+                    name: 'desc_en'
+                    widget: 'text'
+                  - label: 'Description (ID)'
+                    name: 'desc_id'
+                    widget: 'text'
+
+              - label: 'Team Learn More'
+                name: 'team_learn_more'
+                widget: 'list'
+                fields:
+                  - label: 'Image'
+                    name: 'image'
+                    widget: 'string'
+                  - label: 'Name'
+                    name: 'name'
+                    widget: 'string'
+                  - label: 'Message (EN)'
+                    name: 'message_en'
+                    widget: 'text'
+                  - label: 'Message (ID)'
+                    name: 'message_id'
+                    widget: 'text'

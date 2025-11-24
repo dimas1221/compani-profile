@@ -1,92 +1,92 @@
 export const translations = {
   en: {
-    company: "PT Transforme",
-    home: "Home",
-    about: "About",
-    product: "Product",
-    solution: "Solution",
-    contact: "Contact",
-    partners: "Principle",
-    corporate: "Success Story",
-    helpResources: "Help & Resources",
+    company: 'PT Transforme',
+    home: 'Home',
+    about: 'About',
+    product: 'Product',
+    solution: 'Solution',
+    contact: 'Contact',
+    partners: 'Principle',
+    corporate: 'Success Story',
+    helpResources: 'Help & Resources',
 
     footer_desc:
-      "Digital security & access solutions — CCTV, biometric, fingerprint, palm, and more.",
-    footer_links: "Links",
-    footer_contact: "Contact",
-    footer_subscribe: "Subscribe",
-    subscribe_placeholder: "Enter your email",
-    subscribe_btn: "Subscribe",
-    subscribed_message: "Subscribed — thank you!",
-    rights_reserved: "All rights reserved.",
+      'Digital security & access solutions — CCTV, biometric, fingerprint, palm, and more.',
+    footer_links: 'Links',
+    footer_contact: 'Contact',
+    footer_subscribe: 'Subscribe',
+    subscribe_placeholder: 'Enter your email',
+    subscribe_btn: 'Subscribe',
+    subscribed_message: 'Subscribed — thank you!',
+    rights_reserved: 'All rights reserved.',
 
     // Main
-    title_main: "Transforme Indonesia",
-    description_main: "Digital solutions tailored for your needs.",
-    more_info: "More Info",
+    title_main: 'Transforme Indonesia',
+    description_main: 'Digital solutions tailored for your needs.',
+    more_info: 'More Info',
 
     // Teams
-    ourTeams: "Our Teams",
-    team_members: ["Engineering", "Marketing", "Sales", "Support"],
+    ourTeams: 'Our Teams',
+    team_members: ['Engineering', 'Marketing', 'Sales', 'Support'],
 
     // Approach
-    ourApproach: "Our Solution",
+    ourApproach: 'Our Solution',
     ourApproach_subtitle:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
 
     // Product Detail Page
-    product_not_found: "Product not found",
-    back_to_home: "Back to Home",
-    contact_sales: "Contact Sales",
-    explore_our_products: "Explore our product range",
-    features: "Features",
-    compatibility: "Compatibility",
+    product_not_found: 'Product not found',
+    back_to_home: 'Back to Home',
+    contact_sales: 'Contact Sales',
+    explore_our_products: 'Explore our product range',
+    features: 'Features',
+    compatibility: 'Compatibility',
 
     // PRINCIPLE
-    principle_title: "Principles of Partnership",
+    principle_title: 'Principles of Partnership',
     principle_subtitle:
-      "Jovision is committed to empowering our global partners with long-term collaboration, transparency, and growth opportunities.",
+      'Jovision is committed to empowering our global partners with long-term collaboration, transparency, and growth opportunities.',
 
     principle_items: [
       {
-        title: "Brand Use",
+        title: 'Brand Use',
         subtitle:
-          "Rights to use, distribute, and market under the Jovision brand in your region.",
+          'Rights to use, distribute, and market under the Jovision brand in your region.',
       },
       {
-        title: "Dealership Guarantee",
+        title: 'Dealership Guarantee',
         subtitle:
-          "Guarantees exclusive distribution for the region or specific models according to signed contracts.",
+          'Guarantees exclusive distribution for the region or specific models according to signed contracts.',
       },
       {
-        title: "Credit Support",
+        title: 'Credit Support',
         subtitle:
-          "Provides credit support to help partners manage cash flow under insurance protection.",
+          'Provides credit support to help partners manage cash flow under insurance protection.',
       },
       {
-        title: "Marketing Support",
+        title: 'Marketing Support',
         subtitle:
-          "Access to marketing materials, social media content, seminars, and exhibition resources.",
+          'Access to marketing materials, social media content, seminars, and exhibition resources.',
       },
       {
-        title: "Technical Support",
+        title: 'Technical Support',
         subtitle:
-          "Receive direct technical support and professional training from Jovision engineers.",
+          'Receive direct technical support and professional training from Jovision engineers.',
       },
       {
-        title: "Sales Lead Support",
+        title: 'Sales Lead Support',
         subtitle:
-          "Partners receive direct leads and inquiries from Jovision global marketing.",
+          'Partners receive direct leads and inquiries from Jovision global marketing.',
       },
       {
-        title: "Project Support",
+        title: 'Project Support',
         subtitle:
-          "Assistance with topological design and model recommendations for partner projects.",
+          'Assistance with topological design and model recommendations for partner projects.',
       },
       {
-        title: "New Products & Technology",
+        title: 'New Products & Technology',
         subtitle:
-          "Priority access to test Jovision’s latest products and emerging technologies.",
+          'Priority access to test Jovision’s latest products and emerging technologies.',
       },
     ],
 
@@ -94,12 +94,12 @@ export const translations = {
     //      ABOUT PAGE (SAFE)
     // ============================
     aboutPage: {
-      aboutUs_title: "About Us",
-      aboutUs_subtitle: "Who We Are",
+      aboutUs_title: 'About Us',
+      aboutUs_subtitle: 'Who We Are',
       aboutUs_desc:
-        "PT Transforme Indonesia is the leading provider of end-to-end information technology solution to business corporations in Indonesia. Our creative solution combines the leverage of cutting edge technology and business process reengineering expertise in exploiting opportunities to create values to maximize the profit of our clients.",
+        'PT Transforme Indonesia is the leading provider of end-to-end information technology solution to business corporations in Indonesia. Our creative solution combines the leverage of cutting edge technology and business process reengineering expertise in exploiting opportunities to create values to maximize the profit of our clients.',
 
-      vision_mission_title: "Vision & Mission",
+      vision_mission_title: 'Vision & Mission',
       vision_mission_desc:
         '"To create, exploit, and deliver maximum values to our clients by leveraging the cutting edge technology solution through passion, dedication, and excellence."',
     },
@@ -108,62 +108,69 @@ export const translations = {
     //  SERVICE / SOLUTION SECTION
     // ============================
     services: {
-      ai_title: "AI & Analytics",
-      ai_sub: "Machine learning, data intelligence, automation systems.",
+      ai_title: 'AI & Analytics',
+      ai_sub: 'Machine learning, data intelligence, automation systems.',
 
-      iot_title: "IoT & Infrastructure",
-      iot_sub: "Devices, connectivity, hardware integration and monitoring.",
+      iot_title: 'IoT & Infrastructure',
+      iot_sub: 'Devices, connectivity, hardware integration and monitoring.',
 
-      software_title: "Software Development",
-      software_sub: "Custom apps, enterprise systems, cloud services.",
+      software_title: 'Software Development',
+      software_sub: 'Custom apps, enterprise systems, cloud services.',
 
-      smarthome_title: "Smart Home & Security",
-      smarthome_sub: "CCTV, biometrics, smart devices, access control.",
+      smarthome_title: 'Smart Home & Security',
+      smarthome_sub: 'CCTV, biometrics, smart devices, access control.',
     },
 
     // wa confirm message
-    confirm_whatsapp: "Confirm via WhatsApp",
+    confirm_whatsapp: 'Confirm via WhatsApp',
 
     wa_confirm_message:
-      "Hello, I would like to request confirmation regarding the following product:\n\n📦 Product Name: {product}\n\nPlease provide more information about specifications, availability, and ordering procedures.\n\nThank you.",
+      'Hello, I would like to request confirmation regarding the following product:\n\n📦 Product Name: {product}\n\nPlease provide more information about specifications, availability, and ordering procedures.\n\nThank you.',
 
     //
     contactPage: {
-      title1: "Are you looking for a trustworthy Transforme reseller?",
+      title1: 'Are you looking for a trustworthy Transforme reseller?',
       subtitle1:
-        "Contact our team to obtain official information about products, solutions, and licensed Transforme resellers available in your region.",
+        'Contact our team to obtain official information about products, solutions, and licensed Transforme resellers available in your region.',
 
       title2:
-        "Are you a business representative interested in the latest smart home & building automation solutions?",
+        'Are you a business representative interested in the latest smart home & building automation solutions?',
       subtitle2:
-        "Our team is ready to assist you in designing security, access, and automation solutions tailored to your company’s needs.",
+        'Our team is ready to assist you in designing security, access, and automation solutions tailored to your company’s needs.',
 
-      form_name: "Name",
-      form_email: "Email",
-      form_company: "Company",
-      form_message: "Message",
-      form_send: "Send Message",
+      form_name: 'Name',
+      form_email: 'Email',
+      form_company: 'Company',
+      form_message: 'Message',
+      form_send: 'Send Message',
 
-      location_title: "Our Location",
+      location_title: 'Our Location',
 
-      info_title: "Information",
+      info_title: 'Information',
 
       info_text1:
-        "Email, call, or complete the form to learn how Transforme can help solve your security and automation challenges.",
-      info_email: "info@transforme.com",
-      info_phone: "021 1679 0921",
+        'Email, call, or complete the form to learn how Transforme can help solve your security and automation challenges.',
+      info_email: 'info@transforme.com',
+      info_phone: '021 1679 0921',
 
-      info_support_title: "Customer Support",
+      info_support_title: 'Customer Support',
       info_support_desc:
-        "Our support team is ready to assist you with technical issues, product guidance, troubleshooting, and after-sales service.",
+        'Our support team is ready to assist you with technical issues, product guidance, troubleshooting, and after-sales service.',
 
-      info_feedback_title: "Feedback & Suggestions",
+      info_feedback_title: 'Feedback & Suggestions',
       info_feedback_desc:
-        "We welcome your feedback to help us improve our products, services, and customer experience.",
+        'We welcome your feedback to help us improve our products, services, and customer experience.',
 
-      info_media_title: "Media Inquiries",
+      info_media_title: 'Media Inquiries',
       info_media_desc:
-        "For interviews, press releases, media collaboration, or publication requests, please contact our media relations team.",
+        'For interviews, press releases, media collaboration, or publication requests, please contact our media relations team.',
+    },
+    learnMorePage: {
+      details: 'Details',
+      portfolio: 'Portfolio',
+      team: 'Our Team',
+      overview: 'Overview',
+      category: 'Category',
     },
   },
 
@@ -171,93 +178,93 @@ export const translations = {
   //                           INDONESIA
   // ================================================================
   id: {
-    company: "PT Transforme",
-    home: "Beranda",
-    about: "Tentang",
-    product: "Produk",
-    solution: "Solusi",
-    contact: "Kontak",
-    partners: "Prinsip",
-    corporate: "Cerita Sukses",
-    helpResources: "Bantuan & Sumber Daya",
+    company: 'PT Transforme',
+    home: 'Beranda',
+    about: 'Tentang',
+    product: 'Produk',
+    solution: 'Solusi',
+    contact: 'Kontak',
+    partners: 'Prinsip',
+    corporate: 'Cerita Sukses',
+    helpResources: 'Bantuan & Sumber Daya',
 
     footer_desc:
-      "Solusi keamanan digital & akses — CCTV, biometrik, sidik jari, telapak tangan, dan lainnya.",
-    footer_links: "Tautan",
-    footer_contact: "Kontak",
-    footer_subscribe: "Berlangganan",
-    subscribe_placeholder: "Masukkan email Anda",
-    subscribe_btn: "Berlangganan",
-    subscribed_message: "Berhasil berlangganan — terima kasih!",
-    rights_reserved: "Seluruh hak cipta dilindungi.",
+      'Solusi keamanan digital & akses — CCTV, biometrik, sidik jari, telapak tangan, dan lainnya.',
+    footer_links: 'Tautan',
+    footer_contact: 'Kontak',
+    footer_subscribe: 'Berlangganan',
+    subscribe_placeholder: 'Masukkan email Anda',
+    subscribe_btn: 'Berlangganan',
+    subscribed_message: 'Berhasil berlangganan — terima kasih!',
+    rights_reserved: 'Seluruh hak cipta dilindungi.',
 
     // Main
-    title_main: "Transforme Indonesia",
-    description_main: "Solusi kebutuhan digital Anda.",
-    more_info: "Selengkapnya",
+    title_main: 'Transforme Indonesia',
+    description_main: 'Solusi kebutuhan digital Anda.',
+    more_info: 'Selengkapnya',
 
     // Teams
-    ourTeams: "Tim Kami",
-    team_members: ["Teknik", "Pemasaran", "Penjualan", "Dukungan"],
+    ourTeams: 'Tim Kami',
+    team_members: ['Teknik', 'Pemasaran', 'Penjualan', 'Dukungan'],
 
     // Approach
-    ourApproach: "Solusi Kami",
+    ourApproach: 'Solusi Kami',
     ourApproach_subtitle:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
 
     // Product Detail Page
-    product_not_found: "Produk tidak ditemukan",
-    back_to_home: "Kembali ke Beranda",
-    contact_sales: "Hubungi Penjualan",
-    explore_our_products: "Jelajahi produk kami",
-    features: "Fitur",
-    compatibility: "Kompatibilitas",
+    product_not_found: 'Produk tidak ditemukan',
+    back_to_home: 'Kembali ke Beranda',
+    contact_sales: 'Hubungi Penjualan',
+    explore_our_products: 'Jelajahi produk kami',
+    features: 'Fitur',
+    compatibility: 'Kompatibilitas',
 
     // PRINCIPLE
-    principle_title: "Prinsip Kemitraan",
+    principle_title: 'Prinsip Kemitraan',
     principle_subtitle:
-      "Jovision berkomitmen untuk memberdayakan mitra global kami melalui kolaborasi jangka panjang, transparansi, dan peluang pertumbuhan.",
+      'Jovision berkomitmen untuk memberdayakan mitra global kami melalui kolaborasi jangka panjang, transparansi, dan peluang pertumbuhan.',
 
     principle_items: [
       {
-        title: "Penggunaan Merek",
+        title: 'Penggunaan Merek',
         subtitle:
-          "Hak untuk menggunakan, mendistribusikan, dan memasarkan di bawah merek Jovision di wilayah Anda.",
+          'Hak untuk menggunakan, mendistribusikan, dan memasarkan di bawah merek Jovision di wilayah Anda.',
       },
       {
-        title: "Jaminan Dealer",
+        title: 'Jaminan Dealer',
         subtitle:
-          "Menjamin distribusi eksklusif untuk wilayah atau model tertentu sesuai kontrak yang ditandatangani.",
+          'Menjamin distribusi eksklusif untuk wilayah atau model tertentu sesuai kontrak yang ditandatangani.',
       },
       {
-        title: "Dukungan Kredit",
+        title: 'Dukungan Kredit',
         subtitle:
-          "Memberikan dukungan kredit untuk membantu mitra mengelola arus kas dengan perlindungan asuransi.",
+          'Memberikan dukungan kredit untuk membantu mitra mengelola arus kas dengan perlindungan asuransi.',
       },
       {
-        title: "Dukungan Pemasaran",
+        title: 'Dukungan Pemasaran',
         subtitle:
-          "Akses ke materi pemasaran, konten media sosial, seminar, dan sumber daya pameran.",
+          'Akses ke materi pemasaran, konten media sosial, seminar, dan sumber daya pameran.',
       },
       {
-        title: "Dukungan Teknis",
+        title: 'Dukungan Teknis',
         subtitle:
-          "Mendapatkan dukungan teknis langsung dan pelatihan profesional dari insinyur Jovision.",
+          'Mendapatkan dukungan teknis langsung dan pelatihan profesional dari insinyur Jovision.',
       },
       {
-        title: "Dukungan Penjualan",
+        title: 'Dukungan Penjualan',
         subtitle:
-          "Mitra menerima prospek dan permintaan langsung dari pemasaran global Jovision.",
+          'Mitra menerima prospek dan permintaan langsung dari pemasaran global Jovision.',
       },
       {
-        title: "Dukungan Proyek",
+        title: 'Dukungan Proyek',
         subtitle:
-          "Bantuan dalam desain topologi dan rekomendasi model untuk proyek mitra.",
+          'Bantuan dalam desain topologi dan rekomendasi model untuk proyek mitra.',
       },
       {
-        title: "Produk & Teknologi Baru",
+        title: 'Produk & Teknologi Baru',
         subtitle:
-          "Prioritas untuk menguji produk terbaru dan teknologi inovatif dari Jovision.",
+          'Prioritas untuk menguji produk terbaru dan teknologi inovatif dari Jovision.',
       },
     ],
 
@@ -265,12 +272,12 @@ export const translations = {
     //      ABOUT PAGE (SAFE)
     // ============================
     aboutPage: {
-      aboutUs_title: "Tentang Kami",
-      aboutUs_subtitle: "Siapa Kami",
+      aboutUs_title: 'Tentang Kami',
+      aboutUs_subtitle: 'Siapa Kami',
       aboutUs_desc:
-        "PT Transforme Indonesia adalah penyedia solusi teknologi informasi end-to-end terkemuka bagi perusahaan bisnis di Indonesia. Solusi kreatif kami menggabungkan pemanfaatan teknologi mutakhir dan rekayasa ulang proses bisnis untuk menciptakan nilai guna memaksimalkan keuntungan klien kami.",
+        'PT Transforme Indonesia adalah penyedia solusi teknologi informasi end-to-end terkemuka bagi perusahaan bisnis di Indonesia. Solusi kreatif kami menggabungkan pemanfaatan teknologi mutakhir dan rekayasa ulang proses bisnis untuk menciptakan nilai guna memaksimalkan keuntungan klien kami.',
 
-      vision_mission_title: "Visi & Misi",
+      vision_mission_title: 'Visi & Misi',
       vision_mission_desc:
         '"Menciptakan, memanfaatkan, dan memberikan nilai maksimal kepada klien kami dengan memanfaatkan solusi teknologi mutakhir melalui semangat, dedikasi, dan keunggulan."',
     },
@@ -279,61 +286,68 @@ export const translations = {
     //   SERVICE / SOLUTION SECTION
     // ============================
     services: {
-      ai_title: "AI & Analitik",
-      ai_sub: "Machine learning, data intelligence, sistem otomatisasi.",
+      ai_title: 'AI & Analitik',
+      ai_sub: 'Machine learning, data intelligence, sistem otomatisasi.',
 
-      iot_title: "IoT & Infrastruktur",
-      iot_sub: "Perangkat, konektivitas, integrasi hardware dan monitoring.",
+      iot_title: 'IoT & Infrastruktur',
+      iot_sub: 'Perangkat, konektivitas, integrasi hardware dan monitoring.',
 
-      software_title: "Pengembangan Software",
-      software_sub: "Aplikasi custom, sistem enterprise, layanan cloud.",
+      software_title: 'Pengembangan Software',
+      software_sub: 'Aplikasi custom, sistem enterprise, layanan cloud.',
 
-      smarthome_title: "Smart Home & Keamanan",
-      smarthome_sub: "CCTV, biometrik, perangkat pintar, kontrol akses.",
+      smarthome_title: 'Smart Home & Keamanan',
+      smarthome_sub: 'CCTV, biometrik, perangkat pintar, kontrol akses.',
     },
 
     // Cantact page
     //wa confirm message
-    confirm_whatsapp: "Konfirmasi via WhatsApp",
+    confirm_whatsapp: 'Konfirmasi via WhatsApp',
 
     wa_confirm_message:
-      "Halo, saya ingin melakukan konfirmasi terkait produk berikut:\n\n📦 Nama Produk: {product}\n\nMohon informasi lebih lanjut mengenai spesifikasi, ketersediaan barang, dan prosedur pemesanan.\n\nTerima kasih.",
+      'Halo, saya ingin melakukan konfirmasi terkait produk berikut:\n\n📦 Nama Produk: {product}\n\nMohon informasi lebih lanjut mengenai spesifikasi, ketersediaan barang, dan prosedur pemesanan.\n\nTerima kasih.',
     contactPage: {
-      title1: "Apakah Anda mencari reseller Transforme yang terpercaya?",
+      title1: 'Apakah Anda mencari reseller Transforme yang terpercaya?',
       subtitle1:
-        "Hubungi tim kami untuk mendapatkan informasi resmi mengenai produk, solusi, dan rekomendasi reseller berlisensi Transforme di wilayah Anda.",
+        'Hubungi tim kami untuk mendapatkan informasi resmi mengenai produk, solusi, dan rekomendasi reseller berlisensi Transforme di wilayah Anda.',
 
       title2:
-        "Apakah Anda perwakilan bisnis yang tertarik dengan solusi smart home & building automation terbaru?",
+        'Apakah Anda perwakilan bisnis yang tertarik dengan solusi smart home & building automation terbaru?',
       subtitle2:
-        "Tim kami siap membantu Anda merancang solusi keamanan, akses, dan otomasi bangunan yang sesuai dengan kebutuhan perusahaan Anda.",
+        'Tim kami siap membantu Anda merancang solusi keamanan, akses, dan otomasi bangunan yang sesuai dengan kebutuhan perusahaan Anda.',
 
-      form_name: "Nama",
-      form_email: "Email",
-      form_company: "Perusahaan",
-      form_message: "Pesan",
-      form_send: "Kirim Pesan",
+      form_name: 'Nama',
+      form_email: 'Email',
+      form_company: 'Perusahaan',
+      form_message: 'Pesan',
+      form_send: 'Kirim Pesan',
 
-      location_title: "Lokasi Kami",
+      location_title: 'Lokasi Kami',
 
-      info_title: "Informasi",
+      info_title: 'Informasi',
 
       info_text1:
-        "Email, telepon, atau isi formulir untuk mengetahui bagaimana Transforme dapat membantu menyelesaikan kebutuhan keamanan dan otomasi Anda.",
-      info_email: "info@transforme.com",
-      info_phone: "021 1679 0921",
+        'Email, telepon, atau isi formulir untuk mengetahui bagaimana Transforme dapat membantu menyelesaikan kebutuhan keamanan dan otomasi Anda.',
+      info_email: 'info@transforme.com',
+      info_phone: '021 1679 0921',
 
-      info_support_title: "Dukungan Pelanggan",
+      info_support_title: 'Dukungan Pelanggan',
       info_support_desc:
-        "Tim dukungan kami siap membantu menyelesaikan masalah teknis, panduan produk, troubleshooting, dan layanan purna jual.",
+        'Tim dukungan kami siap membantu menyelesaikan masalah teknis, panduan produk, troubleshooting, dan layanan purna jual.',
 
-      info_feedback_title: "Masukan & Saran",
+      info_feedback_title: 'Masukan & Saran',
       info_feedback_desc:
-        "Kami sangat menghargai masukan Anda dalam meningkatkan produk, layanan, dan pengalaman pelanggan kami.",
+        'Kami sangat menghargai masukan Anda dalam meningkatkan produk, layanan, dan pengalaman pelanggan kami.',
 
-      info_media_title: "Permintaan Media",
+      info_media_title: 'Permintaan Media',
       info_media_desc:
-        "Untuk wawancara, rilis pers, kerja sama media, atau permintaan publikasi, silakan hubungi tim hubungan media kami.",
+        'Untuk wawancara, rilis pers, kerja sama media, atau permintaan publikasi, silakan hubungi tim hubungan media kami.',
+    },
+    learnMorePage: {
+      details: 'Detail',
+      portfolio: 'Portofolio',
+      team: 'Tim',
+      overview: 'Ringkasan',
+      category: 'Kategori',
     },
   },
 };

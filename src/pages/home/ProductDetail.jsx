@@ -1,18 +1,18 @@
-import React, { useEffect, useState } from "react";
-import { useParams, useNavigate } from "react-router-dom";
+import React, { useEffect, useState } from 'react';
+import { useParams, useNavigate } from 'react-router-dom';
 
-import productsFlat from "../../../public/data/products_flat/index.json";
-import detailProducts from "../../../public/data/detail_product/index.json";
+import productsFlat from '../../../public/data/products_flat/index.json';
+import detailProducts from '../../../public/data/detail_product/index.json';
 
-import { useI18n } from "../../i18n/I18nProvider";
-import GlobalButton from "../../components/GlobalButton";
-import GlobalCard3d from "../../components/GlobalCard3d";
-import FeatureItem from "../../components/FeatureItem";
+import { useI18n } from '../../i18n/I18nProvider';
+import GlobalButton from '../../components/GlobalButton';
+import GlobalCard3d from '../../components/GlobalCard3d';
+import FeatureItem from '../../components/FeatureItem';
 
-import { Wifi, Bluetooth, Rss, X } from "lucide-react";
-import { motion, AnimatePresence } from "framer-motion";
-import ProductSection from "./ProductSection";
-import GlobalLoading from "../../components/GlobalLoading";
+import { Wifi, Bluetooth, Rss, X } from 'lucide-react';
+import { motion, AnimatePresence } from 'framer-motion';
+import ProductSection from './ProductSection';
+import GlobalLoading from '../../components/GlobalLoading';
 
 export default function ProductDetail() {
   const { id } = useParams();
@@ -23,7 +23,7 @@ export default function ProductDetail() {
 
   useEffect(() => {
     setLoading(true);
-    window.scrollTo({ top: 0, behavior: "smooth" });
+    window.scrollTo({ top: 0, behavior: 'smooth' });
 
     // simulate loading delay
     const timer = setTimeout(() => {
@@ -56,10 +56,10 @@ export default function ProductDetail() {
   if (!product) {
     return (
       <div className="max-w-7xl mx-auto px-6 py-10 md:py-16 text-center text-gray-500">
-        {translate("Product not found")}
+        {translate('Product not found')}
         <br />
-        <GlobalButton onClick={() => navigate("/product")} className="mt-4">
-          ← {translate("Back")}
+        <GlobalButton onClick={() => navigate('/product')} className="mt-4">
+          ← {translate('Back')}
         </GlobalButton>
       </div>
     );
@@ -68,33 +68,33 @@ export default function ProductDetail() {
   if (!detail) {
     return (
       <div className="max-w-7xl mx-auto px-6 py-10 md:py-16 text-center text-gray-500">
-        {translate("Product detail not found")}
+        {translate('Product detail not found')}
         <br />
-        <GlobalButton onClick={() => navigate("/product")} className="mt-4">
-          ← {translate("Back")}
+        <GlobalButton onClick={() => navigate('/product')} className="mt-4">
+          ← {translate('Back')}
         </GlobalButton>
       </div>
     );
   }
 
   // Localized fields
-  const name = lang === "id" ? product.name_id : product.name_en;
+  const name = lang === 'id' ? product.name_id : product.name_en;
   const introduction =
-    lang === "id" ? detail.introduction_id : detail.introduction_en;
-  const features = lang === "id" ? detail.features_id : detail.features_en;
-  const parameters = lang === "id" ? detail.parameter_id : detail.parameter_en;
+    lang === 'id' ? detail.introduction_id : detail.introduction_en;
+  const features = lang === 'id' ? detail.features_id : detail.features_en;
+  const parameters = lang === 'id' ? detail.parameter_id : detail.parameter_en;
   const descript =
-    lang === "id" ? detail?.description_id : detail.description_en;
+    lang === 'id' ? detail?.description_id : detail.description_en;
 
   const sendWhatsappConfirm = () => {
-    const phone = "6281993434837";
+    const phone = '6281993434837';
     const productName = name;
 
     // Ambil template dari translation & inject nama produk
-    const message = t.wa_confirm_message.replace("{product}", productName);
+    const message = t.wa_confirm_message.replace('{product}', productName);
 
     const waUrl = `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
-    window.open(waUrl, "_blank");
+    window.open(waUrl, '_blank');
   };
 
   return (
@@ -166,7 +166,7 @@ export default function ProductDetail() {
 
                   <section
                     className="
-    mb-10 
+mb-10 
     text-gray-700 dark:text-gray-300 
     leading-relaxed 
     text-justify 
@@ -176,13 +176,13 @@ export default function ProductDetail() {
     [&>p:first-child]:indent-8
   "
                   >
-                    {introduction || translate("No introduction available.")}
+                    {introduction || translate('No introduction available.')}
                   </section>
 
                   {/* FEATURES */}
                   <section>
                     <h2 className="text-2xl font-semibold mb-6 border-b border-gray-300 dark:border-gray-700 pb-3">
-                      {translate("Features")}
+                      {translate('Features')}
                     </h2>
 
                     {features && features.length > 0 ? (
@@ -193,7 +193,7 @@ export default function ProductDetail() {
                       </ul>
                     ) : (
                       <p className="text-gray-500 italic">
-                        {translate("No features listed.")}
+                        {translate('No features listed.')}
                       </p>
                     )}
                   </section>
@@ -203,11 +203,11 @@ export default function ProductDetail() {
                     <div className="flex flex-col sm:flex-row items-center gap-4 w-full">
                       {/* WhatsApp Button */}
                       <GlobalButton
-                        onClick={() => navigate("/product")}
+                        onClick={() => navigate('/product')}
                         size="medium"
                         className="text-sm font-semibold py-3 px-8 shadow-lg hover:shadow-xl transition w-full sm:w-auto"
                       >
-                        ← {translate("Back")}
+                        ← {translate('Back')}
                       </GlobalButton>
                       {/* Show Parameters */}
                       <GlobalButton
@@ -215,7 +215,7 @@ export default function ProductDetail() {
                         size="medium"
                         className="text-sm font-semibold py-3 px-8 shadow-lg hover:shadow-xl transition w-full sm:w-auto"
                       >
-                        {translate("Show Parameters")}
+                        {translate('Show Parameters')}
                       </GlobalButton>
                     </div>
                   </div>
@@ -233,24 +233,24 @@ export default function ProductDetail() {
             <AnimatePresence>
               {sidebarOpen && (
                 <motion.aside
-                  initial={{ x: "100%" }}
+                  initial={{ x: '100%' }}
                   animate={{ x: 0 }}
-                  exit={{ x: "100%" }}
-                  transition={{ type: "spring", stiffness: 300, damping: 30 }}
+                  exit={{ x: '100%' }}
+                  transition={{ type: 'spring', stiffness: 300, damping: 30 }}
                   className="
                 fixed top-0 right-0 h-full bg-white dark:bg-neutral-900
                 shadow-2xl z-50 w-full md:w-4/12 flex flex-col
               "
-                  style={{ boxShadow: "rgba(0,0,0,0.4) 0px 0px 30px" }}
+                  style={{ boxShadow: 'rgba(0,0,0,0.4) 0px 0px 30px' }}
                 >
                   <div className="flex justify-between items-center p-6 border-b border-gray-200 dark:border-gray-700">
                     <h3 className="text-xl font-bold text-gray-900 dark:text-gray-100 tracking-wide">
-                      {translate("Parameters")}
+                      {translate('Parameters')}
                     </h3>
 
                     <button
                       onClick={() => setSidebarOpen(false)}
-                      aria-label={translate("Close Parameters")}
+                      aria-label={translate('Close Parameters')}
                       className="p-2 rounded-md hover:bg-gray-200 dark:hover:bg-gray-700 transition"
                     >
                       <X size={24} />
@@ -289,7 +289,7 @@ export default function ProductDetail() {
                       </div>
                     ) : (
                       <p className="italic text-gray-500">
-                        {translate("No parameters available.")}
+                        {translate('No parameters available.')}
                       </p>
                     )}
                   </div>
