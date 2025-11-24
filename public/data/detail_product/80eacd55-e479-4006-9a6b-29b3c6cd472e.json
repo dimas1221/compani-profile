@@ -1,0 +1,108 @@
+{
+  "introduction_id": "Intelligent Lock Tracker adalah perangkat yang digunakan untuk pengawasan barang secara real-time dalam status transportasi transit. Perangkat ini mengadopsi desain slot kartu SIM ganda dan dilengkapi modul pemosisian mode ganda untuk mencapai pemosisian yang akurat, komunikasi real-time, serta pelacakan dan pemosisian otomatis. Selain itu, perangkat ini juga memiliki fungsi perekaman data satu-buta berkapasitas besar, yang secara otomatis menyimpan data lokal ketika perangkat berada di zona buta jaringan, sehingga tidak ada titik mati pengawasan. Melalui manajemen backstage, perangkat ini dapat mengelola terminal pengawasan cerdas seperti pengawasan online, pemutaran ulang trek, pengalihan dan penguncian jarak jauh, serta status real-time, dll. Perangkat ini memiliki baterai internal 15000mAh, yang memenuhi persyaratan untuk pengawasan transportasi kargo selama transit dalam berbagai skenario.",
+  "product_id": "624f8b36-d3bb-4b43-9fc7-830a77e9042a",
+  "features_en": [
+    "Large-Capacity Storage",
+    "Wireless Mutual Transmission",
+    "Dual SIM",
+    "Ultra-long Battery Life",
+    "Vibration Sensing Detection",
+    "Strong Adsorption"
+  ],
+  "description_en": "The Intelligent Lock Tracker is a device used for real-time supervision of goods in transit transport status. The device adopts dual SIM card slot design, equipped with dual-mode positioning module to achieve accurate positioning, real-time communication, automatic tracking and positioning. At the same time, it has the function of large-capacity blind one data recording, which automatically stores local data when the device is in the blind zone of the network, so there is no dead corner of supervision. Through the management backstage, it can achieve the management of the intelligent supervision terminal such as on-line supervision, track replay, remote switching and locking and real-time status, etc. The device has a built-in 15000mAh battery, which meets the requirements for in-transit supervision of cargo transport in multiple scenarios.",
+  "introduction_en": "The Intelligent Lock Tracker is a device used for real-time supervision of goods in transit transport status. The device adopts dual SIM card slot design, equipped with dual-mode positioning module to achieve accurate positioning, real-time communication, automatic tracking and positioning. At the same time, it has the function of large-capacity blind one data recording, which automatically stores local data when the device is in the blind zone of the network, so there is no dead corner of supervision. Through the management backstage, it can achieve the management of the intelligent supervision terminal such as on-line supervision, track replay, remote switching and locking and real-time status, etc. The device has a built-in 15000mAh battery, which meets the requirements for in-transit supervision of cargo transport in multiple scenarios.",
+  "parameter_id": [
+    {
+      "label": "Model  ",
+      "value": "MVCM5110*"
+    },
+    {
+      "label": "Metode Pemosisian  ",
+      "value": "GPS/BDS"
+    },
+    {
+      "label": "Mode Komunikasi  ",
+      "value": "4G/Bluetooth/RFID/NFC"
+    },
+    {
+      "label": "Metode Pembukaan Kunci  ",
+      "value": "Latar Belakang/Bluetooth/RFID/NFC/APP"
+    },
+    {
+      "label": "Kapasitas Baterai  ",
+      "value": "15000mAh"
+    },
+    {
+      "label": "Daya Tahan Baterai  ",
+      "value": "Siaga unggah data 1 menit/sub sekitar 15 hari; siaga unggah data 1 jam/waktu sekitar 30 hari"
+    },
+    {
+      "label": "Peringkat IP ",
+      "value": " IP67"
+    },
+    {
+      "label": "Suhu Operasional  ",
+      "value": "-30°C~70°C"
+    },
+    {
+      "label": "Metode Pengisian Daya  ",
+      "value": "DC 5V"
+    },
+    {
+      "label": "Ukuran Bodi Kunci  ",
+      "value": "193,5mm*107mm*39,5mm"
+    }
+  ],
+  "id": "80eacd55-e479-4006-9a6b-29b3c6cd472e",
+  "features_id": [
+    "Penyimpanan Berkapasitas Besar",
+    "Transmisi Nirkabel Bersama",
+    "SIM Ganda",
+    "Daya Tahan Baterai Ultra Panjang",
+    "Deteksi Getaran",
+    "Adsorpsi Kuat"
+  ],
+  "description_id": "Intelligent Lock Tracker adalah perangkat yang digunakan untuk pengawasan barang secara real-time dalam status transportasi transit. Perangkat ini mengadopsi desain slot kartu SIM ganda dan dilengkapi modul pemosisian mode ganda untuk mencapai pemosisian yang akurat, komunikasi real-time, serta pelacakan dan pemosisian otomatis. Selain itu, perangkat ini juga memiliki fungsi perekaman data satu-buta berkapasitas besar, yang secara otomatis menyimpan data lokal ketika perangkat berada di zona buta jaringan, sehingga tidak ada titik mati pengawasan. Melalui manajemen backstage, perangkat ini dapat mengelola terminal pengawasan cerdas seperti pengawasan online, pemutaran ulang trek, pengalihan dan penguncian jarak jauh, serta status real-time, dll. Perangkat ini memiliki baterai internal 15000mAh, yang memenuhi persyaratan untuk pengawasan transportasi kargo selama transit dalam berbagai skenario.",
+  "parameter_en": [
+    {
+      "label": "Model  ",
+      "value": "MVCM5110*"
+    },
+    {
+      "label": "Positioning Method  ",
+      "value": "GPS/BDS"
+    },
+    {
+      "label": "Communication Mode  ",
+      "value": "4G/Bluetooth/RFID/NFC"
+    },
+    {
+      "label": "Unlocking Method  ",
+      "value": "Background/Bluetooth/RFID/NFC/APP"
+    },
+    {
+      "label": "Battery Capacity  ",
+      "value": "15000mAh"
+    },
+    {
+      "label": "Battery Life ",
+      "value": " 1min/sub data upload standby about 15 days; 1hour/time data upload standby about 30 days"
+    },
+    {
+      "label": "IP Rating  ",
+      "value": "IP67"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-30°C~70°C"
+    },
+    {
+      "label": "Charging Method",
+      "value": "DC 5V"
+    },
+    {
+      "label": "Lock Body Size  ",
+      "value": "193.5mm*107mm*39.5mm"
+    }
+  ]
+}
