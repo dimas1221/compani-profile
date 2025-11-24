@@ -1,0 +1,22 @@
+{
+  "id": "65b55d23-f995-4fb9-972f-5ab4c3c4d996",
+  "product_id": "ac621c72-b87a-4691-8680-37aa551a7a4d",
+  "introduction_en": "Truck Booking Management System is an intelligent application designed to efficiently manage and coordinate truck flow at port terminals. The system comprises a PC-based backend management platform and a mobile APP, effectively enabling workload distribution, mitigating gate congestion, and enhancing operational efficiency.",
+  "description_en": "Truck Booking Management System is an intelligent application designed to efficiently manage and coordinate truck flow at port terminals. The system comprises a PC-based backend management platform and a mobile APP, effectively enabling workload distribution, mitigating gate congestion, and enhancing operational efficiency.",
+  "introduction_id": "Sistem Manajemen Pemesanan Truk adalah aplikasi cerdas yang dirancang untuk mengelola dan mengoordinasikan arus truk di terminal pelabuhan secara efisien. Sistem ini terdiri dari platform manajemen backend berbasis PC dan aplikasi seluler, yang secara efektif memungkinkan distribusi beban kerja, mengurangi kemacetan gerbang, dan meningkatkan efisiensi operasional.",
+  "description_id": "Sistem Manajemen Pemesanan Truk adalah aplikasi cerdas yang dirancang untuk mengelola dan mengoordinasikan arus truk di terminal pelabuhan secara efisien. Sistem ini terdiri dari platform manajemen backend berbasis PC dan aplikasi seluler, yang secara efektif memungkinkan distribusi beban kerja, mengurangi kemacetan gerbang, dan meningkatkan efisiensi operasional.",
+  "features_en": [
+    "Digital Archiving",
+    "Optimized Resource Allocation",
+    "Staggered Scheduling",
+    "Cargo Pre-Screening",
+    "Real-Time Data Sharing"
+  ],
+  "features_id": [
+    "Pengarsipan Digital",
+    "Alokasi Sumber Daya yang Dioptimalkan",
+    "Penjadwalan Terjadwal",
+    "Pra-Pemeriksaan Kargo",
+    "Berbagi Data Real-Time"
+  ]
+}
