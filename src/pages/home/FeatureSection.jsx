@@ -23,7 +23,7 @@ export default function FeatureSection() {
   useEffect(() => {
     fetch('/data/features.json')
       .then((res) => res.json())
-      .then((data) => setFeatures(data));
+      .then((data) => setFeatures(data?.features || []));
   }, []);
 
   return (

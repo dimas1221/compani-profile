@@ -18,7 +18,7 @@ export default function LearnMorePage() {
     fetch('/data/features.json')
       .then((res) => res.json())
       .then((data) => {
-        const found = data.find((d) => d.id === Number(id));
+        const found = data?.features?.find((d) => d.id === Number(id));
         setItem(found || data[0]);
         window.scrollTo({ top: 0, behavior: 'smooth' });
       });
