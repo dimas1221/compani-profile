@@ -1,0 +1,230 @@
+{
+  "introduction_id": "Mesin ANPR All-in-one adalah solusi all-in-one bertenaga AI yang dirancang untuk mengidentifikasi pelat nomor dari berbagai negara secara akurat. Dilengkapi dengan algoritma pembelajaran mendalam (deep learning) yang tertanam, perangkat ini merekam dan menganalisis aliran video secara real-time untuk menghasilkan pengenalan yang cepat dan andal di berbagai format pelat.\nRingkas dan mudah digunakan, sistem ini ideal untuk kontrol akses kendaraan di kompleks perumahan, pusat perbelanjaan, sekolah, rumah sakit, bandara, kawasan industri, dan fasilitas parkir umum—memungkinkan manajemen lalu lintas yang lebih cerdas dan integrasi yang mulus ke dalam infrastruktur mobilitas modern.",
+  "product_id": "88ee28a3-f88e-413f-a7fc-97353b7d8736",
+  "features_en": [
+    "Accurately Recognize of Multinational License Plates",
+    "Intelligent Fill Light",
+    "-Adaptive Speed Capture",
+    "High Open Configuration Capability",
+    "Black and White List",
+    "Voice Broadcast",
+    "Real-time Video Surveillance"
+  ],
+  "description_en": "The ANPR All-in-one Machine is an Al-powered, all-in-one solution designed to accurately identify license plates from multiple countries. Equipped with embedded deep learning algorithms, the device captures and analyzes video streams in real time to deliver fast, reliable recognition across a wide range of plate formats.\nCompact and easy to deploy, the system is ideal for vehicle access control in residential complexes, shopping centers, schools, hospitals, airports, industrial parks, and public parking facilities-enabling smarter traffic management and seamless integration into modern mobility infrastructures.",
+  "introduction_en": "The ANPR All-in-one Machine is an Al-powered, all-in-one solution designed to accurately identify license plates from multiple countries. Equipped with embedded deep learning algorithms, the device captures and analyzes video streams in real time to deliver fast, reliable recognition across a wide range of plate formats.\nCompact and easy to deploy, the system is ideal for vehicle access control in residential complexes, shopping centers, schools, hospitals, airports, industrial parks, and public parking facilities-enabling smarter traffic management and seamless integration into modern mobility infrastructures.",
+  "parameter_id": [
+    {
+      "label": " 1.025 / 5.000 Tingkat Pengenalan Plat Nomor  ",
+      "value": "≥99%"
+    },
+    {
+      "label": "Rentang Kecepatan Kendaraan yang Didukung  ",
+      "value": "0~30Km/jam"
+    },
+    {
+      "label": "Sudut Pengambilan Kamera  ",
+      "value": "≤45°"
+    },
+    {
+      "label": "Resolusi Sensor  ",
+      "value": "5 MP HD CMOS"
+    },
+    {
+      "label": "Lensa  ",
+      "value": "Mendukung lensa zoom bermotor"
+    },
+    {
+      "label": "Format Gambar ",
+      "value": " JPEG"
+    },
+    {
+      "label": "Resolusi Gambar  ",
+      "value": "2880*1616"
+    },
+    {
+      "label": "Resolusi Video  ",
+      "value": "2880*1616/1920*1080/1280*720/720*576/640*480"
+    },
+    {
+      "label": "Kecepatan Bingkai Maksimum",
+      "value": "30fps (dapat disesuaikan)"
+    },
+    {
+      "label": "Standar Kompresi Video  ",
+      "value": "H.264/H.265Bitrate: 256Kbps - 8Mbps (dapat disesuaikan)"
+    },
+    {
+      "value": "Ketajaman, saturasi, kecerahan, kontras, rotasi gambar, rentang dinamis lebar (WDR) yang dapat disesuaikan, dll.",
+      "label": "Pengaturan Gambar"
+    },
+    {
+      "label": "Audio  ",
+      "value": "Mendukung siaran suara"
+    },
+    {
+      "label": "Antarmuka Jaringan  ",
+      "value": "1 x Ethernet 100M"
+    },
+    {
+      "label": "Keluaran Relai  ",
+      "value": "5"
+    },
+    {
+      "label": "Masukan Pemicu/Alarm  ",
+      "value": "8"
+    },
+    {
+      "label": "Antarmuka Serial  ",
+      "value": "2 x RS485"
+    },
+    {
+      "label": "Ukuran Layar LED  ",
+      "value": "304*152mm"
+    },
+    {
+      "label": "Resolusi Layar LED  ",
+      "value": "64*32"
+    },
+    {
+      "label": "Lampu Pengisi  ",
+      "value": "Iluminator cahaya putih internal"
+    },
+    {
+      "label": "Tegangan Operasional  ",
+      "value": "AC 220V/110V ±10%, 50~60 Hz"
+    },
+    {
+      "label": "Konsumsi Daya  ",
+      "value": "<40W"
+    },
+    {
+      "label": "Suhu & Kelembapan Operasional  ",
+      "value": "-40°C~+70°C, 5%~95%RH (Non-kondensasi)"
+    },
+    {
+      "label": "Peringkat IP  ",
+      "value": "IP54"
+    },
+    {
+      "label": "Metode Pemasangan  ",
+      "value": "Kabinet Ground Pemasangan"
+    },
+    {
+      "label": "Dimensi  ",
+      "value": "194mm (P) * 130mm (L) * 1340mm (T)"
+    }
+  ],
+  "id": "1a42c00e-ea22-4351-9ed1-263e17b403e6",
+  "features_id": [
+    "Mengenali Plat Nomor Multinasional Secara Akurat",
+    "Lampu Pengisi Cerdas",
+    "Pengambilan Kecepatan Adaptif",
+    "Kemampuan Konfigurasi Terbuka Tinggi",
+    "Daftar Hitam Putih",
+    "Siaran Suara",
+    "Pengawasan Video Real-Time"
+  ],
+  "description_id": "Mesin ANPR All-in-one adalah solusi all-in-one bertenaga AI yang dirancang untuk mengidentifikasi pelat nomor dari berbagai negara secara akurat. Dilengkapi dengan algoritma pembelajaran mendalam (deep learning) yang tertanam, perangkat ini merekam dan menganalisis aliran video secara real-time untuk menghasilkan pengenalan yang cepat dan andal di berbagai format pelat.\nRingkas dan mudah digunakan, sistem ini ideal untuk kontrol akses kendaraan di kompleks perumahan, pusat perbelanjaan, sekolah, rumah sakit, bandara, kawasan industri, dan fasilitas parkir umum—memungkinkan manajemen lalu lintas yang lebih cerdas dan integrasi yang mulus ke dalam infrastruktur mobilitas modern.",
+  "parameter_en": [
+    {
+      "label": "License Plate Recognition Rate  ",
+      "value": "≥99%"
+    },
+    {
+      "label": "Supported Vehicle Speed Range  ",
+      "value": "0~30Km/h"
+    },
+    {
+      "label": "Camera Capture Angle  ",
+      "value": "≤45°"
+    },
+    {
+      "label": "Sensor Resolution  ",
+      "value": "5 MP HD CMOS"
+    },
+    {
+      "label": "Lens  ",
+      "value": "Supports motorized zoom lens"
+    },
+    {
+      "label": "Image Format  ",
+      "value": "JPEG"
+    },
+    {
+      "label": "Image Resolution  ",
+      "value": "2880*1616"
+    },
+    {
+      "label": "Video Resolution  ",
+      "value": "2880*1616/1920*1080/1280*720/720*576/640*480"
+    },
+    {
+      "label": "Maximum Frame Rate  ",
+      "value": "30fps (adjustable)"
+    },
+    {
+      "label": "Video Compression Standard  ",
+      "value": "H.264/H.265Bitrate: 256Kbps - 8Mbps (adjustable)"
+    },
+    {
+      "label": "Image Settings",
+      "value": "Adjustable sharpness, saturation, brightness, contrast, image rotation, wide dynamic range (WDR), etc."
+    },
+    {
+      "label": "Audio  ",
+      "value": "Supports voice broadcast"
+    },
+    {
+      "label": "Network Interface  ",
+      "value": "1 x 100M Ethernet"
+    },
+    {
+      "label": "Relay Output  ",
+      "value": "5"
+    },
+    {
+      "label": "Trigger / Alarm Input  ",
+      "value": "8"
+    },
+    {
+      "label": "Serial Interface ",
+      "value": " 2 × RS485"
+    },
+    {
+      "label": "LED Display Size  ",
+      "value": "304*152mm"
+    },
+    {
+      "label": "LED Display Resolution  ",
+      "value": "64*32"
+    },
+    {
+      "label": "Fill Light  ",
+      "value": "Built-in white light illuminator"
+    },
+    {
+      "label": "Operating Voltage ",
+      "value": " AC 220V/110V ±10%, 50~60 Hz"
+    },
+    {
+      "label": "Power Consumption  ",
+      "value": "<40W"
+    },
+    {
+      "label": "Operating Temperature & Humidity  ",
+      "value": "-40°C~+70°C, 5%~95%RH (Non-condensing)"
+    },
+    {
+      "label": "IP Rating  ",
+      "value": "IP54"
+    },
+    {
+      "label": "Installation Method  ",
+      "value": "Ground Cabinet Mounting"
+    },
+    {
+      "label": "Dimensions  ",
+      "value": "194mm(L)*130mm(W)*1340mm(H)"
+    }
+  ]
+}
