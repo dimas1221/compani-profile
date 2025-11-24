@@ -2,11 +2,12 @@
   "principle_items": [
     {
       "id": "b8e2d1fa-0f21-4a81-9bf8-614923a0b111",
-      "image": "/images/uploads/36572f39ab3a712941461103b7381b13223df2c6.jpg",
-      "title_id": "Kampus Cerdas",
-      "subtitle_id": "Kampus Cerdas adalah platform inovatif yang mendukung pembelajaran interaktif dan pengelolaan pendidikan secara digital untuk meningkatkan kualitas pendidikan di perguruan tinggi",
-      "title_en": "Smart Campus",
-      "subtitle_en": "Smart Campus is an innovative platform that supports interactive learning and digital management of education to enhance the quality of higher education institutions."
+      "image": "/images/uploads/wuhan_theme.png",
+      "title_id": "Pusat Penelitian & Pengembangan",
+      "subtitle_id": "Pusat R&D yang mengkhususkan diri dalam AI dan IoT mempercepat inovasi dengan menciptakan sistem cerdas berbasis data yang menghubungkan perangkat pintar, mengotomatiskan proses, dan meningkatkan kinerja produk dan operasi di seluruh industri.",
+      "title_en": "R&D Center",
+      "subtitle_en": "An R&D Center specializing in AI and IoT accelerates innovation by creating intelligent, data-driven systems that connect smart devices, automate processes, and enhance the performance of products and operations across industries.",
+      "type": "Maxvision"
     },
     {
       "id": "c5a3cc22-9d98-492e-96f3-221bd7e51a12",
@@ -14,7 +15,8 @@
       "title_id": "Transportasi Cerdas",
       "subtitle_id": "Transportasi pintar menggunakan teknologi modern seperti sensor dan data waktu nyata untuk meningkatkan cara orang dan kendaraan bergerak",
       "title_en": "Smart Tranportation",
-      "subtitle_en": "Smart transportation uses modern technology like sensors and real-time data to improve how people and vehicles move"
+      "subtitle_en": "Smart transportation uses modern technology like sensors and real-time data to improve how people and vehicles move",
+      "type": "Maxvision"
     },
     {
       "id": "f91a423b-4fa9-4a55-8bce-76f0c19bb341",
@@ -22,7 +24,8 @@
       "title_id": "Pelabuhan Cerdas",
       "subtitle_id": "Smart Port adalah sistem pelabuhan modern yang memanfaatkan otomatisasi, data waktu nyata, sensor IoT, dan AI untuk mengoptimalkan operasi.",
       "title_en": "Smart Port",
-      "subtitle_en": "Smart Port is a modern port system that leverages automation, real-time data, IoT sensors, and AI to optimize operations."
+      "subtitle_en": "Smart Port is a modern port system that leverages automation, real-time data, IoT sensors, and AI to optimize operations.",
+      "type": "Maxvision"
     },
     {
       "id": "64c7ed95-9bdf-4d5e-a7bd-5b7f8f991910",
@@ -30,7 +33,8 @@
       "title_id": "Bandara Cerdas",
       "subtitle_id": "Bandara pintar adalah pusat penerbangan berteknologi canggih yang menggunakan sistem digital, otomatisasi, sensor IoT, AI, dan data waktu nyata.",
       "title_en": "Smart Airport",
-      "subtitle_en": "A smart airport is a technologically advanced aviation hub that uses digital systems, automation, IoT sensors, AI, and real-time data."
+      "subtitle_en": "A smart airport is a technologically advanced aviation hub that uses digital systems, automation, IoT sensors, AI, and real-time data.",
+      "type": "Jovision"
     },
     {
       "id": "3b6bc1a9-d2cb-4fb7-8bf8-bde80e815512",
@@ -38,7 +42,8 @@
       "title_id": "Robot Cerdas",
       "subtitle_id": "Robot pintar adalah mesin cerdas yang dilengkapi sensor yang menggunakan AI dan data waktu nyata untuk melakukan tugas secara mandiri, beradaptasi dengan lingkungannya, dan meningkatkan efisiensi dan keselamatan di berbagai aplikasi.",
       "title_en": "Smart Robot",
-      "subtitle_en": "A smart robot is an intelligent, sensor-equipped machine that uses AI and real-time data to perform tasks autonomously, adapt to its environment, and enhance efficiency and safety across various applications."
+      "subtitle_en": "A smart robot is an intelligent, sensor-equipped machine that uses AI and real-time data to perform tasks autonomously, adapt to its environment, and enhance efficiency and safety across various applications.",
+      "type": "Jovision"
     }
   ]
 }
