@@ -44,6 +44,15 @@
       "title_en": "ColorNext",
       "subtitle_en": "Jovision Full-Color series of cameras which are integrated with VQC technology to offer users 24/7 never-experienced Full-Color video quality. Jovision ColorNext Slogan: ColorNext, Your Next Generation of Full-Color.",
       "type": "Jovision"
+    },
+    {
+      "id": "18f80ef8-c66c-4a64-b909-3d1b4737345d",
+      "title_id": "AgiSense",
+      "title_en": "AgiSense",
+      "image": "/images/uploads/ai.png",
+      "type": "Jovision",
+      "subtitle_en": "Agile Sense. Jovision Al technology which detects the Human being only and provide much more accurate alarms.",
+      "subtitle_id": "Agile Sense. Teknologi Jovision AI yang hanya mendeteksi manusia dan memberikan alarm yang jauh lebih akurat."
     }
   ]
 }
