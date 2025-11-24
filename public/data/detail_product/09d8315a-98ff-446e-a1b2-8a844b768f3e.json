@@ -1,0 +1,80 @@
+{
+  "introduction_id": "Container Smart Lock Reader adalah perangkat siap pakai yang dirancang untuk membaca dan mengelola data dari kunci kontainer nirkabel secara aman. Menggunakan teknologi berbasis RFID atau sensor, perangkat ini memungkinkan penyegelan, pembukaan kunci, dan verifikasi kerusakan dari jarak jauh—memungkinkan operator memantau status kontainer secara real-time tanpa kontak fisik.\nDidesain untuk integrasi yang mulus, pembaca ini mudah terhubung ke platform manajemen logistik hulu dan sistem pos pemeriksaan seperti pengenalan plat nomor, menyediakan antarmuka terpadu untuk kontrol kunci otomatis di seluruh pelabuhan, terminal, dan simpul transportasi. Perangkat ini meningkatkan visibilitas rantai pasokan, memperkuat keamanan aset, dan mendukung operasi kontainer yang sepenuhnya digital.",
+  "product_id": "15a63888-d8c5-42ac-a3f2-07b68de07788",
+  "features_en": [
+    "Smart and Efficient",
+    "Two-way Data Interaction",
+    "Intelligent Linkage of Checkpoint",
+    "Wireless Long-Distance Access"
+  ],
+  "description_en": "The Container Smart Lock Reader is a field-ready device designed to securely read and manage data from wireless container locks. Using RFID or sensor-based technology, it enables remote sealing, unlocking, and tamper verification-allowing operators to monitor container status in real time without physical contact.\nBuilt for seamless integration, the reader connects easily to upstream logistics management platforms and checkpoint systems such as license plate recognition, providing a unified interface for automated lock control across ports, terminals, and transport nodes. It enhances supply chain visibility, strengthens asset security, and supports fully digitized container operations.",
+  "introduction_en": "The Container Smart Lock Reader is a field-ready device designed to securely read and manage data from wireless container locks. Using RFID or sensor-based technology, it enables remote sealing, unlocking, and tamper verification-allowing operators to monitor container status in real time without physical contact.\nBuilt for seamless integration, the reader connects easily to upstream logistics management platforms and checkpoint systems such as license plate recognition, providing a unified interface for automated lock control across ports, terminals, and transport nodes. It enhances supply chain visibility, strengthens asset security, and supports fully digitized container operations.",
+  "parameter_id": [
+    {
+      "label": "Metode Komunikasi  ",
+      "value": "RFID"
+    },
+    {
+      "label": "Antarmuka Komunikasi  ",
+      "value": "485"
+    },
+    {
+      "label": "Tegangan Akses  ",
+      "value": "DC 9~36V"
+    },
+    {
+      "label": "Tingkat Kedap Air  ",
+      "value": "IPX5"
+    },
+    {
+      "label": "Lingkungan Penggunaan  ",
+      "value": "Luar Ruangan/Semi-Luar Ruangan"
+    },
+    {
+      "label": "Jarak Komunikasi Maksimum  ",
+      "value": "<50m"
+    },
+    {
+      "label": "Ukuran Produk ",
+      "value": " Panjang * Lebar * Tinggi = 188*116*57mm"
+    }
+  ],
+  "id": "09d8315a-98ff-446e-a1b2-8a844b768f3e",
+  "features_id": [
+    "Cerdas dan Efisien",
+    "Interaksi Data Dua Arah",
+    "Koneksi Cerdas Titik Pemeriksaan",
+    "Akses Nirkabel Jarak Jauh"
+  ],
+  "description_id": "Container Smart Lock Reader adalah perangkat siap pakai yang dirancang untuk membaca dan mengelola data dari kunci kontainer nirkabel secara aman. Menggunakan teknologi berbasis RFID atau sensor, perangkat ini memungkinkan penyegelan, pembukaan kunci, dan verifikasi kerusakan dari jarak jauh—memungkinkan operator memantau status kontainer secara real-time tanpa kontak fisik.\nDidesain untuk integrasi yang mulus, pembaca ini mudah terhubung ke platform manajemen logistik hulu dan sistem pos pemeriksaan seperti pengenalan plat nomor, menyediakan antarmuka terpadu untuk kontrol kunci otomatis di seluruh pelabuhan, terminal, dan simpul transportasi. Perangkat ini meningkatkan visibilitas rantai pasokan, memperkuat keamanan aset, dan mendukung operasi kontainer yang sepenuhnya digital.",
+  "parameter_en": [
+    {
+      "label": "Communication Method  ",
+      "value": "RFID"
+    },
+    {
+      "label": "Communication Interface ",
+      "value": " 485"
+    },
+    {
+      "label": "Access Voltage  ",
+      "value": "DC 9~36V"
+    },
+    {
+      "label": "Waterproof Level  ",
+      "value": "IPX5"
+    },
+    {
+      "label": "Usage Environment  ",
+      "value": "Outdoor/Semi-outdoor"
+    },
+    {
+      "label": "Maximum Communication Distance  ",
+      "value": "<50m"
+    },
+    {
+      "label": "Product Size  ",
+      "value": "Length * Width * Height= 188*116*57mm"
+    }
+  ]
+}
