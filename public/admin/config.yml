@@ -220,121 +220,98 @@ collections:
                   - { label: 'Jovision', value: 'Jovision' }
   - name: 'features'
     label: 'Features'
-    format: 'json'
-    extension: 'json'
     files:
       - file: 'public/data/features.json'
         label: 'Features Data'
-        name: 'features_file'
+        name: 'features_data'
         fields:
           - label: 'Features'
             name: 'features'
             widget: 'list'
+            summary: '{{fields.title_en}}'
             fields:
-              - label: 'ID'
-                name: 'id'
-                widget: 'number'
-                required: true
-
-              - label: 'Title (EN)'
-                name: 'title_en'
-                widget: 'string'
-                required: true
-
-              - label: 'Title (ID)'
-                name: 'title_id'
-                widget: 'string'
-                required: true
-
-              - label: 'Description (EN)'
-                name: 'desc_en'
-                widget: 'text'
-
-              - label: 'Description (ID)'
-                name: 'desc_id'
-                widget: 'text'
-
-              - label: 'Icon'
-                name: 'icon'
-                widget: 'string'
-
-              - label: 'Image'
-                name: 'img'
-                widget: 'string'
-
-              - label: 'Learn More Title (EN)'
-                name: 'learn_more_title_en'
-                widget: 'string'
-
-              - label: 'Learn More Title (ID)'
-                name: 'learn_more_title_id'
-                widget: 'string'
-
-              - label: 'Learn More Description (EN)'
-                name: 'learn_more_desc_en'
-                widget: 'text'
-
-              - label: 'Learn More Description (ID)'
-                name: 'learn_more_desc_id'
-                widget: 'text'
-
-              - label: 'Learn More Image'
-                name: 'learn_more_image'
-                widget: 'string'
+              - { label: 'ID', name: 'id', widget: 'number' }
+              - { label: 'Title (EN)', name: 'title_en', widget: 'string' }
+              - { label: 'Title (ID)', name: 'title_id', widget: 'string' }
+              - { label: 'Description (EN)', name: 'desc_en', widget: 'text' }
+              - { label: 'Description (ID)', name: 'desc_id', widget: 'text' }
+              - { label: 'Icon', name: 'icon', widget: 'string' }
+              - { label: 'Image URL', name: 'img', widget: 'string' }
+              - {
+                  label: 'Learn More Title (EN)',
+                  name: 'learn_more_title_en',
+                  widget: 'string',
+                }
+              - {
+                  label: 'Learn More Title (ID)',
+                  name: 'learn_more_title_id',
+                  widget: 'string',
+                }
+              - {
+                  label: 'Learn More Description (EN)',
+                  name: 'learn_more_desc_en',
+                  widget: 'text',
+                }
+              - {
+                  label: 'Learn More Description (ID)',
+                  name: 'learn_more_desc_id',
+                  widget: 'text',
+                }
+              - {
+                  label: 'Learn More Image URL',
+                  name: 'learn_more_image',
+                  widget: 'string',
+                }
 
               - label: 'Header Learn More'
                 name: 'header_learn_more'
                 widget: 'list'
                 fields:
-                  - label: 'Image'
-                    name: 'image'
-                    widget: 'string'
-                  - label: 'Title (EN)'
-                    name: 'title_en'
-                    widget: 'string'
-                  - label: 'Title (ID)'
-                    name: 'title_id'
-                    widget: 'string'
-                  - label: 'Description (EN)'
-                    name: 'desc_en'
-                    widget: 'text'
-                  - label: 'Description (ID)'
-                    name: 'desc_id'
-                    widget: 'text'
+                  - { label: 'Image URL', name: 'image', widget: 'string' }
+                  - { label: 'Title (EN)', name: 'title_en', widget: 'string' }
+                  - { label: 'Title (ID)', name: 'title_id', widget: 'string' }
+                  - {
+                      label: 'Description (EN)',
+                      name: 'desc_en',
+                      widget: 'text',
+                    }
+                  - {
+                      label: 'Description (ID)',
+                      name: 'desc_id',
+                      widget: 'text',
+                    }
 
               - label: 'Portfolio Learn More'
                 name: 'portofolio_learn_more'
                 widget: 'list'
                 fields:
-                  - label: 'Image'
-                    name: 'image'
-                    widget: 'string'
-                  - label: 'Title (EN)'
-                    name: 'title_en'
-                    widget: 'string'
-                  - label: 'Title (ID)'
-                    name: 'title_id'
-                    widget: 'string'
-                  - label: 'Description (EN)'
-                    name: 'desc_en'
-                    widget: 'text'
-                  - label: 'Description (ID)'
-                    name: 'desc_id'
-                    widget: 'text'
+                  - { label: 'Image URL', name: 'image', widget: 'string' }
+                  - { label: 'Title (EN)', name: 'title_en', widget: 'string' }
+                  - { label: 'Title (ID)', name: 'title_id', widget: 'string' }
+                  - {
+                      label: 'Description (EN)',
+                      name: 'desc_en',
+                      widget: 'text',
+                    }
+                  - {
+                      label: 'Description (ID)',
+                      name: 'desc_id',
+                      widget: 'text',
+                    }
 
               - label: 'Team Learn More'
                 name: 'team_learn_more'
                 widget: 'list'
                 fields:
-                  - label: 'Image'
-                    name: 'image'
-                    widget: 'string'
-                  - label: 'Name'
-                    name: 'name'
-                    widget: 'string'
-                  - label: 'Message (EN)'
-                    name: 'message_en'
-                    widget: 'text'
-                  - label: 'Message (ID)'
-                    name: 'message_id'
-                    widget: 'text'
+                  - { label: 'Image URL', name: 'image', widget: 'string' }
+                  - { label: 'Name', name: 'name', widget: 'string' }
+                  - {
+                      label: 'Message (EN)',
+                      name: 'message_en',
+                      widget: 'text',
+                    }
+                  - {
+                      label: 'Message (ID)',
+                      name: 'message_id',
+                      widget: 'text',
+                    }
