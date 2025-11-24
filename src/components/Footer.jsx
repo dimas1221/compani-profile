@@ -1,18 +1,18 @@
-import React, { useState } from "react";
-import { Mail, Twitter, Linkedin, Instagram } from "lucide-react";
-import { useI18n } from "../i18n/I18nProvider";
-import GlobalButton from "./GlobalButton";
+import React, { useState } from 'react';
+import { Mail, Twitter, Linkedin, Instagram } from 'lucide-react';
+import { useI18n } from '../i18n/I18nProvider';
+import GlobalButton from './GlobalButton';
 
 export default function Footer() {
   const { t } = useI18n();
-  const [email, setEmail] = useState("");
+  const [email, setEmail] = useState('');
   const [sent, setSent] = useState(false);
 
   const submit = (e) => {
     e.preventDefault();
     setSent(true);
     setTimeout(() => setSent(false), 2500);
-    setEmail("");
+    setEmail('');
   };
 
   return (
@@ -36,9 +36,7 @@ export default function Footer() {
           <h4
             className="
               text-2xl sm:text-3xl font-extrabold mb-3
-              bg-gradient-to-r from-blue-600 via-sky-500 to-cyan-400
-              dark:from-cyan-400 dark:via-sky-400 dark:to-blue-600
-              bg-clip-text text-transparent
+              text-blue-600 
             "
           >
             {t.company}
@@ -53,10 +51,10 @@ export default function Footer() {
           <h5 className="text-lg font-semibold mb-4">{t.quick_links}</h5>
           <ul className="space-y-2.5 text-gray-600 dark:text-gray-400 text-sm sm:text-base">
             {[
-              { label: t.about, href: "/about" },
-              { label: t.solution, href: "/solution" },
-              { label: t.product, href: "/product" },
-              { label: t.contact, href: "/contact" },
+              { label: t.about, href: '/about' },
+              { label: t.solution, href: '/solution' },
+              { label: t.product, href: '/product' },
+              { label: t.contact, href: '/contact' },
             ].map((link, i) => (
               <li key={i}>
                 <a
