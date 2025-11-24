@@ -6,6 +6,7 @@ import ProductSection from './ProductSection';
 import AboutSection from './AboutSection';
 import { dataStats } from '../../components/utils/dataObject';
 import PartnerSection from './PartnerSection';
+import { PrinsipleSection } from './PrinsipleSection';
 
 export default function Home() {
   useEffect(() => {
@@ -24,8 +25,11 @@ export default function Home() {
       {/* Section 3: About & Vision */}
       <AboutSection />
       <br />
+      <br />
       {/* Section 2: Feature cards */}
       <FeatureSection />
+      <br />
+      <PrinsipleSection />
       <br />
       <PartnerSection />
       <br />

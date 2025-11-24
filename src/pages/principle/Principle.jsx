@@ -189,7 +189,12 @@ Silakan hubungi kami untuk kerjasama.`;
           </div>
         </div>
 
-        <DesignGlobal1 items={mappedItems} useIcon={false} useImage={true} />
+        <DesignGlobal1
+          items={mappedItems}
+          useIcon={false}
+          useImage={true}
+          title={lang == 'id' ? 'Prinsip Kami' : 'Our Principle'}
+        />
         <br />
         <div className="max-w-6xl mx-auto px-6 py-12">
           <div className="flex flex-col md:flex-row md:items-start md:gap-16">
@@ -216,7 +221,12 @@ Silakan hubungi kami untuk kerjasama.`;
           </div>
         </div>
 
-        <DesignGlobal1 items={mappedItemsJov} useIcon={false} useImage={true} />
+        <DesignGlobal1
+          items={mappedItemsJov}
+          useIcon={false}
+          useImage={true}
+          title={lang == 'id' ? 'Prinsip Kami' : 'Our Principle'}
+        />
       </div>
     </div>
   );
