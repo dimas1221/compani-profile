@@ -80,6 +80,15 @@
       "subtitle_en": "Smart Video & Audio Compression technology applied to Jovision NVR and IP Camera which can save 60% hard disk storage than H.264 and save 20% hard disk storage than H.265.",
       "type": "Jovision",
       "subtitle_id": "Teknologi Kompresi Video & Audio Cerdas diterapkan pada Jovision NVR dan Kamera IP yang dapat menghemat 60% penyimpanan hard disk dibandingkan H.264 dan menghemat 20% penyimpanan hard disk dibandingkan H.265."
+    },
+    {
+      "id": "9cff3f4d-1fec-4b42-b7de-5392927b2ee5",
+      "image": "/images/uploads/night_mode.png",
+      "title_id": "SAFE",
+      "title_en": "SAFE",
+      "subtitle_en": "Smart Anti Face-Over Exposure. It's Jovision's innovation technology which balances light, ensuring clear and detailed night vision. Ensure crystal clear night vision video without over exposure annoyance even in low-light condi-tions!",
+      "type": "Jovision",
+      "subtitle_id": "Anti Paparan Wajah Berlebihan yang Cerdas. Ini adalah teknologi inovatif Jovision yang menyeimbangkan cahaya, memastikan penglihatan malam yang jernih dan detail. Pastikan video penglihatan malam yang jernih tanpa gangguan paparan berlebih, bahkan dalam kondisi cahaya redup!"
     }
   ]
 }
