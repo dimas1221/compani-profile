@@ -199,8 +199,8 @@
           "image": "/images/uploads/sipam_portfolio.png",
           "title_en": "SIPAM",
           "title_id": "SIPAM",
-          "desc_en": "SIPAM Prabin is a digital application designed to manage and monitor military detainees efficiently, providing a centralized platform for recording detainee data, tracking their status, documenting case details, and supporting secure administrative processes within military detention facilities. It helps streamline daily operations, improve accuracy, ensure transparency, and enhance coordination among authorized military personnel through real-time information access and structured workflows",
-          "desc_id": "SIPAM Prabin adalah aplikasi digital yang dirancang untuk mengelola dan memantau tahanan militer secara efisien, menyediakan platform terpusat untuk mencatat data tahanan, melacak status mereka, mendokumentasikan detail kasus, dan mendukung proses administrasi yang aman di fasilitas penahanan militer. Aplikasi ini membantu menyederhanakan operasional harian, meningkatkan akurasi, memastikan transparansi, dan memperkuat koordinasi antar personel militer yang berwenang melalui akses informasi real-time dan alur kerja terstruktur."
+          "desc_en": "SIPAM Prabin is a digital application designed to efficiently manage and monitor military detainees by centralizing detainee data, tracking their status, documenting case details, and supporting secure administrative processes to streamline operations, improve accuracy, ensure transparency, and enhance coordination among authorized military personnel.",
+          "desc_id": "SIPAM Prabin adalah aplikasi digital yang dirancang untuk mengelola dan memantau tahanan militer secara efisien dengan memusatkan data tahanan, melacak status mereka, mendokumentasikan rincian kasus, dan mendukung proses administrasi yang aman untuk menyederhanakan operasi, meningkatkan akurasi, memastikan transparansi, dan meningkatkan koordinasi di antara personel militer yang berwenang."
         }
       ],
       "desc_en": "Manage software lifecycles, updates, and deployments to ensure stability and scalability.",
