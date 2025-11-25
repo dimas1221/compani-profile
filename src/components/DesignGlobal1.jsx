@@ -1,7 +1,7 @@
-import React, { useEffect } from "react";
-import { motion } from "framer-motion";
-import GlobalCard from "./GlobalCard";
-import GlobalSectionTitle from "./GlobalSectionTitle";
+import React, { useEffect } from 'react';
+import { motion } from 'framer-motion';
+import GlobalCard from './GlobalCard';
+import GlobalSectionTitle from './GlobalSectionTitle';
 
 /**
  * ✅ Reusable global grid layout for content sections.
@@ -19,10 +19,10 @@ export default function DesignGlobal1({
   items = [],
   useImage = false,
   useIcon = false,
-  className = "",
+  className = '',
 }) {
   useEffect(() => {
-    window.scrollTo({ top: 0, behavior: "smooth" });
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   }, []);
   return (
     <section

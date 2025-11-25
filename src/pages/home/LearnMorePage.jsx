@@ -60,30 +60,65 @@ export default function LearnMorePage() {
           className="mb-14"
         />
         {/* Details Carousel */}
-        <section className="mb-20">
+        {/* <section className="mb-20">
           <GlobalSectionTitle
             title={t.learnMorePage.details}
             className="mb-10"
           />
           <CarouselLearnMore
-            cardWidth={280}
+            cardWidth={320}
             gap={24}
             ariaLabel="Details Carousel"
           >
             {item.header_learn_more?.map((h, i) => (
               <motion.div
                 key={h.title_en + i}
-                className="rounded-2xl shadow-lg bg-white dark:bg-gray-900 hover:shadow-xl transition-shadow duration-400 cursor-pointer"
-                whileHover={{
-                  y: -6,
-                  boxShadow: '0 25px 40px rgba(0,0,0,0.15)',
-                }}
+                className="
+        h-full flex flex-col 
+        rounded-2xl shadow-lg bg-white dark:bg-gray-900
+        hover:shadow-xl transition-all duration-300 cursor-pointer
+      "
+                whileHover={{ y: -6 }}
+              >
+                <div className="p-6 flex-1 flex flex-col">
+                  <HeaderLearnMoreCard item={h} lang={lang} />
+                </div>
+              </motion.div>
+            ))}
+          </CarouselLearnMore>
+        </section> */}
+        <section className="mb-20">
+          <GlobalSectionTitle
+            title={t.learnMorePage.details}
+            className="mb-10"
+          />
+
+          <div
+            className="
+    flex flex-wrap
+    justify-center items-start
+    gap-4 sm:gap-6
+    max-w-7xl w-full
+    mx-auto
+  "
+          >
+            {item.header_learn_more?.map((h, i) => (
+              <motion.div
+                key={h.title_en + i}
+                className="
+        w-full sm:w-[260px] md:w-[280px]
+        rounded-2xl shadow-lg bg-white dark:bg-gray-900
+        hover:shadow-[0_25px_40px_rgba(0,0,0,0.15)]
+        transition-all duration-500 cursor-pointer
+      "
+                whileHover={{ y: -6 }}
               >
                 <HeaderLearnMoreCard item={h} lang={lang} />
               </motion.div>
             ))}
-          </CarouselLearnMore>
+          </div>
         </section>
+
         {/* Container 2 kolom: Image & Article Content */}
         <div className="mb-24 flex flex-col md:flex-row md:gap-16 items-start">
           {/* Left: Image */}
@@ -151,7 +186,7 @@ export default function LearnMorePage() {
               title={t.learnMorePage.team}
               className="mb-10"
             />
-            <CarouselLearnMore
+            {/* <CarouselLearnMore
               cardWidth={280}
               gap={24}
               ariaLabel="Team Carousel"
@@ -168,7 +203,21 @@ export default function LearnMorePage() {
                   <TeamCard member={member} lang={lang} />
                 </motion.div>
               ))}
-            </CarouselLearnMore>
+            </CarouselLearnMore> */}
+            <div className="flex flex-col sm:flex-row sm:flex-wrap justify-center items-center gap-6 mt-10">
+              {item.team_learn_more.map((member, i) => (
+                <motion.div
+                  key={member.name + i}
+                  className="rounded-2xl shadow-lg bg-white dark:bg-gray-900 hover:shadow-xl transition-shadow duration-400 cursor-pointer"
+                  whileHover={{
+                    y: -6,
+                    boxShadow: '0 25px 40px rgba(0,0,0,0.15)',
+                  }}
+                >
+                  <TeamCard member={member} lang={lang} />
+                </motion.div>
+              ))}
+            </div>
           </section>
         )}
       </div>
