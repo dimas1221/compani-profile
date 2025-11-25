@@ -215,6 +215,20 @@
           "desc_en": "The Visa on Arrival (VoA) application is a secure and user-friendly digital platform that streamlines the entry process for international travelers by allowing them to submit information, upload documents, and complete payment in advance, enabling faster immigration processing, reducing queues, and enhancing overall travel convenience.",
           "desc_id": "Aplikasi Visa on Arrival (VoA) adalah platform digital yang aman dan mudah digunakan yang memperlancar proses masuk bagi pelancong internasional dengan memungkinkan mereka menyerahkan informasi, mengunggah dokumen, dan menyelesaikan pembayaran di muka, sehingga pemrosesan imigrasi menjadi lebih cepat, mengurangi antrean, dan meningkatkan kenyamanan perjalanan secara keseluruhan.",
           "image": "/images/uploads/voa_portfolio.png"
+        },
+        {
+          "image": "/images/uploads/bsd_portfolio.png",
+          "title_en": "ResOne",
+          "title_id": "ResOne",
+          "desc_en": "Residence One is an AI- and IoT-powered residential access management system designed for BSD housing complexes, enabling secure, efficient, and fully automated entry and exit processes through smart sensors, real-time monitoring, intelligent gate control, and advanced identity verification to enhance safety, reduce manual intervention, and provide residents with a seamless modern living experience.",
+          "desc_id": "Residence One adalah sistem manajemen akses hunian bertenaga AI dan IoT yang dirancang untuk kompleks perumahan BSD, memungkinkan proses masuk dan keluar yang aman, efisien, dan sepenuhnya otomatis melalui sensor pintar, pemantauan waktu nyata, kontrol gerbang cerdas, dan verifikasi identitas tingkat lanjut untuk meningkatkan keselamatan, mengurangi intervensi manual, dan memberi penghuni pengalaman tinggal modern yang lancar."
+        },
+        {
+          "title_en": "EZ Service",
+          "title_id": "EZ Service",
+          "desc_en": "Ez-Service is an HR management application designed to streamline and centralize all aspects of human resource operations, enabling organizations to efficiently manage employee data, attendance, performance, payroll processes, and internal workflows through an intuitive, secure, and AI-supported digital platform.",
+          "desc_id": "Ez-Service adalah aplikasi manajemen SDM yang dirancang untuk menyederhanakan dan memusatkan semua aspek operasi sumber daya manusia, memungkinkan organisasi untuk mengelola data karyawan, kehadiran, kinerja, proses penggajian, dan alur kerja internal secara efisien melalui platform digital yang intuitif, aman, dan didukung AI.",
+          "image": "/images/uploads/hrd_portfolio.png"
         }
       ],
       "desc_en": "Manage software lifecycles, updates, and deployments to ensure stability and scalability.",
