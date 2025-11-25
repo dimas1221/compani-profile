@@ -71,6 +71,15 @@
       "subtitle_en": "OculiNext is the series of Jovision multi-lens (Lens ≥2) IP Cameras.\nOculiNext IP cameras includes 3 types.OculiNext (F) for motorized Zoom. OculiNext (W) for wider viewing upto 180° and OculiNext (R) for 360° panoramic viewing.",
       "type": "Jovision",
       "subtitle_id": "OculiNext adalah seri Kamera IP multi-lensa (Lensa ≥2) Jovision. Kamera IP OculiNext terdiri dari 3 jenis: OculiNext (F) untuk Zoom bermotor, OculiNext (W) untuk tampilan lebih luas hingga 180°, dan OculiNext (R) untuk tampilan panorama 360°."
+    },
+    {
+      "id": "0ca3a83f-45ab-487f-87a1-270c7d7521f7",
+      "image": "/images/uploads/cloud.png",
+      "title_id": "H.256+",
+      "title_en": "H.256+",
+      "subtitle_en": "Smart Video & Audio Compression technology applied to Jovision NVR and IP Camera which can save 60% hard disk storage than H.264 and save 20% hard disk storage than H.265.",
+      "type": "Jovision",
+      "subtitle_id": "Teknologi Kompresi Video & Audio Cerdas diterapkan pada Jovision NVR dan Kamera IP yang dapat menghemat 60% penyimpanan hard disk dibandingkan H.264 dan menghemat 20% penyimpanan hard disk dibandingkan H.265."
     }
   ]
 }
