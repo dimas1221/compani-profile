@@ -98,6 +98,15 @@
       "subtitle_en": "Jovision product series which are powered by solar energy. GreenNext series products eliminate complicated wiring, and say goodbye to electricity bill. GreenNext is perfect example of Jovision's commitment for a sustainable world. Slogan is \"GreenNext, Your Greener Technologies!\"",
       "subtitle_id": "Rangkaian produk Jovision yang ditenagai oleh energi surya. Produk seri GreenNext menghilangkan kerumitan pemasangan kabel, dan mengucapkan selamat tinggal pada tagihan listrik. GreenNext adalah contoh sempurna dari komitmen Jovision untuk dunia yang berkelanjutan. Slogannya adalah \"GreenNext, Teknologi Anda yang Lebih Hijau!\"",
       "type": "Jovision"
+    },
+    {
+      "id": "a5d87cef-d6d5-4fbe-bb06-b20b730ffbfa",
+      "image": "/images/uploads/cloud_design.png",
+      "title_id": "Fusion Cloud Platform",
+      "title_en": "Fusion Cloud Platform",
+      "subtitle_en": "Fusion Cloud is the platform for aggregating thousands of video channels from different places, various protocols, and different networks to central demon-strate and management of the video. It's based on the \"Smart Vision\" design concept, and it's a privatized deployment security management platform with video application and intelligent analysis as its core capabilities.",
+      "type": "Jovision",
+      "subtitle_id": "Fusion Cloud adalah platform untuk menggabungkan ribuan kanal video dari berbagai lokasi, berbagai protokol, dan jaringan untuk demonstrasi dan pengelolaan video secara terpusat. Platform ini didasarkan pada konsep desain \"Smart Vision\", dan merupakan platform manajemen keamanan penerapan yang diprivatisasi dengan aplikasi video dan analisis cerdas sebagai kemampuan intinya."
     }
   ]
 }
