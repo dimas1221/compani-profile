@@ -236,7 +236,7 @@ collections:
               - { label: 'Description (EN)', name: 'desc_en', widget: 'text' }
               - { label: 'Description (ID)', name: 'desc_id', widget: 'text' }
               - { label: 'Icon', name: 'icon', widget: 'string' }
-              - { label: 'Image URL', name: 'img', widget: 'string' }
+              - { label: 'Image URL', name: 'img', widget: 'image' }
               - {
                   label: 'Learn More Title (EN)',
                   name: 'learn_more_title_en',
@@ -260,14 +260,14 @@ collections:
               - {
                   label: 'Learn More Image URL',
                   name: 'learn_more_image',
-                  widget: 'string',
+                  widget: 'image',
                 }
 
               - label: 'Header Learn More'
                 name: 'header_learn_more'
                 widget: 'list'
                 fields:
-                  - { label: 'Image URL', name: 'image', widget: 'string' }
+                  - { label: 'Image URL', name: 'image', widget: 'image' }
                   - { label: 'Title (EN)', name: 'title_en', widget: 'string' }
                   - { label: 'Title (ID)', name: 'title_id', widget: 'string' }
                   - {
@@ -285,7 +285,7 @@ collections:
                 name: 'portofolio_learn_more'
                 widget: 'list'
                 fields:
-                  - { label: 'Image URL', name: 'image', widget: 'string' }
+                  - { label: 'Image URL', name: 'image', widget: 'image' }
                   - { label: 'Title (EN)', name: 'title_en', widget: 'string' }
                   - { label: 'Title (ID)', name: 'title_id', widget: 'string' }
                   - {
@@ -303,7 +303,7 @@ collections:
                 name: 'team_learn_more'
                 widget: 'list'
                 fields:
-                  - { label: 'Image URL', name: 'image', widget: 'string' }
+                  - { label: 'Image URL', name: 'image', widget: 'image' }
                   - { label: 'Name', name: 'name', widget: 'string' }
                   - {
                       label: 'Message (EN)',

@@ -486,7 +486,7 @@ export default function ProductSection({ idProductActive = null }) {
     <section className="max-w-7xl mx-auto px-4 sm:px-6 py-10">
       {/* Header */}
       <div className="flex justify-between items-center mb-6">
-        <h3 className="text-3xl font-semibold text-gray-900 dark:text-gray-100 font-calsans">
+        <h3 className="text-3xl font-semibold text-gray-900 dark:text-gray-100 font-clash">
           {lang === 'en' ? 'Products' : 'Produk'}
         </h3>
 
