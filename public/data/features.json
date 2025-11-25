@@ -229,6 +229,13 @@
           "desc_en": "Ez-Service is an HR management application designed to streamline and centralize all aspects of human resource operations, enabling organizations to efficiently manage employee data, attendance, performance, payroll processes, and internal workflows through an intuitive, secure, and AI-supported digital platform.",
           "desc_id": "Ez-Service adalah aplikasi manajemen SDM yang dirancang untuk menyederhanakan dan memusatkan semua aspek operasi sumber daya manusia, memungkinkan organisasi untuk mengelola data karyawan, kehadiran, kinerja, proses penggajian, dan alur kerja internal secara efisien melalui platform digital yang intuitif, aman, dan didukung AI.",
           "image": "/images/uploads/hrd_portfolio.png"
+        },
+        {
+          "image": "/images/uploads/vehicle_portfolio.png",
+          "title_en": "Vehicle Management System",
+          "title_id": "Sistem Manajemen Kendaraan",
+          "desc_en": "The Vehicle Management System is a digital platform designed to streamline the monitoring, tracking, and administration of vehicles by providing real-time data on usage, maintenance schedules, fuel consumption, and driver activity, enabling organizations to enhance operational efficiency, reduce costs, improve safety, and ensure better decision-making through centralized and automated vehicle management.",
+          "desc_id": "Sistem Manajemen Kendaraan adalah platform digital yang dirancang untuk menyederhanakan pemantauan, pelacakan, dan administrasi kendaraan dengan menyediakan data waktu nyata tentang penggunaan, jadwal perawatan, konsumsi bahan bakar, dan aktivitas pengemudi, yang memungkinkan organisasi untuk meningkatkan efisiensi operasional, mengurangi biaya, meningkatkan keselamatan, dan memastikan pengambilan keputusan yang lebih baik melalui manajemen kendaraan yang terpusat dan otomatis."
         }
       ],
       "desc_en": "Manage software lifecycles, updates, and deployments to ensure stability and scalability.",
