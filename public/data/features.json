@@ -201,6 +201,13 @@
           "title_id": "SIPAM",
           "desc_en": "SIPAM Prabin is a digital application designed to efficiently manage and monitor military detainees by centralizing detainee data, tracking their status, documenting case details, and supporting secure administrative processes to streamline operations, improve accuracy, ensure transparency, and enhance coordination among authorized military personnel.",
           "desc_id": "SIPAM Prabin adalah aplikasi digital yang dirancang untuk mengelola dan memantau tahanan militer secara efisien dengan memusatkan data tahanan, melacak status mereka, mendokumentasikan rincian kasus, dan mendukung proses administrasi yang aman untuk menyederhanakan operasi, meningkatkan akurasi, memastikan transparansi, dan meningkatkan koordinasi di antara personel militer yang berwenang."
+        },
+        {
+          "image": "/images/uploads/sigap_portfolio.png",
+          "title_en": "SIGAP",
+          "title_id": "SIGAP",
+          "desc_en": "SIGAP is an integrated HR management application for the House of Representatives (DPR) that centralizes personnel administration, automates attendance using AI-based face recognition and palm vein authentication, and enhances security through smart gate access control to ensure efficient, accurate, and transparent workforce operations.",
+          "desc_id": "SIGAP merupakan aplikasi manajemen SDM terpadu untuk Dewan Perwakilan Rakyat (DPR) yang memusatkan administrasi kepegawaian, mengotomatiskan kehadiran menggunakan pengenalan wajah berbasis AI dan autentikasi urat telapak tangan, serta meningkatkan keamanan melalui kontrol akses gerbang pintar untuk memastikan operasional tenaga kerja yang efisien, akurat, dan transparan."
         }
       ],
       "desc_en": "Manage software lifecycles, updates, and deployments to ensure stability and scalability.",
