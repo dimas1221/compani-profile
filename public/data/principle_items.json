@@ -53,6 +53,15 @@
       "type": "Jovision",
       "subtitle_en": "Agile Sense. Jovision Al technology which detects the Human being only and provide much more accurate alarms.",
       "subtitle_id": "Agile Sense. Teknologi Jovision AI yang hanya mendeteksi manusia dan memberikan alarm yang jauh lebih akurat."
+    },
+    {
+      "id": "727eca4d-fbcc-4d7c-8765-2ce603639917",
+      "image": "/images/uploads/city_technology.png",
+      "title_id": "SCB",
+      "title_en": "SCB",
+      "subtitle_en": "Smart Codec Boostering. Jovision Smart Codec technology on XVR which can booster the SOC ability to input utmost cameras. With this technology, Jovision 4ch XVR has the ability to connect 4pcs Analog Cameras + 12pcs IP cameras. Total 16pcs cameras.",
+      "subtitle_id": "Peningkatan Codec Cerdas. Teknologi Codec Cerdas Jovision pada XVR dapat meningkatkan kemampuan SOC untuk memasukkan kamera terbaik. Dengan teknologi ini, Jovision 4ch XVR dapat menghubungkan 4 kamera analog + 12 kamera IP. Total 16 kamera.",
+      "type": "Jovision"
     }
   ]
 }
