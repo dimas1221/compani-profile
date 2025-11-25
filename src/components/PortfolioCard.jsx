@@ -1,7 +1,7 @@
 import React from 'react';
 export default function PortfolioCard({ item, lang }) {
   return (
-    <div className="bg-white dark:bg-[#0f1116] rounded-xl overflow-hidden shadow-sm border border-gray-100 dark:border-gray-800">
+    <div className="bg-white dark:bg-gray-900  rounded-xl overflow-hidden ">
       <img
         src={item.image}
         alt={lang === 'id' ? item.title_id : item.title_en}
