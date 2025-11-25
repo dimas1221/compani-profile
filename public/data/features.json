@@ -208,6 +208,13 @@
           "title_id": "SIGAP",
           "desc_en": "SIGAP is an integrated HR management application for the House of Representatives (DPR) that centralizes personnel administration, automates attendance using AI-based face recognition and palm vein authentication, and enhances security through smart gate access control to ensure efficient, accurate, and transparent workforce operations.",
           "desc_id": "SIGAP merupakan aplikasi manajemen SDM terpadu untuk Dewan Perwakilan Rakyat (DPR) yang memusatkan administrasi kepegawaian, mengotomatiskan kehadiran menggunakan pengenalan wajah berbasis AI dan autentikasi urat telapak tangan, serta meningkatkan keamanan melalui kontrol akses gerbang pintar untuk memastikan operasional tenaga kerja yang efisien, akurat, dan transparan."
+        },
+        {
+          "title_en": "VOA",
+          "title_id": "VOA",
+          "desc_en": "The Visa on Arrival (VoA) application is a secure and user-friendly digital platform that streamlines the entry process for international travelers by allowing them to submit information, upload documents, and complete payment in advance, enabling faster immigration processing, reducing queues, and enhancing overall travel convenience.",
+          "desc_id": "Aplikasi Visa on Arrival (VoA) adalah platform digital yang aman dan mudah digunakan yang memperlancar proses masuk bagi pelancong internasional dengan memungkinkan mereka menyerahkan informasi, mengunggah dokumen, dan menyelesaikan pembayaran di muka, sehingga pemrosesan imigrasi menjadi lebih cepat, mengurangi antrean, dan meningkatkan kenyamanan perjalanan secara keseluruhan.",
+          "image": "/images/uploads/voa_portfolio.png"
         }
       ],
       "desc_en": "Manage software lifecycles, updates, and deployments to ensure stability and scalability.",
