@@ -1,20 +1,7 @@
 {
   "features": [
     {
-      "id": 1,
-      "title_en": "Artificial Intelligence (AI)",
       "title_id": "Kecerdasan Buatan (AI)",
-      "desc_en": "Leverage AI algorithms to automate tasks, gain insights, and drive innovation.",
-      "desc_id": "Manfaatkan algoritma AI untuk mengotomatisasi tugas, memperoleh wawasan, dan mendorong inovasi.",
-      "icon": "Cpu",
-      "img": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=900&q=60",
-
-      "learn_more_title_en": "AI Innovations for Modern Business",
-      "learn_more_title_id": "Inovasi AI untuk Bisnis Modern",
-      "learn_more_desc_en": "AI enables organizations to operationalize data, automate complex workflows, and unlock new business capabilities.",
-      "learn_more_desc_id": "AI memungkinkan organisasi mengoptimalkan data, mengotomatisasi proses kompleks, dan membuka kemampuan bisnis baru.",
-      "learn_more_image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=60",
-
       "header_learn_more": [
         {
           "image": "https://images.unsplash.com/photo-1581090700227-1e37b190418e?auto=format&fit=crop&w=900&q=60",
@@ -31,7 +18,20 @@
           "desc_id": "Mengurangi tugas berulang dan meningkatkan efisiensi."
         }
       ],
-
+      "img": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=900&q=60",
+      "learn_more_desc_en": "AI enables organizations to operationalize data, automate complex workflows, and unlock new business capabilities.",
+      "desc_id": "Manfaatkan algoritma AI untuk mengotomatisasi tugas, memperoleh wawasan, dan mendorong inovasi.",
+      "learn_more_image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=900&q=60",
+      "title_en": "Artificial Intelligence (AI)",
+      "learn_more_title_id": "Inovasi AI untuk Bisnis Modern",
+      "team_learn_more": [
+        {
+          "image": "https://randomuser.me/api/portraits/men/11.jpg",
+          "name": "Dr. Daniel Hart",
+          "message_en": "We focus on delivering practical AI solutions.",
+          "message_id": "Kami berfokus pada penerapan solusi AI yang nyata."
+        }
+      ],
       "portofolio_learn_more": [
         {
           "image": "https://images.unsplash.com/photo-1581092334546-0400d0f6f6b7?auto=format&fit=crop&w=900&q=60",
@@ -41,32 +41,14 @@
           "desc_id": "Model AI yang memprediksi penjualan dan kebutuhan produk."
         }
       ],
-
-      "team_learn_more": [
-        {
-          "image": "https://randomuser.me/api/portraits/men/11.jpg",
-          "name": "Dr. Daniel Hart",
-          "message_en": "We focus on delivering practical AI solutions.",
-          "message_id": "Kami berfokus pada penerapan solusi AI yang nyata."
-        }
-      ]
+      "desc_en": "Leverage AI algorithms to automate tasks, gain insights, and drive innovation.",
+      "icon": "Cpu",
+      "learn_more_desc_id": "AI memungkinkan organisasi mengoptimalkan data, mengotomatisasi proses kompleks, dan membuka kemampuan bisnis baru.",
+      "id": 1,
+      "learn_more_title_en": "AI Innovations for Modern Business"
     },
-
     {
-      "id": 2,
-      "title_en": "Internet of Things (IoT)",
       "title_id": "Internet of Things (IoT)",
-      "desc_en": "Connect and control devices through IoT networks to enable smarter environments.",
-      "desc_id": "Hubungkan dan kontrol perangkat melalui jaringan IoT untuk menciptakan lingkungan yang lebih cerdas.",
-      "icon": "Wifi",
-      "img": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=900&q=60",
-
-      "learn_more_title_en": "Powering the Future with IoT",
-      "learn_more_title_id": "Membangun Masa Depan dengan IoT",
-      "learn_more_desc_en": "IoT connects devices, enabling automation, monitoring, and remote intelligence.",
-      "learn_more_desc_id": "IoT menghubungkan perangkat sehingga dapat melakukan otomatisasi, pemantauan, dan pengendalian jarak jauh.",
-      "learn_more_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=60",
-
       "header_learn_more": [
         {
           "image": "https://images.unsplash.com/photo-1527430253228-e93688616381?auto=format&fit=crop&w=900&q=60",
@@ -83,7 +65,20 @@
           "desc_id": "Otomatisasi proses bisnis menggunakan sensor pintar."
         }
       ],
-
+      "img": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=900&q=60",
+      "learn_more_desc_en": "IoT connects devices, enabling automation, monitoring, and remote intelligence.",
+      "desc_id": "Hubungkan dan kontrol perangkat melalui jaringan IoT untuk menciptakan lingkungan yang lebih cerdas.",
+      "learn_more_image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=60",
+      "title_en": "Internet of Things (IoT)",
+      "learn_more_title_id": "Membangun Masa Depan dengan IoT",
+      "team_learn_more": [
+        {
+          "image": "https://randomuser.me/api/portraits/women/22.jpg",
+          "name": "Sarah Levine",
+          "message_en": "IoT provides a new dimension of efficiency.",
+          "message_id": "IoT memberi dimensi baru bagi efisiensi."
+        }
+      ],
       "portofolio_learn_more": [
         {
           "image": "https://images.unsplash.com/photo-1581093632344-d4a1b6b40f01?auto=format&fit=crop&w=900&q=60",
@@ -93,32 +88,14 @@
           "desc_id": "Sensor IoT untuk memantau lini produksi."
         }
       ],
-
-      "team_learn_more": [
-        {
-          "image": "https://randomuser.me/api/portraits/women/22.jpg",
-          "name": "Sarah Levine",
-          "message_en": "IoT provides a new dimension of efficiency.",
-          "message_id": "IoT memberi dimensi baru bagi efisiensi."
-        }
-      ]
+      "desc_en": "Connect and control devices through IoT networks to enable smarter environments.",
+      "icon": "Wifi",
+      "learn_more_desc_id": "IoT menghubungkan perangkat sehingga dapat melakukan otomatisasi, pemantauan, dan pengendalian jarak jauh.",
+      "id": 2,
+      "learn_more_title_en": "Powering the Future with IoT"
     },
-
     {
-      "id": 3,
-      "title_en": "Smart Home System",
       "title_id": "Sistem Rumah Pintar",
-      "desc_en": "Integrate devices into a unified smart home ecosystem for safety, comfort, and efficiency.",
-      "desc_id": "Integrasikan berbagai perangkat rumah ke dalam ekosistem pintar untuk keamanan, kenyamanan, dan efisiensi.",
-      "icon": "Home",
-      "img": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=900&q=60",
-
-      "learn_more_title_en": "Smarter Living with Smart Home Technology",
-      "learn_more_title_id": "Hidup Lebih Cerdas dengan Teknologi Rumah Pintar",
-      "learn_more_desc_en": "Smart home systems enhance convenience, energy efficiency, and overall home safety.",
-      "learn_more_desc_id": "Sistem rumah pintar meningkatkan kenyamanan, efisiensi energi, dan keamanan rumah.",
-      "learn_more_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=900&q=60",
-
       "header_learn_more": [
         {
           "image": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=900&q=60",
@@ -135,7 +112,20 @@
           "desc_id": "Sistem pemantauan dan peringatan yang terintegrasi."
         }
       ],
-
+      "img": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=900&q=60",
+      "learn_more_desc_en": "Smart home systems enhance convenience, energy efficiency, and overall home safety.",
+      "desc_id": "Integrasikan berbagai perangkat rumah ke dalam ekosistem pintar untuk keamanan, kenyamanan, dan efisiensi.",
+      "learn_more_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=900&q=60",
+      "title_en": "Smart Home System",
+      "learn_more_title_id": "Hidup Lebih Cerdas dengan Teknologi Rumah Pintar",
+      "team_learn_more": [
+        {
+          "image": "https://randomuser.me/api/portraits/men/53.jpg",
+          "name": "Kevin Ross",
+          "message_en": "We build homes that adapt to your lifestyle.",
+          "message_id": "Kami membangun rumah yang menyesuaikan gaya hidup Anda."
+        }
+      ],
       "portofolio_learn_more": [
         {
           "image": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=900&q=60",
@@ -145,59 +135,43 @@
           "desc_id": "Otomatisasi lengkap apartemen modern."
         }
       ],
-
-      "team_learn_more": [
-        {
-          "image": "https://randomuser.me/api/portraits/men/53.jpg",
-          "name": "Kevin Ross",
-          "message_en": "We build homes that adapt to your lifestyle.",
-          "message_id": "Kami membangun rumah yang menyesuaikan gaya hidup Anda."
-        }
-      ]
+      "desc_en": "Integrate devices into a unified smart home ecosystem for safety, comfort, and efficiency.",
+      "icon": "Home",
+      "learn_more_desc_id": "Sistem rumah pintar meningkatkan kenyamanan, efisiensi energi, dan keamanan rumah.",
+      "id": 3,
+      "learn_more_title_en": "Smarter Living with Smart Home Technology"
     },
-
     {
-      "id": 4,
-      "title_en": "Software Management",
       "title_id": "Manajemen Perangkat Lunak",
-      "desc_en": "Manage software lifecycles, updates, and deployments to ensure stability and scalability.",
-      "desc_id": "Kelola siklus hidup, pembaruan, dan distribusi perangkat lunak agar sistem tetap stabil dan efisien.",
-      "icon": "Server",
-      "img": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=900&q=60",
-
-      "learn_more_title_en": "Optimized Software Lifecycle Management",
-      "learn_more_title_id": "Manajemen Siklus Hidup Software yang Optimal",
-      "learn_more_desc_en": "Ensure applications remain scalable, secure, and efficient with proper software lifecycle strategy.",
-      "learn_more_desc_id": "Memastikan aplikasi tetap skalabel, aman, dan efisien dengan strategi manajemen siklus hidup software.",
-      "learn_more_image": "https://images.unsplash.com/photo-1581090165920-8ad7d8f1fbd2?auto=format&fit=crop&w=900&q=60",
-
       "header_learn_more": [
         {
           "image": "https://images.unsplash.com/photo-1581091789896-0c7f004d10fe?auto=format&fit=crop&w=900&q=60",
-          "title_en": "Version Control",
-          "title_id": "Kontrol Versi",
-          "desc_en": "Keep track of software changes across teams.",
-          "desc_id": "Melacak perubahan software di seluruh tim."
+          "title_en": "WEB DEVELOPMENT",
+          "title_id": "WEB DEVELOPMENT",
+          "desc_en": "We create custom technologies as simple as websites to complex internet applications to power your business.",
+          "desc_id": "Kami menciptakan teknologi khusus, mulai dari yang sederhana seperti situs web hingga aplikasi internet yang kompleks untuk mendukung bisnis Anda."
         },
         {
           "image": "https://images.unsplash.com/photo-1581091012184-5c41eab5aeb2?auto=format&fit=crop&w=900&q=60",
-          "title_en": "CI/CD Pipeline",
-          "title_id": "Pipeline CI/CD",
-          "desc_en": "Automate testing and deployment for reliability.",
-          "desc_id": "Otomatisasi testing dan deployment untuk keandalan."
-        }
-      ],
-
-      "portofolio_learn_more": [
+          "title_en": "SOFTWARE MAINTENANCE",
+          "title_id": "PEMELIHARAAN PERANGKAT LUNAK",
+          "desc_en": "We have vast development team than can maintain your current softwares and applications. Let us handle your software while you handle your business.",
+          "desc_id": "Kami memiliki tim pengembangan yang luas yang dapat mengelola perangkat lunak dan aplikasi Anda saat ini. Percayakan perangkat lunak Anda kepada kami sementara Anda mengelola bisnis Anda."
+        },
         {
-          "image": "https://images.unsplash.com/photo-1581093588401-324d0b81a067?auto=format&fit=crop&w=900&q=60",
-          "title_en": "Enterprise DevOps Setup",
-          "title_id": "Implementasi DevOps Enterprise",
-          "desc_en": "Automated testing, deployment, and monitoring.",
-          "desc_id": "Otomatisasi testing, deployment, dan monitoring."
+          "title_en": "MOBILE DEVELOPMENT",
+          "title_id": "PENGEMBANGAN MOBILE",
+          "desc_en": "Currently there are huge markets that are served in a mobile app-ecosystem.",
+          "desc_id": "Saat ini ada pasar besar yang dilayani dalam ekosistem aplikasi seluler.",
+          "image": "/images/uploads/document_recognition_terminal.png"
         }
       ],
-
+      "img": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=900&q=60",
+      "learn_more_desc_en": "We believe a mobile where there will be more smartphones than computers. In the near future, there will huge markets that will become served in a mobile app-ecosystem.\n\nOur bread and butter, we create custom technologies as simple as websites to complex internet applications to power your business.\n\nWe have vast development team than can maintain your current softwares and applications. Let us handle your software while you handle your business.",
+      "desc_id": "Kelola siklus hidup, pembaruan, dan distribusi perangkat lunak agar sistem tetap stabil dan efisien.",
+      "learn_more_image": "https://images.unsplash.com/photo-1581090165920-8ad7d8f1fbd2?auto=format&fit=crop&w=900&q=60",
+      "title_en": "Software Management",
+      "learn_more_title_id": "Apa Yang Kami Lakukan Layanan Perangkat Lunak",
       "team_learn_more": [
         {
           "image": "https://randomuser.me/api/portraits/women/66.jpg",
@@ -205,7 +179,21 @@
           "message_en": "We ensure software stays fast, reliable, and scalable.",
           "message_id": "Kami memastikan software tetap cepat, stabil, dan mudah diskalakan."
         }
-      ]
+      ],
+      "portofolio_learn_more": [
+        {
+          "image": "https://images.unsplash.com/photo-1581093588401-324d0b81a067?auto=format&fit=crop&w=900&q=60",
+          "title_en": "ZOOM",
+          "title_id": "ZOOM",
+          "desc_en": "Providing on-demand, same-day delivery to businesses and retailers, both online and offline, prioritizing fast and seamless delivery. Zoom ensures ease of use with its platform and acts as a trusted partner for various businesses throughout Indonesia.",
+          "desc_id": "Menyediakan layanan kirim on-demand same day kepada pebisnis dan retailer, baik online maupun offline, dengan mengutamakan pengiriman yang cepat dan lancar. Zoom memastikan kemudahan penggunaan dengan platformnya dan juga bertindak sebagai mitra terpercaya bagi berbagai entitas bisnis di seluruh Indonesia"
+        }
+      ],
+      "desc_en": "Manage software lifecycles, updates, and deployments to ensure stability and scalability.",
+      "icon": "Server",
+      "learn_more_desc_id": "Kami percaya akan ada lebih banyak ponsel pintar daripada komputer di dunia seluler. Dalam waktu dekat, akan ada pasar besar yang akan dilayani oleh ekosistem aplikasi seluler.\n\nTujuan utama kami adalah menciptakan teknologi khusus, mulai dari yang sederhana seperti situs web hingga aplikasi internet yang kompleks, untuk mendukung bisnis Anda.\n\nKami memiliki tim pengembangan yang luas yang dapat mengelola perangkat lunak dan aplikasi Anda saat ini. Percayakan perangkat lunak Anda kepada kami sementara Anda mengelola bisnis Anda.",
+      "id": 4,
+      "learn_more_title_en": "What We Do Software Service"
     }
   ]
 }
