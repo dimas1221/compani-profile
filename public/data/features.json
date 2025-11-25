@@ -215,6 +215,13 @@
           "desc_en": "The Visa on Arrival (VoA) application is a secure and user-friendly digital platform that streamlines the entry process for international travelers by allowing them to submit information, upload documents, and complete payment in advance, enabling faster immigration processing, reducing queues, and enhancing overall travel convenience.",
           "desc_id": "Aplikasi Visa on Arrival (VoA) adalah platform digital yang aman dan mudah digunakan yang memperlancar proses masuk bagi pelancong internasional dengan memungkinkan mereka menyerahkan informasi, mengunggah dokumen, dan menyelesaikan pembayaran di muka, sehingga pemrosesan imigrasi menjadi lebih cepat, mengurangi antrean, dan meningkatkan kenyamanan perjalanan secara keseluruhan.",
           "image": "/images/uploads/voa_portfolio.png"
+        },
+        {
+          "image": "/images/uploads/bsd_portfolio.png",
+          "title_en": "ResOne",
+          "title_id": "ResOne",
+          "desc_en": "Residence One is an AI- and IoT-powered residential access management system designed for BSD housing complexes, enabling secure, efficient, and fully automated entry and exit processes through smart sensors, real-time monitoring, intelligent gate control, and advanced identity verification to enhance safety, reduce manual intervention, and provide residents with a seamless modern living experience.",
+          "desc_id": "Residence One adalah sistem manajemen akses hunian bertenaga AI dan IoT yang dirancang untuk kompleks perumahan BSD, memungkinkan proses masuk dan keluar yang aman, efisien, dan sepenuhnya otomatis melalui sensor pintar, pemantauan waktu nyata, kontrol gerbang cerdas, dan verifikasi identitas tingkat lanjut untuk meningkatkan keselamatan, mengurangi intervensi manual, dan memberi penghuni pengalaman tinggal modern yang lancar."
         }
       ],
       "desc_en": "Manage software lifecycles, updates, and deployments to ensure stability and scalability.",
