@@ -5,17 +5,17 @@
       "header_learn_more": [
         {
           "image": "https://images.unsplash.com/photo-1581090700227-1e37b190418e?auto=format&fit=crop&w=900&q=60",
-          "title_en": "Predictive Analytics",
-          "title_id": "Analitik Prediktif",
-          "desc_en": "Forecast trends and behavior using machine learning.",
-          "desc_id": "Prediksi tren dan perilaku menggunakan machine learning."
+          "title_en": "Visitor Management System",
+          "title_id": "Sistem Manajemen Pengunjung",
+          "desc_en": "A Visitor Management System is a digital tool that simplifies and secures the process of registering and tracking visitors in a facility.",
+          "desc_id": "Sistem Manajemen Pengunjung adalah alat digital yang menyederhanakan dan mengamankan proses pendaftaran dan pelacakan pengunjung di suatu fasilitas."
         },
         {
           "image": "https://images.unsplash.com/photo-1581092795360-8c6c0ef1f518?auto=format&fit=crop&w=900&q=60",
-          "title_en": "AI Automation",
-          "title_id": "Automasi AI",
-          "desc_en": "Reduce repetitive tasks and increase efficiency.",
-          "desc_id": "Mengurangi tugas berulang dan meningkatkan efisiensi."
+          "title_en": "Smart Security",
+          "title_id": "Keamanan Cerdas",
+          "desc_en": "Smart Security is an intelligent protection system that uses AI, automation, and real-time monitoring to enhance safety, detect threats, and respond quickly to potential risks.",
+          "desc_id": "Keamanan Cerdas adalah sistem perlindungan cerdas yang menggunakan AI, otomatisasi, dan pemantauan waktu nyata untuk meningkatkan keselamatan, mendeteksi ancaman, dan merespons potensi risiko dengan cepat."
         }
       ],
       "img": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=900&q=60",
