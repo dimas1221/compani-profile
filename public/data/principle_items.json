@@ -107,6 +107,15 @@
       "subtitle_en": "Fusion Cloud is the platform for aggregating thousands of video channels from different places, various protocols, and different networks to central demon-strate and management of the video. It's based on the \"Smart Vision\" design concept, and it's a privatized deployment security management platform with video application and intelligent analysis as its core capabilities.",
       "type": "Jovision",
       "subtitle_id": "Fusion Cloud adalah platform untuk menggabungkan ribuan kanal video dari berbagai lokasi, berbagai protokol, dan jaringan untuk demonstrasi dan pengelolaan video secara terpusat. Platform ini didasarkan pada konsep desain \"Smart Vision\", dan merupakan platform manajemen keamanan penerapan yang diprivatisasi dengan aplikasi video dan analisis cerdas sebagai kemampuan intinya."
+    },
+    {
+      "id": "eaded2e3-0c30-4381-b024-1dd41e8d5b55",
+      "image": "/images/uploads/digitalitation_cloud.png",
+      "title_id": "Vusion Cloud Platform",
+      "title_en": "Vusion Cloud Platform",
+      "subtitle_en": "Vusion Cloud Platform is the P2P and video streaming platform adopts a public cloud architecture and Al capabilities. Vusion Cloud platform not only provides the cloud base for Jovision products, but also can be privately deployment to empower our global partners with private cloud abilities.",
+      "type": "Jovision",
+      "subtitle_id": "Vusion Cloud Platform adalah platform streaming video dan P2P yang mengadopsi arsitektur cloud publik dan kapabilitas AI. Platform Vusion Cloud tidak hanya menyediakan basis cloud untuk produk Jovision, tetapi juga dapat diterapkan secara privat untuk memberdayakan mitra global kami dengan kemampuan cloud privat."
     }
   ]
 }
