@@ -62,6 +62,15 @@
       "subtitle_en": "Smart Codec Boostering. Jovision Smart Codec technology on XVR which can booster the SOC ability to input utmost cameras. With this technology, Jovision 4ch XVR has the ability to connect 4pcs Analog Cameras + 12pcs IP cameras. Total 16pcs cameras.",
       "subtitle_id": "Peningkatan Codec Cerdas. Teknologi Codec Cerdas Jovision pada XVR dapat meningkatkan kemampuan SOC untuk memasukkan kamera terbaik. Dengan teknologi ini, Jovision 4ch XVR dapat menghubungkan 4 kamera analog + 12 kamera IP. Total 16 kamera.",
       "type": "Jovision"
+    },
+    {
+      "id": "dbf71aaa-c8ba-47fa-a2d9-17827f7edf7d",
+      "image": "/images/uploads/hill.png",
+      "title_id": "OculiNext",
+      "title_en": "OculiNext",
+      "subtitle_en": "OculiNext is the series of Jovision multi-lens (Lens ≥2) IP Cameras.\nOculiNext IP cameras includes 3 types.OculiNext (F) for motorized Zoom. OculiNext (W) for wider viewing upto 180° and OculiNext (R) for 360° panoramic viewing.",
+      "type": "Jovision",
+      "subtitle_id": "OculiNext adalah seri Kamera IP multi-lensa (Lensa ≥2) Jovision. Kamera IP OculiNext terdiri dari 3 jenis: OculiNext (F) untuk Zoom bermotor, OculiNext (W) untuk tampilan lebih luas hingga 180°, dan OculiNext (R) untuk tampilan panorama 360°."
     }
   ]
 }
