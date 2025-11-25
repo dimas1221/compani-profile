@@ -9,7 +9,7 @@ import { useI18n } from '../../i18n/I18nProvider';
 import { motion } from 'framer-motion';
 import Shimmer from '../../components/Shimmer';
 import TemplateSection from '../../components/TemplateSection';
-
+//tets
 export default function LearnMorePage() {
   const { id } = useParams();
   const [item, setItem] = useState(null);
