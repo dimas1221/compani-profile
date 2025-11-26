@@ -9,6 +9,9 @@ import { Routes, Route } from 'react-router-dom';
 import { useApp } from './context/AppContext';
 import { useI18n } from './i18n/I18nProvider';
 
+// 🔥 Global Premium Intro
+import GlobalPremiumIntro from './components/GlobalPremiumIntro';
+
 const Home = lazy(() => import('./pages/home/Home'));
 const LearnMorePage = lazy(() => import('./pages/home/LearnMorePage'));
 const About = lazy(() => import('./pages/about/About'));
@@ -22,22 +25,19 @@ const StoryDetail = lazy(() => import('./pages/successStory/StoryDetail'));
 const HelpResources = lazy(() => import('./pages/help/HelpResources'));
 
 export default function App() {
-  const { darkMode, toggleTheme } = useApp();
-  const { lang, setLang, t } = useI18n();
+  const { darkMode } = useApp();
+  const [showIntro, setShowIntro] = useState(true); // <-- STATE INTRO
+  const { lang } = useI18n();
   const [topBarVisible, setTopBarVisible] = useState(true);
 
-  // Padding-top harus dinamis dan transition agar smooth
-  const topOffset = topBarVisible ? 110 : 72; // px
+  const topOffset = topBarVisible ? 110 : 72;
+
+  // ⛔ Jika intro masih aktif → tampilkan dulu intro, jangan render layout
+  if (showIntro) {
+    return <GlobalPremiumIntro onFinish={() => setShowIntro(false)} />;
+  }
 
   return (
-    // <div
-    //   className={`min-h-screen flex flex-col transition-colors duration-300 ${
-    //     darkMode
-    //       ? "dark bg-gray-950 text-gray-100"
-    //       : "bg-gradient-to-b from-[#f9fafc] via-[#f5f8ff] to-[#eef2f7] text-gray-800"
-    //   }`}
-    //   style={{ transition: "padding-top 0.3s ease" }}
-    // >
     <div
       className={`min-h-screen flex flex-col transition-colors duration-500 ${
         darkMode
@@ -47,16 +47,16 @@ export default function App() {
       style={{
         backgroundImage: !darkMode
           ? `
-        radial-gradient(at 20% 20%, rgba(230, 245, 255, 0.6) 0px, transparent 50%),
-        radial-gradient(at 80% 0%, rgba(245, 250, 255, 0.6) 0px, transparent 50%),
-        radial-gradient(at 50% 100%, rgba(230, 240, 255, 0.5) 0px, transparent 50%)
-      `
+            radial-gradient(at 20% 20%, rgba(230, 245, 255, 0.6) 0px, transparent 50%),
+            radial-gradient(at 80% 0%, rgba(245, 250, 255, 0.6) 0px, transparent 50%),
+            radial-gradient(at 50% 100%, rgba(230, 240, 255, 0.5) 0px, transparent 50%)
+          `
           : 'none',
         transition: 'all 0.5s ease',
       }}
     >
       <MobileLandscapeVideo />
-      {/* Header */}
+
       <div className="hidden lg:block">
         <TopBar onVisibilityChange={setTopBarVisible} />
         <Header topBarVisible={topBarVisible} />
@@ -66,11 +66,8 @@ export default function App() {
         <HeaderMobile />
       </div>
 
-      {/* Main */}
       <main
-        className="flex-1 transition-all duration-300
-        
-        "
+        className="flex-1 transition-all duration-300"
         style={{ paddingTop: topOffset }}
       >
         <Suspense fallback={<div className="text-center py-20">Loading…</div>}>

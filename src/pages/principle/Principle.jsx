@@ -5,6 +5,7 @@ import './stylePrinciple.css';
 import GlobalSectionTitle from '../../components/GlobalSectionTitle';
 import PremiumJustifiedParagraph from '../../components/PremiumJustifiedParagraph';
 import TimelinePremium from '../../components/TimelinePremium';
+import GlobalSplitShowcase from '../../components/GlobalSplitShowcase';
 export default function Principle() {
   const { lang } = useI18n();
 
@@ -165,71 +166,24 @@ Silakan hubungi kami untuk kerjasama.`;
 
       {/* ================= CONTENT ================= */}
       <div className="mt-20 px-1 md:px-4 ">
-        <div className="mx-auto  px-1 py-12 ">
-          <div className="flex flex-col md:flex-row md:items-start md:gap-16">
-            {/* Left: Image */}
-            <div className="flex-shrink-0 rounded-3xl overflow-hidden shadow-lg mb-8 md:mb-0 md:w-7/12">
-              <img
-                src={bgHero} // Ganti sesuai kebutuhan
-                alt="Maxvision Technology Corp. Vision"
-                className="w-full h-full md:h-[600px] object-cover"
-                loading="lazy"
-              />
-            </div>
+        <GlobalSplitShowcase
+          title={lang === 'id' ? 'Tentang Maxision' : 'About Maxision'}
+          paragraph={lang === 'id' ? desmaxVisionIn : desmaxVisionEn}
+          image={bgHero}
+          reverse={false}
+        />
 
-            {/* Right: Content */}
-            <div className="md:flex-1 md:w-full">
-              <GlobalSectionTitle
-                title={lang == 'id' ? 'Tentang Maxision ' : 'About Maxision '}
-                className="mb-6"
-              />
-              <PremiumJustifiedParagraph>
-                {lang === 'id' ? desmaxVisionIn : desmaxVisionEn}
-              </PremiumJustifiedParagraph>
-            </div>
-          </div>
-        </div>
-
-        {/* <DesignGlobal1
-          items={mappedItems}
-          useIcon={false}
-          useImage={true}
-          title={lang == 'id' ? 'Prinsip Kami' : 'Our Principle'}
-        /> */}
         <TimelinePremium items={mappedItems} />
 
         <br />
-        <div className="mx-auto px-1 py-12">
-          <div className="flex flex-col md:flex-row md:items-start md:gap-16">
-            {/* Left: Image */}
-            <div className="flex-shrink-0 rounded-3xl overflow-hidden shadow-lg mb-8 md:mb-0 md:w-7/12">
-              <img
-                src={bgHero} // Ganti sesuai kebutuhan
-                alt="Maxvision Technology Corp. Vision"
-                className="w-full h-full md:h-[600px] object-cover"
-                loading="lazy"
-              />
-            </div>
 
-            {/* Right: Content */}
-            <div className="md:flex-1 md:w-5/12">
-              <GlobalSectionTitle
-                title={lang == 'id' ? 'Tentang Jovision ' : 'About Jovision '}
-                className="mb-6"
-              />
-              <p className="prose prose-lg prose-neutral dark:prose-invert max-w-none text-justify leading-relaxed indent-8 tracking-wide">
-                {lang === 'id' ? desmaxJovIn : desmaxJovEn}
-              </p>
-            </div>
-          </div>
-        </div>
+        <GlobalSplitShowcase
+          title={lang == 'id' ? 'Tentang Jovision ' : 'About Jovision '}
+          paragraph={lang === 'id' ? desmaxJovIn : desmaxJovEn}
+          image={bgHero}
+          reverse={true}
+        />
 
-        {/* <DesignGlobal1
-          items={mappedItemsJov}
-          useIcon={false}
-          useImage={true}
-          title={lang == 'id' ? 'Prinsip Kami' : 'Our Principle'}
-        /> */}
         <TimelinePremium items={mappedItemsJov} />
       </div>
     </div>

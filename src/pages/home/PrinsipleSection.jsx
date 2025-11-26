@@ -3,64 +3,40 @@ import GlobalCard from '../../components/GlobalCard';
 import GlobalSectionTitle from '../../components/GlobalSectionTitle';
 import { motion } from 'framer-motion';
 import { useI18n } from '../../i18n/I18nProvider';
+import GlobalSplitShowcase from '../../components/GlobalSplitShowcase';
 export const PrinsipleSection = () => {
   const { lang } = useI18n();
-  const [itemsData, setItemsData] = useState(null);
-  // Load ITEMS
-  useEffect(() => {
-    import('../../../public/data/principle_items.json')
-      .then((res) => setItemsData(res.default.principle_items))
-      .catch((err) =>
-        console.error('Failed to load principle_items.json', err)
-      );
-  }, []);
+  const bgHero = '/images/logo/principle.jpg';
+  const desmaxVisionEn =
+    "Maxvision Technology Corp. is a listed enterprise on the Main Board of the Shenzhen Stock Exchange (002990), headquartered in Shenzhen, China. It is a national high-tech company specializing in artificial intelligence, big data, the Internet of Things, and next-generation information technologies, providing intelligent products and 'AI+Industry' solutions to support the development of a smart society.";
+  const desmaxJovEn =
+    'Founded in 2000, Jovision is a provider of Intelligent Vision products and solutions. With over 25 years of R&D and manufacturing experience, it has established a Video + AI-based Intelligent Vision Service System and ranks 28th in A&S 2022 Global TOP50 and China TOP10 in the video surveillance industry.';
+  const desmaxVisionIn =
+    "Maxvision Technology Corp. adalah perusahaan yang terdaftar di Papan Utama Bursa Efek Shenzhen (002990) dan berkantor pusat di Shenzhen, Tiongkok. Perusahaan ini merupakan perusahaan teknologi tinggi nasional yang bergerak di bidang kecerdasan buatan, data besar, Internet of Things, dan teknologi informasi generasi baru, menyediakan produk cerdas dan solusi 'AI+Industry' untuk mendukung pembangunan masyarakat cerdas.";
+  const desmaxJovIn =
+    'Didirikan pada tahun 2000, Jovision adalah penyedia Produk dan Solusi Intelligent Vision. Dengan lebih dari 25 tahun pengalaman R&D dan manufaktur, perusahaan ini telah membangun Sistem Layanan Intelligent Vision berbasis Video + AI dan menempati peringkat ke-28 A&S 2022 Global TOP50 serta TOP10 China di bidang pengawasan video.';
 
-  // Map items (image-based, multilingual)
-  const mappedItems = itemsData?.map((item) => ({
-    id: item.id,
-    image: item.image,
-    title: lang === 'id' ? item.title_id : item.title_en,
-    subtitle: lang === 'id' ? item.subtitle_id : item.subtitle_en,
-  }));
   return (
     <section
       className={`relative py-20 sm:py-28 px-6                 
                   transition-colors duration-700 overflow-hidden`}
     >
-      <div className="max-w-7xl mx-auto">
-        {/* === Title Section === */}
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6 }}
-          viewport={{ once: true }}
-          className="text-center"
-        >
-          <GlobalSectionTitle
-            title={lang == 'id' ? 'Prinsip Kami' : 'Our Principle'}
-          />
-        </motion.div>
+      <GlobalSectionTitle
+        title={lang == 'id' ? 'Prinsip Kami' : 'Our Principle'}
+      />
+      <GlobalSplitShowcase
+        title={lang === 'id' ? 'Tentang Maxision' : 'About Maxision'}
+        paragraph={lang === 'id' ? desmaxVisionIn : desmaxVisionEn}
+        image={bgHero}
+        reverse={false}
+      />
 
-        {/* === Grid Section === */}
-        <motion.div
-          className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8 mt-12"
-          initial={{ opacity: 0, y: 30 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8 }}
-          viewport={{ once: true }}
-        >
-          {mappedItems?.map((item, i) => (
-            <GlobalCard
-              key={i}
-              title={item.title}
-              subtitle={item.subtitle}
-              date={item?.date}
-              image={item.image}
-              className="hover:-translate-y-2 hover:shadow-2xl transition-all duration-500"
-            />
-          ))}
-        </motion.div>
-      </div>
+      <GlobalSplitShowcase
+        title={lang == 'id' ? 'Tentang Jovision ' : 'About Jovision '}
+        paragraph={lang === 'id' ? desmaxJovIn : desmaxJovEn}
+        image={bgHero}
+        reverse={true}
+      />
     </section>
   );
 };

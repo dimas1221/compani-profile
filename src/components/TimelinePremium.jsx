@@ -47,7 +47,7 @@ export default function TimelinePremium({ items }) {
                     <img
                       src={item.image}
                       alt={item.title}
-                      className="w-full h-48 object-cover"
+                      className="w-full h-58 object-cover"
                       loading="lazy"
                     />
                   </div>
@@ -57,11 +57,56 @@ export default function TimelinePremium({ items }) {
                   {item.title}
                 </h3>
 
-                {item.subtitle && (
-                  <p className="text-gray-600 dark:text-gray-300 mt-2 leading-relaxed">
-                    {item.subtitle}
-                  </p>
-                )}
+                {item.subtitle &&
+                  (() => {
+                    const parts = item.subtitle.split('|').map((p) => p.trim());
+
+                    const isSpecial =
+                      item.title ===
+                        'Memperoleh Banyak Hak Kekayaan Intelektual' ||
+                      item.title ===
+                        'Acquired Multiple Intellectual Property Rights';
+
+                    return (
+                      <div className="mt-4">
+                        {/* SPECIAL TITLE BADGE (only for index 0) */}
+                        {isSpecial && parts.length > 0 && (
+                          <div
+                            className="
+            inline-block px-4 py-1.5 rounded-lg mb-3
+            text-sm font-semibold tracking-wide
+            bg-gradient-to-r from-primary/15 to-primary/5 text-primary
+            dark:bg-gradient-to-r dark:from-primary/25 dark:to-primary/10
+            shadow-sm dark:shadow-[0_0_10px_rgba(0,0,0,0.4)]
+          "
+                          >
+                            {parts[0]}
+                          </div>
+                        )}
+
+                        {/* BULLET LIST (starting from index 1 if special) */}
+                        <ul className="space-y-2">
+                          {parts.slice(isSpecial ? 1 : 0).map((part, idx) => (
+                            <li
+                              key={idx}
+                              className="flex items-start gap-3 text-gray-700 dark:text-gray-300 leading-relaxed"
+                            >
+                              <span
+                                className="
+                  mt-1 w-2 h-2 rounded-full 
+                  bg-blue-600
+                  shadow-[0_0_6px_rgba(0,0,0,0.2)]
+                "
+                              />
+                              <span className="text-[15px] font-light tracking-wide">
+                                {part}
+                              </span>
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    );
+                  })()}
               </div>
             </motion.div>
           ))}

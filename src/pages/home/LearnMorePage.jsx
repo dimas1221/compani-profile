@@ -117,7 +117,7 @@ export default function LearnMorePage() {
         </div>
 
         {/* PORTFOLIO - Horizontal Showcase */}
-        {item.portofolio_learn_more?.length > 0 && (
+        {/* {item.portofolio_learn_more?.length > 0 && (
           <section className="mb-20">
             <GlobalSectionTitle
               title={t.learnMorePage.portfolio}
@@ -142,10 +142,10 @@ export default function LearnMorePage() {
               ))}
             </CarouselLearnMore>
           </section>
-        )}
+        )} */}
 
         {/* TEAM - Profile Grid */}
-        {item.team_learn_more?.length > 0 && (
+        {/* {item.team_learn_more?.length > 0 && (
           <section className="mb-20">
             <GlobalSectionTitle title={t.learnMorePage.team} className="mb-8" />
             <div className="max-w-5xl mx-auto px-4">
@@ -163,7 +163,7 @@ export default function LearnMorePage() {
               </div>
             </div>
           </section>
-        )}
+        )} */}
       </div>
     </TemplateSection>
   );

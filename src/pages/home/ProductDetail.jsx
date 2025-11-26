@@ -113,7 +113,14 @@ export default function ProductDetail() {
               >
                 {name}
               </GlobalButton>
-
+              <br />
+              <button
+                onClick={() => navigate('/product')}
+                className="mb-10 text-sm font-semibold text-gray-600 dark:text-gray-300 hover:text-primary hover:underline transition-colors duration-300"
+                aria-label={lang === 'id' ? 'Kembali' : 'Back'}
+              >
+                ← {lang === 'id' ? 'Kembali' : 'Back'}
+              </button>
               {/* OPTIONAL TITLE SECTION */}
               <motion.div
                 initial={{ opacity: 0, y: 20 }}
@@ -202,13 +209,13 @@ mb-10
                   <div className="mt-auto pt-12">
                     <div className="flex flex-col sm:flex-row items-center gap-4 w-full">
                       {/* WhatsApp Button */}
-                      <GlobalButton
+                      {/* <GlobalButton
                         onClick={() => navigate('/product')}
                         size="medium"
                         className="text-sm font-semibold py-3 px-8 shadow-lg hover:shadow-xl transition w-full sm:w-auto"
                       >
                         ← {translate('Back')}
-                      </GlobalButton>
+                      </GlobalButton> */}
                       {/* Show Parameters */}
                       <GlobalButton
                         onClick={() => setSidebarOpen(true)}
