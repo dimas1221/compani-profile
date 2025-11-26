@@ -113,7 +113,7 @@ export default function GlobalSplitShowcase({
                 initial={{ scale: 1.05 }}
                 animate={{ scale: 1 }}
                 transition={{ duration: 1.2, ease: 'easeOut' }}
-                className="w-full h-[240px] md:h-[420px] object-cover rounded-3xl"
+                className="w-full object-cover rounded-3xl"
                 style={{ transform: `translateZ(${tilt.tz / 6}px)` }}
               />
 
