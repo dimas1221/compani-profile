@@ -15,7 +15,7 @@ export default function PremiumJustifiedParagraph({ children, className }) {
         className
       )}
       style={{
-        wordSpacing: '0.02em', // smooth justification
+        wordSpacing: '0.01em', // smooth justification
         lineHeight: '1.8', // elegant line height
       }}
     >

@@ -3,7 +3,8 @@ import { useI18n } from '../../i18n/I18nProvider';
 import DesignGlobal1 from '../../components/DesignGlobal1';
 import './stylePrinciple.css';
 import GlobalSectionTitle from '../../components/GlobalSectionTitle';
-
+import PremiumJustifiedParagraph from '../../components/PremiumJustifiedParagraph';
+import TimelinePremium from '../../components/TimelinePremium';
 export default function Principle() {
   const { lang } = useI18n();
 
@@ -163,8 +164,8 @@ Silakan hubungi kami untuk kerjasama.`;
       </section>
 
       {/* ================= CONTENT ================= */}
-      <div className="mt-20 px-4 md:px-0">
-        <div className="max-w-6xl mx-auto px-6 py-12">
+      <div className="mt-20 px-1 md:px-4 ">
+        <div className="mx-auto  px-1 py-12 ">
           <div className="flex flex-col md:flex-row md:items-start md:gap-16">
             {/* Left: Image */}
             <div className="flex-shrink-0 rounded-3xl overflow-hidden shadow-lg mb-8 md:mb-0 md:w-7/12">
@@ -177,26 +178,28 @@ Silakan hubungi kami untuk kerjasama.`;
             </div>
 
             {/* Right: Content */}
-            <div className="md:flex-1 md:w-5/12">
+            <div className="md:flex-1 md:w-full">
               <GlobalSectionTitle
                 title={lang == 'id' ? 'Tentang Maxision ' : 'About Maxision '}
                 className="mb-6"
               />
-              <p className="prose prose-lg prose-neutral dark:prose-invert max-w-none text-justify leading-relaxed indent-8 tracking-wide">
+              <PremiumJustifiedParagraph>
                 {lang === 'id' ? desmaxVisionIn : desmaxVisionEn}
-              </p>
+              </PremiumJustifiedParagraph>
             </div>
           </div>
         </div>
 
-        <DesignGlobal1
+        {/* <DesignGlobal1
           items={mappedItems}
           useIcon={false}
           useImage={true}
           title={lang == 'id' ? 'Prinsip Kami' : 'Our Principle'}
-        />
+        /> */}
+        <TimelinePremium items={mappedItems} />
+
         <br />
-        <div className="max-w-6xl mx-auto px-6 py-12">
+        <div className="mx-auto px-1 py-12">
           <div className="flex flex-col md:flex-row md:items-start md:gap-16">
             {/* Left: Image */}
             <div className="flex-shrink-0 rounded-3xl overflow-hidden shadow-lg mb-8 md:mb-0 md:w-7/12">
@@ -221,12 +224,13 @@ Silakan hubungi kami untuk kerjasama.`;
           </div>
         </div>
 
-        <DesignGlobal1
+        {/* <DesignGlobal1
           items={mappedItemsJov}
           useIcon={false}
           useImage={true}
           title={lang == 'id' ? 'Prinsip Kami' : 'Our Principle'}
-        />
+        /> */}
+        <TimelinePremium items={mappedItemsJov} />
       </div>
     </div>
   );
