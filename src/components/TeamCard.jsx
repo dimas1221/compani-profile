@@ -1,17 +1,25 @@
 import React from 'react';
+
 export default function TeamCard({ member, lang }) {
   return (
-    <div className="flex gap-4 items-start bg-white dark:bg-[#0f1116] p-4 rounded-lg border border-gray-100 dark:border-gray-800">
+    <div className="flex gap-4 items-start bg-transparent">
       <img
         src={member.image}
         alt={member.name}
-        className="w-14 h-14 object-cover rounded-full"
+        className="w-16 h-16 object-cover rounded-full ring-2 ring-white/60 dark:ring-gray-800/60"
       />
-      <div>
-        <div className="font-semibold text-gray-900 dark:text-gray-100">
-          {member.name}
+      <div className="flex-1">
+        <div className="flex items-center justify-between">
+          <div>
+            <div className="font-semibold text-gray-900 dark:text-gray-100">
+              {member.name}
+            </div>
+            <div className="text-xs text-gray-500 dark:text-gray-400">
+              {member.role || ''}
+            </div>
+          </div>
         </div>
-        <p className="text-sm text-gray-600 dark:text-gray-300 mt-1">
+        <p className="mt-2 text-sm text-gray-600 dark:text-gray-300 line-clamp-3">
           {lang === 'id' ? member.message_id : member.message_en}
         </p>
       </div>
