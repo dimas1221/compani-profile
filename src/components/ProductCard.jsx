@@ -1,13 +1,13 @@
-import React from "react";
-import { Wifi, Bluetooth, Rss } from "lucide-react";
-import { Link } from "react-router-dom";
-import { useI18n } from "../i18n/I18nProvider";
+import React from 'react';
+import { Wifi, Bluetooth, Rss } from 'lucide-react';
+import { Link } from 'react-router-dom';
+import { useI18n } from '../i18n/I18nProvider';
 
 export default function ProductCard({ product }) {
   const { lang } = useI18n();
 
-  const name = lang === "id" ? product.name_id : product.name_en;
-  const short = lang === "id" ? product.short_id : product.short_en;
+  const name = lang === 'id' ? product.name_id : product.name_en;
+  const short = lang === 'id' ? product.short_id : product.short_en;
   // const desc = lang === "id" ? product.desc_id : product.desc_en;
 
   const icons = {
@@ -70,15 +70,16 @@ export default function ProductCard({ product }) {
       >
         <p className="text-sm font-semibold mb-2 drop-shadow-md">{name}</p>
         <p
-          className="
-    mb-10 
-    text-gray-700 dark:text-gray-300 
-    leading-relaxed 
-    text-justify 
-    text-xs
-    tracking-wide 
-    space-y-4
-    [&>p:first-child]:indent-8
+          class="
+    text-pretty
+    text-balance
+    text-white/90
+    text-[13px]
+    leading-[1.55]
+    font-light
+    tracking-[0.002em]
+    [hyphens:auto]
+    [overflow-wrap:anywhere]
   "
         >
           {short}

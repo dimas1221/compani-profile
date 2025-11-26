@@ -95,53 +95,6 @@
       "learn_more_title_en": "Powering the Future with IoT"
     },
     {
-      "title_id": "Sistem Rumah Pintar",
-      "header_learn_more": [
-        {
-          "image": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=900&q=60",
-          "title_en": "Smart Lighting",
-          "title_id": "Pencahayaan Pintar",
-          "desc_en": "Automated lighting based on user behavior.",
-          "desc_id": "Pencahayaan otomatis berdasarkan kebiasaan pengguna."
-        },
-        {
-          "image": "https://images.unsplash.com/photo-1567016539400-9f41bd1a676c?auto=format&fit=crop&w=900&q=60",
-          "title_en": "Smart Security",
-          "title_id": "Keamanan Pintar",
-          "desc_en": "Monitoring and alert systems integrated into your home.",
-          "desc_id": "Sistem pemantauan dan peringatan yang terintegrasi."
-        }
-      ],
-      "img": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=900&q=60",
-      "learn_more_desc_en": "Smart home systems enhance convenience, energy efficiency, and overall home safety.",
-      "desc_id": "Integrasikan berbagai perangkat rumah ke dalam ekosistem pintar untuk keamanan, kenyamanan, dan efisiensi.",
-      "learn_more_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=900&q=60",
-      "title_en": "Smart Home System",
-      "learn_more_title_id": "Hidup Lebih Cerdas dengan Teknologi Rumah Pintar",
-      "team_learn_more": [
-        {
-          "image": "https://randomuser.me/api/portraits/men/53.jpg",
-          "name": "Kevin Ross",
-          "message_en": "We build homes that adapt to your lifestyle.",
-          "message_id": "Kami membangun rumah yang menyesuaikan gaya hidup Anda."
-        }
-      ],
-      "portofolio_learn_more": [
-        {
-          "image": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=900&q=60",
-          "title_en": "Smart Apartment Setup",
-          "title_id": "Instalasi Apartemen Pintar",
-          "desc_en": "Full automation of a modern apartment.",
-          "desc_id": "Otomatisasi lengkap apartemen modern."
-        }
-      ],
-      "desc_en": "Integrate devices into a unified smart home ecosystem for safety, comfort, and efficiency.",
-      "icon": "Home",
-      "learn_more_desc_id": "Sistem rumah pintar meningkatkan kenyamanan, efisiensi energi, dan keamanan rumah.",
-      "id": 3,
-      "learn_more_title_en": "Smarter Living with Smart Home Technology"
-    },
-    {
       "title_id": "Manajemen Perangkat Lunak",
       "header_learn_more": [
         {
@@ -243,6 +196,53 @@
       "learn_more_desc_id": "Kami percaya akan ada lebih banyak ponsel pintar daripada komputer di dunia seluler. Dalam waktu dekat, akan ada pasar besar yang akan dilayani oleh ekosistem aplikasi seluler.\n\nTujuan utama kami adalah menciptakan teknologi khusus, mulai dari yang sederhana seperti situs web hingga aplikasi internet yang kompleks, untuk mendukung bisnis Anda.\n\nKami memiliki tim pengembangan yang luas yang dapat mengelola perangkat lunak dan aplikasi Anda saat ini. Percayakan perangkat lunak Anda kepada kami sementara Anda mengelola bisnis Anda.",
       "id": 4,
       "learn_more_title_en": "What We Do Software Service"
+    },
+    {
+      "title_id": "Sistem Rumah Pintar",
+      "header_learn_more": [
+        {
+          "image": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=900&q=60",
+          "title_en": "Smart Lighting",
+          "title_id": "Pencahayaan Pintar",
+          "desc_en": "Automated lighting based on user behavior.",
+          "desc_id": "Pencahayaan otomatis berdasarkan kebiasaan pengguna."
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1567016539400-9f41bd1a676c?auto=format&fit=crop&w=900&q=60",
+          "title_en": "Smart Security",
+          "title_id": "Keamanan Pintar",
+          "desc_en": "Monitoring and alert systems integrated into your home.",
+          "desc_id": "Sistem pemantauan dan peringatan yang terintegrasi."
+        }
+      ],
+      "img": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=900&q=60",
+      "learn_more_desc_en": "Smart home systems enhance convenience, energy efficiency, and overall home safety.",
+      "desc_id": "Integrasikan berbagai perangkat rumah ke dalam ekosistem pintar untuk keamanan, kenyamanan, dan efisiensi.",
+      "learn_more_image": "https://images.unsplash.com/photo-1580584126903-c17d41830450?auto=format&fit=crop&w=900&q=60",
+      "title_en": "Smart Home System",
+      "learn_more_title_id": "Hidup Lebih Cerdas dengan Teknologi Rumah Pintar",
+      "team_learn_more": [
+        {
+          "image": "https://randomuser.me/api/portraits/men/53.jpg",
+          "name": "Kevin Ross",
+          "message_en": "We build homes that adapt to your lifestyle.",
+          "message_id": "Kami membangun rumah yang menyesuaikan gaya hidup Anda."
+        }
+      ],
+      "portofolio_learn_more": [
+        {
+          "image": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=900&q=60",
+          "title_en": "Smart Apartment Setup",
+          "title_id": "Instalasi Apartemen Pintar",
+          "desc_en": "Full automation of a modern apartment.",
+          "desc_id": "Otomatisasi lengkap apartemen modern."
+        }
+      ],
+      "desc_en": "Integrate devices into a unified smart home ecosystem for safety, comfort, and efficiency.",
+      "icon": "Home",
+      "learn_more_desc_id": "Sistem rumah pintar meningkatkan kenyamanan, efisiensi energi, dan keamanan rumah.",
+      "id": 3,
+      "learn_more_title_en": "Smarter Living with Smart Home Technology"
     }
   ]
 }
