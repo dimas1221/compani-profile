@@ -1,8 +1,9 @@
-import React, { useEffect, useState } from "react";
-import { useParams, Link } from "react-router-dom";
-import { motion } from "framer-motion";
-import { useI18n } from "../../i18n/I18nProvider";
-import { ArrowLeft } from "lucide-react";
+import React, { useEffect, useState } from 'react';
+import { useParams, Link } from 'react-router-dom';
+import { motion } from 'framer-motion';
+import { useI18n } from '../../i18n/I18nProvider';
+import { ArrowLeft } from 'lucide-react';
+import PremiumJustifiedParagraph from '../../components/PremiumJustifiedParagraph';
 
 export default function StoryDetail() {
   const { id } = useParams();
@@ -10,11 +11,11 @@ export default function StoryDetail() {
   const [story, setStory] = useState(null);
 
   useEffect(() => {
-    window.scrollTo({ top: 0, behavior: "smooth" });
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   }, []);
 
   useEffect(() => {
-    import("../../data/success_story.json").then((res) => {
+    import('../../data/success_story.json').then((res) => {
       const data = res.default[lang].success_story_items.find(
         (i) => i.id === parseInt(id)
       );
@@ -45,9 +46,9 @@ export default function StoryDetail() {
         >
           <ArrowLeft className="w-5 h-5 mr-2 text-blue-600 dark:text-cyan-400 group-hover:-translate-x-1 transition-transform duration-300" />
           <span className="text-sm sm:text-base font-medium">
-            {lang === "id"
-              ? "Kembali ke Daftar Kisah"
-              : "Back to Success Stories"}
+            {lang === 'id'
+              ? 'Kembali ke Daftar Kisah'
+              : 'Back to Success Stories'}
           </span>
         </Link>
 
@@ -78,11 +79,11 @@ export default function StoryDetail() {
 
         <p className="text-sm text-gray-500 dark:text-gray-400 mb-8">
           {new Date(story.date).toLocaleDateString(
-            lang === "id" ? "id-ID" : "en-US",
+            lang === 'id' ? 'id-ID' : 'en-US',
             {
-              day: "numeric",
-              month: "long",
-              year: "numeric",
+              day: 'numeric',
+              month: 'long',
+              year: 'numeric',
             }
           )}
         </p>
@@ -97,9 +98,9 @@ export default function StoryDetail() {
             {story.subtitle}
           </p>
 
-          <p className="text-gray-700 dark:text-gray-300 leading-loose text-base sm:text-lg whitespace-pre-line">
+          <PremiumJustifiedParagraph>
             {story.description}
-          </p>
+          </PremiumJustifiedParagraph>
         </motion.div>
       </div>
     </article>

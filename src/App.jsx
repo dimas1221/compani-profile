@@ -34,7 +34,12 @@ export default function App() {
 
   // ⛔ Jika intro masih aktif → tampilkan dulu intro, jangan render layout
   if (showIntro) {
-    return <GlobalPremiumIntro onFinish={() => setShowIntro(false)} />;
+    return (
+      <GlobalPremiumIntro
+        onFinish={() => setShowIntro(false)}
+        mode="cinematic"
+      />
+    );
   }
 
   return (

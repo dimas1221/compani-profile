@@ -113,15 +113,14 @@ Silakan hubungi kami untuk kerjasama.`;
         {/* ================= HERO CARD (LEFT on desktop / TOP on mobile) ================= */}
         <div
           className="
-            hero-card
-            relative z-[20]
-            w-[92%] md:w-auto mx-auto mt-8 md:mt-0
-            px-6 py-6 md:px-10 md:py-10
-            text-center md:text-left
-            max-w-md md:max-w-xl
-            md:absolute md:left-[6%] md:top-[50%] md:-translate-y-1/2
-            tilt-card
-          "
+    hero-card
+    relative z-[20]
+    w-[92%] md:w-auto mx-auto mt-8 md:mt-0
+    px-6 py-6 md:px-10 md:py-10
+    max-w-md md:max-w-xl
+    md:absolute md:left-[6%] md:top-[50%] md:-translate-y-1/2
+    tilt-card
+  "
           role="region"
           aria-label="Principle hero card"
         >
@@ -131,17 +130,47 @@ Silakan hubungi kami untuk kerjasama.`;
           {/* reflection */}
           <div className="hero-reflection" aria-hidden="true" />
 
-          <h1 className="text-3xl md:text-5xl text-white font-semibold leading-tight drop-shadow-2xl neon-transforme font-clash">
+          {/* TITLE */}
+          <h1
+            className="
+      text-3xl md:text-5xl 
+      text-white font-semibold leading-tight 
+      drop-shadow-2xl neon-transforme font-clash
+      tracking-tight
+    "
+          >
             {heroData.hero_title}
           </h1>
 
-          <p className="mt-3 md:mt-4 text-base md:text-xl text-white/90 font-light tracking-wide">
+          {/* SUBTITLE */}
+          <p
+            className="
+      mt-3 md:mt-4 
+      text-base md:text-xl 
+      text-white/90 font-light tracking-wide
+      text-pretty
+    "
+          >
             {heroData.hero_subtitle}
           </p>
 
-          <p className="mt-3 md:mt-6 text-sm md:text-lg text-white/80 leading-relaxed">
-            {heroData.hero_desc}
-          </p>
+          {/* PREMIUM PARAGRAPH WRAPPER */}
+          <div className="mt-5 w-full flex justify-center md:justify-start">
+            <PremiumJustifiedParagraph
+              className="
+        !indent-0 
+        max-w-[60ch] 
+        text-left 
+        mx-auto md:mx-0
+        text-white/85 
+        text-[15.5px] md:text-[17px]
+        tracking-[0.01em]
+        [text-wrap:pretty]
+      "
+            >
+              {heroData.hero_desc}
+            </PremiumJustifiedParagraph>
+          </div>
         </div>
 
         {/* ================= RIGHT IMAGE (FLOATING PREMIUM) ================= */}
