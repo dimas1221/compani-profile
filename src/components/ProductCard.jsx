@@ -70,7 +70,7 @@ export default function ProductCard({ product }) {
       >
         <p className="text-sm font-semibold mb-2 drop-shadow-md">{name}</p>
         <p
-          class="
+          className="
     text-pretty
     text-balance
     text-white/90
