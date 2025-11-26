@@ -53,69 +53,6 @@
       "type": "Jovision",
       "subtitle_en": "Agile Sense. Jovision Al technology which detects the Human being only and provide much more accurate alarms.",
       "subtitle_id": "Agile Sense. Teknologi Jovision AI yang hanya mendeteksi manusia dan memberikan alarm yang jauh lebih akurat."
-    },
-    {
-      "id": "727eca4d-fbcc-4d7c-8765-2ce603639917",
-      "image": "/images/uploads/city_technology.png",
-      "title_id": "SCB",
-      "title_en": "SCB",
-      "subtitle_en": "Smart Codec Boostering. Jovision Smart Codec technology on XVR which can booster the SOC ability to input utmost cameras. With this technology, Jovision 4ch XVR has the ability to connect 4pcs Analog Cameras + 12pcs IP cameras. Total 16pcs cameras.",
-      "subtitle_id": "Peningkatan Codec Cerdas. Teknologi Codec Cerdas Jovision pada XVR dapat meningkatkan kemampuan SOC untuk memasukkan kamera terbaik. Dengan teknologi ini, Jovision 4ch XVR dapat menghubungkan 4 kamera analog + 12 kamera IP. Total 16 kamera.",
-      "type": "Jovision"
-    },
-    {
-      "id": "dbf71aaa-c8ba-47fa-a2d9-17827f7edf7d",
-      "image": "/images/uploads/hill.png",
-      "title_id": "OculiNext",
-      "title_en": "OculiNext",
-      "subtitle_en": "OculiNext is the series of Jovision multi-lens (Lens ≥2) IP Cameras.\nOculiNext IP cameras includes 3 types.OculiNext (F) for motorized Zoom. OculiNext (W) for wider viewing upto 180° and OculiNext (R) for 360° panoramic viewing.",
-      "type": "Jovision",
-      "subtitle_id": "OculiNext adalah seri Kamera IP multi-lensa (Lensa ≥2) Jovision. Kamera IP OculiNext terdiri dari 3 jenis: OculiNext (F) untuk Zoom bermotor, OculiNext (W) untuk tampilan lebih luas hingga 180°, dan OculiNext (R) untuk tampilan panorama 360°."
-    },
-    {
-      "id": "0ca3a83f-45ab-487f-87a1-270c7d7521f7",
-      "image": "/images/uploads/cloud.png",
-      "title_id": "H.256+",
-      "title_en": "H.256+",
-      "subtitle_en": "Smart Video & Audio Compression technology applied to Jovision NVR and IP Camera which can save 60% hard disk storage than H.264 and save 20% hard disk storage than H.265.",
-      "type": "Jovision",
-      "subtitle_id": "Teknologi Kompresi Video & Audio Cerdas diterapkan pada Jovision NVR dan Kamera IP yang dapat menghemat 60% penyimpanan hard disk dibandingkan H.264 dan menghemat 20% penyimpanan hard disk dibandingkan H.265."
-    },
-    {
-      "id": "9cff3f4d-1fec-4b42-b7de-5392927b2ee5",
-      "image": "/images/uploads/night_mode.png",
-      "title_id": "SAFE",
-      "title_en": "SAFE",
-      "subtitle_en": "Smart Anti Face-Over Exposure. It's Jovision's innovation technology which balances light, ensuring clear and detailed night vision. Ensure crystal clear night vision video without over exposure annoyance even in low-light condi-tions!",
-      "type": "Jovision",
-      "subtitle_id": "Anti Paparan Wajah Berlebihan yang Cerdas. Ini adalah teknologi inovatif Jovision yang menyeimbangkan cahaya, memastikan penglihatan malam yang jernih dan detail. Pastikan video penglihatan malam yang jernih tanpa gangguan paparan berlebih, bahkan dalam kondisi cahaya redup!"
-    },
-    {
-      "id": "e546c37c-4250-4b66-8457-59e55960ee81",
-      "image": "/images/uploads/wind.png",
-      "title_id": "GreenNext",
-      "title_en": "GreenNext",
-      "subtitle_en": "Jovision product series which are powered by solar energy. GreenNext series products eliminate complicated wiring, and say goodbye to electricity bill. GreenNext is perfect example of Jovision's commitment for a sustainable world. Slogan is \"GreenNext, Your Greener Technologies!\"",
-      "subtitle_id": "Rangkaian produk Jovision yang ditenagai oleh energi surya. Produk seri GreenNext menghilangkan kerumitan pemasangan kabel, dan mengucapkan selamat tinggal pada tagihan listrik. GreenNext adalah contoh sempurna dari komitmen Jovision untuk dunia yang berkelanjutan. Slogannya adalah \"GreenNext, Teknologi Anda yang Lebih Hijau!\"",
-      "type": "Jovision"
-    },
-    {
-      "id": "a5d87cef-d6d5-4fbe-bb06-b20b730ffbfa",
-      "image": "/images/uploads/cloud_design.png",
-      "title_id": "Fusion Cloud Platform",
-      "title_en": "Fusion Cloud Platform",
-      "subtitle_en": "Fusion Cloud is the platform for aggregating thousands of video channels from different places, various protocols, and different networks to central demon-strate and management of the video. It's based on the \"Smart Vision\" design concept, and it's a privatized deployment security management platform with video application and intelligent analysis as its core capabilities.",
-      "type": "Jovision",
-      "subtitle_id": "Fusion Cloud adalah platform untuk menggabungkan ribuan kanal video dari berbagai lokasi, berbagai protokol, dan jaringan untuk demonstrasi dan pengelolaan video secara terpusat. Platform ini didasarkan pada konsep desain \"Smart Vision\", dan merupakan platform manajemen keamanan penerapan yang diprivatisasi dengan aplikasi video dan analisis cerdas sebagai kemampuan intinya."
-    },
-    {
-      "id": "eaded2e3-0c30-4381-b024-1dd41e8d5b55",
-      "image": "/images/uploads/digitalitation_cloud.png",
-      "title_id": "Vusion Cloud Platform",
-      "title_en": "Vusion Cloud Platform",
-      "subtitle_en": "Vusion Cloud Platform is the P2P and video streaming platform adopts a public cloud architecture and Al capabilities. Vusion Cloud platform not only provides the cloud base for Jovision products, but also can be privately deployment to empower our global partners with private cloud abilities.",
-      "type": "Jovision",
-      "subtitle_id": "Vusion Cloud Platform adalah platform streaming video dan P2P yang mengadopsi arsitektur cloud publik dan kapabilitas AI. Platform Vusion Cloud tidak hanya menyediakan basis cloud untuk produk Jovision, tetapi juga dapat diterapkan secara privat untuk memberdayakan mitra global kami dengan kemampuan cloud privat."
     }
   ]
 }
