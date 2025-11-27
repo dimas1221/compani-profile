@@ -1,0 +1,256 @@
+{
+  "introduction_id": "Kamera Pengawas Lalu Lintas Pintar adalah kamera pintar yang diluncurkan oleh Maxvision untuk melayani bisnis lalu lintas jalan raya. Kamera ini mengadopsi desain kelas industri tertanam dan algoritma pembelajaran mendalam bawaan. Kamera ini mendukung berbagai deteksi pelanggaran hukum dan banyak digunakan untuk menerobos lampu merah, mengebut, bayonet, masuk dan keluar, berbagai acara, dan berbagai skenario aplikasi lainnya.",
+  "product_id": "8a01bd1b-51d3-4adf-9505-c11834258f64",
+  "features_en": [
+    "High Definition Lens",
+    "Camera Environment Adaptation",
+    "Al ultra-low Light Compensation",
+    "Deep Learning"
+  ],
+  "description_en": "Smart Traffc Surveilance Camera is a smart camera launched by Maxvision to serve the road traffic business. It adopts an embedded industrial-grade design and built-in deep learning algorithm. It supports a variety of illegal detection and is widely used in red light running, speeding, bayonet, entrance and exit, events and other various application scenarios.",
+  "introduction_en": "Smart Traffc Surveilance Camera is a smart camera launched by Maxvision to serve the road traffic business. It adopts an embedded industrial-grade design and built-in deep learning algorithm. It supports a variety of illegal detection and is widely used in red light running, speeding, bayonet, entrance and exit, events and other various application scenarios.",
+  "parameter_id": [
+    {
+      "label": "Daya Komputasi  ",
+      "value": "12 TOPS"
+    },
+    {
+      "label": "Sensor Gambar  ",
+      "value": "Modul GS, 9MP: 4096 (T)* 2160 (V)"
+    },
+    {
+      "label": "Ukuran Gambar Efektif  ",
+      "value": "4096 (T)* 2160 (V)"
+    },
+    {
+      "label": "Pencahayaan Minimum",
+      "value": "Pada resolusi maksimum: Warna: 0,005 Lux: (F1.2, AGC: AKTIF, rana 1/30) Hitam Putih: 0,0025 Lux: (F1.2, AGC: AKTIF, rana 1/30)"
+    },
+    {
+      "label": "Mode Siang dan Malam  ",
+      "value": "Otomatis (ICR)/Warna/Hitam Putih/Berwaktu"
+    },
+    {
+      "label": "Rentang Dinamis Lebar  ",
+      "value": "Rentang Dinamis Lebar Digital"
+    },
+    {
+      "label": "Keseimbangan Putih  ",
+      "value": "Pemicu Otomatis/Manual/Satu Klik"
+    },
+    {
+      "label": "Penekanan Cahaya Kuat  ",
+      "value": "Didukung"
+    },
+    {
+      "label": "Pengurangan Derau Digital  ",
+      "value": "Pengurangan Derau 2D/3D"
+    },
+    {
+      "label": "Pengodean Video Format  ",
+      "value": "MJPEG/H.264/H.265"
+    },
+    {
+      "label": "Laju Bingkai Video  ",
+      "value": "30/25fps, dapat diatur"
+    },
+    {
+      "label": "Pengodean Multi-Saluran  ",
+      "value": "Lima aliran kode"
+    },
+    {
+      "label": "Pengodean Cerdas  ",
+      "value": "Ekstra 265/264"
+    },
+    {
+      "label": "Mode Keamanan ",
+      "value": " Autentikasi nama pengguna dan kata sandi, mendukung sertifikat digital 802.1x dan HTTPS"
+    },
+    {
+      "label": "Keamanan Media ",
+      "value": " Mendukung antarmuka WEB, enkripsi aliran media SDK, dan tanda air digital untuk video dan gambar"
+    },
+    {
+      "label": "Analisis Kendaraan ",
+      "value": " Pengenalan plat nomor, warna bodi, model kendaraan"
+    },
+    {
+      "label": "Antarmuka Jaringan  ",
+      "value": "2 port Ethernet adaptif RJ45 10M/100M/1000M"
+    },
+    {
+      "label": "Port Serial Komunikasi  ",
+      "value": "Antarmuka RS485"
+    },
+    {
+      "label": "Antarmuka Alarm  ",
+      "value": "1 input alarm/4 output sakelar optocoupler/1 output alarm relai"
+    },
+    {
+      "label": "Antarmuka Penyimpanan",
+      "value": "Menyediakan slot kartu MicroSD, mendukung MicroSDHC/MicroSDXC, dan mendukung Kapasitas maksimum kartu memori 256GB"
+    },
+    {
+      "label": "Catu Daya  ",
+      "value": "AC100~240V"
+    },
+    {
+      "label": "Konsumsi Daya ",
+      "value": " Konsumsi daya maksimum: 60W, konsumsi daya tipikal: 13,7W"
+    },
+    {
+      "label": "Suhu Kerja  ",
+      "value": "-40°C~+60°C (lampu mati) -40°C~+40°C (lampu menyala)"
+    },
+    {
+      "label": "Kelembapan Kerja  ",
+      "value": "5%~95% (tanpa kondensasi)"
+    },
+    {
+      "label": "Perlindungan Petir dan Lonjakan Arus  ",
+      "value": "Catu Daya 6kV"
+    },
+    {
+      "label": "Tingkat Perlindungan  ",
+      "value": "IP65"
+    },
+    {
+      "label": "Tingkat Tahan Ledakan  ",
+      "value": "IK08"
+    },
+    {
+      "label": "Berat  ",
+      "value": "Berat keseluruhan: 5,5kg Berat kemasan: 693kg"
+    },
+    {
+      "label": "Ukuran  ",
+      "value": "Ukuran keseluruhan: 520mmx205mmx161mm Ukuran kemasan: 590mmx325mmx280mm"
+    }
+  ],
+  "id": "f95ac6da-9ff9-4c6b-a2ab-b408ef58e9d5",
+  "features_id": [
+    "Lensa Definisi Tinggi",
+    "Adaptasi Lingkungan Kamera",
+    "Kompensasi Cahaya Ultra-Rendah AI",
+    "Pembelajaran Mendalam"
+  ],
+  "description_id": "Kamera Pengawas Lalu Lintas Pintar adalah kamera pintar yang diluncurkan oleh Maxvision untuk melayani bisnis lalu lintas jalan raya. Kamera ini mengadopsi desain kelas industri tertanam dan algoritma pembelajaran mendalam bawaan. Kamera ini mendukung berbagai deteksi pelanggaran hukum dan banyak digunakan untuk menerobos lampu merah, mengebut, bayonet, masuk dan keluar, berbagai acara, dan berbagai skenario aplikasi lainnya.",
+  "parameter_en": [
+    {
+      "label": "Computing Power  ",
+      "value": "12 TOPS"
+    },
+    {
+      "label": "Image Sensor  ",
+      "value": "GS module, 9MP:4096 (H)* 2160 (V)"
+    },
+    {
+      "label": "Effective Image Size  ",
+      "value": "4096 (H)* 2160 (V)"
+    },
+    {
+      "label": "Minimum Illumination",
+      "value": "At maximum resolution: Color: 0.005Lux:(F1.2,AGC:ON, 1/30 shutter)Black and white:0.0025: Lux:(F1.2,AGC: ON, 1/30 shutter)"
+    },
+    {
+      "label": "Day and Night Mode ",
+      "value": " Automatic (ICR)/Color/Black and White/Timed"
+    },
+    {
+      "label": "Wide Dynamic Range  ",
+      "value": "Digital wide dynamic range"
+    },
+    {
+      "label": "White Balance  ",
+      "value": "Automatic/manual/one click trigger"
+    },
+    {
+      "label": "Strong Light Suppression  ",
+      "value": "Supported"
+    },
+    {
+      "label": "Digital Noise Reduction  ",
+      "value": "2D/3D noise reduction"
+    },
+    {
+      "label": "Video Encoding Format  ",
+      "value": "MJPEG/H.264/H.265"
+    },
+    {
+      "label": "Video Frame Rate  ",
+      "value": "30/25fps, settable"
+    },
+    {
+      "label": "Multi Channel Encoding  ",
+      "value": "Five code streams"
+    },
+    {
+      "label": "Intelligent Encoding",
+      "value": "Extra 265/264"
+    },
+    {
+      "label": "Security Mode  ",
+      "value": "Username and password authentication, supporting 802.1x and HTTPSdigital certificates"
+    },
+    {
+      "label": "Media Security ",
+      "value": " Supports WEB interface,SDK media stream encryption, and digital watermarking for videos and images"
+    },
+    {
+      "label": "Vehicle Analysis  ",
+      "value": "License plate recognition, body color, vehicle model"
+    },
+    {
+      "label": "Network Interface  ",
+      "value": "2 RJ45 10M/100M/1000M adaptive Ethernet ports"
+    },
+    {
+      "label": "Communication Serial Port  ",
+      "value": "RS485 interface"
+    },
+    {
+      "label": "Alarm Interface  ",
+      "value": "1 alarm input/4 optocoupler switch output/1 relay alarm output"
+    },
+    {
+      "label": "Storage Interface  ",
+      "value": "Provides MicroSD card slot, supports MicroSDHC/MicroSDXC, andsupports a maximum capacity of 256GB memory card"
+    },
+    {
+      "label": "Power Supply  ",
+      "value": "AC100~240V"
+    },
+    {
+      "label": "Power Consumption  ",
+      "value": "Maximum power consumption:60W, typical power consumption:13.7W"
+    },
+    {
+      "label": "Working Temperature  ",
+      "value": "-40°C~+60°C (off fill light)-40°C~+40°C (on fill light)"
+    },
+    {
+      "label": "Working Humidity  ",
+      "value": "5%~95% (non condensing)"
+    },
+    {
+      "label": "Lightning Protection and Surge Protection  ",
+      "value": "Power supply 6kV"
+    },
+    {
+      "label": "Protection Level  ",
+      "value": "IP65"
+    },
+    {
+      "label": "Explosion Proof Level  ",
+      "value": "IK08"
+    },
+    {
+      "label": "Weight  ",
+      "value": "Overall weight: 5.5kgPackaging weight:693kg"
+    },
+    {
+      "label": "Size  ",
+      "value": "Overall size: 520mmx205mmx161mmPackaging size: 590mmx325mmx280mm"
+    }
+  ]
+}
