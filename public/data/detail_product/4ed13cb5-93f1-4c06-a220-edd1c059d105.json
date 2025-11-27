@@ -1,0 +1,106 @@
+{
+  "introduction_id": "Sistem Penyeberangan Pejalan Kaki Pintar dari Maxvision adalah solusi keselamatan pejalan kaki generasi terbaru yang menggabungkan ubin LED tertanam dengan kabinet kontrol cerdas. Dirancang untuk memandu lalu lintas pejalan kaki secara aktif dan memperingatkan kendaraan yang datang, sistem ini memanfaatkan pencahayaan adaptif, manajemen jarak jauh, dan integrasi sinyal waktu nyata untuk meningkatkan visibilitas di penyeberangan. Baik di persimpangan yang ramai maupun zona lalu lintas campuran, sistem ini membantu mengurangi kecelakaan dan memperlancar mobilitas perkotaan.",
+  "product_id": "cbb7e3fc-0f9b-4a31-a21f-47ef5725d7b5",
+  "features_en": [
+    "Multi-Lane Lighting Management",
+    "Customizable Lighting Schedules",
+    "Centralized Remote Control",
+    "Signal-Responsive Activation",
+    "Real-Time Status Monitoring"
+  ],
+  "description_en": "Maxvision's Smart Pedestrian Crossing System is a next-generation pedestrian safety solution that combines in-ground LED tiles with an intelligent control cabinet. Designed to actively guide foot traffic and alert oncoming vehicles, the system leverages adaptive lighting, remote management, and real-time signal integration to improve visibility at crossings. Whether in busy intersections or mixed traffic zones, it helps reduce accidents and streamline urban mobility.",
+  "introduction_en": "Maxvision's Smart Pedestrian Crossing System is a next-generation pedestrian safety solution that combines in-ground LED tiles with an intelligent control cabinet. Designed to actively guide foot traffic and alert oncoming vehicles, the system leverages adaptive lighting, remote management, and real-time signal integration to improve visibility at crossings. Whether in busy intersections or mixed traffic zones, it helps reduce accidents and streamline urban mobility.",
+  "parameter_id": [
+    {
+      "label": "Catu Daya ",
+      "value": " Catu daya switching yang sesuai dengan CE, penggerak arus konstan/tegangan konstan"
+    },
+    {
+      "label": "Konsumsi Daya  ",
+      "value": "Merah ≤ 5 W; Hijau ≤ 5 W"
+    },
+    {
+      "label": "Arus Bocor  ",
+      "value": "≤1,0 mA"
+    },
+    {
+      "label": "Material ",
+      "value": " Polikarbonat"
+    },
+    {
+      "label": "Peringkat Tahan Air  ",
+      "value": "IP68"
+    },
+    {
+      "label": "Kapasitas Beban  ",
+      "value": "50 ton"
+    },
+    {
+      "label": "Suhu Operasional ",
+      "value": " -40±3°C ~ +80±2°C"
+    },
+    {
+      "label": "Tahan Panas Lembap  ",
+      "value": "RH 93%-97%"
+    },
+    {
+      "label": "Berat Produk  ",
+      "value": "3,6 kg"
+    },
+    {
+      "label": "Dimensi  ",
+      "value": "400*135*60 mm"
+    }
+  ],
+  "id": "4ed13cb5-93f1-4c06-a220-edd1c059d105",
+  "features_id": [
+    "Manajemen Pencahayaan Multi-Jalur",
+    "Jadwal Pencahayaan yang Dapat Disesuaikan",
+    "Kontrol Jarak Jauh Terpusat",
+    "Aktivasi Responsif Sinyal",
+    "Pemantauan Status Real-Time"
+  ],
+  "description_id": "Sistem Penyeberangan Pejalan Kaki Pintar dari Maxvision adalah solusi keselamatan pejalan kaki generasi terbaru yang menggabungkan ubin LED tertanam dengan kabinet kontrol cerdas. Dirancang untuk memandu lalu lintas pejalan kaki secara aktif dan memperingatkan kendaraan yang datang, sistem ini memanfaatkan pencahayaan adaptif, manajemen jarak jauh, dan integrasi sinyal waktu nyata untuk meningkatkan visibilitas di penyeberangan. Baik di persimpangan yang ramai maupun zona lalu lintas campuran, sistem ini membantu mengurangi kecelakaan dan memperlancar mobilitas perkotaan.",
+  "parameter_en": [
+    {
+      "label": "Power Supply  ",
+      "value": "CE-compliant switching power supply, constant-current/constant-voltage drive"
+    },
+    {
+      "label": "Power Consumption  ",
+      "value": "Red ≤ 5 W; Green ≤ 5 W"
+    },
+    {
+      "label": "Leakage Current  ",
+      "value": "≤1.0mA"
+    },
+    {
+      "label": "Material  ",
+      "value": "Polycarbonate"
+    },
+    {
+      "label": "Waterproof Rating  ",
+      "value": "IP68"
+    },
+    {
+      "label": "Load Capacity  ",
+      "value": "50 tons"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-40±3°C ~ +80± 2°C"
+    },
+    {
+      "label": "Damp Heat Resistance  ",
+      "value": "93%-97%RH"
+    },
+    {
+      "label": "Product Weight  ",
+      "value": "3.6Kg"
+    },
+    {
+      "label": "Dimensions  ",
+      "value": "400*135*60mm"
+    }
+  ]
+}
