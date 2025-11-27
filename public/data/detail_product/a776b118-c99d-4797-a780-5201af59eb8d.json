@@ -1,0 +1,112 @@
+{
+  "introduction_id": "Sistem Inspeksi dan Kontrol Jalur Masuk mendeteksi posisi kendaraan di pintu masuk jalur secara real-time dan secara otomatis memeriksa serta melepaskannya. Peralatan ini terhubung dengan platform inspeksi jalur untuk memantau lokasi dan status arah lalu lintas kendaraan masuk secara real-time, serta mengontrol pelepasan gerbang secara otomatis. Perangkat ini mengintegrasikan panduan lalu lintas dengan pengenalan plat nomor, peningkatan OTA daring, anti-smashing interaktif, dan fungsi cerdas lainnya untuk mewujudkan inspeksi dan perjalanan kendaraan yang aman dan efisien. Produk ini dapat digunakan secara luas dalam skenario pintu masuk kendaraan seperti transportasi umum, bandara, dan pelabuhan.",
+  "product_id": "2181bcef-6ab2-4382-82e8-e9f93f123919",
+  "features_en": [
+    "Accurate Vehicle Position Identification",
+    "Highly Intelligent Integration",
+    "OTA Remote Upgrade",
+    "Suitable for High-Temperature Environment"
+  ],
+  "description_en": "The Entry Lane Inspection and Control System that detects theposition of vehicles at the lane entrance in real-time and automatically checks and release them. The equipment is linked with the lane inspection platform to realize real-time monitoring of the location and traffic direction status of entrance vehicles, and automatic control of the gate release. The device integrates the license plate recognition traffic guidance, online OTA upgrades, interactive anti-smashing and other intelligent functions to effectively realize safe and efficient vehicle inspection and passage. This product can be widely used in vehicle entrance scenarios such as transportation, airports, and ports.",
+  "introduction_en": "The Entry Lane Inspection and Control System that detects theposition of vehicles at the lane entrance in real-time and automatically checks and release them. The equipment is linked with the lane inspection platform to realize real-time monitoring of the location and traffic direction status of entrance vehicles, and automatic control of the gate release. The device integrates the license plate recognition traffic guidance, online OTA upgrades, interactive anti-smashing and other intelligent functions to effectively realize safe and efficient vehicle inspection and passage. This product can be widely used in vehicle entrance scenarios such as transportation, airports, and ports.",
+  "parameter_id": [
+    {
+      "label": "Layar Panduan  ",
+      "value": "Layar LED penuh warna luar ruangan, area aktif: 960 mm x 576 mm"
+    },
+    {
+      "label": "Kamera Pengenalan Plat Nomor  ",
+      "value": "Opsional"
+    },
+    {
+      "label": "Pembatas  ",
+      "value": "Opsional"
+    },
+    {
+      "label": "Anti-Smashing Interaktif  ",
+      "value": "Kecepatan Penginderaan: 50~700 ms"
+    },
+    {
+      "label": "Tegangan Input  ",
+      "value": "AC 220±10%V, 50±10%Hz"
+    },
+    {
+      "label": "Daya Terukur  ",
+      "value": "1600W (Maks. 3500W)"
+    },
+    {
+      "label": "Suhu Kerja  ",
+      "value": "-20°C~+70°C"
+    },
+    {
+      "label": "Kelembapan Relatif  ",
+      "value": "≤90%RH, Tanpa Kondensasi"
+    },
+    {
+      "label": "Tingkat Perlindungan  ",
+      "value": "IPX4"
+    },
+    {
+      "label": "Lingkungan Penggunaan  ",
+      "value": "Dalam/Luar Ruangan"
+    },
+    {
+      "label": "Ukuran Produk  ",
+      "value": "AB: P*L*T =2210*635*1755mmC: P*L*T =1980*220*1730mm"
+    }
+  ],
+  "id": "a776b118-c99d-4797-a780-5201af59eb8d",
+  "features_id": [
+    "Identifikasi Posisi Kendaraan yang Akurat",
+    "Integrasi yang Sangat Cerdas",
+    "Peningkatan Jarak Jauh OTA",
+    "Cocok untuk Lingkungan Bersuhu Tinggi"
+  ],
+  "description_id": "Sistem Inspeksi dan Kontrol Jalur Masuk mendeteksi posisi kendaraan di pintu masuk jalur secara real-time dan secara otomatis memeriksa serta melepaskannya. Peralatan ini terhubung dengan platform inspeksi jalur untuk memantau lokasi dan status arah lalu lintas kendaraan masuk secara real-time, serta mengontrol pelepasan gerbang secara otomatis. Perangkat ini mengintegrasikan panduan lalu lintas dengan pengenalan plat nomor, peningkatan OTA daring, anti-smashing interaktif, dan fungsi cerdas lainnya untuk mewujudkan inspeksi dan perjalanan kendaraan yang aman dan efisien. Produk ini dapat digunakan secara luas dalam skenario pintu masuk kendaraan seperti transportasi umum, bandara, dan pelabuhan.",
+  "parameter_en": [
+    {
+      "label": "Guidance Screen ",
+      "value": " Outdoor full-color LED screen, active area: 960 mm x 576 mm"
+    },
+    {
+      "label": "License Plate Recognition Camera  ",
+      "value": "Optional"
+    },
+    {
+      "label": "Barrier  ",
+      "value": "Optional"
+    },
+    {
+      "label": "Interactive Anti-smashing  ",
+      "value": "Sensing Speed: 50~700ms"
+    },
+    {
+      "label": "Input Voltage  ",
+      "value": "AC 220±10%V, 50±10%Hz"
+    },
+    {
+      "label": "Rated Power  ",
+      "value": "1600W (Max 3500W)"
+    },
+    {
+      "label": "Working Temperature ",
+      "value": " -20°C~+70°C"
+    },
+    {
+      "label": "Relative Humidity  ",
+      "value": "≤90%RH, No condensation"
+    },
+    {
+      "label": "Protection Level  ",
+      "value": "IPX4"
+    },
+    {
+      "label": "Usage Environment  ",
+      "value": "Indoor/Outdoor"
+    },
+    {
+      "label": "Product Size  ",
+      "value": "AB: L*W*H =2210*635*1755mmC: L*W*H=1980*220*1730mm"
+    }
+  ]
+}
