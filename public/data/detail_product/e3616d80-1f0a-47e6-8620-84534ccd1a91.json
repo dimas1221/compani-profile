@@ -1,0 +1,104 @@
+{
+  "introduction_id": "Kamera PTZ Cerdas Dual-Mode Maxvision Al mengadopsi desain arsitektur dual-mode, algoritma pembelajaran mendalam Al terintegrasi, kolaborasi binokular, mempertimbangkan detail, cakupan panorama penuh, mencakup berbagai pemandangan seperti orang, kendaraan, jalan, dll., secara komprehensif memenuhi kebutuhan spesifik industri.",
+  "product_id": "081acea7-681f-438c-90a9-a35173ea9db4",
+  "features_en": [
+    "Panoramic/Detailed View",
+    "Multi-Algorithm Integration",
+    "Environmental Adaptability",
+    "Software Customization"
+  ],
+  "description_en": "Maxvision Al Dual-Mode Intelligent PTZ Camera adopts dual-mode architecture design, built-in Al deep learning algorithm, binocular collaboration, taking into account details, full\npanoramic coverage, covering various scenes such as people, vehicles, roads, etc., comprehensively meet the specific needs of the industry.",
+  "introduction_en": "Maxvision Al Dual-Mode Intelligent PTZ Camera adopts dual-mode architecture design, built-in Al deep learning algorithm, binocular collaboration, taking into account details, full\npanoramic coverage, covering various scenes such as people, vehicles, roads, etc., comprehensively meet the specific needs of the industry.",
+  "parameter_id": [
+    {
+      "label": "Penekanan Cahaya Kuat  ",
+      "value": "Didukung"
+    },
+    {
+      "label": "Algoritma Penetrasi Kabut ",
+      "value": " Didukung"
+    },
+    {
+      "label": "Jenis Catu Daya  ",
+      "value": "AC 24V"
+    },
+    {
+      "label": "Konsumsi Daya ",
+      "value": "Maksimum: 54,1W Tipikal: 13,6W"
+    },
+    {
+      "label": "Suhu Kerja  ",
+      "value": "-40~60°C (lampu pengisi mati) -40~40°C (lampu pengisi menyala)"
+    },
+    {
+      "label": "Kelembapan Kerja  ",
+      "value": "5%~95% (Tanpa kondensasi)"
+    },
+    {
+      "label": "Tingkat Proteksi Petir  ",
+      "value": "6KV"
+    },
+    {
+      "label": "Tingkat Proteksi  ",
+      "value": "IP66"
+    },
+    {
+      "label": "Tingkat Antihuru-hara  ",
+      "value": "IK10"
+    },
+    {
+      "label": "Berat  ",
+      "value": "Berat keseluruhan mesin 7,6 kg; Berat kemasan 9,4 kg"
+    }
+  ],
+  "id": "e3616d80-1f0a-47e6-8620-84534ccd1a91",
+  "features_id": [
+    "Tampilan Panorama/Detail",
+    "Integrasi Multi-Algoritma",
+    "Adaptasi Lingkungan",
+    "Kustomisasi Perangkat Lunak"
+  ],
+  "description_id": "Kamera PTZ Cerdas Dual-Mode Maxvision Al mengadopsi desain arsitektur dual-mode, algoritma pembelajaran mendalam Al terintegrasi, kolaborasi binokular, mempertimbangkan detail, cakupan panorama penuh, mencakup berbagai pemandangan seperti orang, kendaraan, jalan, dll., secara komprehensif memenuhi kebutuhan spesifik industri.",
+  "parameter_en": [
+    {
+      "label": "Strong Light Suppression  ",
+      "value": "Supported"
+    },
+    {
+      "label": "Algorithm Fog Penetration  ",
+      "value": "Supported"
+    },
+    {
+      "label": "Power Supply Type ",
+      "value": " AC 24V"
+    },
+    {
+      "label": "Power Consumption  ",
+      "value": "Maximum: 54.1WTypical: 13.6W"
+    },
+    {
+      "label": "Working Temperature  ",
+      "value": "-40~60°C (fill light off)-40~40°C (fill light on)"
+    },
+    {
+      "label": "Working Humidity  ",
+      "value": "5%~95%(No condensation)"
+    },
+    {
+      "label": "Lightning Protection Level  ",
+      "value": "6KV"
+    },
+    {
+      "label": "Protection Level  ",
+      "value": "IP66"
+    },
+    {
+      "label": "Anti-riot Level  ",
+      "value": "IK10"
+    },
+    {
+      "label": "Weight  ",
+      "value": "The whole machine weight is 7.6kg; The packaging weight is 9.4kg"
+    }
+  ]
+}
