@@ -1,16 +1,14 @@
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { motion, AnimatePresence, useAnimation } from 'framer-motion';
+import {
+  motion,
+  useMotionValue,
+  useTransform,
+  useSpring,
+  useAnimation,
+} from 'framer-motion';
 import { useI18n } from '../../i18n/I18nProvider';
 import GlobalSectionTitle from '../../components/GlobalSectionTitle';
-/**
- * PortfolioSection Carousel:
- * - itemsPerSlide: 1/2/3 (mobile always 1)
- * - infinite drag/swipe via triplicated slides
- * - autoplay
- * - fade-edge overlays
- * - lazy images + skeleton
- */
 
 function ImageWithSkeleton({ src, alt }) {
   const [loaded, setLoaded] = useState(false);
@@ -22,7 +20,6 @@ function ImageWithSkeleton({ src, alt }) {
           <div className="animate-pulse w-14 h-14 rounded-md bg-gray-200 dark:bg-gray-700" />
         </div>
       )}
-
       <img
         src={src}
         alt={alt}
@@ -37,9 +34,8 @@ function ImageWithSkeleton({ src, alt }) {
 }
 
 export default function PortfolioSection({
-  // optional props
   autoPlay = true,
-  autoPlayInterval = 3500, // ms
+  autoPlayInterval = 6500,
 }) {
   const [portfolioData, setPortfolioData] = useState([]);
   const [perSlide, setPerSlide] = useState(3);
@@ -48,7 +44,23 @@ export default function PortfolioSection({
   const navigate = useNavigate();
   const { lang, t } = useI18n();
 
-  // --- load data
+  // Hooks (HARUS di top level)
+  const dragPointX = useMotionValue(0);
+  const parallaxOffset = useTransform(dragPointX, [-400, 400], [-25, 25]);
+  const parallaxSpring = useSpring(parallaxOffset, {
+    stiffness: 140,
+    damping: 25,
+  });
+  const controls = useAnimation();
+  const trackRef = useRef(null);
+
+  // Hook magnetic konsisten (tidak di map)
+  const magX = useMotionValue(0);
+  const magY = useMotionValue(0);
+  const magSpringX = useSpring(magX, { stiffness: 120, damping: 14 });
+  const magSpringY = useSpring(magY, { stiffness: 120, damping: 14 });
+
+  // Load JSON data
   useEffect(() => {
     fetch('/data/portfolio.json')
       .then((res) => res.json())
@@ -56,7 +68,7 @@ export default function PortfolioSection({
       .catch((err) => console.error('Failed to load portfolio:', err));
   }, []);
 
-  // --- responsive detection
+  // Detect mobile & lock 1 perSlide
   useEffect(() => {
     const check = () => {
       const mobile = window.innerWidth < 640;
@@ -68,302 +80,213 @@ export default function PortfolioSection({
     return () => window.removeEventListener('resize', check);
   }, [perSlide]);
 
-  // --- build slides (array of arrays)
+  // Create slides
   const slides = useMemo(() => {
     const count = itemsPerSlide || 1;
-    const out = [];
+    const output = [];
     for (let i = 0; i < portfolioData.length; i += count) {
-      out.push(portfolioData.slice(i, i + count));
+      output.push(portfolioData.slice(i, i + count));
     }
-    // if no slides (empty), ensure at least one empty slide
-    return out.length ? out : [[]];
+    return output.length ? output : [[]];
   }, [portfolioData, itemsPerSlide]);
 
-  // --- infinite technique: duplicate slides three times and start at middle chunk
   const triplicated = useMemo(
     () => [...slides, ...slides, ...slides],
     [slides]
   );
 
-  // controls & refs
-  const controls = useAnimation();
-  const trackRef = useRef(null);
-  const [index, setIndex] = useState(slides.length); // start at middle chunk
-  const slideWidthRef = useRef(0);
+  const [index, setIndex] = useState(slides.length);
+  const widthRef = useRef(0);
 
-  // update index when slides length change -> reset to middle
-  useEffect(() => {
-    setIndex(slides.length);
-  }, [slides.length]);
-
-  // measure slide width (container width)
+  // Measure width
   useEffect(() => {
     const measure = () => {
       if (!trackRef.current) return;
-      const parent = trackRef.current.getBoundingClientRect();
-      // For grid of N columns, each visible slide group width equals parent's width
-      slideWidthRef.current = parent.width;
-      // Immediately jump to the correct x
-      const x = -index * slideWidthRef.current;
-      controls.set({ x });
+      widthRef.current = trackRef.current.getBoundingClientRect().width;
+      controls.set({ x: -index * widthRef.current });
     };
-
     measure();
     window.addEventListener('resize', measure);
     return () => window.removeEventListener('resize', measure);
-  }, [index, controls]);
+  }, [index]);
 
-  // moveTo helper
-  const moveTo = async (newIndex, opts = { animate: true }) => {
-    if (!trackRef.current) return;
-    const w =
-      slideWidthRef.current ||
-      trackRef.current.getBoundingClientRect().width ||
-      1;
-    const x = -newIndex * w;
-    if (opts.animate) {
-      await controls.start({
-        x,
-        transition: { type: 'spring', stiffness: 300, damping: 30 },
-      });
-    } else {
-      controls.set({ x });
-    }
+  const moveTo = async (newIndex) => {
+    const w = widthRef.current || 1;
+    await controls.start({ x: -newIndex * w });
     setIndex(newIndex);
 
-    // if we're too close to edges, teleport back to middle equivalent
-    // left edge threshold: < slides.length/2, right edge: >= slides.length*2 + something
     const chunk = slides.length;
-    if (newIndex < chunk) {
-      // teleport forward by +chunk
-      const teleIndex = newIndex + chunk;
-      controls.set({ x: -teleIndex * w });
-      setIndex(teleIndex);
-    } else if (newIndex >= chunk * 2) {
-      // teleport backward by -chunk
-      const teleIndex = newIndex - chunk;
-      controls.set({ x: -teleIndex * w });
-      setIndex(teleIndex);
-    }
+    if (newIndex < chunk) setIndex(newIndex + chunk);
+    if (newIndex >= chunk * 2) setIndex(newIndex - chunk);
   };
 
-  // next / prev
   const next = () => moveTo(index + 1);
   const prev = () => moveTo(index - 1);
 
-  // autoplay
+  // Autoplay desktop/tablet only
   useEffect(() => {
-    if (!autoPlay || isMobile) return; // don't autoplay on mobile per requirement
-    const iv = setInterval(() => {
-      next();
-    }, autoPlayInterval);
-    return () => clearInterval(iv);
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [index, autoPlay, autoPlayInterval, isMobile, slides.length]);
+    if (!autoPlay || isMobile) return;
+    const auto = setInterval(next, autoPlayInterval);
+    return () => clearInterval(auto);
+  }, [index, autoPlay, autoPlayInterval, isMobile]);
 
-  // drag handling: determine where to snap based on drag offset on release
-  const onDragEnd = (event, info) => {
-    const offsetX = info.offset.x;
-    const velocityX = info.velocity.x;
-
-    // if drag left (negative) -> next. right (positive) -> prev.
-    // threshold: 50 px or velocity
-    if (offsetX < -50 || velocityX < -400) {
-      next();
-    } else if (offsetX > 50 || velocityX > 400) {
-      prev();
-    } else {
-      // small drag -> snap back
-      moveTo(index);
-    }
+  // Magnetic effect handler
+  const handleMagneticMove = (e) => {
+    const rect = e.currentTarget.getBoundingClientRect();
+    const mx = e.clientX - rect.left - rect.width / 2;
+    const my = e.clientY - rect.top - rect.height / 2;
+    magX.set(mx * 0.1);
+    magY.set(my * 0.1);
+  };
+  const handleMagneticLeave = () => {
+    magX.set(0);
+    magY.set(0);
   };
 
-  // keyboard left/right
-  useEffect(() => {
-    const onKey = (e) => {
-      if (e.key === 'ArrowLeft') prev();
-      if (e.key === 'ArrowRight') next();
-    };
-    window.addEventListener('keydown', onKey);
-    return () => window.removeEventListener('keydown', onKey);
-  });
-
-  // Styling helpers
-  const gridColsClass =
+  // ratio konsisten
+  const gridCols =
     itemsPerSlide === 1
       ? 'grid-cols-1'
       : itemsPerSlide === 2
-      ? 'grid-cols-2'
-      : 'grid-cols-3';
+      ? 'grid-cols-2 md:grid-cols-2'
+      : 'grid-cols-3 md:grid-cols-3';
 
   return (
-    <section className="w-full px-4 py-16 ">
-      {/* Header */}
-      <div className="max-w-6xl mx-auto text-center mb-10">
+    <section className="w-full px-4 py-16">
+      {/* header */}
+      <div className="text-center mb-10">
         <GlobalSectionTitle
-          title={lang === 'en' ? 'Our Portfolio' : 'Portofolio Kami'}
+          title={t.section_portfolio?.headline || 'Our Portfolio'}
           subtitle={
-            lang === 'en'
-              ? 'Premium intelligent surveillance & monitoring solutions'
-              : 'Solusi pengawasan & pemantauan cerdas premium'
+            t.section_portfolio?.sub || 'Premium AI Surveillance Solutions'
           }
         />
-        {/* controls (disabled on mobile) */}
         {!isMobile && (
-          <div className="mt-6 flex items-center justify-center gap-3">
+          <div className="flex justify-center gap-2 mt-6">
             {[1, 2, 3].map((n) => (
               <button
                 key={n}
-                onClick={() => {
-                  setPerSlide(n);
-                  setItemsPerSlide(n);
-                  // reset index to middle chunk after changing layout
-                  setTimeout(() => setIndex(slides.length), 40);
-                }}
-                className={`px-4 py-2 rounded-full text-sm font-medium border transition ${
+                onClick={() => setPerSlide(n)}
+                className={`px-3 py-1 rounded-full text-sm border ${
                   perSlide === n
-                    ? 'bg-gray-900 text-white border-gray-900'
-                    : 'bg-transparent border-gray-300 dark:border-gray-700 text-gray-700 dark:text-gray-200'
+                    ? 'bg-black text-white border-black'
+                    : 'border-gray-300 dark:border-gray-700 text-gray-600 dark:text-gray-300'
                 }`}
               >
-                {n} / slide
+                {n}/slide
               </button>
             ))}
           </div>
         )}
       </div>
 
-      {/* Carousel area */}
-      <div className="relative mx-auto">
-        {/* Fade edge overlays */}
-        <div
-          className="pointer-events-none absolute left-0 top-0 bottom-0 w-24 lg:w-36 z-20"
-          style={{
-            background:
-              'linear-gradient(90deg, rgba(10,12,17,1) 0%, rgba(10,12,17,0.0) 100%)',
-          }}
-        />
-        <div
-          className="pointer-events-none absolute right-0 top-0 bottom-0 w-24 lg:w-36 z-20"
-          style={{
-            background:
-              'linear-gradient(270deg, rgba(10,12,17,1) 0%, rgba(10,12,17,0.0) 100%)',
-          }}
-        />
+      {/* carousel container */}
+      <div className="relative overflow-hidden rounded-2xl max-w-6xl mx-auto">
+        {/* blur edges */}
+        <div className="pointer-events-none absolute inset-y-0 left-0 w-28 bg-gradient-to-r from-white dark:from-black to-transparent z-10" />
+        <div className="pointer-events-none absolute inset-y-0 right-0 w-28 bg-gradient-to-l from-white dark:from-black to-transparent z-10" />
 
-        {/* Prev / Next Buttons */}
-        {/* {!isMobile && (
-          <> */}
+        {/* arrows */}
         <button
           onClick={prev}
-          aria-label="Previous"
-          className="absolute left-3 top-1/2 -translate-y-1/2 z-30 p-3 rounded-full bg-white/90 dark:bg-gray-900/80 shadow-lg hover:scale-105 transition"
+          className="absolute left-4 top-1/2 -translate-y-1/2 z-20 bg-black/30 text-white px-3 py-2 rounded-full"
         >
           ‹
         </button>
         <button
           onClick={next}
-          aria-label="Next"
-          className="absolute right-3 top-1/2 -translate-y-1/2 z-30 p-3 rounded-full bg-white/90 dark:bg-gray-900/80 shadow-lg hover:scale-105 transition"
+          className="absolute right-4 top-1/2 -translate-y-1/2 z-20 bg-black/30 text-white px-3 py-2 rounded-full"
         >
           ›
         </button>
-        {/* </>
-        )} */}
 
-        {/* TRACK: a motion.div that translates horizontally */}
-        <div className="overflow-hidden rounded-2xl">
-          <motion.div
-            ref={trackRef}
-            drag="x"
-            dragConstraints={{ left: 0, right: 0 }} // allow free drag, we'll control snap logic
-            dragElastic={0.15}
-            onDragEnd={onDragEnd}
-            animate={controls}
-            style={{
-              display: 'grid',
-              gridAutoFlow: 'column',
-              gridAutoColumns: '100%',
-            }}
-            className="will-change-transform"
-            onDoubleClick={() => {
-              /* noop */
-            }}
-          >
-            {/* render triplicated slides. each "slide" is a grid of itemsPerSlide */}
-            {triplicated.map((slideChunk, si) => {
-              // ensure slideChunk is an array of items (may be empty)
-              const arrayChunk = Array.isArray(slideChunk) ? slideChunk : [];
-              return (
-                <div key={`chunk-${si}`} className={`w-full px-3 py-1`}>
-                  <div className={`grid gap-6 ${gridColsClass}`}>
-                    {arrayChunk.map((item, ii) => {
-                      const title =
-                        lang === 'id' ? item.title_id : item.title_en;
-                      const desc = lang === 'id' ? item.desc_id : item.desc_en;
-                      return (
-                        <div
-                          key={item.id + '-' + ii + '-' + si}
-                          onClick={() => navigate(`/portfolio/${item.id}`)}
-                          className="bg-gray-50 dark:bg-gray-800 rounded-2xl overflow-hidden shadow-md border border-gray-200 dark:border-gray-700 cursor-pointer hover:shadow-lg transition"
-                          style={{ minHeight: 240 }}
-                        >
-                          <div className="w-full aspect-[16/10]">
-                            <ImageWithSkeleton src={item.image} alt={title} />
-                          </div>
+        {/* track */}
+        <motion.div
+          ref={trackRef}
+          className="flex will-change-transform"
+          drag="x"
+          dragConstraints={{ left: 0, right: 0 }}
+          onDrag={(e, info) => dragPointX.set(info.point.x)}
+          onDragEnd={(_, info) => {
+            if (info.offset.x < -50) next();
+            if (info.offset.x > 50) prev();
+            else moveTo(index);
+          }}
+          animate={controls}
+          style={{
+            display: 'grid',
+            gridAutoFlow: 'column',
+            gridAutoColumns: '100%',
+          }}
+        >
+          {triplicated.map((slideChunk, si) => (
+            <div key={si} className="min-w-full px-2">
+              <motion.div
+                className={`grid gap-6 ${gridCols}`}
+                style={{ x: parallaxSpring }}
+              >
+                {slideChunk.map((item, ii) => {
+                  const title = lang === 'id' ? item.title_id : item.title_en;
+                  const desc = lang === 'id' ? item.desc_id : item.desc_en;
 
-                          <div className="p-5">
-                            <h3 className="text-lg font-semibold line-clamp-1">
-                              {title}
-                            </h3>
-                            <p className="mt-2 text-sm text-gray-600 dark:text-gray-300 line-clamp-2">
-                              {desc}
-                            </p>
-                          </div>
+                  return (
+                    <motion.div
+                      key={item.id}
+                      onMouseMove={handleMagneticMove}
+                      onMouseLeave={handleMagneticLeave}
+                      style={{ x: magSpringX, y: magSpringY }}
+                      onClick={() => navigate(`/portfolio/${item.id}`)}
+                      className="
+                        flex flex-col grow bg-gray-50 dark:bg-gray-900
+                        border border-gray-200 dark:border-gray-800
+                        shadow-md hover:shadow-2xl transition-all
+                        rounded-2xl overflow-hidden cursor-pointer
+                      "
+                    >
+                      {/* IMAGE PART ⬇️ Anda bisa edit max-height di sini saat slide=1 */}
+                      <div
+                        className={`w-full aspect-[16/10] relative ${
+                          itemsPerSlide === 1 ? 'h-[80vh] max-h-[520px]' : ''
+                        }`}
+                      >
+                        <ImageWithSkeleton src={item.image} alt={title} />
+                      </div>
+                      {/* IMAGE PART ⬆️ Anda bisa edit di sini */}
 
-                          {/* mini gallery for non-mobile when available */}
-                          {!isMobile &&
-                            item.gallery &&
-                            Array.isArray(item.gallery) && (
-                              <div className="px-5 pb-5 grid grid-cols-4 gap-2">
-                                {item.gallery.slice(0, 4).map((g, gi) => (
-                                  <img
-                                    key={gi}
-                                    src={g.image}
-                                    alt=""
-                                    className="h-10 w-full object-cover rounded-md"
-                                    loading="lazy"
-                                  />
-                                ))}
-                              </div>
-                            )}
-                        </div>
-                      );
-                    })}
-                  </div>
-                </div>
-              );
-            })}
-          </motion.div>
-        </div>
+                      {/* body */}
+                      <div className="p-5 flex flex-col grow">
+                        <h3 className="text-xl font-semibold text-gray-900 dark:text-white line-clamp-1">
+                          {title}
+                        </h3>
+                        <p className="mt-2 text-sm text-gray-600 dark:text-gray-400 line-clamp-2 leading-relaxed min-h-[40px]">
+                          {desc}
+                        </p>
+                        <span className="mt-auto text-xs tracking-widest text-blue-600 dark:text-blue-400 uppercase pt-4">
+                          {t.section_portfolio?.label || 'AI SECURITY'}
+                        </span>
+                      </div>
+                    </motion.div>
+                  );
+                })}
+              </motion.div>
+            </div>
+          ))}
+        </motion.div>
 
-        {/* DOTS */}
+        {/* dots */}
         <div className="mt-6 flex justify-center gap-2">
-          {slides.map((_, i) => {
-            // compute representative index located at middle chunk + i
-            const rep = slides.length + i;
-            const active = index % slides.length === i;
-            return (
-              <button
-                key={`dot-${i}`}
-                onClick={() => moveTo(rep)}
-                className={`w-2 h-2 rounded-full transition-all ${
-                  active ? 'bg-blue-600 w-6' : 'bg-gray-300 dark:bg-gray-700'
-                }`}
-                aria-label={`Go to slide ${i + 1}`}
-              />
-            );
-          })}
+          {slides.map((_, i) => (
+            <motion.button
+              key={i}
+              onClick={() => moveTo(slides.length + i)}
+              className={`h-2 transition-all rounded-full ${
+                index % slides.length === i
+                  ? 'bg-blue-600 w-6'
+                  : 'bg-gray-300 dark:bg-gray-700 w-2'
+              }`}
+              animate={{ scale: index % slides.length === i ? 1.4 : 1 }}
+            />
+          ))}
         </div>
       </div>
     </section>

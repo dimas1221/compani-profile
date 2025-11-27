@@ -1521,6 +1521,112 @@
     ]
   },
   {
+    "introduction_id": "Sistem Penyeberangan Pejalan Kaki Pintar dari Maxvision adalah solusi keselamatan pejalan kaki generasi terbaru yang menggabungkan ubin LED tertanam dengan kabinet kontrol cerdas. Dirancang untuk memandu lalu lintas pejalan kaki secara aktif dan memperingatkan kendaraan yang datang, sistem ini memanfaatkan pencahayaan adaptif, manajemen jarak jauh, dan integrasi sinyal waktu nyata untuk meningkatkan visibilitas di penyeberangan. Baik di persimpangan yang ramai maupun zona lalu lintas campuran, sistem ini membantu mengurangi kecelakaan dan memperlancar mobilitas perkotaan.",
+    "product_id": "cbb7e3fc-0f9b-4a31-a21f-47ef5725d7b5",
+    "features_en": [
+      "Multi-Lane Lighting Management",
+      "Customizable Lighting Schedules",
+      "Centralized Remote Control",
+      "Signal-Responsive Activation",
+      "Real-Time Status Monitoring"
+    ],
+    "description_en": "Maxvision's Smart Pedestrian Crossing System is a next-generation pedestrian safety solution that combines in-ground LED tiles with an intelligent control cabinet. Designed to actively guide foot traffic and alert oncoming vehicles, the system leverages adaptive lighting, remote management, and real-time signal integration to improve visibility at crossings. Whether in busy intersections or mixed traffic zones, it helps reduce accidents and streamline urban mobility.",
+    "introduction_en": "Maxvision's Smart Pedestrian Crossing System is a next-generation pedestrian safety solution that combines in-ground LED tiles with an intelligent control cabinet. Designed to actively guide foot traffic and alert oncoming vehicles, the system leverages adaptive lighting, remote management, and real-time signal integration to improve visibility at crossings. Whether in busy intersections or mixed traffic zones, it helps reduce accidents and streamline urban mobility.",
+    "parameter_id": [
+      {
+        "label": "Catu Daya ",
+        "value": " Catu daya switching yang sesuai dengan CE, penggerak arus konstan/tegangan konstan"
+      },
+      {
+        "label": "Konsumsi Daya  ",
+        "value": "Merah ≤ 5 W; Hijau ≤ 5 W"
+      },
+      {
+        "label": "Arus Bocor  ",
+        "value": "≤1,0 mA"
+      },
+      {
+        "label": "Material ",
+        "value": " Polikarbonat"
+      },
+      {
+        "label": "Peringkat Tahan Air  ",
+        "value": "IP68"
+      },
+      {
+        "label": "Kapasitas Beban  ",
+        "value": "50 ton"
+      },
+      {
+        "label": "Suhu Operasional ",
+        "value": " -40±3°C ~ +80±2°C"
+      },
+      {
+        "label": "Tahan Panas Lembap  ",
+        "value": "RH 93%-97%"
+      },
+      {
+        "label": "Berat Produk  ",
+        "value": "3,6 kg"
+      },
+      {
+        "label": "Dimensi  ",
+        "value": "400*135*60 mm"
+      }
+    ],
+    "id": "4ed13cb5-93f1-4c06-a220-edd1c059d105",
+    "features_id": [
+      "Manajemen Pencahayaan Multi-Jalur",
+      "Jadwal Pencahayaan yang Dapat Disesuaikan",
+      "Kontrol Jarak Jauh Terpusat",
+      "Aktivasi Responsif Sinyal",
+      "Pemantauan Status Real-Time"
+    ],
+    "description_id": "Sistem Penyeberangan Pejalan Kaki Pintar dari Maxvision adalah solusi keselamatan pejalan kaki generasi terbaru yang menggabungkan ubin LED tertanam dengan kabinet kontrol cerdas. Dirancang untuk memandu lalu lintas pejalan kaki secara aktif dan memperingatkan kendaraan yang datang, sistem ini memanfaatkan pencahayaan adaptif, manajemen jarak jauh, dan integrasi sinyal waktu nyata untuk meningkatkan visibilitas di penyeberangan. Baik di persimpangan yang ramai maupun zona lalu lintas campuran, sistem ini membantu mengurangi kecelakaan dan memperlancar mobilitas perkotaan.",
+    "parameter_en": [
+      {
+        "label": "Power Supply  ",
+        "value": "CE-compliant switching power supply, constant-current/constant-voltage drive"
+      },
+      {
+        "label": "Power Consumption  ",
+        "value": "Red ≤ 5 W; Green ≤ 5 W"
+      },
+      {
+        "label": "Leakage Current  ",
+        "value": "≤1.0mA"
+      },
+      {
+        "label": "Material  ",
+        "value": "Polycarbonate"
+      },
+      {
+        "label": "Waterproof Rating  ",
+        "value": "IP68"
+      },
+      {
+        "label": "Load Capacity  ",
+        "value": "50 tons"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-40±3°C ~ +80± 2°C"
+      },
+      {
+        "label": "Damp Heat Resistance  ",
+        "value": "93%-97%RH"
+      },
+      {
+        "label": "Product Weight  ",
+        "value": "3.6Kg"
+      },
+      {
+        "label": "Dimensions  ",
+        "value": "400*135*60mm"
+      }
+    ]
+  },
+  {
     "introduction_id": "Robot Pengawas Bawah Kendaraan adalah perangkat portabel untuk memeriksa bagian bawah kendaraan. Dilengkapi dengan fungsi-fungsi seperti LPR otomatis, tampilan HD gambar bawah kendaraan, dan pengenalan posisi yang dicurigai. Robot ini ringkas, mobile, dan mudah digunakan, serta dapat menyelesaikan pemeriksaan bawah kendaraan secara otomatis dengan satu klik. Robot ini cocok untuk kontrol dan pemeriksaan kendaraan sementara di tempat-tempat seperti bea cukai, pemeriksaan perbatasan, manajemen perbatasan, pos pemeriksaan keamanan publik, acara berskala besar, dan keamanan konferensi penting.",
     "product_id": "915a478d-ae90-40b6-8104-d8ca966496c0",
     "features_en": [
@@ -1825,6 +1931,122 @@
     ]
   },
   {
+    "introduction_id": "Terminal Peringatan Cerdas Maxvision adalah perangkat keselamatan berbasis laser yang dipasang di kedua ujung penyeberangan tanpa sinyal. Dengan memanfaatkan laser semikonduktor nano-grade dan lensa optik presisi, perangkat ini memproyeksikan 28 garis laser merah ke kaki bagian bawah pejalan kaki saat mereka melangkah menuju zebra cross. Hal ini menciptakan zona peringatan merah yang sangat terlihat yang memperingatkan pengemudi yang mendekat dari kejauhan, memungkinkan respons tepat waktu terhadap keberadaan pejalan kaki. Bersamaan dengan itu, terminal memancarkan peringatan audio untuk mengingatkan pejalan kaki agar tetap waspada dan menyeberang dengan cepat, yang secara signifikan meningkatkan keselamatan malam hari di penyeberangan tanpa lampu lalu lintas.",
+    "product_id": "31a5762d-8b28-4bb0-9e87-890865c8a263",
+    "features_en": [
+      "Bidirectional Warning System",
+      "Accurate Pedestrian Detection",
+      "Energy Efficiency",
+      "Eye-Safe Laser Technology",
+      "Robust Protection",
+      "All-Weather Operation"
+    ],
+    "description_en": "The Maxvision Intelligent Warning Terminal is a laser-based safety device installed at both ends of unsignalized crosswalks. Utilizing nano-grade semiconductor lasers and precision optical lenses, the device projects 28 red laser lines onto pedestrians' lower legs the moment they step toward the zebra crossing. This creates a highly visible red warning zone that alerts approaching drivers from a distance, enabling timely response to pedestrian presence. Simultaneously, the terminal emits an audio alert to prompt pedestrians to stay aware and cross quickly, significantly improving nighttime safety at crosswalks without traffic lights.",
+    "introduction_en": "The Maxvision Intelligent Warning Terminal is a laser-based safety device installed at both ends of unsignalized crosswalks. Utilizing nano-grade semiconductor lasers and precision optical lenses, the device projects 28 red laser lines onto pedestrians' lower legs the moment they step toward the zebra crossing. This creates a highly visible red warning zone that alerts approaching drivers from a distance, enabling timely response to pedestrian presence. Simultaneously, the terminal emits an audio alert to prompt pedestrians to stay aware and cross quickly, significantly improving nighttime safety at crosswalks without traffic lights.",
+    "parameter_id": [
+      {
+        "label": "Jangkauan Deteksi  ",
+        "value": "635nm"
+      },
+      {
+        "label": "Jangkauan Tampak  ",
+        "value": "20m"
+      },
+      {
+        "label": "Tegangan Operasi  ",
+        "value": "AC 220V±20%; 50Hz"
+      },
+      {
+        "label": "Suhu Operasi  ",
+        "value": "-30°C~+70°C"
+      },
+      {
+        "label": "Konsumsi Daya  ",
+        "value": "Maks: 25W; Siaga: 4W"
+      },
+      {
+        "label": "Peringkat Perlindungan  ",
+        "value": "IP66, dengan antarmuka daya kedap air tiga lapis"
+      },
+      {
+        "label": "Perlindungan Lonjakan Arus & Petir  ",
+        "value": "Perlindungan mode diferensial 4kV"
+      },
+      {
+        "label": "Fungsi Perintah Suara ",
+        "value": " Peringatan suara yang dapat diprogram; durasi kerja yang dapat dikonfigurasi"
+      },
+      {
+        "label": "Fitur Perlindungan Keselamatan",
+        "value": "Perlindungan kelebihan beban, kebocoran, dan hubung singkat; Modul proteksi petir dan pentanahan terintegrasi. Proximity Safety Shutdown: Laser nonaktif ketika tubuh manusia terdeteksi dalam jarak 30 cm di depan pemancar. Tilt Protection: Laser otomatis mati jika perangkat miring atau terbalik."
+      },
+      {
+        "label": "Berat Produk  ",
+        "value": "16 kg"
+      },
+      {
+        "label": "Dimensi Produk  ",
+        "value": "φ180*850 mm"
+      }
+    ],
+    "id": "52d220a5-b8f3-42a5-80e9-9185700b939f",
+    "features_id": [
+      "Sistem Peringatan Dua Arah",
+      "Deteksi Pejalan Kaki yang Akurat",
+      "Efisiensi Energi",
+      "Teknologi Laser yang Aman bagi Mata",
+      "Perlindungan yang Tangguh",
+      "Operasi di Segala Cuaca"
+    ],
+    "description_id": "Terminal Peringatan Cerdas Maxvision adalah perangkat keselamatan berbasis laser yang dipasang di kedua ujung penyeberangan tanpa sinyal. Dengan memanfaatkan laser semikonduktor nano-grade dan lensa optik presisi, perangkat ini memproyeksikan 28 garis laser merah ke kaki bagian bawah pejalan kaki saat mereka melangkah menuju zebra cross. Hal ini menciptakan zona peringatan merah yang sangat terlihat yang memperingatkan pengemudi yang mendekat dari kejauhan, memungkinkan respons tepat waktu terhadap keberadaan pejalan kaki. Bersamaan dengan itu, terminal memancarkan peringatan audio untuk mengingatkan pejalan kaki agar tetap waspada dan menyeberang dengan cepat, yang secara signifikan meningkatkan keselamatan malam hari di penyeberangan tanpa lampu lalu lintas.",
+    "parameter_en": [
+      {
+        "label": "Detection Range ",
+        "value": " 635nm"
+      },
+      {
+        "label": "Visible Range  ",
+        "value": "20m"
+      },
+      {
+        "label": "Operating Voltage ",
+        "value": " AC 220V±20%; 50Hz"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-30°C~+70°C"
+      },
+      {
+        "label": "Power Consumption  ",
+        "value": "Max: 25W; Standby: 4W"
+      },
+      {
+        "label": "Protection Rating  ",
+        "value": "IP66, with triple-sealed waterproof power interfaces"
+      },
+      {
+        "label": "Surge & Lightning Protection  ",
+        "value": "4kV differential mode protection"
+      },
+      {
+        "label": "Voice Prompt Function  ",
+        "value": "Programmable voice prompts; configurable working duration"
+      },
+      {
+        "label": "Safety Protection Features",
+        "value": "Overload, leakage, and short-circuit protection; built-in lightning protection and grounding moduleProximity Safety Shutdown: Laser deactivates when a human body is detected within 30 cm in front of the emitterTilt Protection: Laser automatically shuts off if the device tilts or tips over"
+      },
+      {
+        "label": "Product Weight  ",
+        "value": "16Kg"
+      },
+      {
+        "label": "Product Dimensions  ",
+        "value": "φ180*850mm"
+      }
+    ]
+  },
+  {
     "introduction_id": "Direkayasa oleh Maxvision, sistem inspeksi sinar-X dual-energi dan dual-view generasi terbaru ini dirancang khusus untuk pemeriksaan bagasi kabin dan barang-barang pribadi secara efisien di pos pemeriksaan bea cukai, bandara, stasiun kereta api, fasilitas pemerintah, dan lingkungan berkeamanan tinggi lainnya. Dilengkapi dua pasang sumber-detektor sinar-X independen, sistem ini menghasilkan pencitraan tampilan bawah dan samping pada layar ganda, yang secara signifikan meningkatkan pengenalan objek di area yang tumpang tindih atau tertutup. Desainnya memadukan fungsionalitas khusus industri dengan estetika industri modern, menghasilkan solusi yang efisien, intuitif, dan sangat adaptif untuk operasi keamanan yang krusial.",
     "product_id": "63cb6eef-6c59-45db-a467-d3bed6ff59a0",
     "features_en": [
@@ -2092,6 +2314,26 @@
         "label": "Dimensi  ",
         "value": "196 mm*69 mm*60 mm"
       }
+    ]
+  },
+  {
+    "id": "609621d7-3ba0-45ac-876b-5ece8ffe5eb4",
+    "product_id": "d9a0e47b-ffd4-4d9e-bd01-44cb91490cda",
+    "introduction_en": "Maxvision Intelligent Traffic Management Platform is a set of equipment integration management system serving urban traffic business. It adopts multi-layer software architecture design, integrates advanced technologies such as multi-dimensional perception, data integration, application development, etc. And it provides traffic law enforcement departments with business applications such as view management, vehicle passing management, illegal management, comprehensive research to achieve comprehensive control of urban traffic.",
+    "description_en": "Maxvision Intelligent Traffic Management Platform is a set of equipment integration management system serving urban traffic business. It adopts multi-layer software architecture design, integrates advanced technologies such as multi-dimensional perception, data integration, application development, etc. And it provides traffic law enforcement departments with business applications such as view management, vehicle passing management, illegal management, comprehensive research to achieve comprehensive control of urban traffic.",
+    "introduction_id": "Platform Manajemen Lalu Lintas Cerdas Maxvision adalah seperangkat sistem manajemen integrasi peralatan yang melayani bisnis lalu lintas perkotaan. Platform ini mengadopsi desain arsitektur perangkat lunak berlapis, mengintegrasikan teknologi canggih seperti persepsi multidimensi, integrasi data, pengembangan aplikasi, dll. Platform ini juga menyediakan aplikasi bisnis bagi departemen penegakan hukum lalu lintas seperti manajemen tampilan, manajemen kendaraan yang menyalip, manajemen kendaraan ilegal, dan riset komprehensif untuk mencapai kendali lalu lintas perkotaan yang komprehensif.",
+    "description_id": "Platform Manajemen Lalu Lintas Cerdas Maxvision adalah seperangkat sistem manajemen integrasi peralatan yang melayani bisnis lalu lintas perkotaan. Platform ini mengadopsi desain arsitektur perangkat lunak berlapis, mengintegrasikan teknologi canggih seperti persepsi multidimensi, integrasi data, pengembangan aplikasi, dll. Platform ini juga menyediakan aplikasi bisnis bagi departemen penegakan hukum lalu lintas seperti manajemen tampilan, manajemen kendaraan yang menyalip, manajemen kendaraan ilegal, dan riset komprehensif untuk mencapai kendali lalu lintas perkotaan yang komprehensif.",
+    "features_en": [
+      "Super Compatibility",
+      "Diverse Sharing",
+      "Lightweight Application",
+      "High Efficiency and Stability"
+    ],
+    "features_id": [
+      "Kompatibilitas Super",
+      "Berbagi Beragam",
+      "Aplikasi Ringan",
+      "Efisiensi dan Stabilitas Tinggi"
     ]
   },
   {
@@ -2683,6 +2925,96 @@
     ]
   },
   {
+    "introduction_id": "Pengendali Sinyal Lalu Lintas Cerdas Maxvision adalah perangkat koordinasi jaringan yang dirancang untuk mengelola sinyal lalu lintas di persimpangan jalan. Perangkat ini mendukung berbagai mode kontrol, termasuk kontrol waktu tetap, aktuasi, dan adaptif, yang memungkinkan penjadwalan fleksibel berdasarkan kondisi lalu lintas waktu nyata. Pengendali ini dilengkapi pemantauan dan peringatan gangguan yang andal, antarmuka komunikasi yang serbaguna, dan kemampuan penggantian manual, sehingga cocok untuk berbagai aplikasi jalan perkotaan seperti persimpangan berbentuk T, persimpangan jalan, dan jalur masuk/keluar.",
+    "product_id": "4bbfd80d-2603-4041-9a89-48ddf69f46d0",
+    "features_en": [
+      "Smart Networked Coordination",
+      "Advanced Control Modes",
+      "Versatile Communication Interfaces",
+      "Traffic Signal Output Management",
+      "Fault Detection & Alerts"
+    ],
+    "description_en": "The Maxvision Intelligent Traffic Signal Controller is a networked coordination device designed for managing traffic signals at road intersections. It supports multiple control modes including fixed-time, actuated, and adaptive control, enabling flexible scheduling based on real-time traffic conditions. The controller features reliable fault monitoring and alerting, versatile communication interfaces, and manual override capabilities, making it suitable for various urban road applications such as T-junctions, crossroads, and on/off-ramps.",
+    "introduction_en": "The Maxvision Intelligent Traffic Signal Controller is a networked coordination device designed for managing traffic signals at road intersections. It supports multiple control modes including fixed-time, actuated, and adaptive control, enabling flexible scheduling based on real-time traffic conditions. The controller features reliable fault monitoring and alerting, versatile communication interfaces, and manual override capabilities, making it suitable for various urban road applications such as T-junctions, crossroads, and on/off-ramps.",
+    "parameter_id": [
+      {
+        "label": "OS  ",
+        "value": "Linux"
+      },
+      {
+        "label": "Fungsi Kontrol",
+        "value": "Kontrol Jaringan Kontrol Adaptif Kontrol Tergerak Kontrol Waktu Tetap Kontrol Sinyal Terkoordinasi Prioritas Pejalan Kaki Prioritas Kontrol Anti-Luapan"
+      },
+      {
+        "label": "Tegangan Operasi  ",
+        "value": "AC 85~264V, 47Hz~63Hz"
+      },
+      {
+        "label": "Frekuensi Terukur",
+        "value": "Konsumsi daya tanpa beban: <50 W Daya beban terukur: 2660 W (pada 220 V)"
+      },
+      {
+        "label": "Suhu Operasi  ",
+        "value": "-40°C~+80°C"
+      },
+      {
+        "label": "Kelembapan Operasi  ",
+        "value": "≤95%RH"
+      },
+      {
+        "label": "Peringkat IP",
+        "value": "IP55"
+      },
+      {
+        "label": "Ukuran",
+        "value": "630*500*1420mm"
+      }
+    ],
+    "id": "7556e618-d8d8-44a7-b3fe-d9da6f97dd56",
+    "features_id": [
+      "Koordinasi Jaringan Cerdas",
+      "Mode Kontrol Canggih",
+      "Antarmuka Komunikasi Serbaguna",
+      "Manajemen Keluaran Sinyal Lalu Lintas",
+      "Deteksi & Peringatan Kesalahan"
+    ],
+    "description_id": "Pengendali Sinyal Lalu Lintas Cerdas Maxvision adalah perangkat koordinasi jaringan yang dirancang untuk mengelola sinyal lalu lintas di persimpangan jalan. Perangkat ini mendukung berbagai mode kontrol, termasuk kontrol waktu tetap, aktuasi, dan adaptif, yang memungkinkan penjadwalan fleksibel berdasarkan kondisi lalu lintas waktu nyata. Pengendali ini dilengkapi pemantauan dan peringatan gangguan yang andal, antarmuka komunikasi yang serbaguna, dan kemampuan penggantian manual, sehingga cocok untuk berbagai aplikasi jalan perkotaan seperti persimpangan berbentuk T, persimpangan jalan, dan jalur masuk/keluar.",
+    "parameter_en": [
+      {
+        "label": "OS  ",
+        "value": "Linux"
+      },
+      {
+        "label": "Control Functions",
+        "value": "Networked ControlAdaptive ControlActuated ControlFixed-time ControlCoordinated Signal Control Pedestrian PriorityTransit"
+      },
+      {
+        "label": "PriorityAnti-overflow Control  ",
+        "value": "Operating Voltage"
+      },
+      {
+        "label": "Rated Frequency  ",
+        "value": "No-load power consumption: <50 WRated load power: 2660 W (at 220 V)"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-40°C~+80°C"
+      },
+      {
+        "label": "Operating Humidity  ",
+        "value": "≤95%RH"
+      },
+      {
+        "label": "IP55  IP ",
+        "value": "Rating"
+      },
+      {
+        "label": "Size  ",
+        "value": "630*500*1420mm"
+      }
+    ]
+  },
+  {
     "id": "7ccd0caa-3666-4fdd-a867-d1bb5799fc46",
     "product_id": "2546270d-7195-4975-afde-d032316226cc",
     "introduction_en": "Palmprint and Palm-vein Capture Terminal uses infrared imaging technology, paired with a HD binocular camera and a high-performance processor. It is equipped with a self-developed Al palm vein recognition algorithm, enabling palm printpalm vein capture, registration, and recognition, while outputting high-quality feature capture images. This terminal has many significant advantages such as extremely high security, non-contact capture and recognition, liveness detection, low-power consumption application, closed-loop AE, and palmprint/palm-vein capture. It is widely applicable in scenarios srequiring personnel access control, identity authentication, smart payment, and more.",
@@ -2793,6 +3125,90 @@
       {
         "label": "Ukuran  ",
         "value": "Ø60*20,5 mm"
+      }
+    ]
+  },
+  {
+    "introduction_id": "Didukung oleh radar dan penginderaan video terintegrasi, perangkat ini memberikan deteksi dan klasifikasi kendaraan bermotor, lalu lintas non-motor, pejalan kaki, dan berbagai objek jalan raya lainnya secara real-time dan presisi tinggi. Melalui integrasi data visual dan radar yang mulus, perangkat ini memungkinkan persepsi cerdas dengan kesadaran kontekstual yang kaya—termasuk jenis, jumlah, arah pergerakan, dan perilaku abnormal objek—untuk mendukung manajemen lalu lintas berbasis data dan penegakan keselamatan.",
+    "product_id": "a0a5ee05-a5bb-49c0-b344-061eb2681639",
+    "features_en": [
+      "Modular Design",
+      "Traffic Intelligence Analytics",
+      "Vehicle & Pedestrian Detection",
+      "Target Tracking",
+      "Anomaly Detection & Alerts",
+      "Custom Development Support"
+    ],
+    "description_en": "Powered by integrated radar and video sensing, this device delivers real-time, high-precision detection and classification of motor vehicles, non-motorized traffic, pedestrians, and miscellaneous road objects. Through seamless fusion of visual and radar data, it enables intelligent perception with rich contextual awareness - including object type, count, movement direction, and abnormal behavior - to support data-driven traffic management and safety enforcement.",
+    "introduction_en": "Powered by integrated radar and video sensing, this device delivers real-time, high-precision detection and classification of motor vehicles, non-motorized traffic, pedestrians, and miscellaneous road objects. Through seamless fusion of visual and radar data, it enables intelligent perception with rich contextual awareness - including object type, count, movement direction, and abnormal behavior - to support data-driven traffic management and safety enforcement.",
+    "parameter_id": [
+      {
+        "label": "Sistem Operasi  ",
+        "value": "Linux"
+      },
+      {
+        "label": "Cakupan Jalur  ",
+        "value": "> 8 jalur lalu lintas"
+      },
+      {
+        "label": "Daya Input  ",
+        "value": "AC 100V~AC 240V"
+      },
+      {
+        "label": "Suhu Operasional  ",
+        "value": "-40°C~+70°C"
+      },
+      {
+        "label": "Kelembapan Relatif  ",
+        "value": "0%~95%"
+      },
+      {
+        "label": "Metode Pemasangan",
+        "value": "Direkomendasikan untuk pemasangan pada tiang lampu lalu lintas, tiang pengawas, atau tiang lain dengan tinggi sekitar 6 m"
+      },
+      {
+        "label": "Ukuran",
+        "value": "P x L x T = 410 x 222 x 150 mm"
+      }
+    ],
+    "id": "7d904633-3a11-4f71-adfc-798f5fccc5cc",
+    "features_id": [
+      "Desain Modular",
+      "Analisis Intelijen Lalu Lintas",
+      "Deteksi Kendaraan & Pejalan Kaki",
+      "Pelacakan Target",
+      "Deteksi & Peringatan Anomali",
+      "Dukungan Pengembangan Kustom"
+    ],
+    "description_id": "Didukung oleh radar dan penginderaan video terintegrasi, perangkat ini memberikan deteksi dan klasifikasi kendaraan bermotor, lalu lintas non-motor, pejalan kaki, dan berbagai objek jalan raya lainnya secara real-time dan presisi tinggi. Melalui integrasi data visual dan radar yang mulus, perangkat ini memungkinkan persepsi cerdas dengan kesadaran kontekstual yang kaya—termasuk jenis, jumlah, arah pergerakan, dan perilaku abnormal objek—untuk mendukung manajemen lalu lintas berbasis data dan penegakan keselamatan.",
+    "parameter_en": [
+      {
+        "label": "Operating System  ",
+        "value": "Linux"
+      },
+      {
+        "label": "Lane Coverage  ",
+        "value": "> 8 traffic lanes"
+      },
+      {
+        "label": "Power Input ",
+        "value": " AC 100V~AC 240V"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-40°C~+70°C"
+      },
+      {
+        "label": "Relative Humidity  ",
+        "value": "0%~95%"
+      },
+      {
+        "label": " Installation Method  ",
+        "value": "Recommended installation on traffic light poles, surveillance poles, or other ~6m-height poles"
+      },
+      {
+        "label": "Size  ",
+        "value": "L x W x D = 410 x 222 x 150 mm"
       }
     ]
   },
@@ -3328,6 +3744,184 @@
       {
         "label": "Ukuran  ",
         "value": "169*142*64mm"
+      }
+    ]
+  },
+  {
+    "introduction_id": "Didukung oleh arsitektur chip heterogen multi-inti berkinerja tinggi (ARM + NPU + CODEC), detektor ini mengintegrasikan algoritma jaringan saraf tiruan dan kemampuan pencitraan cahaya rendah untuk memungkinkan deteksi kendaraan secara real-time dan analisis data lalu lintas yang komprehensif. Detektor ini banyak digunakan di jalan perkotaan, jalan raya, dan jalan tol untuk pemantauan arus dan pengaturan lalu lintas yang akurat.",
+    "product_id": "cf0f2763-1703-4aec-9021-fe2785118aaa",
+    "features_en": [
+      "Adaptive Multi-Scene Tracking Algorithm",
+      "High-Precision Detection",
+      "Comprehensive Traffic Flow Metrics",
+      "Full-Frame Multi-Target Tracking",
+      "Signal Controller Compatibility"
+    ],
+    "description_en": "Powered by a high-performance multi-core heterogeneous chip architecture (ARM + NPU + CODEC), this detector integrates neural network algorithms and low-light imaging capabilities to enable real-time vehicle detection and comprehensive traffic data analysis. It is widely deployed on urban roads, highways, and expressways for accurate flow monitoring and traffic control.",
+    "introduction_en": "Powered by a high-performance multi-core heterogeneous chip architecture (ARM + NPU + CODEC), this detector integrates neural network algorithms and low-light imaging capabilities to enable real-time vehicle detection and comprehensive traffic data analysis. It is widely deployed on urban roads, highways, and expressways for accurate flow monitoring and traffic control.",
+    "parameter_id": [
+      {
+        "label": "Sistem Operasi  ",
+        "value": "Linux"
+      },
+      {
+        "label": "MTBF  ",
+        "value": "≥ 50.000 jam"
+      },
+      {
+        "label": "Kemampuan Deteksi Kendaraan  ",
+        "value": "Deteksi meliputi jumlah kendaraan, okupansi, kecepatan, dan panjang kendaraan"
+      },
+      {
+        "label": "Keluaran Statistik  ",
+        "value": "Mendukung keluaran data pada interval waktu tetap"
+      },
+      {
+        "label": "Kalibrasi Jarak Video  ",
+        "value": "Mendukung kalibrasi jarak permukaan jalan nyata pada video, yang mencakup arah lateral dan longitudinal."
+      },
+      {
+        "label": "Pelacakan Multi-Target Bingkai Penuh  ",
+        "value": "Melacak semua lintasan kendaraan dalam bingkai tanpa batasan jumlah objek"
+      },
+      {
+        "label": "Zona Deteksi yang Dapat Dikonfigurasi  ",
+        "value": "Setiap lajur mendukung hingga 3 zona deteksi yang dapat dikonfigurasi."
+      },
+      {
+        "label": "Penerangan Tambahan  ",
+        "value": "Tidak memerlukan penerangan independen di malam hari; Memanfaatkan lampu jalan ambient"
+      },
+      {
+        "label": "Fitur Manajemen ",
+        "value": " Sinkronisasi waktu NTP, reboot otomatis, pemantauan sistem, log tertanam, pemutakhiran batch jarak jauh"
+      },
+      {
+        "label": "Antarmuka Web Tertanam  ",
+        "value": "Mendukung konfigurasi berbasis peramban, tampilan langsung, pemutaran, dan deteksi waktu nyata"
+      },
+      {
+        "label": "Statistik Data Arus Lalu Lintas ",
+        "value": " Termasuk volume, waktu tempuh rata-rata, jarak tempuh rata-rata, tingkat hunian, dan status jalan"
+      },
+      {
+        "label": "Catu Daya  ",
+        "value": "Konverter AC-DC; DC 12V"
+      },
+      {
+        "label": "Konsumsi Daya ",
+        "value": "≤ 3,5 W"
+      },
+      {
+        "label": "Suhu Operasional  ",
+        "value": "-40°C~+70°C"
+      },
+      {
+        "label": "Kelembapan Operasional  ",
+        "value": "0% - 95%, non-kondensasi"
+      },
+      {
+        "label": "Peringkat Perlindungan ",
+        "value": " IP67"
+      },
+      {
+        "label": "Metode Pemasangan  ",
+        "value": "Pemasangan tiang standar"
+      },
+      {
+        "label": "Berat  ",
+        "value": "1,54 kg"
+      },
+      {
+        "label": "Ukuran  ",
+        "value": "262*114*120mm"
+      }
+    ],
+    "id": "95bd8eed-6685-4737-a9de-137e898c85ae",
+    "features_id": [
+      "Algoritma Pelacakan Multi-Adegan Adaptif",
+      "Deteksi Presisi Tinggi",
+      "Metrik Arus Lalu Lintas Komprehensif",
+      "Pelacakan Multi-Target Full-Frame",
+      "Kompatibilitas Pengontrol Sinyal"
+    ],
+    "description_id": "Didukung oleh arsitektur chip heterogen multi-inti berkinerja tinggi (ARM + NPU + CODEC), detektor ini mengintegrasikan algoritma jaringan saraf tiruan dan kemampuan pencitraan cahaya rendah untuk memungkinkan deteksi kendaraan secara real-time dan analisis data lalu lintas yang komprehensif. Detektor ini banyak digunakan di jalan perkotaan, jalan raya, dan jalan tol untuk pemantauan arus dan pengaturan lalu lintas yang akurat.",
+    "parameter_en": [
+      {
+        "label": "Operating System  ",
+        "value": "Linux"
+      },
+      {
+        "label": "MTBF  ",
+        "value": "≥ 50,000h"
+      },
+      {
+        "label": "Vehicle Detection Capability  ",
+        "value": "Detection include vehicle count, occupancy, speed, and vehicle length"
+      },
+      {
+        "label": "Statistical Output  ",
+        "value": "Supports data output at fixed time intervals"
+      },
+      {
+        "label": "Video Distance Calibration  ",
+        "value": "Supports real-world road surface distance calibration on video, covering both lateral and longitudinal directions."
+      },
+      {
+        "label": "Full-Frame Multi-Target Tracking  ",
+        "value": "Tracks all vehicle trajectories in the frame without limit on object count"
+      },
+      {
+        "label": "Configurable Detection Zones  ",
+        "value": "Each lane supports up to 3 configurable detection zones."
+      },
+      {
+        "label": "Supplementary Lighting  ",
+        "value": "No independent illumination required at night; utilizes ambient street lighting"
+      },
+      {
+        "label": "Management Features  ",
+        "value": "NTP time sync, auto reboot, system monitoring, embedded log, remote batch upgrade"
+      },
+      {
+        "label": "Embedded Web Interface  ",
+        "value": "Supports browser-based configuration, live view, playback, and real-time detection"
+      },
+      {
+        "label": "Traffic Flow Data Statistics ",
+        "value": " Includes volume, average headway time, average spacing, occupancy rate, road status"
+      },
+      {
+        "label": "Power Supply  ",
+        "value": "AC-DC converter; DC 12V"
+      },
+      {
+        "label": "Power Consumption ",
+        "value": "≤ 3.5 W"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-40°C~+70°C"
+      },
+      {
+        "label": "Operating Humidity  ",
+        "value": "0% - 95%, non-condensing"
+      },
+      {
+        "label": "Protection Rating  ",
+        "value": "IP67"
+      },
+      {
+        "label": "Installation Method  ",
+        "value": "Standard pole mounting"
+      },
+      {
+        "label": "Weight  ",
+        "value": "1.54 kg"
+      },
+      {
+        "label": "Size  ",
+        "value": "262*114*120mm"
       }
     ]
   },
@@ -5124,6 +5718,94 @@
     ]
   },
   {
+    "introduction_id": "Terminal Manajemen Cerdas Maxvision adalah sistem cerdas untuk manajemen dan analisis persimpangan terpusat. Sistem ini memecahkan masalah penyimpanan gambar, pengunggahan, dan akses video beberapa kamera di persimpangan. Sistem ini memiliki beberapa algoritma cerdas bawaan. Sistem ini mendukung sintesis beberapa gambar, superimposisi karakter, statistik lalu lintas, pengukuran kecepatan interval, pelepasan ilegal, dan fungsi lainnya, yang dapat memenuhi kebutuhan penyebaran persimpangan dan penyebaran pusat jaringan. Sistem ini banyak digunakan untuk berbagai skenario aplikasi seperti pos pemeriksaan, polisi elektronik, pemantauan jalan, dll., untuk mencapai manajemen dan analisis cerdas 24 jam.",
+    "product_id": "c3944dce-be30-43d8-8c17-e8b973773ed8",
+    "features_en": [
+      "Breakpoint Continuation to Anti-loss of Disconnected Data",
+      "Effective synthesis of illegal behavior images/short videos",
+      "Personalized Demand Customization",
+      "Seamless Connection with Third-party Platforms"
+    ],
+    "description_en": "Maxvision Intelligent Management Terminal is an intelligent system for centralized management and analysis of intersections, which solves the problems of image storage, uploading, and video access of multiple cameras at intersections, and has multiple intelligent algorithms built in, It supports multiple image synthesis, character superimposition, traffic statistics, interval speed measurement, illegal release, and other functions, which can meet the needs of intersection deployment and network center deployment. It is widely applied to various application scenarios such as checkpoints, electronic police, road monitoring etc., to achieve 24-hour intelligent management and analysis.",
+    "introduction_en": "Maxvision Intelligent Management Terminal is an intelligent system for centralized management and analysis of intersections, which solves the problems of image storage, uploading, and video access of multiple cameras at intersections, and has multiple intelligent algorithms built in, It supports multiple image synthesis, character superimposition, traffic statistics, interval speed measurement, illegal release, and other functions, which can meet the needs of intersection deployment and network center deployment. It is widely applied to various application scenarios such as checkpoints, electronic police, road monitoring etc., to achieve 24-hour intelligent management and analysis.",
+    "parameter_id": [
+      {
+        "label": "Sistem Operasi  ",
+        "value": "Linux"
+      },
+      {
+        "label": "Modul Beidou/GPS  ",
+        "value": "1 (opsional)"
+      },
+      {
+        "label": "Konsumsi Daya",
+        "value": "Dengan kondisi 20W dengan 1 hard drive (konsumsi daya beberapa hard drive sedikit meningkat)"
+      },
+      {
+        "label": "Tegangan  ",
+        "value": "DC12V ± 10%"
+      },
+      {
+        "label": "Suhu  ",
+        "value": "-40°C ~ + 70°C"
+      },
+      {
+        "label": "Kelembapan  ",
+        "value": "10% ~ 90% (Tanpa kondensasi)"
+      },
+      {
+        "label": "Ukuran ",
+        "value": " P*L*T=242mm*147.4mm*58mm"
+      },
+      {
+        "label": "Sertifikasi  ",
+        "value": "C.E"
+      }
+    ],
+    "id": "de63a2dc-2fce-49db-b673-9be69d175dfe",
+    "features_id": [
+      "Kelanjutan Titik Henti untuk Anti-Kehilangan Data yang Terputus",
+      "Sintesis gambar/video pendek perilaku ilegal yang efektif",
+      "Kustomisasi Permintaan yang Dipersonalisasi",
+      "Koneksi yang Lancar dengan Platform Pihak Ketiga"
+    ],
+    "description_id": "Terminal Manajemen Cerdas Maxvision adalah sistem cerdas untuk manajemen dan analisis persimpangan terpusat. Sistem ini memecahkan masalah penyimpanan gambar, pengunggahan, dan akses video beberapa kamera di persimpangan. Sistem ini memiliki beberapa algoritma cerdas bawaan. Sistem ini mendukung sintesis beberapa gambar, superimposisi karakter, statistik lalu lintas, pengukuran kecepatan interval, pelepasan ilegal, dan fungsi lainnya, yang dapat memenuhi kebutuhan penyebaran persimpangan dan penyebaran pusat jaringan. Sistem ini banyak digunakan untuk berbagai skenario aplikasi seperti pos pemeriksaan, polisi elektronik, pemantauan jalan, dll., untuk mencapai manajemen dan analisis cerdas 24 jam.",
+    "parameter_en": [
+      {
+        "label": "O/S  ",
+        "value": "Linux"
+      },
+      {
+        "label": "Beidou /GPS Module  ",
+        "value": "1 (optional)"
+      },
+      {
+        "label": "Consumption  ",
+        "value": "Under the condition of s 20W with 1hard drive (power consumption ofmultiple hard drives slightly increases)"
+      },
+      {
+        "label": "Voltage  ",
+        "value": "DC12V±10%"
+      },
+      {
+        "label": "Temperature  ",
+        "value": "-40°C~+70°C"
+      },
+      {
+        "label": "Humidity  ",
+        "value": "10%~~90% (No condensation)"
+      },
+      {
+        "label": "Size  ",
+        "value": "L*W*H=242mm*147.4mm*58mm"
+      },
+      {
+        "label": "Certification  ",
+        "value": "C.E"
+      }
+    ]
+  },
+  {
     "id": "df397f60-073f-4472-b205-63aa5b8635ca",
     "product_id": "ae068971-315b-4d5e-a52b-0eb49d0075c6",
     "introduction_en": "Maxvision Iris & Face Recognition Terminal has an integrated front panel design, the screen frame and the body are integrated, and the back is made of aluminum material, which is lightweight, durable and corrosion-resistant. The device integrates iris recognition, face recognition, iris and face fusion recognition, intelligent iris capture and tracking, and other functions. The system can customize 1:1 or 1:N iris recognition comparison to meet the functional requirements of different application scenarios. The equipment can be installed in systems such as access control, gates, and self-service terminals, which is widely used in personnel access control places such as customs, border defense, seaports, communities and buildings.",
@@ -5360,6 +6042,82 @@
       {
         "label": "Dimension  ",
         "value": "L*W*H=920mm*900mm*2420mm"
+      }
+    ]
+  },
+  {
+    "introduction_id": "Terminal Manajemen Cerdas (16) dari Maxvision adalah terminal cerdas multifungsi generasi terbaru yang dirancang untuk manajemen persimpangan terpusat. Terminal ini menyediakan solusi komprehensif untuk akuisisi gambar/video kamera HD multi-kanal, penyimpanan lokal, dan transmisi data.\nDengan algoritma cerdas terintegrasi, sistem ini mendukung: pengomposisian gambar, penyisipan metadata, analisis arus lalu lintas, deteksi kecepatan rata-rata, identifikasi dan pelaporan pelanggaran.\nDirekayasa untuk penerapan fleksibel di persimpangan atau pusat jaringan, solusi ini memberikan pemantauan cerdas 24/7 untuk berbagai aplikasi termasuk pos pemeriksaan, sistem polisi elektronik, dan pengawasan lalu lintas.",
+    "product_id": "02b0731e-a512-4ad8-842d-e1fcd5818a63",
+    "features_en": [
+      "Robust Hardware Architecture",
+      "Advanced Image Processing",
+      "Comprehensive Data Security",
+      "Intelligent Traffic Analytics",
+      "Multi-layer System Protection",
+      "Reliable Network Performance"
+    ],
+    "description_en": "The Intelligent Management Terminal (16) from Maxvision is a next-generation multifunctional intelligent terminal designed for centralized intersection management. It provides\ncomprehensive solutions for multi-channel HD camera image/video acquisition, local storage, and data transmission.\nWith integrated intelligent algorithms, the system supports: image compositing, metadata embedding, traffic flow analysis, average speed detection, violation identification and reporting.\nEngineered for flexible deployment at intersections or network centers, the solution delivers 24/7 intelligent monitoring for applications including checkpoints, electronic police systems, and traffic surveillance.",
+    "introduction_en": "The Intelligent Management Terminal (16) from Maxvision is a next-generation multifunctional intelligent terminal designed for centralized intersection management. It provides\ncomprehensive solutions for multi-channel HD camera image/video acquisition, local storage, and data transmission.\nWith integrated intelligent algorithms, the system supports: image compositing, metadata embedding, traffic flow analysis, average speed detection, violation identification and reporting.\nEngineered for flexible deployment at intersections or network centers, the solution delivers 24/7 intelligent monitoring for applications including checkpoints, electronic police systems, and traffic surveillance.",
+    "parameter_id": [
+      {
+        "label": "Sistem Operasi  ",
+        "value": "Linux"
+      },
+      {
+        "label": "Saluran  ",
+        "value": "16 saluran"
+      },
+      {
+        "label": "Tegangan  ",
+        "value": "DC 12V ± 10%"
+      },
+      {
+        "label": "Suhu  ",
+        "value": "-20°C~+65°C (dengan hard disk); -40°C~+70°C (tanpa hard disk)"
+      },
+      {
+        "label": "Kelembapan  ",
+        "value": "10%~90% (Tanpa kondensasi)"
+      },
+      {
+        "label": "Sertifikasi  ",
+        "value": "CE, ROHS"
+      }
+    ],
+    "id": "e11db0cb-efd9-4aa8-9b6a-aa90fd56e3b1",
+    "features_id": [
+      "Arsitektur Perangkat Keras yang Tangguh",
+      "Pemrosesan Gambar Canggih",
+      "Keamanan Data yang Komprehensif",
+      "Analisis Lalu Lintas yang Cerdas",
+      "Perlindungan Sistem Berlapis",
+      "Performa Jaringan yang Andal"
+    ],
+    "description_id": "Terminal Manajemen Cerdas (16) dari Maxvision adalah terminal cerdas multifungsi generasi terbaru yang dirancang untuk manajemen persimpangan terpusat. Terminal ini menyediakan solusi komprehensif untuk akuisisi gambar/video kamera HD multi-kanal, penyimpanan lokal, dan transmisi data.\nDengan algoritma cerdas terintegrasi, sistem ini mendukung: pengomposisian gambar, penyisipan metadata, analisis arus lalu lintas, deteksi kecepatan rata-rata, identifikasi dan pelaporan pelanggaran.\nDirekayasa untuk penerapan fleksibel di persimpangan atau pusat jaringan, solusi ini memberikan pemantauan cerdas 24/7 untuk berbagai aplikasi termasuk pos pemeriksaan, sistem polisi elektronik, dan pengawasan lalu lintas.",
+    "parameter_en": [
+      {
+        "label": "O/S  ",
+        "value": "Linux"
+      },
+      {
+        "label": "Channel  ",
+        "value": "16 channels"
+      },
+      {
+        "label": "Voltage  ",
+        "value": "DC 12V±10%"
+      },
+      {
+        "label": "Temperature  ",
+        "value": "-20°C~+65°C(with hard disk); -40°C~+70°C(without hard disk)"
+      },
+      {
+        "label": "Humidity  ",
+        "value": "10%~90% (No condensation)"
+      },
+      {
+        "label": "Certification  ",
+        "value": "CE, ROHS"
       }
     ]
   },
