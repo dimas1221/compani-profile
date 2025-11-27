@@ -1,0 +1,84 @@
+{
+  "introduction_id": "Didukung oleh radar dan penginderaan video terintegrasi, perangkat ini memberikan deteksi dan klasifikasi kendaraan bermotor, lalu lintas non-motor, pejalan kaki, dan berbagai objek jalan raya lainnya secara real-time dan presisi tinggi. Melalui integrasi data visual dan radar yang mulus, perangkat ini memungkinkan persepsi cerdas dengan kesadaran kontekstual yang kaya—termasuk jenis, jumlah, arah pergerakan, dan perilaku abnormal objek—untuk mendukung manajemen lalu lintas berbasis data dan penegakan keselamatan.",
+  "product_id": "a0a5ee05-a5bb-49c0-b344-061eb2681639",
+  "features_en": [
+    "Modular Design",
+    "Traffic Intelligence Analytics",
+    "Vehicle & Pedestrian Detection",
+    "Target Tracking",
+    "Anomaly Detection & Alerts",
+    "Custom Development Support"
+  ],
+  "description_en": "Powered by integrated radar and video sensing, this device delivers real-time, high-precision detection and classification of motor vehicles, non-motorized traffic, pedestrians, and miscellaneous road objects. Through seamless fusion of visual and radar data, it enables intelligent perception with rich contextual awareness - including object type, count, movement direction, and abnormal behavior - to support data-driven traffic management and safety enforcement.",
+  "introduction_en": "Powered by integrated radar and video sensing, this device delivers real-time, high-precision detection and classification of motor vehicles, non-motorized traffic, pedestrians, and miscellaneous road objects. Through seamless fusion of visual and radar data, it enables intelligent perception with rich contextual awareness - including object type, count, movement direction, and abnormal behavior - to support data-driven traffic management and safety enforcement.",
+  "parameter_id": [
+    {
+      "label": "Sistem Operasi  ",
+      "value": "Linux"
+    },
+    {
+      "label": "Cakupan Jalur  ",
+      "value": "> 8 jalur lalu lintas"
+    },
+    {
+      "label": "Daya Input  ",
+      "value": "AC 100V~AC 240V"
+    },
+    {
+      "label": "Suhu Operasional  ",
+      "value": "-40°C~+70°C"
+    },
+    {
+      "label": "Kelembapan Relatif  ",
+      "value": "0%~95%"
+    },
+    {
+      "label": "Metode Pemasangan",
+      "value": "Direkomendasikan untuk pemasangan pada tiang lampu lalu lintas, tiang pengawas, atau tiang lain dengan tinggi sekitar 6 m"
+    },
+    {
+      "label": "Ukuran",
+      "value": "P x L x T = 410 x 222 x 150 mm"
+    }
+  ],
+  "id": "7d904633-3a11-4f71-adfc-798f5fccc5cc",
+  "features_id": [
+    "Desain Modular",
+    "Analisis Intelijen Lalu Lintas",
+    "Deteksi Kendaraan & Pejalan Kaki",
+    "Pelacakan Target",
+    "Deteksi & Peringatan Anomali",
+    "Dukungan Pengembangan Kustom"
+  ],
+  "description_id": "Didukung oleh radar dan penginderaan video terintegrasi, perangkat ini memberikan deteksi dan klasifikasi kendaraan bermotor, lalu lintas non-motor, pejalan kaki, dan berbagai objek jalan raya lainnya secara real-time dan presisi tinggi. Melalui integrasi data visual dan radar yang mulus, perangkat ini memungkinkan persepsi cerdas dengan kesadaran kontekstual yang kaya—termasuk jenis, jumlah, arah pergerakan, dan perilaku abnormal objek—untuk mendukung manajemen lalu lintas berbasis data dan penegakan keselamatan.",
+  "parameter_en": [
+    {
+      "label": "Operating System  ",
+      "value": "Linux"
+    },
+    {
+      "label": "Lane Coverage  ",
+      "value": "> 8 traffic lanes"
+    },
+    {
+      "label": "Power Input ",
+      "value": " AC 100V~AC 240V"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-40°C~+70°C"
+    },
+    {
+      "label": "Relative Humidity  ",
+      "value": "0%~95%"
+    },
+    {
+      "label": " Installation Method  ",
+      "value": "Recommended installation on traffic light poles, surveillance poles, or other ~6m-height poles"
+    },
+    {
+      "label": "Size  ",
+      "value": "L x W x D = 410 x 222 x 150 mm"
+    }
+  ]
+}
