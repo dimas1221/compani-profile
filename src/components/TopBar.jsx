@@ -34,7 +34,7 @@ export default function TopBar({ onVisibilityChange }) {
           transition-colors duration-300
           ${
             lang === 'en'
-              ? 'bg-blue-600 text-white font-semibold shadow-md'
+              ? 'bg-primary-500 text-white font-semibold shadow-md'
               : 'text-white/70 hover:text-white'
           }
         `}
@@ -48,7 +48,7 @@ export default function TopBar({ onVisibilityChange }) {
           transition-colors duration-300
           ${
             lang === 'id'
-              ? 'bg-blue-600 text-white font-semibold shadow-md'
+              ? 'bg-primary-500 text-white font-semibold shadow-md'
               : 'text-white/70 hover:text-white'
           }
         `}

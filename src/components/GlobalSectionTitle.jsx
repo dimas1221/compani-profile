@@ -17,7 +17,7 @@ export default function GlobalSectionTitle({
         viewport={{ once: true }}
         className="
           text-2xl sm:text-4xl font-extrabold
-          text-blue-600
+          text-primary-500
           leading-tight font-clash
         "
       >

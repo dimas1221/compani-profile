@@ -12,7 +12,7 @@ export default {
           200: '#c8dbff',
           300: '#a6c5ff',
           400: '#6f9eff',
-          500: '#2b6ef6', // utama (biru korporat)
+          500: '#60a5fa', // utama (biru korporat)
           600: '#1d57d9',
           700: '#1848b3',
           800: '#143a8c',

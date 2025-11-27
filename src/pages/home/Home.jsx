@@ -7,6 +7,7 @@ import AboutSection from './AboutSection';
 import { dataStats } from '../../components/utils/dataObject';
 import PartnerSection from './PartnerSection';
 import { PrinsipleSection } from './PrinsipleSection';
+import PortfolioSection from './PortfolioSection';
 
 export default function Home() {
   useEffect(() => {
@@ -32,6 +33,8 @@ export default function Home() {
       <PrinsipleSection />
       <br />
       <PartnerSection />
+      <br />
+      <PortfolioSection />
       <br />
       {/* Section 4: Product carousel */}
       <ProductSection />

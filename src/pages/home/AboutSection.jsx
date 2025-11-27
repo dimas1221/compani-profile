@@ -57,7 +57,7 @@ export default function AboutSection() {
               <h4
                 className="
                   text-xl sm:text-2xl font-semibold mb-5 tracking-wide
-                  text-blue-600 font-clash
+                  text-primary-500 font-clash
                 "
               >
                 {lang === 'en' ? 'Vision & Mission' : 'Visi & Misi'}
@@ -94,7 +94,7 @@ export default function AboutSection() {
             <h3
               className="
                  text-xl sm:text-2xl font-semibold
-               text-blue-600
+               text-primary-500
                 bg-clip-text font-clash pt-3
               "
             >

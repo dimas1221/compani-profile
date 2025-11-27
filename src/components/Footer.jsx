@@ -36,7 +36,7 @@ export default function Footer() {
           <h4
             className="
               text-2xl sm:text-3xl font-extrabold mb-3
-              text-blue-600 
+              text-primary-500 
             "
           >
             {t.company}
@@ -61,7 +61,7 @@ export default function Footer() {
                   href={link.href}
                   className="
                     group inline-flex items-center gap-2
-                    hover:text-blue-600 dark:hover:text-cyan-400
+                    hover:text-primary-500 dark:hover:text-cyan-400
                     transition-all duration-300
                   "
                 >
@@ -82,7 +82,7 @@ export default function Footer() {
               <Mail className="w-4 h-4 text-blue-500 dark:text-cyan-400" />
               <a
                 href="mailto:info@transforme.co.id"
-                className="hover:text-blue-600 dark:hover:text-cyan-400 transition"
+                className="hover:text-primary-500 dark:hover:text-cyan-400 transition"
               >
                 info@transforme.co.id
               </a>
@@ -105,7 +105,7 @@ export default function Footer() {
                   border border-gray-200 dark:border-gray-700
                   bg-white/70 dark:bg-gray-800/70
                   hover:border-blue-500 dark:hover:border-cyan-400
-                  hover:text-blue-600 dark:hover:text-cyan-400
+                  hover:text-primary-500 dark:hover:text-cyan-400
                   shadow-sm hover:shadow-md
                   transition-all duration-300
                 "

@@ -315,3 +315,34 @@ collections:
                       name: 'message_id',
                       widget: 'text',
                     }
+  # ==========================================================
+  # 6️⃣ PORTFOLIO (KAMU MAKSUD)
+  # ==========================================================
+  - name: 'portfolio'
+    label: 'Portfolio'
+    format: 'json'
+    extension: 'json'
+    editor:
+      preview: false
+    files:
+      - file: 'public/data/portfolio.json'
+        label: 'Portfolio Data'
+        name: 'portfolio_json'
+        fields:
+          - label: 'Portfolio Items'
+            name: 'portfolio'
+            widget: 'list'
+            fields:
+              - { label: 'ID', name: 'id', widget: 'uuid' }
+              - { label: 'Image', name: 'image', widget: 'image' }
+              - { label: 'Title (ID)', name: 'title_id', widget: 'string' }
+              - { label: 'Title (EN)', name: 'title_en', widget: 'string' }
+              - { label: 'Description (ID)', name: 'desc_id', widget: 'text' }
+              - { label: 'Description (EN)', name: 'desc_en', widget: 'text' }
+              - label: 'Gallery'
+                name: 'gallery'
+                widget: 'list'
+                required: false
+                hint: 'Tambahkan gambar-gambar untuk galeri detail (optional)'
+                fields:
+                  - { label: 'Gambar', name: 'image', widget: 'image' }

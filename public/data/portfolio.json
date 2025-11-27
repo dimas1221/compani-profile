@@ -1,0 +1,84 @@
+{
+  "portfolio": [
+    {
+      "id": "b7a3d7f4-9c87-4b03-a2c3-1e8c631f8ca1",
+      "image": "/images/uploads/porto-1.jpg",
+      "title_id": "Sistem Keamanan Kota",
+      "title_en": "Smart City Surveillance",
+      "desc_id": "Implementasi sistem kamera cerdas dengan analitik real-time untuk pengawasan kota.",
+      "desc_en": "Implementation of intelligent camera systems with real-time analytics for city monitoring."
+    },
+    {
+      "id": "c28de4be-48ec-4cd1-9d2f-1d5b1f99744d",
+      "image": "/images/uploads/porto-2.jpg",
+      "title_id": "Monitoring Lalu Lintas",
+      "title_en": "Traffic Monitoring System",
+      "desc_id": "Solusi manajemen lalu lintas terintegrasi dengan pelacakan kendaraan.",
+      "desc_en": "Integrated traffic management solution with vehicle tracking."
+    },
+    {
+      "id": "e4c98a91-0f44-41e7-98fa-0fbc8415e1f0",
+      "image": "/images/uploads/porto-3.jpg",
+      "title_id": "Keamanan Perusahaan",
+      "title_en": "Enterprise Security",
+      "desc_id": "Sistem keamanan gedung dengan kontrol akses dan CCTV terpusat.",
+      "desc_en": "Building security system with access control and centralized CCTV."
+    },
+    {
+      "id": "5c6f9cbe-92ac-4a4d-a487-4f76c4f72d0e",
+      "image": "/images/uploads/porto-4.jpg",
+      "title_id": "Analitik Retail",
+      "title_en": "Retail Analytics",
+      "desc_id": "Penerapan sistem analitik pengunjung dan heatmap.",
+      "desc_en": "Deployment of visitor analytics and heatmap monitoring."
+    },
+    {
+      "id": "9d1d8ba8-6fd0-49e2-a01f-54d5808ebe34",
+      "image": "/images/uploads/porto-5.jpg",
+      "title_id": "Keamanan Bandara",
+      "title_en": "Airport Security",
+      "desc_id": "Integrasi kamera dan kontrol akses untuk area bandara.",
+      "desc_en": "Camera and access control integration for airport security."
+    },
+    {
+      "id": "f3fcb0e1-b8f1-440a-9e04-1e9401e0efb2",
+      "image": "/images/uploads/porto-6.jpg",
+      "title_id": "Sistem Kampus Aman",
+      "title_en": "Smart Campus Protection",
+      "desc_id": "Pemasangan CCTV cerdas dan sistem peringatan darurat.",
+      "desc_en": "Deployment of smart CCTV with emergency alert systems."
+    },
+    {
+      "id": "a47bb1c3-9675-48db-9f29-52b4de2c540c",
+      "image": "/images/uploads/porto-7.jpg",
+      "title_id": "Keamanan Pabrik",
+      "title_en": "Factory Surveillance",
+      "desc_id": "Pemantauan area produksi dan gudang dengan kamera termal.",
+      "desc_en": "Monitoring of production and warehouse areas using thermal cameras."
+    },
+    {
+      "id": "d0254590-421d-4abf-a4a3-fef56c6b306a",
+      "image": "/images/uploads/porto-8.jpg",
+      "title_id": "Pengawasan Pelabuhan",
+      "title_en": "Harbor Monitoring",
+      "desc_id": "Pengawasan dermaga dan lalu lintas kapal secara real-time.",
+      "desc_en": "Real-time dock and vessel traffic monitoring."
+    },
+    {
+      "id": "64ea70e4-2b15-49e1-9b85-0f8d6fa98ad4",
+      "image": "/images/uploads/porto-9.jpg",
+      "title_id": "Keamanan Rumah Sakit",
+      "title_en": "Hospital Security",
+      "desc_id": "Sistem pemantauan 24/7 untuk area kritis dan publik.",
+      "desc_en": "24/7 monitoring system for critical and public zones."
+    },
+    {
+      "id": "7cf08923-ff84-4ee2-9acb-2c03be451f3f",
+      "image": "/images/uploads/porto-10.jpg",
+      "title_id": "Keamanan Gedung Pemerintah",
+      "title_en": "Government Building Security",
+      "desc_id": "Solusi keamanan terintegrasi dengan kamera AI.",
+      "desc_en": "Integrated security solution powered by AI cameras."
+    }
+  ]
+}
