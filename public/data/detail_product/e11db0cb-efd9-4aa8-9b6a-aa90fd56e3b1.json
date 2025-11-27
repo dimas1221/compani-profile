@@ -1,0 +1,76 @@
+{
+  "introduction_id": "Terminal Manajemen Cerdas (16) dari Maxvision adalah terminal cerdas multifungsi generasi terbaru yang dirancang untuk manajemen persimpangan terpusat. Terminal ini menyediakan solusi komprehensif untuk akuisisi gambar/video kamera HD multi-kanal, penyimpanan lokal, dan transmisi data.\nDengan algoritma cerdas terintegrasi, sistem ini mendukung: pengomposisian gambar, penyisipan metadata, analisis arus lalu lintas, deteksi kecepatan rata-rata, identifikasi dan pelaporan pelanggaran.\nDirekayasa untuk penerapan fleksibel di persimpangan atau pusat jaringan, solusi ini memberikan pemantauan cerdas 24/7 untuk berbagai aplikasi termasuk pos pemeriksaan, sistem polisi elektronik, dan pengawasan lalu lintas.",
+  "product_id": "02b0731e-a512-4ad8-842d-e1fcd5818a63",
+  "features_en": [
+    "Robust Hardware Architecture",
+    "Advanced Image Processing",
+    "Comprehensive Data Security",
+    "Intelligent Traffic Analytics",
+    "Multi-layer System Protection",
+    "Reliable Network Performance"
+  ],
+  "description_en": "The Intelligent Management Terminal (16) from Maxvision is a next-generation multifunctional intelligent terminal designed for centralized intersection management. It provides\ncomprehensive solutions for multi-channel HD camera image/video acquisition, local storage, and data transmission.\nWith integrated intelligent algorithms, the system supports: image compositing, metadata embedding, traffic flow analysis, average speed detection, violation identification and reporting.\nEngineered for flexible deployment at intersections or network centers, the solution delivers 24/7 intelligent monitoring for applications including checkpoints, electronic police systems, and traffic surveillance.",
+  "introduction_en": "The Intelligent Management Terminal (16) from Maxvision is a next-generation multifunctional intelligent terminal designed for centralized intersection management. It provides\ncomprehensive solutions for multi-channel HD camera image/video acquisition, local storage, and data transmission.\nWith integrated intelligent algorithms, the system supports: image compositing, metadata embedding, traffic flow analysis, average speed detection, violation identification and reporting.\nEngineered for flexible deployment at intersections or network centers, the solution delivers 24/7 intelligent monitoring for applications including checkpoints, electronic police systems, and traffic surveillance.",
+  "parameter_id": [
+    {
+      "label": "Sistem Operasi  ",
+      "value": "Linux"
+    },
+    {
+      "label": "Saluran  ",
+      "value": "16 saluran"
+    },
+    {
+      "label": "Tegangan  ",
+      "value": "DC 12V ± 10%"
+    },
+    {
+      "label": "Suhu  ",
+      "value": "-20°C~+65°C (dengan hard disk); -40°C~+70°C (tanpa hard disk)"
+    },
+    {
+      "label": "Kelembapan  ",
+      "value": "10%~90% (Tanpa kondensasi)"
+    },
+    {
+      "label": "Sertifikasi  ",
+      "value": "CE, ROHS"
+    }
+  ],
+  "id": "e11db0cb-efd9-4aa8-9b6a-aa90fd56e3b1",
+  "features_id": [
+    "Arsitektur Perangkat Keras yang Tangguh",
+    "Pemrosesan Gambar Canggih",
+    "Keamanan Data yang Komprehensif",
+    "Analisis Lalu Lintas yang Cerdas",
+    "Perlindungan Sistem Berlapis",
+    "Performa Jaringan yang Andal"
+  ],
+  "description_id": "Terminal Manajemen Cerdas (16) dari Maxvision adalah terminal cerdas multifungsi generasi terbaru yang dirancang untuk manajemen persimpangan terpusat. Terminal ini menyediakan solusi komprehensif untuk akuisisi gambar/video kamera HD multi-kanal, penyimpanan lokal, dan transmisi data.\nDengan algoritma cerdas terintegrasi, sistem ini mendukung: pengomposisian gambar, penyisipan metadata, analisis arus lalu lintas, deteksi kecepatan rata-rata, identifikasi dan pelaporan pelanggaran.\nDirekayasa untuk penerapan fleksibel di persimpangan atau pusat jaringan, solusi ini memberikan pemantauan cerdas 24/7 untuk berbagai aplikasi termasuk pos pemeriksaan, sistem polisi elektronik, dan pengawasan lalu lintas.",
+  "parameter_en": [
+    {
+      "label": "O/S  ",
+      "value": "Linux"
+    },
+    {
+      "label": "Channel  ",
+      "value": "16 channels"
+    },
+    {
+      "label": "Voltage  ",
+      "value": "DC 12V±10%"
+    },
+    {
+      "label": "Temperature  ",
+      "value": "-20°C~+65°C(with hard disk); -40°C~+70°C(without hard disk)"
+    },
+    {
+      "label": "Humidity  ",
+      "value": "10%~90% (No condensation)"
+    },
+    {
+      "label": "Certification  ",
+      "value": "CE, ROHS"
+    }
+  ]
+}
