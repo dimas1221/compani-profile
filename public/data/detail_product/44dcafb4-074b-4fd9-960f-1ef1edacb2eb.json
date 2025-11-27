@@ -1,0 +1,100 @@
+{
+  "introduction_id": "Kamera ANPR Multi-negara Maxvision dirancang untuk menjawab tantangan identifikasi plat nomor di berbagai wilayah, bahasa, dan format. Dibangun dengan AI vision canggih dan teknologi OCR multibahasa, sistem ini memberikan pengenalan yang andal dan real-time di lingkungan lalu lintas yang kompleks. Baik digunakan di perlintasan perbatasan, pusat logistik, jalan raya, tempat parkir, atau pos pemeriksaan bea cukai, sistem ini memastikan pemantauan kendaraan yang lancar di berbagai pengaturan internasional.\nSolusi ini mendukung kamera AI berbasis edge dan terminal pintar terintegrasi, menawarkan fleksibilitas penerapan untuk memenuhi berbagai kebutuhan infrastruktur. Dengan akurasi pengenalan yang tinggi\ndan stabilitas operasional 24/7, sistem ini membantu operator menyederhanakan identifikasi kendaraan, mengotomatiskan kontrol masuk/keluar, dan memperkuat keamanan lintas batas.",
+  "product_id": "f1f6461a-3b68-40e9-bec0-57dc08b54f62",
+  "features_en": [
+    "Global Adaptability with Support for 60+ Countries",
+    "High Recognition Accuracy (≥96%)",
+    "Accurate Vehicle Attribute Detection (≥95%)",
+    "Flexible Deployment Options",
+    "Robust Performance in Complex Scenarios",
+    "Seamless System Integration"
+  ],
+  "description_en": "Maxvision's Multi-country ANPR Camera is designed to meet the challenges of identifying plates across diverse regions, languages, and formats. Built with advanced Al vision and multilingual OCR technology, the system delivers reliable, real-time recognition in complex traffic environments. Whether deployed at border crossings, logistics hubs, highways, parking lots, or customs checkpoints, it ensures seamless vehicle monitoring across international settings.\nThe solution supports both edge-based Al cameras and integrated smart terminals, offering flexible deployment to suit different infrastructure needs. With high recognition accuracy\nand 24/7 operational stability, it helps operators streamline vehicle identification, automate entry/exit control, and strengthen cross-border security.",
+  "introduction_en": "Maxvision's Multi-country ANPR Camera is designed to meet the challenges of identifying plates across diverse regions, languages, and formats. Built with advanced Al vision and multilingual OCR technology, the system delivers reliable, real-time recognition in complex traffic environments. Whether deployed at border crossings, logistics hubs, highways, parking lots, or customs checkpoints, it ensures seamless vehicle monitoring across international settings.\nThe solution supports both edge-based Al cameras and integrated smart terminals, offering flexible deployment to suit different infrastructure needs. With high recognition accuracy\nand 24/7 operational stability, it helps operators streamline vehicle identification, automate entry/exit control, and strengthen cross-border security.",
+  "parameter_id": [
+    {
+      "label": " 362 / 5.000 Negara/Wilayah yang Didukung  ",
+      "value": "60+"
+    },
+    {
+      "label": "Akurasi Pengenalan Plat Nomor  ",
+      "value": "≥96%"
+    },
+    {
+      "label": "Pengenalan Atribut Kendaraan Akurasi",
+      "value": "≥95%"
+    },
+    {
+      "label": "Peringkat IP  ",
+      "value": "IP67"
+    },
+    {
+      "label": "Tahan Ledakan  ",
+      "value": "IK10 (tidak termasuk jendela lensa)"
+    },
+    {
+      "label": "Jenis Catu Daya  ",
+      "value": "DC 12V, POE (IEEE802.3at)"
+    },
+    {
+      "label": "Suhu Operasional  ",
+      "value": "-30°C~+55°C"
+    },
+    {
+      "label": "Kelembapan Operasional  ",
+      "value": "5%~95%RH (Non-kondensasi)"
+    },
+    {
+      "label": "Konsumsi Daya  ",
+      "value": "Maks: 10,2 W, Tipikal: 3,1 W"
+    }
+  ],
+  "id": "44dcafb4-074b-4fd9-960f-1ef1edacb2eb",
+  "features_id": [
+    "Kemampuan Adaptasi Global dengan Dukungan untuk Lebih dari 60 Negara",
+    "Akurasi Pengenalan Tinggi (≥96%)",
+    "Deteksi Atribut Kendaraan yang Akurat (≥95%)",
+    "Opsi Penerapan yang Fleksibel",
+    "Performa Tangguh dalam Skenario Kompleks",
+    "Integrasi Sistem yang Lancar"
+  ],
+  "description_id": "Kamera ANPR Multi-negara Maxvision dirancang untuk menjawab tantangan identifikasi plat nomor di berbagai wilayah, bahasa, dan format. Dibangun dengan AI vision canggih dan teknologi OCR multibahasa, sistem ini memberikan pengenalan yang andal dan real-time di lingkungan lalu lintas yang kompleks. Baik digunakan di perlintasan perbatasan, pusat logistik, jalan raya, tempat parkir, atau pos pemeriksaan bea cukai, sistem ini memastikan pemantauan kendaraan yang lancar di berbagai pengaturan internasional.\nSolusi ini mendukung kamera AI berbasis edge dan terminal pintar terintegrasi, menawarkan fleksibilitas penerapan untuk memenuhi berbagai kebutuhan infrastruktur. Dengan akurasi pengenalan yang tinggi\ndan stabilitas operasional 24/7, sistem ini membantu operator menyederhanakan identifikasi kendaraan, mengotomatiskan kontrol masuk/keluar, dan memperkuat keamanan lintas batas.",
+  "parameter_en": [
+    {
+      "label": "Supported Countries/Regions ",
+      "value": " 60+"
+    },
+    {
+      "label": "License Plate Recognition Accuracy ",
+      "value": " ≥96%"
+    },
+    {
+      "label": "Vehicle Attribute Recognition  Accuracy  ",
+      "value": "≥95%"
+    },
+    {
+      "label": "IP Rating ",
+      "value": " IP67"
+    },
+    {
+      "label": "Explosion-Proof  ",
+      "value": "IK10 (excluding lens window)"
+    },
+    {
+      "label": "Power Supply Type  ",
+      "value": "DC 12V, POE (IEEE802.3at)"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-30°C~+55°C"
+    },
+    {
+      "label": "Operating Humidity ",
+      "value": " 5%~95%RH (Non-condensing)"
+    },
+    {
+      "label": "Power Consumption  ",
+      "value": "Max: 10.2 W, Typical: 3.1 W"
+    }
+  ]
+}
