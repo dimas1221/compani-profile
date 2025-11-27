@@ -1,0 +1,116 @@
+{
+  "introduction_id": "Terminal Peringatan Cerdas Maxvision adalah perangkat keselamatan berbasis laser yang dipasang di kedua ujung penyeberangan tanpa sinyal. Dengan memanfaatkan laser semikonduktor nano-grade dan lensa optik presisi, perangkat ini memproyeksikan 28 garis laser merah ke kaki bagian bawah pejalan kaki saat mereka melangkah menuju zebra cross. Hal ini menciptakan zona peringatan merah yang sangat terlihat yang memperingatkan pengemudi yang mendekat dari kejauhan, memungkinkan respons tepat waktu terhadap keberadaan pejalan kaki. Bersamaan dengan itu, terminal memancarkan peringatan audio untuk mengingatkan pejalan kaki agar tetap waspada dan menyeberang dengan cepat, yang secara signifikan meningkatkan keselamatan malam hari di penyeberangan tanpa lampu lalu lintas.",
+  "product_id": "31a5762d-8b28-4bb0-9e87-890865c8a263",
+  "features_en": [
+    "Bidirectional Warning System",
+    "Accurate Pedestrian Detection",
+    "Energy Efficiency",
+    "Eye-Safe Laser Technology",
+    "Robust Protection",
+    "All-Weather Operation"
+  ],
+  "description_en": "The Maxvision Intelligent Warning Terminal is a laser-based safety device installed at both ends of unsignalized crosswalks. Utilizing nano-grade semiconductor lasers and precision optical lenses, the device projects 28 red laser lines onto pedestrians' lower legs the moment they step toward the zebra crossing. This creates a highly visible red warning zone that alerts approaching drivers from a distance, enabling timely response to pedestrian presence. Simultaneously, the terminal emits an audio alert to prompt pedestrians to stay aware and cross quickly, significantly improving nighttime safety at crosswalks without traffic lights.",
+  "introduction_en": "The Maxvision Intelligent Warning Terminal is a laser-based safety device installed at both ends of unsignalized crosswalks. Utilizing nano-grade semiconductor lasers and precision optical lenses, the device projects 28 red laser lines onto pedestrians' lower legs the moment they step toward the zebra crossing. This creates a highly visible red warning zone that alerts approaching drivers from a distance, enabling timely response to pedestrian presence. Simultaneously, the terminal emits an audio alert to prompt pedestrians to stay aware and cross quickly, significantly improving nighttime safety at crosswalks without traffic lights.",
+  "parameter_id": [
+    {
+      "label": "Jangkauan Deteksi  ",
+      "value": "635nm"
+    },
+    {
+      "label": "Jangkauan Tampak  ",
+      "value": "20m"
+    },
+    {
+      "label": "Tegangan Operasi  ",
+      "value": "AC 220V±20%; 50Hz"
+    },
+    {
+      "label": "Suhu Operasi  ",
+      "value": "-30°C~+70°C"
+    },
+    {
+      "label": "Konsumsi Daya  ",
+      "value": "Maks: 25W; Siaga: 4W"
+    },
+    {
+      "label": "Peringkat Perlindungan  ",
+      "value": "IP66, dengan antarmuka daya kedap air tiga lapis"
+    },
+    {
+      "label": "Perlindungan Lonjakan Arus & Petir  ",
+      "value": "Perlindungan mode diferensial 4kV"
+    },
+    {
+      "label": "Fungsi Perintah Suara ",
+      "value": " Peringatan suara yang dapat diprogram; durasi kerja yang dapat dikonfigurasi"
+    },
+    {
+      "label": "Fitur Perlindungan Keselamatan",
+      "value": "Perlindungan kelebihan beban, kebocoran, dan hubung singkat; Modul proteksi petir dan pentanahan terintegrasi. Proximity Safety Shutdown: Laser nonaktif ketika tubuh manusia terdeteksi dalam jarak 30 cm di depan pemancar. Tilt Protection: Laser otomatis mati jika perangkat miring atau terbalik."
+    },
+    {
+      "label": "Berat Produk  ",
+      "value": "16 kg"
+    },
+    {
+      "label": "Dimensi Produk  ",
+      "value": "φ180*850 mm"
+    }
+  ],
+  "id": "52d220a5-b8f3-42a5-80e9-9185700b939f",
+  "features_id": [
+    "Sistem Peringatan Dua Arah",
+    "Deteksi Pejalan Kaki yang Akurat",
+    "Efisiensi Energi",
+    "Teknologi Laser yang Aman bagi Mata",
+    "Perlindungan yang Tangguh",
+    "Operasi di Segala Cuaca"
+  ],
+  "description_id": "Terminal Peringatan Cerdas Maxvision adalah perangkat keselamatan berbasis laser yang dipasang di kedua ujung penyeberangan tanpa sinyal. Dengan memanfaatkan laser semikonduktor nano-grade dan lensa optik presisi, perangkat ini memproyeksikan 28 garis laser merah ke kaki bagian bawah pejalan kaki saat mereka melangkah menuju zebra cross. Hal ini menciptakan zona peringatan merah yang sangat terlihat yang memperingatkan pengemudi yang mendekat dari kejauhan, memungkinkan respons tepat waktu terhadap keberadaan pejalan kaki. Bersamaan dengan itu, terminal memancarkan peringatan audio untuk mengingatkan pejalan kaki agar tetap waspada dan menyeberang dengan cepat, yang secara signifikan meningkatkan keselamatan malam hari di penyeberangan tanpa lampu lalu lintas.",
+  "parameter_en": [
+    {
+      "label": "Detection Range ",
+      "value": " 635nm"
+    },
+    {
+      "label": "Visible Range  ",
+      "value": "20m"
+    },
+    {
+      "label": "Operating Voltage ",
+      "value": " AC 220V±20%; 50Hz"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-30°C~+70°C"
+    },
+    {
+      "label": "Power Consumption  ",
+      "value": "Max: 25W; Standby: 4W"
+    },
+    {
+      "label": "Protection Rating  ",
+      "value": "IP66, with triple-sealed waterproof power interfaces"
+    },
+    {
+      "label": "Surge & Lightning Protection  ",
+      "value": "4kV differential mode protection"
+    },
+    {
+      "label": "Voice Prompt Function  ",
+      "value": "Programmable voice prompts; configurable working duration"
+    },
+    {
+      "label": "Safety Protection Features",
+      "value": "Overload, leakage, and short-circuit protection; built-in lightning protection and grounding moduleProximity Safety Shutdown: Laser deactivates when a human body is detected within 30 cm in front of the emitterTilt Protection: Laser automatically shuts off if the device tilts or tips over"
+    },
+    {
+      "label": "Product Weight  ",
+      "value": "16Kg"
+    },
+    {
+      "label": "Product Dimensions  ",
+      "value": "φ180*850mm"
+    }
+  ]
+}
