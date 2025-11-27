@@ -2,19 +2,44 @@
   "portfolio": [
     {
       "id": "b7a3d7f4-9c87-4b03-a2c3-1e8c631f8ca1",
-      "image": "/images/uploads/porto-1.jpg",
+      "image": "/images/uploads/36572f39ab3a712941461103b7381b13223df2c6.jpg",
       "title_id": "Sistem Keamanan Kota",
       "title_en": "Smart City Surveillance",
       "desc_id": "Implementasi sistem kamera cerdas dengan analitik real-time untuk pengawasan kota.",
-      "desc_en": "Implementation of intelligent camera systems with real-time analytics for city monitoring."
+      "desc_en": "Implementation of intelligent camera systems with real-time analytics for city monitoring.",
+      "gallery": [
+        {
+          "image": "/images/uploads/customs_risk_management_platform.png"
+        },
+        {
+          "image": "/images/uploads/customs_risk_management_platform.png"
+        },
+        {
+          "image": "/images/uploads/document_recognition_terminal.png"
+        },
+        {
+          "image": "/images/uploads/anpr-all-in-one-machine.png"
+        }
+      ]
     },
     {
       "id": "c28de4be-48ec-4cd1-9d2f-1d5b1f99744d",
-      "image": "/images/uploads/porto-2.jpg",
+      "image": "/images/uploads/container-smart-lock-reader.png",
       "title_id": "Monitoring Lalu Lintas",
       "title_en": "Traffic Monitoring System",
       "desc_id": "Solusi manajemen lalu lintas terintegrasi dengan pelacakan kendaraan.",
-      "desc_en": "Integrated traffic management solution with vehicle tracking."
+      "desc_en": "Integrated traffic management solution with vehicle tracking.",
+      "gallery": [
+        {
+          "image": "/images/uploads/0364d0b88b9ba218c4df3d103f872ff853b15b05.jpg"
+        },
+        {
+          "image": "/images/uploads/entry-lane-inspection-and-control-system.png"
+        },
+        {
+          "image": "/images/uploads/e_gate_e108ai.png"
+        }
+      ]
     },
     {
       "id": "e4c98a91-0f44-41e7-98fa-0fbc8415e1f0",
