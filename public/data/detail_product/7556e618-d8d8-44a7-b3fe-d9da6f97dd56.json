@@ -1,0 +1,90 @@
+{
+  "introduction_id": "Pengendali Sinyal Lalu Lintas Cerdas Maxvision adalah perangkat koordinasi jaringan yang dirancang untuk mengelola sinyal lalu lintas di persimpangan jalan. Perangkat ini mendukung berbagai mode kontrol, termasuk kontrol waktu tetap, aktuasi, dan adaptif, yang memungkinkan penjadwalan fleksibel berdasarkan kondisi lalu lintas waktu nyata. Pengendali ini dilengkapi pemantauan dan peringatan gangguan yang andal, antarmuka komunikasi yang serbaguna, dan kemampuan penggantian manual, sehingga cocok untuk berbagai aplikasi jalan perkotaan seperti persimpangan berbentuk T, persimpangan jalan, dan jalur masuk/keluar.",
+  "product_id": "4bbfd80d-2603-4041-9a89-48ddf69f46d0",
+  "features_en": [
+    "Smart Networked Coordination",
+    "Advanced Control Modes",
+    "Versatile Communication Interfaces",
+    "Traffic Signal Output Management",
+    "Fault Detection & Alerts"
+  ],
+  "description_en": "The Maxvision Intelligent Traffic Signal Controller is a networked coordination device designed for managing traffic signals at road intersections. It supports multiple control modes including fixed-time, actuated, and adaptive control, enabling flexible scheduling based on real-time traffic conditions. The controller features reliable fault monitoring and alerting, versatile communication interfaces, and manual override capabilities, making it suitable for various urban road applications such as T-junctions, crossroads, and on/off-ramps.",
+  "introduction_en": "The Maxvision Intelligent Traffic Signal Controller is a networked coordination device designed for managing traffic signals at road intersections. It supports multiple control modes including fixed-time, actuated, and adaptive control, enabling flexible scheduling based on real-time traffic conditions. The controller features reliable fault monitoring and alerting, versatile communication interfaces, and manual override capabilities, making it suitable for various urban road applications such as T-junctions, crossroads, and on/off-ramps.",
+  "parameter_id": [
+    {
+      "label": "OS  ",
+      "value": "Linux"
+    },
+    {
+      "label": "Fungsi Kontrol",
+      "value": "Kontrol Jaringan Kontrol Adaptif Kontrol Tergerak Kontrol Waktu Tetap Kontrol Sinyal Terkoordinasi Prioritas Pejalan Kaki Prioritas Kontrol Anti-Luapan"
+    },
+    {
+      "label": "Tegangan Operasi  ",
+      "value": "AC 85~264V, 47Hz~63Hz"
+    },
+    {
+      "label": "Frekuensi Terukur",
+      "value": "Konsumsi daya tanpa beban: <50 W Daya beban terukur: 2660 W (pada 220 V)"
+    },
+    {
+      "label": "Suhu Operasi  ",
+      "value": "-40°C~+80°C"
+    },
+    {
+      "label": "Kelembapan Operasi  ",
+      "value": "≤95%RH"
+    },
+    {
+      "label": "Peringkat IP",
+      "value": "IP55"
+    },
+    {
+      "label": "Ukuran",
+      "value": "630*500*1420mm"
+    }
+  ],
+  "id": "7556e618-d8d8-44a7-b3fe-d9da6f97dd56",
+  "features_id": [
+    "Koordinasi Jaringan Cerdas",
+    "Mode Kontrol Canggih",
+    "Antarmuka Komunikasi Serbaguna",
+    "Manajemen Keluaran Sinyal Lalu Lintas",
+    "Deteksi & Peringatan Kesalahan"
+  ],
+  "description_id": "Pengendali Sinyal Lalu Lintas Cerdas Maxvision adalah perangkat koordinasi jaringan yang dirancang untuk mengelola sinyal lalu lintas di persimpangan jalan. Perangkat ini mendukung berbagai mode kontrol, termasuk kontrol waktu tetap, aktuasi, dan adaptif, yang memungkinkan penjadwalan fleksibel berdasarkan kondisi lalu lintas waktu nyata. Pengendali ini dilengkapi pemantauan dan peringatan gangguan yang andal, antarmuka komunikasi yang serbaguna, dan kemampuan penggantian manual, sehingga cocok untuk berbagai aplikasi jalan perkotaan seperti persimpangan berbentuk T, persimpangan jalan, dan jalur masuk/keluar.",
+  "parameter_en": [
+    {
+      "label": "OS  ",
+      "value": "Linux"
+    },
+    {
+      "label": "Control Functions",
+      "value": "Networked ControlAdaptive ControlActuated ControlFixed-time ControlCoordinated Signal Control Pedestrian PriorityTransit"
+    },
+    {
+      "label": "PriorityAnti-overflow Control  ",
+      "value": "Operating Voltage"
+    },
+    {
+      "label": "Rated Frequency  ",
+      "value": "No-load power consumption: <50 WRated load power: 2660 W (at 220 V)"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-40°C~+80°C"
+    },
+    {
+      "label": "Operating Humidity  ",
+      "value": "≤95%RH"
+    },
+    {
+      "label": "IP55  IP ",
+      "value": "Rating"
+    },
+    {
+      "label": "Size  ",
+      "value": "630*500*1420mm"
+    }
+  ]
+}
