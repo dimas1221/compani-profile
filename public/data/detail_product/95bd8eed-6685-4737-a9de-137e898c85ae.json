@@ -1,0 +1,178 @@
+{
+  "introduction_id": "Didukung oleh arsitektur chip heterogen multi-inti berkinerja tinggi (ARM + NPU + CODEC), detektor ini mengintegrasikan algoritma jaringan saraf tiruan dan kemampuan pencitraan cahaya rendah untuk memungkinkan deteksi kendaraan secara real-time dan analisis data lalu lintas yang komprehensif. Detektor ini banyak digunakan di jalan perkotaan, jalan raya, dan jalan tol untuk pemantauan arus dan pengaturan lalu lintas yang akurat.",
+  "product_id": "cf0f2763-1703-4aec-9021-fe2785118aaa",
+  "features_en": [
+    "Adaptive Multi-Scene Tracking Algorithm",
+    "High-Precision Detection",
+    "Comprehensive Traffic Flow Metrics",
+    "Full-Frame Multi-Target Tracking",
+    "Signal Controller Compatibility"
+  ],
+  "description_en": "Powered by a high-performance multi-core heterogeneous chip architecture (ARM + NPU + CODEC), this detector integrates neural network algorithms and low-light imaging capabilities to enable real-time vehicle detection and comprehensive traffic data analysis. It is widely deployed on urban roads, highways, and expressways for accurate flow monitoring and traffic control.",
+  "introduction_en": "Powered by a high-performance multi-core heterogeneous chip architecture (ARM + NPU + CODEC), this detector integrates neural network algorithms and low-light imaging capabilities to enable real-time vehicle detection and comprehensive traffic data analysis. It is widely deployed on urban roads, highways, and expressways for accurate flow monitoring and traffic control.",
+  "parameter_id": [
+    {
+      "label": "Sistem Operasi  ",
+      "value": "Linux"
+    },
+    {
+      "label": "MTBF  ",
+      "value": "≥ 50.000 jam"
+    },
+    {
+      "label": "Kemampuan Deteksi Kendaraan  ",
+      "value": "Deteksi meliputi jumlah kendaraan, okupansi, kecepatan, dan panjang kendaraan"
+    },
+    {
+      "label": "Keluaran Statistik  ",
+      "value": "Mendukung keluaran data pada interval waktu tetap"
+    },
+    {
+      "label": "Kalibrasi Jarak Video  ",
+      "value": "Mendukung kalibrasi jarak permukaan jalan nyata pada video, yang mencakup arah lateral dan longitudinal."
+    },
+    {
+      "label": "Pelacakan Multi-Target Bingkai Penuh  ",
+      "value": "Melacak semua lintasan kendaraan dalam bingkai tanpa batasan jumlah objek"
+    },
+    {
+      "label": "Zona Deteksi yang Dapat Dikonfigurasi  ",
+      "value": "Setiap lajur mendukung hingga 3 zona deteksi yang dapat dikonfigurasi."
+    },
+    {
+      "label": "Penerangan Tambahan  ",
+      "value": "Tidak memerlukan penerangan independen di malam hari; Memanfaatkan lampu jalan ambient"
+    },
+    {
+      "label": "Fitur Manajemen ",
+      "value": " Sinkronisasi waktu NTP, reboot otomatis, pemantauan sistem, log tertanam, pemutakhiran batch jarak jauh"
+    },
+    {
+      "label": "Antarmuka Web Tertanam  ",
+      "value": "Mendukung konfigurasi berbasis peramban, tampilan langsung, pemutaran, dan deteksi waktu nyata"
+    },
+    {
+      "label": "Statistik Data Arus Lalu Lintas ",
+      "value": " Termasuk volume, waktu tempuh rata-rata, jarak tempuh rata-rata, tingkat hunian, dan status jalan"
+    },
+    {
+      "label": "Catu Daya  ",
+      "value": "Konverter AC-DC; DC 12V"
+    },
+    {
+      "label": "Konsumsi Daya ",
+      "value": "≤ 3,5 W"
+    },
+    {
+      "label": "Suhu Operasional  ",
+      "value": "-40°C~+70°C"
+    },
+    {
+      "label": "Kelembapan Operasional  ",
+      "value": "0% - 95%, non-kondensasi"
+    },
+    {
+      "label": "Peringkat Perlindungan ",
+      "value": " IP67"
+    },
+    {
+      "label": "Metode Pemasangan  ",
+      "value": "Pemasangan tiang standar"
+    },
+    {
+      "label": "Berat  ",
+      "value": "1,54 kg"
+    },
+    {
+      "label": "Ukuran  ",
+      "value": "262*114*120mm"
+    }
+  ],
+  "id": "95bd8eed-6685-4737-a9de-137e898c85ae",
+  "features_id": [
+    "Algoritma Pelacakan Multi-Adegan Adaptif",
+    "Deteksi Presisi Tinggi",
+    "Metrik Arus Lalu Lintas Komprehensif",
+    "Pelacakan Multi-Target Full-Frame",
+    "Kompatibilitas Pengontrol Sinyal"
+  ],
+  "description_id": "Didukung oleh arsitektur chip heterogen multi-inti berkinerja tinggi (ARM + NPU + CODEC), detektor ini mengintegrasikan algoritma jaringan saraf tiruan dan kemampuan pencitraan cahaya rendah untuk memungkinkan deteksi kendaraan secara real-time dan analisis data lalu lintas yang komprehensif. Detektor ini banyak digunakan di jalan perkotaan, jalan raya, dan jalan tol untuk pemantauan arus dan pengaturan lalu lintas yang akurat.",
+  "parameter_en": [
+    {
+      "label": "Operating System  ",
+      "value": "Linux"
+    },
+    {
+      "label": "MTBF  ",
+      "value": "≥ 50,000h"
+    },
+    {
+      "label": "Vehicle Detection Capability  ",
+      "value": "Detection include vehicle count, occupancy, speed, and vehicle length"
+    },
+    {
+      "label": "Statistical Output  ",
+      "value": "Supports data output at fixed time intervals"
+    },
+    {
+      "label": "Video Distance Calibration  ",
+      "value": "Supports real-world road surface distance calibration on video, covering both lateral and longitudinal directions."
+    },
+    {
+      "label": "Full-Frame Multi-Target Tracking  ",
+      "value": "Tracks all vehicle trajectories in the frame without limit on object count"
+    },
+    {
+      "label": "Configurable Detection Zones  ",
+      "value": "Each lane supports up to 3 configurable detection zones."
+    },
+    {
+      "label": "Supplementary Lighting  ",
+      "value": "No independent illumination required at night; utilizes ambient street lighting"
+    },
+    {
+      "label": "Management Features  ",
+      "value": "NTP time sync, auto reboot, system monitoring, embedded log, remote batch upgrade"
+    },
+    {
+      "label": "Embedded Web Interface  ",
+      "value": "Supports browser-based configuration, live view, playback, and real-time detection"
+    },
+    {
+      "label": "Traffic Flow Data Statistics ",
+      "value": " Includes volume, average headway time, average spacing, occupancy rate, road status"
+    },
+    {
+      "label": "Power Supply  ",
+      "value": "AC-DC converter; DC 12V"
+    },
+    {
+      "label": "Power Consumption ",
+      "value": "≤ 3.5 W"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-40°C~+70°C"
+    },
+    {
+      "label": "Operating Humidity  ",
+      "value": "0% - 95%, non-condensing"
+    },
+    {
+      "label": "Protection Rating  ",
+      "value": "IP67"
+    },
+    {
+      "label": "Installation Method  ",
+      "value": "Standard pole mounting"
+    },
+    {
+      "label": "Weight  ",
+      "value": "1.54 kg"
+    },
+    {
+      "label": "Size  ",
+      "value": "262*114*120mm"
+    }
+  ]
+}
