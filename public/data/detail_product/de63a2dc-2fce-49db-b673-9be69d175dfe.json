@@ -1,0 +1,88 @@
+{
+  "introduction_id": "Terminal Manajemen Cerdas Maxvision adalah sistem cerdas untuk manajemen dan analisis persimpangan terpusat. Sistem ini memecahkan masalah penyimpanan gambar, pengunggahan, dan akses video beberapa kamera di persimpangan. Sistem ini memiliki beberapa algoritma cerdas bawaan. Sistem ini mendukung sintesis beberapa gambar, superimposisi karakter, statistik lalu lintas, pengukuran kecepatan interval, pelepasan ilegal, dan fungsi lainnya, yang dapat memenuhi kebutuhan penyebaran persimpangan dan penyebaran pusat jaringan. Sistem ini banyak digunakan untuk berbagai skenario aplikasi seperti pos pemeriksaan, polisi elektronik, pemantauan jalan, dll., untuk mencapai manajemen dan analisis cerdas 24 jam.",
+  "product_id": "c3944dce-be30-43d8-8c17-e8b973773ed8",
+  "features_en": [
+    "Breakpoint Continuation to Anti-loss of Disconnected Data",
+    "Effective synthesis of illegal behavior images/short videos",
+    "Personalized Demand Customization",
+    "Seamless Connection with Third-party Platforms"
+  ],
+  "description_en": "Maxvision Intelligent Management Terminal is an intelligent system for centralized management and analysis of intersections, which solves the problems of image storage, uploading, and video access of multiple cameras at intersections, and has multiple intelligent algorithms built in, It supports multiple image synthesis, character superimposition, traffic statistics, interval speed measurement, illegal release, and other functions, which can meet the needs of intersection deployment and network center deployment. It is widely applied to various application scenarios such as checkpoints, electronic police, road monitoring etc., to achieve 24-hour intelligent management and analysis.",
+  "introduction_en": "Maxvision Intelligent Management Terminal is an intelligent system for centralized management and analysis of intersections, which solves the problems of image storage, uploading, and video access of multiple cameras at intersections, and has multiple intelligent algorithms built in, It supports multiple image synthesis, character superimposition, traffic statistics, interval speed measurement, illegal release, and other functions, which can meet the needs of intersection deployment and network center deployment. It is widely applied to various application scenarios such as checkpoints, electronic police, road monitoring etc., to achieve 24-hour intelligent management and analysis.",
+  "parameter_id": [
+    {
+      "label": "Sistem Operasi  ",
+      "value": "Linux"
+    },
+    {
+      "label": "Modul Beidou/GPS  ",
+      "value": "1 (opsional)"
+    },
+    {
+      "label": "Konsumsi Daya",
+      "value": "Dengan kondisi 20W dengan 1 hard drive (konsumsi daya beberapa hard drive sedikit meningkat)"
+    },
+    {
+      "label": "Tegangan  ",
+      "value": "DC12V ± 10%"
+    },
+    {
+      "label": "Suhu  ",
+      "value": "-40°C ~ + 70°C"
+    },
+    {
+      "label": "Kelembapan  ",
+      "value": "10% ~ 90% (Tanpa kondensasi)"
+    },
+    {
+      "label": "Ukuran ",
+      "value": " P*L*T=242mm*147.4mm*58mm"
+    },
+    {
+      "label": "Sertifikasi  ",
+      "value": "C.E"
+    }
+  ],
+  "id": "de63a2dc-2fce-49db-b673-9be69d175dfe",
+  "features_id": [
+    "Kelanjutan Titik Henti untuk Anti-Kehilangan Data yang Terputus",
+    "Sintesis gambar/video pendek perilaku ilegal yang efektif",
+    "Kustomisasi Permintaan yang Dipersonalisasi",
+    "Koneksi yang Lancar dengan Platform Pihak Ketiga"
+  ],
+  "description_id": "Terminal Manajemen Cerdas Maxvision adalah sistem cerdas untuk manajemen dan analisis persimpangan terpusat. Sistem ini memecahkan masalah penyimpanan gambar, pengunggahan, dan akses video beberapa kamera di persimpangan. Sistem ini memiliki beberapa algoritma cerdas bawaan. Sistem ini mendukung sintesis beberapa gambar, superimposisi karakter, statistik lalu lintas, pengukuran kecepatan interval, pelepasan ilegal, dan fungsi lainnya, yang dapat memenuhi kebutuhan penyebaran persimpangan dan penyebaran pusat jaringan. Sistem ini banyak digunakan untuk berbagai skenario aplikasi seperti pos pemeriksaan, polisi elektronik, pemantauan jalan, dll., untuk mencapai manajemen dan analisis cerdas 24 jam.",
+  "parameter_en": [
+    {
+      "label": "O/S  ",
+      "value": "Linux"
+    },
+    {
+      "label": "Beidou /GPS Module  ",
+      "value": "1 (optional)"
+    },
+    {
+      "label": "Consumption  ",
+      "value": "Under the condition of s 20W with 1hard drive (power consumption ofmultiple hard drives slightly increases)"
+    },
+    {
+      "label": "Voltage  ",
+      "value": "DC12V±10%"
+    },
+    {
+      "label": "Temperature  ",
+      "value": "-40°C~+70°C"
+    },
+    {
+      "label": "Humidity  ",
+      "value": "10%~~90% (No condensation)"
+    },
+    {
+      "label": "Size  ",
+      "value": "L*W*H=242mm*147.4mm*58mm"
+    },
+    {
+      "label": "Certification  ",
+      "value": "C.E"
+    }
+  ]
+}
