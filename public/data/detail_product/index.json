@@ -1343,6 +1343,106 @@
     ]
   },
   {
+    "introduction_id": "Kamera ANPR Multi-negara Maxvision dirancang untuk menjawab tantangan identifikasi plat nomor di berbagai wilayah, bahasa, dan format. Dibangun dengan AI vision canggih dan teknologi OCR multibahasa, sistem ini memberikan pengenalan yang andal dan real-time di lingkungan lalu lintas yang kompleks. Baik digunakan di perlintasan perbatasan, pusat logistik, jalan raya, tempat parkir, atau pos pemeriksaan bea cukai, sistem ini memastikan pemantauan kendaraan yang lancar di berbagai pengaturan internasional.\nSolusi ini mendukung kamera AI berbasis edge dan terminal pintar terintegrasi, menawarkan fleksibilitas penerapan untuk memenuhi berbagai kebutuhan infrastruktur. Dengan akurasi pengenalan yang tinggi\ndan stabilitas operasional 24/7, sistem ini membantu operator menyederhanakan identifikasi kendaraan, mengotomatiskan kontrol masuk/keluar, dan memperkuat keamanan lintas batas.",
+    "product_id": "f1f6461a-3b68-40e9-bec0-57dc08b54f62",
+    "features_en": [
+      "Global Adaptability with Support for 60+ Countries",
+      "High Recognition Accuracy (≥96%)",
+      "Accurate Vehicle Attribute Detection (≥95%)",
+      "Flexible Deployment Options",
+      "Robust Performance in Complex Scenarios",
+      "Seamless System Integration"
+    ],
+    "description_en": "Maxvision's Multi-country ANPR Camera is designed to meet the challenges of identifying plates across diverse regions, languages, and formats. Built with advanced Al vision and multilingual OCR technology, the system delivers reliable, real-time recognition in complex traffic environments. Whether deployed at border crossings, logistics hubs, highways, parking lots, or customs checkpoints, it ensures seamless vehicle monitoring across international settings.\nThe solution supports both edge-based Al cameras and integrated smart terminals, offering flexible deployment to suit different infrastructure needs. With high recognition accuracy\nand 24/7 operational stability, it helps operators streamline vehicle identification, automate entry/exit control, and strengthen cross-border security.",
+    "introduction_en": "Maxvision's Multi-country ANPR Camera is designed to meet the challenges of identifying plates across diverse regions, languages, and formats. Built with advanced Al vision and multilingual OCR technology, the system delivers reliable, real-time recognition in complex traffic environments. Whether deployed at border crossings, logistics hubs, highways, parking lots, or customs checkpoints, it ensures seamless vehicle monitoring across international settings.\nThe solution supports both edge-based Al cameras and integrated smart terminals, offering flexible deployment to suit different infrastructure needs. With high recognition accuracy\nand 24/7 operational stability, it helps operators streamline vehicle identification, automate entry/exit control, and strengthen cross-border security.",
+    "parameter_id": [
+      {
+        "label": " 362 / 5.000 Negara/Wilayah yang Didukung  ",
+        "value": "60+"
+      },
+      {
+        "label": "Akurasi Pengenalan Plat Nomor  ",
+        "value": "≥96%"
+      },
+      {
+        "label": "Pengenalan Atribut Kendaraan Akurasi",
+        "value": "≥95%"
+      },
+      {
+        "label": "Peringkat IP  ",
+        "value": "IP67"
+      },
+      {
+        "label": "Tahan Ledakan  ",
+        "value": "IK10 (tidak termasuk jendela lensa)"
+      },
+      {
+        "label": "Jenis Catu Daya  ",
+        "value": "DC 12V, POE (IEEE802.3at)"
+      },
+      {
+        "label": "Suhu Operasional  ",
+        "value": "-30°C~+55°C"
+      },
+      {
+        "label": "Kelembapan Operasional  ",
+        "value": "5%~95%RH (Non-kondensasi)"
+      },
+      {
+        "label": "Konsumsi Daya  ",
+        "value": "Maks: 10,2 W, Tipikal: 3,1 W"
+      }
+    ],
+    "id": "44dcafb4-074b-4fd9-960f-1ef1edacb2eb",
+    "features_id": [
+      "Kemampuan Adaptasi Global dengan Dukungan untuk Lebih dari 60 Negara",
+      "Akurasi Pengenalan Tinggi (≥96%)",
+      "Deteksi Atribut Kendaraan yang Akurat (≥95%)",
+      "Opsi Penerapan yang Fleksibel",
+      "Performa Tangguh dalam Skenario Kompleks",
+      "Integrasi Sistem yang Lancar"
+    ],
+    "description_id": "Kamera ANPR Multi-negara Maxvision dirancang untuk menjawab tantangan identifikasi plat nomor di berbagai wilayah, bahasa, dan format. Dibangun dengan AI vision canggih dan teknologi OCR multibahasa, sistem ini memberikan pengenalan yang andal dan real-time di lingkungan lalu lintas yang kompleks. Baik digunakan di perlintasan perbatasan, pusat logistik, jalan raya, tempat parkir, atau pos pemeriksaan bea cukai, sistem ini memastikan pemantauan kendaraan yang lancar di berbagai pengaturan internasional.\nSolusi ini mendukung kamera AI berbasis edge dan terminal pintar terintegrasi, menawarkan fleksibilitas penerapan untuk memenuhi berbagai kebutuhan infrastruktur. Dengan akurasi pengenalan yang tinggi\ndan stabilitas operasional 24/7, sistem ini membantu operator menyederhanakan identifikasi kendaraan, mengotomatiskan kontrol masuk/keluar, dan memperkuat keamanan lintas batas.",
+    "parameter_en": [
+      {
+        "label": "Supported Countries/Regions ",
+        "value": " 60+"
+      },
+      {
+        "label": "License Plate Recognition Accuracy ",
+        "value": " ≥96%"
+      },
+      {
+        "label": "Vehicle Attribute Recognition  Accuracy  ",
+        "value": "≥95%"
+      },
+      {
+        "label": "IP Rating ",
+        "value": " IP67"
+      },
+      {
+        "label": "Explosion-Proof  ",
+        "value": "IK10 (excluding lens window)"
+      },
+      {
+        "label": "Power Supply Type  ",
+        "value": "DC 12V, POE (IEEE802.3at)"
+      },
+      {
+        "label": "Operating Temperature  ",
+        "value": "-30°C~+55°C"
+      },
+      {
+        "label": "Operating Humidity ",
+        "value": " 5%~95%RH (Non-condensing)"
+      },
+      {
+        "label": "Power Consumption  ",
+        "value": "Max: 10.2 W, Typical: 3.1 W"
+      }
+    ]
+  },
+  {
     "id": "48ef4e9c-6416-4a67-b512-3956c553b5f2",
     "product_id": "40ac3cdb-40be-47f6-ade2-0249d9a1ecfe",
     "introduction_en": "The Infrared Thermometer is a non-contact solution designed for rapid detection of abnormal body temperatures among travelers. Leveraging thermal imaging and intelligent facial recognition algorithms, the system accurately and tracks individuals with elevated body temperatures while effectively filtering out false alarms caused by external heat sources such as hot beverages or food. Equipped with an HD camera and AI-based analysis, the system enables automatic detection, real-time alerting, and image capture of potential febrile cases.\nThe system incorporates a high-precision blackbody radiation source as a temperature reference to compensate for environmental influences and thermal drift of the imaging sensor. This ensures consistent temperature calibration, fast warm-up, and precise thermal control, significantly improving measurement accuracy and system reliability under complex environmental conditions.\nIt is ideal for deployment in wide-area temperature screening scenarios such as public halls and overhead corridor installations.",
@@ -1417,6 +1517,112 @@
       {
         "label": "Dimensi Sensor Termal  ",
         "value": "116*150*57mm"
+      }
+    ]
+  },
+  {
+    "introduction_id": "Robot Pengawas Bawah Kendaraan adalah perangkat portabel untuk memeriksa bagian bawah kendaraan. Dilengkapi dengan fungsi-fungsi seperti LPR otomatis, tampilan HD gambar bawah kendaraan, dan pengenalan posisi yang dicurigai. Robot ini ringkas, mobile, dan mudah digunakan, serta dapat menyelesaikan pemeriksaan bawah kendaraan secara otomatis dengan satu klik. Robot ini cocok untuk kontrol dan pemeriksaan kendaraan sementara di tempat-tempat seperti bea cukai, pemeriksaan perbatasan, manajemen perbatasan, pos pemeriksaan keamanan publik, acara berskala besar, dan keamanan konferensi penting.",
+    "product_id": "915a478d-ae90-40b6-8104-d8ca966496c0",
+    "features_en": [
+      "One-click Inspection",
+      "Panoramic Video",
+      "License Plate Recognition",
+      "Exception Analysis",
+      "Maneuverable and Portable"
+    ],
+    "description_en": "The Under-Vehicle Surveilance Robot is a portable device for inspecting the vehicle bottom. It equipped with functions such as automatic LPR, HD display of vehicle bottom images, and suspected position recognition. The robot is compact, mobile, and easy to deploy, can automatically complete vehicle bottom inspection with one click, It is suitable or temporary vehicle control and inspection in places such as customs, border inspection, border management, public security checkpoints, large-scale events, and important conference security.",
+    "introduction_en": "The Under-Vehicle Surveilance Robot is a portable device for inspecting the vehicle bottom. It equipped with functions such as automatic LPR, HD display of vehicle bottom images, and suspected position recognition. The robot is compact, mobile, and easy to deploy, can automatically complete vehicle bottom inspection with one click, It is suitable or temporary vehicle control and inspection in places such as customs, border inspection, border management, public security checkpoints, large-scale events, and important conference security.",
+    "parameter_id": [
+      {
+        "label": "Layar  ",
+        "value": "Layar warna TFT 2,8 inci"
+      },
+      {
+        "label": "Mode Berkendara  ",
+        "value": "Penggerak diferensial empat roda, mendukung putaran radius nol"
+      },
+      {
+        "label": "Kecepatan Gerak ",
+        "value": " ≤0,8 m/dtk"
+      },
+      {
+        "label": "Peringkat IP  ",
+        "value": "IP66"
+      },
+      {
+        "label": "Mode Pengisian Daya  ",
+        "value": "pengisian daya kabel"
+      },
+      {
+        "label": "Kapasitas Baterai  ",
+        "value": "14Ah"
+      },
+      {
+        "label": "Daya Tahan Baterai Terukur  ",
+        "value": ">4 jam"
+      },
+      {
+        "label": "Waktu Pengisian Daya Tunggal  ",
+        "value": "≤4 jam"
+      },
+      {
+        "label": "Ukuran Peralatan (mm) ",
+        "value": " P*L*T=515*390*108"
+      },
+      {
+        "label": "Berat  ",
+        "value": "≤12 kg"
+      }
+    ],
+    "id": "4fa47dff-d7ea-4a34-b8b8-1d4558b59b16",
+    "features_id": [
+      "Inspeksi Sekali Klik",
+      "Video Panorama",
+      "Pengenalan Plat Nomor",
+      "Analisis Pengecualian",
+      "Mudah Dimanuver dan Portabel"
+    ],
+    "description_id": "Robot Pengawas Bawah Kendaraan adalah perangkat portabel untuk memeriksa bagian bawah kendaraan. Dilengkapi dengan fungsi-fungsi seperti LPR otomatis, tampilan HD gambar bawah kendaraan, dan pengenalan posisi yang dicurigai. Robot ini ringkas, mobile, dan mudah digunakan, serta dapat menyelesaikan pemeriksaan bawah kendaraan secara otomatis dengan satu klik. Robot ini cocok untuk kontrol dan pemeriksaan kendaraan sementara di tempat-tempat seperti bea cukai, pemeriksaan perbatasan, manajemen perbatasan, pos pemeriksaan keamanan publik, acara berskala besar, dan keamanan konferensi penting.",
+    "parameter_en": [
+      {
+        "label": "Screen  ",
+        "value": "2.8-inch TFT color screen"
+      },
+      {
+        "label": "Drive Mode  ",
+        "value": "Four-wheel differential drive, supporting zero-radius turning"
+      },
+      {
+        "label": "Motion Speed  ",
+        "value": "≤0.8m/s"
+      },
+      {
+        "label": "IP Rating  ",
+        "value": "IP66"
+      },
+      {
+        "label": "Charging Mode  ",
+        "value": "wire charging"
+      },
+      {
+        "label": "Battery Capacity  ",
+        "value": "14Ah"
+      },
+      {
+        "label": "Rated Battery Life  ",
+        "value": ">4h"
+      },
+      {
+        "label": "Single Charging Time  ",
+        "value": "≤4h"
+      },
+      {
+        "label": "Equipment Size (mm)  ",
+        "value": "L*W*H=515*390*108"
+      },
+      {
+        "label": "Weight  ",
+        "value": "≤12kg"
       }
     ]
   },
@@ -1519,6 +1725,102 @@
       {
         "label": "Ukuran",
         "value": "235mm*130mm*20mm"
+      }
+    ]
+  },
+  {
+    "introduction_id": "Sistem Kontrol Terpadu adalah produk untuk kontrol terpusat peralatan inspeksi lajur. Peralatan ini dapat menghubungkan kontrol sensor tanah, lampu lalu lintas, sistem anti-tabrakan interaktif, sistem anti-bobol, gerbang pembatas, kolom pengangkat, dan peralatan lainnya di lajur. Sistem ini memiliki fungsi seperti kendali jarak jauh, inspeksi mandiri peralatan akses terminal, peningkatan daring, dll., dan dapat mencapai kontrol lajur yang efisien dalam satu mesin serta memastikan inspeksi yang aman dan tertib. Sistem ini cocok untuk lokasi seperti pos pemeriksaan di kampus, pelabuhan, bandara, dan berbagai area pengawasan khusus.",
+    "product_id": "3d43bbb6-d53d-4df1-9767-8b30722ed746",
+    "features_en": [
+      "Intelligent Control",
+      "Quick Access to Multiple Devices",
+      "OTA Remote Upgrade",
+      "Able to Function in High Temperature Environment"
+    ],
+    "description_en": "The Integrated Control System is a product for centralized control of lane inspection equipment. The equipment can linkage control the ground sensing, traffic guidance lights, interactive anti-smashing system, anti-break-in system, barrier gates, lifting column and other equipment in the lane. It has functions such as remote control, terminal access equipment self-inspection, online upgrades, etc., and it can achieve the efficient lane control on one machine and ensure safe and orderly inspection. It is suitable for scenes such as checkpoints in campuses, ports, airports, andvarious special supervision areas.",
+    "introduction_en": "The Integrated Control System is a product for centralized control of lane inspection equipment. The equipment can linkage control the ground sensing, traffic guidance lights, interactive anti-smashing system, anti-break-in system, barrier gates, lifting column and other equipment in the lane. It has functions such as remote control, terminal access equipment self-inspection, online upgrades, etc., and it can achieve the efficient lane control on one machine and ensure safe and orderly inspection. It is suitable for scenes such as checkpoints in campuses, ports, airports, andvarious special supervision areas.",
+    "parameter_id": [
+      {
+        "label": "Material Perangkat  ",
+        "value": "Material utama: SPCC, dengan lapisan bubuk permukaan"
+      },
+      {
+        "label": "Peralatan Kontrol Linkage",
+        "value": "1. Kontrol penghalang ganda di pintu masuk lajur 2. Sistem pengaman penghalang masuk 3. Sistem pemisah kendaraan di pintu masuk 4. Kontrol penghalang ganda  di pintu keluar lajur 5. Sistem pengaman penghalang keluar 6. Sistem pemisah kendaraan di pintu keluar 7. Lampu pemandu lalu lintas di pintu masuk lajur 8. Lampu pemandu lalu lintas  di pintu keluar lajur 9. Lampu indikator lalu lintas di atas kepala 10. Deteksi kendaraan loop induktif 11. Kontrol anti-tailgating"
+      },
+      {
+        "label": "Lingkungan Penggunaan ",
+        "value": "Luar Ruangan/Semi-luar Ruangan"
+      },
+      {
+        "label": "Tingkat Perlindungan  ",
+        "value": "IPX4"
+      },
+      {
+        "label": "Tegangan Kerja  ",
+        "value": "AC 220V±10%, 50Hz±5%"
+      },
+      {
+        "label": "Daya Kerja  ",
+        "value": "200W (Maks. 2000W)"
+      },
+      {
+        "label": "Suhu Kerja  ",
+        "value": "-20°C~+60°C"
+      },
+      {
+        "label": "Kelembapan Relatif  ",
+        "value": "10%~90%RH Anti-Kondensasi"
+      },
+      {
+        "label": "Ukuran  ",
+        "value": "P*L*T=680*680*1660 mm"
+      }
+    ],
+    "id": "5291b9d1-da9c-448c-9533-45addb5c49d6",
+    "features_id": [
+      "Kontrol Cerdas",
+      "Akses Cepat ke Beberapa Perangkat",
+      "Peningkatan Jarak Jauh OTA",
+      "Mampu Berfungsi di Lingkungan Bersuhu Tinggi"
+    ],
+    "description_id": "Sistem Kontrol Terpadu adalah produk untuk kontrol terpusat peralatan inspeksi lajur. Peralatan ini dapat menghubungkan kontrol sensor tanah, lampu lalu lintas, sistem anti-tabrakan interaktif, sistem anti-bobol, gerbang pembatas, kolom pengangkat, dan peralatan lainnya di lajur. Sistem ini memiliki fungsi seperti kendali jarak jauh, inspeksi mandiri peralatan akses terminal, peningkatan daring, dll., dan dapat mencapai kontrol lajur yang efisien dalam satu mesin serta memastikan inspeksi yang aman dan tertib. Sistem ini cocok untuk lokasi seperti pos pemeriksaan di kampus, pelabuhan, bandara, dan berbagai area pengawasan khusus.",
+    "parameter_en": [
+      {
+        "label": "Device Material  ",
+        "value": "Main material: SPCC, with surface powder coating"
+      },
+      {
+        "label": "Linkage Control Equipment",
+        "value": "1. Dual-barrier control at lane entrance 2. Entrance barrier safety system 3. Entrance vehicle separation system 4. Dual-barrier control  at lane exit 5. Exit barrier safety system 6. Exit vehicle separation system 7. Traffic guidance lights at lane entrance 8. Traffic guidance  lights at lane exit 9. Overhead traffic indicator lights 10. Inductive loop vehicle detection 11. Anti-tailgating control"
+      },
+      {
+        "label": "Usage Environment  ",
+        "value": "Outdoor/Semi-outdoor"
+      },
+      {
+        "label": "Protection Level  ",
+        "value": "IPX4"
+      },
+      {
+        "label": "Working Voltage  ",
+        "value": "AC 220V±10%, 50Hz±5%"
+      },
+      {
+        "label": "Working Power  ",
+        "value": "200W (Max 2000W)"
+      },
+      {
+        "label": "Working Temperature  ",
+        "value": "-20°C~+60°C"
+      },
+      {
+        "label": "Relative Humidity  ",
+        "value": "10%~90%RH, Non-Condensation"
+      },
+      {
+        "label": "Size ",
+        "value": " L*W*H=680*680*1660mm"
       }
     ]
   },
@@ -2277,6 +2579,110 @@
     ]
   },
   {
+    "introduction_id": "Sistem Inspeksi dan Kontrol Jalur Keluar adalah sistem inspeksi cerdas yang mendeteksi posisi kendaraan di jalur keluar secara real-time dan secara otomatis memeriksa serta melepaskan kendaraan. Peralatan ini terhubung dengan platform inspeksi jalur untuk memantau lokasi dan status arah lalu lintas kendaraan keluar secara real-time, serta mengontrol inspeksi gerbang secara otomatis. Perangkat ini mengintegrasikan pengenalan plat nomor, peningkatan OTA daring, anti-smashing interaktif, dan fungsi cerdas lainnya untuk mewujudkan inspeksi dan perjalanan kendaraan yang aman dan efisien. Produk ini dapat digunakan secara luas dalam berbagai skenario ekspor kendaraan seperti transportasi, bandara, dan pelabuhan.",
+    "product_id": "b6b25ebd-6ee7-4f69-aa04-317e98d7d44d",
+    "features_en": [
+      "Accurate Vehicle Position Identification",
+      "Highly Intelligent Integration",
+      "OTA Remote Upgrade",
+      "Suitable for High-Temperature Environment"
+    ],
+    "description_en": "The Exit Lane Inspection and Control System is an intelligent inspection system that detects the position of vehicles at lane exits in real-timeand automatically checks and releases the vehicles. The equipment is linked with the lane inspection platform to realize real-time monitoring of the location and traffic direction status of exit vehicles, and automatic control of the gate inspection. The device integrates license plate recognition, online OTA upgrade, interactive anti-smashing and other intelligent functions to effectively realize safe and efficient vehicle inspection and passage. This product can be widely used invehicle export scenarios such as transportation, airports, and ports.",
+    "introduction_en": "The Exit Lane Inspection and Control System is an intelligent inspection system that detects the position of vehicles at lane exits in real-timeand automatically checks and releases the vehicles. The equipment is linked with the lane inspection platform to realize real-time monitoring of the location and traffic direction status of exit vehicles, and automatic control of the gate inspection. The device integrates license plate recognition, online OTA upgrade, interactive anti-smashing and other intelligent functions to effectively realize safe and efficient vehicle inspection and passage. This product can be widely used invehicle export scenarios such as transportation, airports, and ports.",
+    "parameter_id": [
+      {
+        "label": "Pengenalan Plat Nomor  ",
+        "value": "Opsional: Tingkat Pengenalan Plat Nomor ≥ 99%"
+      },
+      {
+        "label": "Pembatas  ",
+        "value": "Kecepatan menaikkan/menurunkan lengan pembatas: ≤4 detik Panjang lengan pembatas: dapat dipilih 1,5-6 m"
+      },
+      {
+        "label": "Anti-benturan Interaktif  ",
+        "value": "Waktu respons: 50-700 ms"
+      },
+      {
+        "label": "Tegangan Input  ",
+        "value": "AC 220±10%V, 50±10%Hz"
+      },
+      {
+        "label": "Daya Terukur ",
+        "value": "1400W (Maks. 4000W)"
+      },
+      {
+        "label": "Suhu Kerja ",
+        "value": "-20°C~+70°C"
+      },
+      {
+        "label": "Kelembapan Relatif  ",
+        "value": "≤90%, Tanpa Kondensasi"
+      },
+      {
+        "label": "Tingkat Perlindungan  ",
+        "value": "IPX4"
+      },
+      {
+        "label": "Lingkungan Penggunaan  ",
+        "value": "Dalam/Luar Ruangan"
+      },
+      {
+        "label": "Ukuran Produk  ",
+        "value": "AB: P*L*T=1490*635*1750mmC: P*L*T=1090*220*1730mm"
+      }
+    ],
+    "id": "72af404b-1c87-43eb-a9c9-e76719ef1ced",
+    "features_id": [
+      "Identifikasi Posisi Kendaraan yang Akurat",
+      "Integrasi yang Sangat Cerdas",
+      "Peningkatan Jarak Jauh OTA",
+      "Cocok untuk Lingkungan Bersuhu Tinggi"
+    ],
+    "description_id": "Sistem Inspeksi dan Kontrol Jalur Keluar adalah sistem inspeksi cerdas yang mendeteksi posisi kendaraan di jalur keluar secara real-time dan secara otomatis memeriksa serta melepaskan kendaraan. Peralatan ini terhubung dengan platform inspeksi jalur untuk memantau lokasi dan status arah lalu lintas kendaraan keluar secara real-time, serta mengontrol inspeksi gerbang secara otomatis. Perangkat ini mengintegrasikan pengenalan plat nomor, peningkatan OTA daring, anti-smashing interaktif, dan fungsi cerdas lainnya untuk mewujudkan inspeksi dan perjalanan kendaraan yang aman dan efisien. Produk ini dapat digunakan secara luas dalam berbagai skenario ekspor kendaraan seperti transportasi, bandara, dan pelabuhan.",
+    "parameter_en": [
+      {
+        "label": "License Plate Recognition  ",
+        "value": "OptionalLicense Plate Recognitionrate ≥ 99%"
+      },
+      {
+        "label": "Barrier  ",
+        "value": "Barrier arm raise/lower speed: ≤4 sBarrier arm length: selectable 1.5-6 m"
+      },
+      {
+        "label": "Interactive Anti-smashing  ",
+        "value": "Response time: 50-700 ms"
+      },
+      {
+        "label": "Input Voltage  ",
+        "value": "AC 220±10%V, 50±10%Hz"
+      },
+      {
+        "label": "Rated Power ",
+        "value": "1400W (Max 4000W)"
+      },
+      {
+        "label": "Working Temperature ",
+        "value": "-20°C~+70°C"
+      },
+      {
+        "label": "Relative Humidity ",
+        "value": " ≤90%, No condensation"
+      },
+      {
+        "label": "Protection Level  ",
+        "value": "IPX4"
+      },
+      {
+        "label": "Usage Environment  ",
+        "value": "Indoors/Outdoors"
+      },
+      {
+        "label": "Product Sizing  ",
+        "value": "AB: L*W*H=1490*635*1750mmC: L*W*H=1090*220*1730mm"
+      }
+    ]
+  },
+  {
     "id": "7ccd0caa-3666-4fdd-a867-d1bb5799fc46",
     "product_id": "2546270d-7195-4975-afde-d032316226cc",
     "introduction_en": "Palmprint and Palm-vein Capture Terminal uses infrared imaging technology, paired with a HD binocular camera and a high-performance processor. It is equipped with a self-developed Al palm vein recognition algorithm, enabling palm printpalm vein capture, registration, and recognition, while outputting high-quality feature capture images. This terminal has many significant advantages such as extremely high security, non-contact capture and recognition, liveness detection, low-power consumption application, closed-loop AE, and palmprint/palm-vein capture. It is widely applicable in scenarios srequiring personnel access control, identity authentication, smart payment, and more.",
@@ -2926,6 +3332,29 @@
     ]
   },
   {
+    "id": "979971ea-1bf5-45f9-8374-8d0885914d73",
+    "product_id": "06a6f018-86ca-4df7-9963-33b8b93731df",
+    "introduction_en": "The Maxvision Container Damage Detection System is a unified Al-driven platform designed to automate and streamline container gate operations at ports, terminals, and customs checkpoints. By combining container ID recognition, damage detection, license plate reading, and integrated control, the system eliminates manual inspections and delivers fast, accurate, and contactless processing.\nBuilt to handle high-throughput environments, the system supports a wide range of container types and formats under diverse weather and lighting conditions. It provides real-time, structured data to customs and logistics platforms, enabling seamless clearance workflows and stronger regulatory oversight.",
+    "introduction_id": "Sistem Deteksi Kerusakan Kontainer Maxvision adalah platform terpadu berbasis AI yang dirancang untuk mengotomatiskan dan menyederhanakan operasi gerbang kontainer di pelabuhan, terminal, dan titik pemeriksaan bea cukai. Dengan menggabungkan pengenalan ID kontainer, deteksi kerusakan, pembacaan plat nomor, dan kontrol terintegrasi, sistem ini menghilangkan inspeksi manual dan menghadirkan pemrosesan yang cepat, akurat, dan nirsentuh.\nDibangun untuk menangani lingkungan dengan throughput tinggi, sistem ini mendukung beragam jenis dan format kontainer dalam berbagai kondisi cuaca dan pencahayaan. Sistem ini menyediakan data terstruktur secara real-time untuk platform bea cukai dan logistik, memungkinkan alur kerja pengurusan izin yang lancar dan pengawasan regulasi yang lebih ketat.",
+    "description_en": "The Maxvision Container Damage Detection System is a unified Al-driven platform designed to automate and streamline container gate operations at ports, terminals, and customs checkpoints. By combining container ID recognition, damage detection, license plate reading, and integrated control, the system eliminates manual inspections and delivers fast, accurate, and contactless processing.\nBuilt to handle high-throughput environments, the system supports a wide range of container types and formats under diverse weather and lighting conditions. It provides real-time, structured data to customs and logistics platforms, enabling seamless clearance workflows and stronger regulatory oversight.",
+    "description_id": "Sistem Deteksi Kerusakan Kontainer Maxvision adalah platform terpadu berbasis AI yang dirancang untuk mengotomatiskan dan menyederhanakan operasi gerbang kontainer di pelabuhan, terminal, dan titik pemeriksaan bea cukai. Dengan menggabungkan pengenalan ID kontainer, deteksi kerusakan, pembacaan plat nomor, dan kontrol terintegrasi, sistem ini menghilangkan inspeksi manual dan menghadirkan pemrosesan yang cepat, akurat, dan nirsentuh.\nDibangun untuk menangani lingkungan dengan throughput tinggi, sistem ini mendukung beragam jenis dan format kontainer dalam berbagai kondisi cuaca dan pencahayaan. Sistem ini menyediakan data terstruktur secara real-time untuk platform bea cukai dan logistik, memungkinkan alur kerja pengurusan izin yang lancar dan pengawasan regulasi yang lebih ketat.",
+    "features_en": [
+      "Integrated Visual Intelligence",
+      "Robust Multi-Scene Performance",
+      "Versatile Container Support",
+      "Structured",
+      "Actionable Data",
+      "Efficient Deployment & Maintenance"
+    ],
+    "features_id": [
+      "Kecerdasan Visual Terintegrasi",
+      "Performa Multi-Adegan yang Tangguh",
+      "Dukungan Kontainer yang Serbaguna",
+      "Data Terstruktur dan Dapat Ditindaklanjuti",
+      "Penerapan & Pemeliharaan yang Efisien"
+    ]
+  },
+  {
     "id": "981de906-0b83-4733-93d2-c42ff250c3d8",
     "product_id": "2d48ae28-b2e6-4e22-ac9a-4f3bf59d68b2",
     "introduction_en": "Palm Vein Recognition Terminal is a biometric identification terminal based on Linux operating system launched by Maxvision. It uses infrared imaging technology and integrates visual and optical technology to obtain the palm vein image accurately. It is equipped with a self-developed Al recognition algorithm to achieve high-security biometric identification. This terminal has many significant advantages such as extremely high security, non-contact identification, live detection, strong anti-interference ability, and high identification accuracy. It can be integrated into access control systems, gate channels, and various self-service terminals to provide users with a convenient and safe identity authentication experience.",
@@ -3470,6 +3899,118 @@
     ]
   },
   {
+    "introduction_id": "Sistem Inspeksi dan Kontrol Jalur Masuk mendeteksi posisi kendaraan di pintu masuk jalur secara real-time dan secara otomatis memeriksa serta melepaskannya. Peralatan ini terhubung dengan platform inspeksi jalur untuk memantau lokasi dan status arah lalu lintas kendaraan masuk secara real-time, serta mengontrol pelepasan gerbang secara otomatis. Perangkat ini mengintegrasikan panduan lalu lintas dengan pengenalan plat nomor, peningkatan OTA daring, anti-smashing interaktif, dan fungsi cerdas lainnya untuk mewujudkan inspeksi dan perjalanan kendaraan yang aman dan efisien. Produk ini dapat digunakan secara luas dalam skenario pintu masuk kendaraan seperti transportasi umum, bandara, dan pelabuhan.",
+    "product_id": "2181bcef-6ab2-4382-82e8-e9f93f123919",
+    "features_en": [
+      "Accurate Vehicle Position Identification",
+      "Highly Intelligent Integration",
+      "OTA Remote Upgrade",
+      "Suitable for High-Temperature Environment"
+    ],
+    "description_en": "The Entry Lane Inspection and Control System that detects theposition of vehicles at the lane entrance in real-time and automatically checks and release them. The equipment is linked with the lane inspection platform to realize real-time monitoring of the location and traffic direction status of entrance vehicles, and automatic control of the gate release. The device integrates the license plate recognition traffic guidance, online OTA upgrades, interactive anti-smashing and other intelligent functions to effectively realize safe and efficient vehicle inspection and passage. This product can be widely used in vehicle entrance scenarios such as transportation, airports, and ports.",
+    "introduction_en": "The Entry Lane Inspection and Control System that detects theposition of vehicles at the lane entrance in real-time and automatically checks and release them. The equipment is linked with the lane inspection platform to realize real-time monitoring of the location and traffic direction status of entrance vehicles, and automatic control of the gate release. The device integrates the license plate recognition traffic guidance, online OTA upgrades, interactive anti-smashing and other intelligent functions to effectively realize safe and efficient vehicle inspection and passage. This product can be widely used in vehicle entrance scenarios such as transportation, airports, and ports.",
+    "parameter_id": [
+      {
+        "label": "Layar Panduan  ",
+        "value": "Layar LED penuh warna luar ruangan, area aktif: 960 mm x 576 mm"
+      },
+      {
+        "label": "Kamera Pengenalan Plat Nomor  ",
+        "value": "Opsional"
+      },
+      {
+        "label": "Pembatas  ",
+        "value": "Opsional"
+      },
+      {
+        "label": "Anti-Smashing Interaktif  ",
+        "value": "Kecepatan Penginderaan: 50~700 ms"
+      },
+      {
+        "label": "Tegangan Input  ",
+        "value": "AC 220±10%V, 50±10%Hz"
+      },
+      {
+        "label": "Daya Terukur  ",
+        "value": "1600W (Maks. 3500W)"
+      },
+      {
+        "label": "Suhu Kerja  ",
+        "value": "-20°C~+70°C"
+      },
+      {
+        "label": "Kelembapan Relatif  ",
+        "value": "≤90%RH, Tanpa Kondensasi"
+      },
+      {
+        "label": "Tingkat Perlindungan  ",
+        "value": "IPX4"
+      },
+      {
+        "label": "Lingkungan Penggunaan  ",
+        "value": "Dalam/Luar Ruangan"
+      },
+      {
+        "label": "Ukuran Produk  ",
+        "value": "AB: P*L*T =2210*635*1755mmC: P*L*T =1980*220*1730mm"
+      }
+    ],
+    "id": "a776b118-c99d-4797-a780-5201af59eb8d",
+    "features_id": [
+      "Identifikasi Posisi Kendaraan yang Akurat",
+      "Integrasi yang Sangat Cerdas",
+      "Peningkatan Jarak Jauh OTA",
+      "Cocok untuk Lingkungan Bersuhu Tinggi"
+    ],
+    "description_id": "Sistem Inspeksi dan Kontrol Jalur Masuk mendeteksi posisi kendaraan di pintu masuk jalur secara real-time dan secara otomatis memeriksa serta melepaskannya. Peralatan ini terhubung dengan platform inspeksi jalur untuk memantau lokasi dan status arah lalu lintas kendaraan masuk secara real-time, serta mengontrol pelepasan gerbang secara otomatis. Perangkat ini mengintegrasikan panduan lalu lintas dengan pengenalan plat nomor, peningkatan OTA daring, anti-smashing interaktif, dan fungsi cerdas lainnya untuk mewujudkan inspeksi dan perjalanan kendaraan yang aman dan efisien. Produk ini dapat digunakan secara luas dalam skenario pintu masuk kendaraan seperti transportasi umum, bandara, dan pelabuhan.",
+    "parameter_en": [
+      {
+        "label": "Guidance Screen ",
+        "value": " Outdoor full-color LED screen, active area: 960 mm x 576 mm"
+      },
+      {
+        "label": "License Plate Recognition Camera  ",
+        "value": "Optional"
+      },
+      {
+        "label": "Barrier  ",
+        "value": "Optional"
+      },
+      {
+        "label": "Interactive Anti-smashing  ",
+        "value": "Sensing Speed: 50~700ms"
+      },
+      {
+        "label": "Input Voltage  ",
+        "value": "AC 220±10%V, 50±10%Hz"
+      },
+      {
+        "label": "Rated Power  ",
+        "value": "1600W (Max 3500W)"
+      },
+      {
+        "label": "Working Temperature ",
+        "value": " -20°C~+70°C"
+      },
+      {
+        "label": "Relative Humidity  ",
+        "value": "≤90%RH, No condensation"
+      },
+      {
+        "label": "Protection Level  ",
+        "value": "IPX4"
+      },
+      {
+        "label": "Usage Environment  ",
+        "value": "Indoor/Outdoor"
+      },
+      {
+        "label": "Product Size  ",
+        "value": "AB: L*W*H =2210*635*1755mmC: L*W*H=1980*220*1730mm"
+      }
+    ]
+  },
+  {
     "introduction_id": "Dikembangkan secara independen oleh Maxvision, Mesin Sinar-X Bagasi Tercatat ini merupakan generasi baru teknologi pemindaian energi ganda dan tampilan ganda yang dirancang untuk lingkungan dengan keamanan tinggi. Dilengkapi dengan dua sumber sinar-X dan susunan detektor independen, sistem ini menangkap gambar tampak bawah dan samping secara bersamaan dan menampilkannya secara real-time—sangat meningkatkan deteksi barang tersembunyi atau tumpang tindih. Dirancang khusus untuk pemeriksaan bagasi berukuran besar dan tidak beraturan, mesin ini ideal untuk digunakan di bea cukai, pos pemeriksaan perbatasan, bandara, stasiun kereta api, fasilitas pemerintah, dan tempat umum yang besar. Sistem ini menggabungkan fungsionalitas khusus aplikasi dengan desain industri modern, memberikan pengalaman yang ramah pengguna dan kinerja yang sangat andal.",
     "product_id": "5ddee792-f4b8-4b54-86aa-42338e371b68",
     "features_en": [
@@ -3930,6 +4471,118 @@
       {
         "label": "Dimensi  ",
         "value": "15.250 mm*2.850 mm*2.600 mm"
+      }
+    ]
+  },
+  {
+    "introduction_id": "Speedometer Radar Serbaguna adalah peralatan penegakan hukum generasi ketiga yang dikembangkan dan diluncurkan secara independen oleh Maxvision. Peralatan ini mengadopsi desain lipat multi-layar dan memiliki beragam algoritma cerdas bawaan. Alat ini mendukung berbagai pengumpulan barang bukti ilegal dan banyak digunakan di jalan raya, jalan tol, jalan perkotaan, dan semua jenis jalan, termasuk jalan pedesaan.",
+    "product_id": "86e1acce-5308-4179-be8b-0b3dcad392a3",
+    "features_en": [
+      "Multi Algorithm Fusion",
+      "Multi Screen Operation",
+      "Built-in Laser Assistance",
+      "Multi Functional and Portable"
+    ],
+    "description_en": "Multi-purpose Radar Speedometer is the third generation law enforcement equipment independently developed and launched by Maxvision. The equipment adopts a multi-screen folding design and has a variety of built-in intelligent algorithms. It supports a variety of illegal evidence collection and is widely used in highways, expressways, urban roads and all roads and all scenes including rural roads.",
+    "introduction_en": "Multi-purpose Radar Speedometer is the third generation law enforcement equipment independently developed and launched by Maxvision. The equipment adopts a multi-screen folding design and has a variety of built-in intelligent algorithms. It supports a variety of illegal evidence collection and is widely used in highways, expressways, urban roads and all roads and all scenes including rural roads.",
+    "parameter_id": [
+      {
+        "label": "Rentang Pengukuran Kecepatan ",
+        "value": " 20~200 km/jam"
+      },
+      {
+        "label": "Tingkat Penangkapan Kendaraan",
+        "value": " ≥95%"
+      },
+      {
+        "label": "Penangkapan Barang Bukti Ilegal  ",
+        "value": "Kecepatan Berlebih, Mengemudi Melawan Arah"
+      },
+      {
+        "label": "Skenario Perpanjangan ",
+        "value": " Pos Pemeriksaan Seluler, Statistik Arus Lalu Lintas, Peringatan Dini & Intersepsi"
+      },
+      {
+        "label": "Algoritma Cerdas  ",
+        "value": "Pengenalan Plat Nomor Multi-Negara"
+      },
+      {
+        "label": "Fungsi Khusus",
+        "value": "Kalibrasi laser internal untuk sudut defleksi radar, dengan perhitungan deviasi otomatis. Manajemen perangkat terpusat melalui platform manajemen."
+      },
+      {
+        "label": "Konsumsi Daya Rata-Rata ",
+        "value": " <15W"
+      },
+      {
+        "label": "Daya Masuk ",
+        "value": " DC 12V"
+      },
+      {
+        "label": "Suhu Kerja  ",
+        "value": "-40°C~+70°C"
+      },
+      {
+        "label": "Berat ",
+        "value": "2KG"
+      },
+      {
+        "label": "Ukuran  ",
+        "value": "147*162*215mm"
+      }
+    ],
+    "id": "bda87bd2-a697-4f10-87a1-80902c93cda5",
+    "features_id": [
+      "Penggabungan Multi Algoritma",
+      "Operasi Multi Layar",
+      "Bantuan Laser Terpadu",
+      "Multifungsi dan Portabel"
+    ],
+    "description_id": "Speedometer Radar Serbaguna adalah peralatan penegakan hukum generasi ketiga yang dikembangkan dan diluncurkan secara independen oleh Maxvision. Peralatan ini mengadopsi desain lipat multi-layar dan memiliki beragam algoritma cerdas bawaan. Alat ini mendukung berbagai pengumpulan barang bukti ilegal dan banyak digunakan di jalan raya, jalan tol, jalan perkotaan, dan semua jenis jalan, termasuk jalan pedesaan.",
+    "parameter_en": [
+      {
+        "label": "Speed Measurement Range  ",
+        "value": "20~200km/h"
+      },
+      {
+        "label": "Vehicle Capture Rate ",
+        "value": "≥95%"
+      },
+      {
+        "label": "llegal Evidence Capture  ",
+        "value": "Overspeed, Wrong-way Driving"
+      },
+      {
+        "label": "Extension Scenarios ",
+        "value": " Mobile checkpoint, Traffic flow statistics, Early warning & interception"
+      },
+      {
+        "label": "Intelligent Algorithms  ",
+        "value": "Multi-country license plate recognition"
+      },
+      {
+        "label": "Special Function",
+        "value": "Built-in laser calibration for radar deflection angle, with automatic calculation of deviation.Centralized device management via the management platform."
+      },
+      {
+        "label": "Average Power Consumption  ",
+        "value": "<15W"
+      },
+      {
+        "label": "Power Input  ",
+        "value": "DC 12V"
+      },
+      {
+        "label": "Working Temperature  ",
+        "value": "-40°C~+70°C"
+      },
+      {
+        "label": "Weight ",
+        "value": "2KG"
+      },
+      {
+        "label": "Size  ",
+        "value": "147*162*215mm"
       }
     ]
   },
@@ -4711,6 +5364,74 @@
     ]
   },
   {
+    "introduction_id": "Sistem Pengenalan ID Kontainer terdiri dari terminal penangkap gambar nomor kontainer, algoritma identifikasi gambar nomor kontainer, dan platform manajemen sistem identifikasi nomor kontainer. Sistem ini menggunakan kamera AI cerdas front-end untuk menangkap dan mengenali nomor kontainer, dan hasil identifikasi secara otomatis dikirim ke platform manajemen sistem untuk mencapai manajemen jarak jauh identifikasi nomor kontainer di pos pemeriksaan. Sistem ini mencakup fungsi-fungsi seperti identifikasi nomor multi-jenis, identifikasi kontainer multi-jenis, statistik data operasi peralatan, statistik data identifikasi nomor kontainer, pengiriman data bisnis secara real-time, dan pemantauan jalur secara real-time. Sistem ini mewujudkan identifikasi nomor kontainer cerdas untuk izin kendaraan yang efisien, dan pos pemeriksaan tanpa awak.",
+    "product_id": "076fd962-03ce-4a0c-b4b2-8fbf29972779",
+    "features_en": [
+      "Efficiently Identify Multiple Types of Container Numbers",
+      "High System Stability",
+      "Continuous Operation Around the Clock",
+      "Deep Learning Technology",
+      "Ultra-high Identification Accuracy",
+      "Automatic Identification of Containers of Various Sizes and Types & Fast Passage of Trucks"
+    ],
+    "description_en": "Container ID Recognition System consists of a container number image capture terminal, a container number image identification algorithm, and a container number identification system management platform. The system uses the front-end Al inteligent camera to capture and recognize the container number, the identification result is automatically pushed to the system management platform to achieve remote management of container number identification at the checkpoint. The system includes functions such as multi-type number identification multi-type container identification, equipment operation data statistics, container number identification datastatistics, real-time business data push, and real-time lane monitoring. It realizes efficient vehicle clearance intelligent container number identification, and unmanned checkpoints.",
+    "introduction_en": "Container ID Recognition System consists of a container number image capture terminal, a container number image identification algorithm, and a container number identification system management platform. The system uses the front-end Al inteligent camera to capture and recognize the container number, the identification result is automatically pushed to the system management platform to achieve remote management of container number identification at the checkpoint. The system includes functions such as multi-type number identification multi-type container identification, equipment operation data statistics, container number identification datastatistics, real-time business data push, and real-time lane monitoring. It realizes efficient vehicle clearance intelligent container number identification, and unmanned checkpoints.",
+    "parameter_id": [
+      {
+        "label": "Container Number Identification Camera  ",
+        "value": "3"
+      },
+      {
+        "label": "Authorization Algorithm  ",
+        "value": "3"
+      },
+      {
+        "label": "System Control Cabinet ",
+        "value": "1"
+      },
+      {
+        "label": "System Management Platform  ",
+        "value": "1"
+      },
+      {
+        "label": "System Installation Rods (Including Accessories)  ",
+        "value": "1"
+      }
+    ],
+    "id": "e1537e65-9656-4c30-af59-f11926176f33",
+    "features_id": [
+      "Efficiently Identify Multiple Types of Container Numbers",
+      "High System Stability",
+      "Continuous Operation Around the Clock",
+      "Deep Learning Technology",
+      "Ultra-high Identification Accuracy",
+      "Automatic Identification of Containers of Various Sizes and Types & Fast Passage of Trucks"
+    ],
+    "description_id": "Sistem Pengenalan ID Kontainer terdiri dari terminal penangkap gambar nomor kontainer, algoritma identifikasi gambar nomor kontainer, dan platform manajemen sistem identifikasi nomor kontainer. Sistem ini menggunakan kamera AI cerdas front-end untuk menangkap dan mengenali nomor kontainer, dan hasil identifikasi secara otomatis dikirim ke platform manajemen sistem untuk mencapai manajemen jarak jauh identifikasi nomor kontainer di pos pemeriksaan. Sistem ini mencakup fungsi-fungsi seperti identifikasi nomor multi-jenis, identifikasi kontainer multi-jenis, statistik data operasi peralatan, statistik data identifikasi nomor kontainer, pengiriman data bisnis secara real-time, dan pemantauan jalur secara real-time. Sistem ini mewujudkan identifikasi nomor kontainer cerdas untuk izin kendaraan yang efisien, dan pos pemeriksaan tanpa awak.",
+    "parameter_en": [
+      {
+        "label": "Container Number Identification Camera  ",
+        "value": "3"
+      },
+      {
+        "label": "Algorithm Authorization ",
+        "value": " 3"
+      },
+      {
+        "label": "System Control Cabinet  ",
+        "value": "1"
+      },
+      {
+        "label": "System Management Platform  ",
+        "value": "1"
+      },
+      {
+        "label": "System Installation Rods (Including Accessories)  ",
+        "value": "1"
+      }
+    ]
+  },
+  {
     "id": "e251abc2-3a4d-4e26-aa59-d82fa3632f62",
     "product_id": "62778efc-4782-4e92-8a9a-78dd9e509fc6",
     "introduction_en": "The Document Recognition Terminal is a portable inspection device built on a mobile platform, designed to support OCR recognition of travel documents such as passports, visas, seafarers' books, and ID cards that comply with the International Civil Aviation Organization (ICAO) 9303 standard. The device enables fast and accurate recognition of various document information, supporting features like automatic document classification, facial extraction and cropping, machine-readable code parsing, identity matching, and personal information verification.\nThe product utilizes RFID technology to read data from electronic document chips, including electronic photos, and supports on-site facial capture and comparison. It also supports the reading of IC and HID employee cards and offers functionality for historical record queries, data export, and real-time inspection data push.\nThe Document Recognition Terminal is ideal for applications in border control zones, quarantine areas, ports, and other scenarios that require mobile inspection. The compact and portable design, along with its comprehensive functionality, allows users to efficiently manage inspections in various regions, providing unified control over passengers, staff, and businesses. The product can integrate with immigration back-end systems for passenger identity and clearance verification, and is customizable to meet specific application requirements. It also offers an SDK package for quick integration into user platform systems.",
@@ -4765,6 +5486,110 @@
       {
         "label": "Kartu SIM  ",
         "value": "Slot 1: Nano SIM; Slot 2: Micro SIM / Nano SIM (pilih salah satu)"
+      }
+    ]
+  },
+  {
+    "introduction_id": "Kamera PTZ Cerdas Dual-Mode Maxvision Al mengadopsi desain arsitektur dual-mode, algoritma pembelajaran mendalam Al terintegrasi, kolaborasi binokular, mempertimbangkan detail, cakupan panorama penuh, mencakup berbagai pemandangan seperti orang, kendaraan, jalan, dll., secara komprehensif memenuhi kebutuhan spesifik industri.",
+    "product_id": "081acea7-681f-438c-90a9-a35173ea9db4",
+    "features_en": [
+      "Panoramic/Detailed View",
+      "Multi-Algorithm Integration",
+      "Environmental Adaptability",
+      "Software Customization"
+    ],
+    "description_en": "Maxvision Al Dual-Mode Intelligent PTZ Camera adopts dual-mode architecture design, built-in Al deep learning algorithm, binocular collaboration, taking into account details, full\npanoramic coverage, covering various scenes such as people, vehicles, roads, etc., comprehensively meet the specific needs of the industry.",
+    "introduction_en": "Maxvision Al Dual-Mode Intelligent PTZ Camera adopts dual-mode architecture design, built-in Al deep learning algorithm, binocular collaboration, taking into account details, full\npanoramic coverage, covering various scenes such as people, vehicles, roads, etc., comprehensively meet the specific needs of the industry.",
+    "parameter_id": [
+      {
+        "label": "Penekanan Cahaya Kuat  ",
+        "value": "Didukung"
+      },
+      {
+        "label": "Algoritma Penetrasi Kabut ",
+        "value": " Didukung"
+      },
+      {
+        "label": "Jenis Catu Daya  ",
+        "value": "AC 24V"
+      },
+      {
+        "label": "Konsumsi Daya ",
+        "value": "Maksimum: 54,1W Tipikal: 13,6W"
+      },
+      {
+        "label": "Suhu Kerja  ",
+        "value": "-40~60°C (lampu pengisi mati) -40~40°C (lampu pengisi menyala)"
+      },
+      {
+        "label": "Kelembapan Kerja  ",
+        "value": "5%~95% (Tanpa kondensasi)"
+      },
+      {
+        "label": "Tingkat Proteksi Petir  ",
+        "value": "6KV"
+      },
+      {
+        "label": "Tingkat Proteksi  ",
+        "value": "IP66"
+      },
+      {
+        "label": "Tingkat Antihuru-hara  ",
+        "value": "IK10"
+      },
+      {
+        "label": "Berat  ",
+        "value": "Berat keseluruhan mesin 7,6 kg; Berat kemasan 9,4 kg"
+      }
+    ],
+    "id": "e3616d80-1f0a-47e6-8620-84534ccd1a91",
+    "features_id": [
+      "Tampilan Panorama/Detail",
+      "Integrasi Multi-Algoritma",
+      "Adaptasi Lingkungan",
+      "Kustomisasi Perangkat Lunak"
+    ],
+    "description_id": "Kamera PTZ Cerdas Dual-Mode Maxvision Al mengadopsi desain arsitektur dual-mode, algoritma pembelajaran mendalam Al terintegrasi, kolaborasi binokular, mempertimbangkan detail, cakupan panorama penuh, mencakup berbagai pemandangan seperti orang, kendaraan, jalan, dll., secara komprehensif memenuhi kebutuhan spesifik industri.",
+    "parameter_en": [
+      {
+        "label": "Strong Light Suppression  ",
+        "value": "Supported"
+      },
+      {
+        "label": "Algorithm Fog Penetration  ",
+        "value": "Supported"
+      },
+      {
+        "label": "Power Supply Type ",
+        "value": " AC 24V"
+      },
+      {
+        "label": "Power Consumption  ",
+        "value": "Maximum: 54.1WTypical: 13.6W"
+      },
+      {
+        "label": "Working Temperature  ",
+        "value": "-40~60°C (fill light off)-40~40°C (fill light on)"
+      },
+      {
+        "label": "Working Humidity  ",
+        "value": "5%~95%(No condensation)"
+      },
+      {
+        "label": "Lightning Protection Level  ",
+        "value": "6KV"
+      },
+      {
+        "label": "Protection Level  ",
+        "value": "IP66"
+      },
+      {
+        "label": "Anti-riot Level  ",
+        "value": "IK10"
+      },
+      {
+        "label": "Weight  ",
+        "value": "The whole machine weight is 7.6kg; The packaging weight is 9.4kg"
       }
     ]
   },
@@ -5076,6 +5901,96 @@
       {
         "label": "Dimensi  ",
         "value": "8710*3670*1640mm"
+      }
+    ]
+  },
+  {
+    "introduction_id": "Pengendali Darurat Jalur adalah perangkat untuk kontrol darurat manual pembatas lajur. Ketika terjadi situasi abnormal selama pemeriksaan pembatas lajur, petugas dapat mengoperasikan pengontrol ini secara manual untuk mengontrol pembukaan atau penutupan pembatas lajur dari jarak jauh, guna memastikan pemeriksaan lajur aman, efisien, dan tertib.",
+    "product_id": "f5aebbf6-4492-4750-97d6-6d53d0171a02",
+    "features_en": [
+      "Remote Control",
+      "Switching Modes at Will",
+      "Control Mode Display",
+      "Open/Close Status Display",
+      "Emergency Stop Control"
+    ],
+    "description_en": "The Lane Emergency Controller is a device for manual emergency control of the lane barrier. Whenthere are abnormal situations in the inspection of the lane barrier, the staff can manually operate this controller to remotely control the opening or closing of the barrier, to ensure that the inspection of thelane is safe, efficient and orderly.",
+    "introduction_en": "The Lane Emergency Controller is a device for manual emergency control of the lane barrier. Whenthere are abnormal situations in the inspection of the lane barrier, the staff can manually operate this controller to remotely control the opening or closing of the barrier, to ensure that the inspection of thelane is safe, efficient and orderly.",
+    "parameter_id": [
+      {
+        "label": "Tegangan Kerja  ",
+        "value": "DC 12V"
+      },
+      {
+        "label": "Antarmuka Komunikasi ",
+        "value": " Antarmuka Jaringan, RS485"
+      },
+      {
+        "label": "Daya Terukur  ",
+        "value": "<5W"
+      },
+      {
+        "label": "Suhu Kerja  ",
+        "value": "-20°C~+70°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Suhu Penyimpanan  ",
+        "value": "-30°C~+80°C (Dalam Ruangan)"
+      },
+      {
+        "label": "Kelembapan Relatif  ",
+        "value": "10%~90%RH, Tanpa Kondensasi"
+      },
+      {
+        "label": "Lingkungan Kerja ",
+        "value": " Dalam Ruangan"
+      },
+      {
+        "label": "Ukuran  ",
+        "value": "P*L*T=150*90*60mm"
+      }
+    ],
+    "id": "ee4b195f-4651-4b82-94a1-f27a6d31de2e",
+    "features_id": [
+      "Kendali Jarak Jauh",
+      "Beralih Mode Sesuai Keinginan",
+      "Tampilan Mode Kontrol",
+      "Tampilan Status Buka/Tutup",
+      "Kontrol Penghentian Darurat"
+    ],
+    "description_id": "Pengendali Darurat Jalur adalah perangkat untuk kontrol darurat manual pembatas lajur. Ketika terjadi situasi abnormal selama pemeriksaan pembatas lajur, petugas dapat mengoperasikan pengontrol ini secara manual untuk mengontrol pembukaan atau penutupan pembatas lajur dari jarak jauh, guna memastikan pemeriksaan lajur aman, efisien, dan tertib.",
+    "parameter_en": [
+      {
+        "label": "Working Voltage  ",
+        "value": "DC 12V"
+      },
+      {
+        "label": "Communication Interfaces ",
+        "value": " Network Interface, RS485"
+      },
+      {
+        "label": "Rated Power  ",
+        "value": "<5W"
+      },
+      {
+        "label": "Working Temperature  ",
+        "value": "-20°C~+70°C (Indoor)"
+      },
+      {
+        "label": "Storage Temperature  ",
+        "value": "-30°C~+80°C (Indoor)"
+      },
+      {
+        "label": "Relative Humidity  ",
+        "value": "10%~90%RH, Non-Condensation"
+      },
+      {
+        "label": "Working Environment  ",
+        "value": "Indoor"
+      },
+      {
+        "label": "Size ",
+        "value": " L*W*H=150*90*60mm"
       }
     ]
   },
@@ -5450,6 +6365,262 @@
       {
         "label": "Size  ",
         "value": "L*W*H=650*600*1830mm"
+      }
+    ]
+  },
+  {
+    "introduction_id": "Kamera Pengawas Lalu Lintas Pintar adalah kamera pintar yang diluncurkan oleh Maxvision untuk melayani bisnis lalu lintas jalan raya. Kamera ini mengadopsi desain kelas industri tertanam dan algoritma pembelajaran mendalam bawaan. Kamera ini mendukung berbagai deteksi pelanggaran hukum dan banyak digunakan untuk menerobos lampu merah, mengebut, bayonet, masuk dan keluar, berbagai acara, dan berbagai skenario aplikasi lainnya.",
+    "product_id": "8a01bd1b-51d3-4adf-9505-c11834258f64",
+    "features_en": [
+      "High Definition Lens",
+      "Camera Environment Adaptation",
+      "Al ultra-low Light Compensation",
+      "Deep Learning"
+    ],
+    "description_en": "Smart Traffc Surveilance Camera is a smart camera launched by Maxvision to serve the road traffic business. It adopts an embedded industrial-grade design and built-in deep learning algorithm. It supports a variety of illegal detection and is widely used in red light running, speeding, bayonet, entrance and exit, events and other various application scenarios.",
+    "introduction_en": "Smart Traffc Surveilance Camera is a smart camera launched by Maxvision to serve the road traffic business. It adopts an embedded industrial-grade design and built-in deep learning algorithm. It supports a variety of illegal detection and is widely used in red light running, speeding, bayonet, entrance and exit, events and other various application scenarios.",
+    "parameter_id": [
+      {
+        "label": "Daya Komputasi  ",
+        "value": "12 TOPS"
+      },
+      {
+        "label": "Sensor Gambar  ",
+        "value": "Modul GS, 9MP: 4096 (T)* 2160 (V)"
+      },
+      {
+        "label": "Ukuran Gambar Efektif  ",
+        "value": "4096 (T)* 2160 (V)"
+      },
+      {
+        "label": "Pencahayaan Minimum",
+        "value": "Pada resolusi maksimum: Warna: 0,005 Lux: (F1.2, AGC: AKTIF, rana 1/30) Hitam Putih: 0,0025 Lux: (F1.2, AGC: AKTIF, rana 1/30)"
+      },
+      {
+        "label": "Mode Siang dan Malam  ",
+        "value": "Otomatis (ICR)/Warna/Hitam Putih/Berwaktu"
+      },
+      {
+        "label": "Rentang Dinamis Lebar  ",
+        "value": "Rentang Dinamis Lebar Digital"
+      },
+      {
+        "label": "Keseimbangan Putih  ",
+        "value": "Pemicu Otomatis/Manual/Satu Klik"
+      },
+      {
+        "label": "Penekanan Cahaya Kuat  ",
+        "value": "Didukung"
+      },
+      {
+        "label": "Pengurangan Derau Digital  ",
+        "value": "Pengurangan Derau 2D/3D"
+      },
+      {
+        "label": "Pengodean Video Format  ",
+        "value": "MJPEG/H.264/H.265"
+      },
+      {
+        "label": "Laju Bingkai Video  ",
+        "value": "30/25fps, dapat diatur"
+      },
+      {
+        "label": "Pengodean Multi-Saluran  ",
+        "value": "Lima aliran kode"
+      },
+      {
+        "label": "Pengodean Cerdas  ",
+        "value": "Ekstra 265/264"
+      },
+      {
+        "label": "Mode Keamanan ",
+        "value": " Autentikasi nama pengguna dan kata sandi, mendukung sertifikat digital 802.1x dan HTTPS"
+      },
+      {
+        "label": "Keamanan Media ",
+        "value": " Mendukung antarmuka WEB, enkripsi aliran media SDK, dan tanda air digital untuk video dan gambar"
+      },
+      {
+        "label": "Analisis Kendaraan ",
+        "value": " Pengenalan plat nomor, warna bodi, model kendaraan"
+      },
+      {
+        "label": "Antarmuka Jaringan  ",
+        "value": "2 port Ethernet adaptif RJ45 10M/100M/1000M"
+      },
+      {
+        "label": "Port Serial Komunikasi  ",
+        "value": "Antarmuka RS485"
+      },
+      {
+        "label": "Antarmuka Alarm  ",
+        "value": "1 input alarm/4 output sakelar optocoupler/1 output alarm relai"
+      },
+      {
+        "label": "Antarmuka Penyimpanan",
+        "value": "Menyediakan slot kartu MicroSD, mendukung MicroSDHC/MicroSDXC, dan mendukung Kapasitas maksimum kartu memori 256GB"
+      },
+      {
+        "label": "Catu Daya  ",
+        "value": "AC100~240V"
+      },
+      {
+        "label": "Konsumsi Daya ",
+        "value": " Konsumsi daya maksimum: 60W, konsumsi daya tipikal: 13,7W"
+      },
+      {
+        "label": "Suhu Kerja  ",
+        "value": "-40°C~+60°C (lampu mati) -40°C~+40°C (lampu menyala)"
+      },
+      {
+        "label": "Kelembapan Kerja  ",
+        "value": "5%~95% (tanpa kondensasi)"
+      },
+      {
+        "label": "Perlindungan Petir dan Lonjakan Arus  ",
+        "value": "Catu Daya 6kV"
+      },
+      {
+        "label": "Tingkat Perlindungan  ",
+        "value": "IP65"
+      },
+      {
+        "label": "Tingkat Tahan Ledakan  ",
+        "value": "IK08"
+      },
+      {
+        "label": "Berat  ",
+        "value": "Berat keseluruhan: 5,5kg Berat kemasan: 693kg"
+      },
+      {
+        "label": "Ukuran  ",
+        "value": "Ukuran keseluruhan: 520mmx205mmx161mm Ukuran kemasan: 590mmx325mmx280mm"
+      }
+    ],
+    "id": "f95ac6da-9ff9-4c6b-a2ab-b408ef58e9d5",
+    "features_id": [
+      "Lensa Definisi Tinggi",
+      "Adaptasi Lingkungan Kamera",
+      "Kompensasi Cahaya Ultra-Rendah AI",
+      "Pembelajaran Mendalam"
+    ],
+    "description_id": "Kamera Pengawas Lalu Lintas Pintar adalah kamera pintar yang diluncurkan oleh Maxvision untuk melayani bisnis lalu lintas jalan raya. Kamera ini mengadopsi desain kelas industri tertanam dan algoritma pembelajaran mendalam bawaan. Kamera ini mendukung berbagai deteksi pelanggaran hukum dan banyak digunakan untuk menerobos lampu merah, mengebut, bayonet, masuk dan keluar, berbagai acara, dan berbagai skenario aplikasi lainnya.",
+    "parameter_en": [
+      {
+        "label": "Computing Power  ",
+        "value": "12 TOPS"
+      },
+      {
+        "label": "Image Sensor  ",
+        "value": "GS module, 9MP:4096 (H)* 2160 (V)"
+      },
+      {
+        "label": "Effective Image Size  ",
+        "value": "4096 (H)* 2160 (V)"
+      },
+      {
+        "label": "Minimum Illumination",
+        "value": "At maximum resolution: Color: 0.005Lux:(F1.2,AGC:ON, 1/30 shutter)Black and white:0.0025: Lux:(F1.2,AGC: ON, 1/30 shutter)"
+      },
+      {
+        "label": "Day and Night Mode ",
+        "value": " Automatic (ICR)/Color/Black and White/Timed"
+      },
+      {
+        "label": "Wide Dynamic Range  ",
+        "value": "Digital wide dynamic range"
+      },
+      {
+        "label": "White Balance  ",
+        "value": "Automatic/manual/one click trigger"
+      },
+      {
+        "label": "Strong Light Suppression  ",
+        "value": "Supported"
+      },
+      {
+        "label": "Digital Noise Reduction  ",
+        "value": "2D/3D noise reduction"
+      },
+      {
+        "label": "Video Encoding Format  ",
+        "value": "MJPEG/H.264/H.265"
+      },
+      {
+        "label": "Video Frame Rate  ",
+        "value": "30/25fps, settable"
+      },
+      {
+        "label": "Multi Channel Encoding  ",
+        "value": "Five code streams"
+      },
+      {
+        "label": "Intelligent Encoding",
+        "value": "Extra 265/264"
+      },
+      {
+        "label": "Security Mode  ",
+        "value": "Username and password authentication, supporting 802.1x and HTTPSdigital certificates"
+      },
+      {
+        "label": "Media Security ",
+        "value": " Supports WEB interface,SDK media stream encryption, and digital watermarking for videos and images"
+      },
+      {
+        "label": "Vehicle Analysis  ",
+        "value": "License plate recognition, body color, vehicle model"
+      },
+      {
+        "label": "Network Interface  ",
+        "value": "2 RJ45 10M/100M/1000M adaptive Ethernet ports"
+      },
+      {
+        "label": "Communication Serial Port  ",
+        "value": "RS485 interface"
+      },
+      {
+        "label": "Alarm Interface  ",
+        "value": "1 alarm input/4 optocoupler switch output/1 relay alarm output"
+      },
+      {
+        "label": "Storage Interface  ",
+        "value": "Provides MicroSD card slot, supports MicroSDHC/MicroSDXC, andsupports a maximum capacity of 256GB memory card"
+      },
+      {
+        "label": "Power Supply  ",
+        "value": "AC100~240V"
+      },
+      {
+        "label": "Power Consumption  ",
+        "value": "Maximum power consumption:60W, typical power consumption:13.7W"
+      },
+      {
+        "label": "Working Temperature  ",
+        "value": "-40°C~+60°C (off fill light)-40°C~+40°C (on fill light)"
+      },
+      {
+        "label": "Working Humidity  ",
+        "value": "5%~95% (non condensing)"
+      },
+      {
+        "label": "Lightning Protection and Surge Protection  ",
+        "value": "Power supply 6kV"
+      },
+      {
+        "label": "Protection Level  ",
+        "value": "IP65"
+      },
+      {
+        "label": "Explosion Proof Level  ",
+        "value": "IK08"
+      },
+      {
+        "label": "Weight  ",
+        "value": "Overall weight: 5.5kgPackaging weight:693kg"
+      },
+      {
+        "label": "Size  ",
+        "value": "Overall size: 520mmx205mmx161mmPackaging size: 590mmx325mmx280mm"
       }
     ]
   },

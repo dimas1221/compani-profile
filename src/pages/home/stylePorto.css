@@ -1,0 +1,191 @@
+.portfolio-slider {
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none; /* Firefox */
+}
+.portfolio-slider::-webkit-scrollbar {
+  display: none;
+}
+
+.portfolio-card-wrapper {
+  min-height: 400px;
+  display: flex;
+  flex-direction: column;
+  scroll-snap-align: start;
+}
+
+.portfolio-card {
+  height: 100%;
+  aspect-ratio: 4 / 3;
+  display: flex;
+  flex-direction: column;
+  border-radius: 24px;
+  overflow: hidden;
+  background: rgba(255 255 255 / 0.2);
+  backdrop-filter: blur(18px);
+  border: 1px solid rgba(255 255 255 / 0.2);
+  box-shadow: 0 4px 12px rgba(0 0 0 / 0.12);
+  transition: box-shadow 0.4s ease, border-color 0.4s ease;
+}
+
+.portfolio-card:hover {
+  box-shadow: 0 12px 30px rgba(0 0 0 / 0.15);
+  border-color: rgba(14, 165, 233, 0.4); /* sky-400/40 */
+}
+
+.portfolio-card-image-wrapper {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 */
+  overflow: hidden;
+  border-top-left-radius: 24px;
+  border-top-right-radius: 24px;
+  flex-shrink: 0;
+}
+
+.portfolio-card-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.portfolio-card-content {
+  padding: 1.5rem;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.portfolio-card-content p {
+  flex-grow: 1;
+  /* line clamp handled by tailwind's line-clamp-2 */
+}
+
+/* Dark mode overrides */
+@media (prefers-color-scheme: dark) {
+  .portfolio-card {
+    background: rgba(255 255 255 / 0.1);
+    border: 1px solid rgba(255 255 255 / 0.1);
+  }
+  .portfolio-card:hover {
+    border-color: rgba(14, 165, 233, 0.4); /* stylePorto.css */
+
+    .portfolio-card {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      cursor: pointer;
+      user-select: none;
+      background-clip: padding-box;
+      /* smooth border and shadow transitions */
+      will-change: transform, box-shadow, border-color;
+    }
+
+    /* Image wrapper supaya tetap aspect ratio 4:3 */
+    .portfolio-card-image-wrapper {
+      position: relative;
+      width: 100%;
+      padding-top: 75%; /* 4:3 aspect ratio */
+      overflow: hidden;
+      border-radius: 1.5rem; /* 24px */
+      background: linear-gradient(135deg, #dbeafe 0%, #bfdbfe 100%);
+      box-shadow: inset 0 0 10px rgba(255, 255, 255, 0.4),
+        0 6px 15px rgba(0, 0, 0, 0.1);
+      margin-bottom: 1rem;
+      transition: box-shadow 0.3s ease;
+    }
+
+    .portfolio-card-image-wrapper:hover {
+      box-shadow: inset 0 0 15px rgba(255, 255, 255, 0.6),
+        0 12px 25px rgba(0, 0, 0, 0.15);
+    }
+
+    .portfolio-card-image {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      border-radius: 1.5rem;
+      user-select: none;
+      pointer-events: none;
+      transition: transform 0.4s ease;
+    }
+
+    /* Content area */
+    .portfolio-card-content {
+      display: flex;
+      flex-direction: column;
+      flex-grow: 1;
+      padding: 0 0.25rem 0.25rem 0.25rem;
+    }
+
+    /* Text styles */
+    .portfolio-card-content h3 {
+      font-family: 'Clash Display', sans-serif;
+      font-weight: 600;
+      color: #1e293b; /* gray-900 */
+      transition: color 0.3s ease;
+    }
+
+    .dark .portfolio-card-content h3 {
+      color: #f8fafc; /* gray-100 */
+    }
+
+    .portfolio-card-content p {
+      color: #475569; /* gray-600 */
+      line-height: 1.5;
+      margin-top: 0.5rem;
+      flex-grow: 1;
+    }
+
+    .dark .portfolio-card-content p {
+      color: #cbd5e1; /* gray-300 */
+    }
+
+    /* Utility: hide scrollbar (Webkit-based browsers) */
+    .portfolio-slider::-webkit-scrollbar {
+      height: 6px;
+    }
+
+    .portfolio-slider::-webkit-scrollbar-track {
+      background: transparent;
+    }
+
+    .portfolio-slider::-webkit-scrollbar-thumb {
+      background: #60a5fa;
+      border-radius: 3px;
+      transition: background-color 0.3s ease;
+    }
+
+    .portfolio-slider::-webkit-scrollbar-thumb:hover {
+      background: #3b82f6;
+    }
+
+    /* Firefox scrollbar style */
+    .portfolio-slider {
+      scrollbar-width: thin;
+      scrollbar-color: #60a5fa transparent;
+    }
+
+    /* Responsive tweaks */
+    @media (max-width: 768px) {
+      .portfolio-card-image-wrapper {
+        margin-bottom: 0.75rem;
+      }
+
+      .portfolio-card-content h3 {
+        font-size: 1.25rem;
+      }
+
+      .portfolio-card-content p {
+        font-size: 0.875rem;
+      }
+    }
+  }
+}
