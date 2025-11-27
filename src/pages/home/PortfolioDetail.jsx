@@ -23,6 +23,9 @@ export default function PortfolioDetail() {
         setLoading(false);
       });
   }, []);
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }, []);
 
   if (loading) {
     return <div className="text-center py-20 text-xl">Loading…</div>;
