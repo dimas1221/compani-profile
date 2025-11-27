@@ -1,0 +1,90 @@
+{
+  "introduction_id": "Pengendali Darurat Jalur adalah perangkat untuk kontrol darurat manual pembatas lajur. Ketika terjadi situasi abnormal selama pemeriksaan pembatas lajur, petugas dapat mengoperasikan pengontrol ini secara manual untuk mengontrol pembukaan atau penutupan pembatas lajur dari jarak jauh, guna memastikan pemeriksaan lajur aman, efisien, dan tertib.",
+  "product_id": "f5aebbf6-4492-4750-97d6-6d53d0171a02",
+  "features_en": [
+    "Remote Control",
+    "Switching Modes at Will",
+    "Control Mode Display",
+    "Open/Close Status Display",
+    "Emergency Stop Control"
+  ],
+  "description_en": "The Lane Emergency Controller is a device for manual emergency control of the lane barrier. Whenthere are abnormal situations in the inspection of the lane barrier, the staff can manually operate this controller to remotely control the opening or closing of the barrier, to ensure that the inspection of thelane is safe, efficient and orderly.",
+  "introduction_en": "The Lane Emergency Controller is a device for manual emergency control of the lane barrier. Whenthere are abnormal situations in the inspection of the lane barrier, the staff can manually operate this controller to remotely control the opening or closing of the barrier, to ensure that the inspection of thelane is safe, efficient and orderly.",
+  "parameter_id": [
+    {
+      "label": "Tegangan Kerja  ",
+      "value": "DC 12V"
+    },
+    {
+      "label": "Antarmuka Komunikasi ",
+      "value": " Antarmuka Jaringan, RS485"
+    },
+    {
+      "label": "Daya Terukur  ",
+      "value": "<5W"
+    },
+    {
+      "label": "Suhu Kerja  ",
+      "value": "-20°C~+70°C (Dalam Ruangan)"
+    },
+    {
+      "label": "Suhu Penyimpanan  ",
+      "value": "-30°C~+80°C (Dalam Ruangan)"
+    },
+    {
+      "label": "Kelembapan Relatif  ",
+      "value": "10%~90%RH, Tanpa Kondensasi"
+    },
+    {
+      "label": "Lingkungan Kerja ",
+      "value": " Dalam Ruangan"
+    },
+    {
+      "label": "Ukuran  ",
+      "value": "P*L*T=150*90*60mm"
+    }
+  ],
+  "id": "ee4b195f-4651-4b82-94a1-f27a6d31de2e",
+  "features_id": [
+    "Kendali Jarak Jauh",
+    "Beralih Mode Sesuai Keinginan",
+    "Tampilan Mode Kontrol",
+    "Tampilan Status Buka/Tutup",
+    "Kontrol Penghentian Darurat"
+  ],
+  "description_id": "Pengendali Darurat Jalur adalah perangkat untuk kontrol darurat manual pembatas lajur. Ketika terjadi situasi abnormal selama pemeriksaan pembatas lajur, petugas dapat mengoperasikan pengontrol ini secara manual untuk mengontrol pembukaan atau penutupan pembatas lajur dari jarak jauh, guna memastikan pemeriksaan lajur aman, efisien, dan tertib.",
+  "parameter_en": [
+    {
+      "label": "Working Voltage  ",
+      "value": "DC 12V"
+    },
+    {
+      "label": "Communication Interfaces ",
+      "value": " Network Interface, RS485"
+    },
+    {
+      "label": "Rated Power  ",
+      "value": "<5W"
+    },
+    {
+      "label": "Working Temperature  ",
+      "value": "-20°C~+70°C (Indoor)"
+    },
+    {
+      "label": "Storage Temperature  ",
+      "value": "-30°C~+80°C (Indoor)"
+    },
+    {
+      "label": "Relative Humidity  ",
+      "value": "10%~90%RH, Non-Condensation"
+    },
+    {
+      "label": "Working Environment  ",
+      "value": "Indoor"
+    },
+    {
+      "label": "Size ",
+      "value": " L*W*H=150*90*60mm"
+    }
+  ]
+}

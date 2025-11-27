@@ -1,0 +1,112 @@
+{
+  "introduction_id": "Speedometer Radar Serbaguna adalah peralatan penegakan hukum generasi ketiga yang dikembangkan dan diluncurkan secara independen oleh Maxvision. Peralatan ini mengadopsi desain lipat multi-layar dan memiliki beragam algoritma cerdas bawaan. Alat ini mendukung berbagai pengumpulan barang bukti ilegal dan banyak digunakan di jalan raya, jalan tol, jalan perkotaan, dan semua jenis jalan, termasuk jalan pedesaan.",
+  "product_id": "86e1acce-5308-4179-be8b-0b3dcad392a3",
+  "features_en": [
+    "Multi Algorithm Fusion",
+    "Multi Screen Operation",
+    "Built-in Laser Assistance",
+    "Multi Functional and Portable"
+  ],
+  "description_en": "Multi-purpose Radar Speedometer is the third generation law enforcement equipment independently developed and launched by Maxvision. The equipment adopts a multi-screen folding design and has a variety of built-in intelligent algorithms. It supports a variety of illegal evidence collection and is widely used in highways, expressways, urban roads and all roads and all scenes including rural roads.",
+  "introduction_en": "Multi-purpose Radar Speedometer is the third generation law enforcement equipment independently developed and launched by Maxvision. The equipment adopts a multi-screen folding design and has a variety of built-in intelligent algorithms. It supports a variety of illegal evidence collection and is widely used in highways, expressways, urban roads and all roads and all scenes including rural roads.",
+  "parameter_id": [
+    {
+      "label": "Rentang Pengukuran Kecepatan ",
+      "value": " 20~200 km/jam"
+    },
+    {
+      "label": "Tingkat Penangkapan Kendaraan",
+      "value": " ≥95%"
+    },
+    {
+      "label": "Penangkapan Barang Bukti Ilegal  ",
+      "value": "Kecepatan Berlebih, Mengemudi Melawan Arah"
+    },
+    {
+      "label": "Skenario Perpanjangan ",
+      "value": " Pos Pemeriksaan Seluler, Statistik Arus Lalu Lintas, Peringatan Dini & Intersepsi"
+    },
+    {
+      "label": "Algoritma Cerdas  ",
+      "value": "Pengenalan Plat Nomor Multi-Negara"
+    },
+    {
+      "label": "Fungsi Khusus",
+      "value": "Kalibrasi laser internal untuk sudut defleksi radar, dengan perhitungan deviasi otomatis. Manajemen perangkat terpusat melalui platform manajemen."
+    },
+    {
+      "label": "Konsumsi Daya Rata-Rata ",
+      "value": " <15W"
+    },
+    {
+      "label": "Daya Masuk ",
+      "value": " DC 12V"
+    },
+    {
+      "label": "Suhu Kerja  ",
+      "value": "-40°C~+70°C"
+    },
+    {
+      "label": "Berat ",
+      "value": "2KG"
+    },
+    {
+      "label": "Ukuran  ",
+      "value": "147*162*215mm"
+    }
+  ],
+  "id": "bda87bd2-a697-4f10-87a1-80902c93cda5",
+  "features_id": [
+    "Penggabungan Multi Algoritma",
+    "Operasi Multi Layar",
+    "Bantuan Laser Terpadu",
+    "Multifungsi dan Portabel"
+  ],
+  "description_id": "Speedometer Radar Serbaguna adalah peralatan penegakan hukum generasi ketiga yang dikembangkan dan diluncurkan secara independen oleh Maxvision. Peralatan ini mengadopsi desain lipat multi-layar dan memiliki beragam algoritma cerdas bawaan. Alat ini mendukung berbagai pengumpulan barang bukti ilegal dan banyak digunakan di jalan raya, jalan tol, jalan perkotaan, dan semua jenis jalan, termasuk jalan pedesaan.",
+  "parameter_en": [
+    {
+      "label": "Speed Measurement Range  ",
+      "value": "20~200km/h"
+    },
+    {
+      "label": "Vehicle Capture Rate ",
+      "value": "≥95%"
+    },
+    {
+      "label": "llegal Evidence Capture  ",
+      "value": "Overspeed, Wrong-way Driving"
+    },
+    {
+      "label": "Extension Scenarios ",
+      "value": " Mobile checkpoint, Traffic flow statistics, Early warning & interception"
+    },
+    {
+      "label": "Intelligent Algorithms  ",
+      "value": "Multi-country license plate recognition"
+    },
+    {
+      "label": "Special Function",
+      "value": "Built-in laser calibration for radar deflection angle, with automatic calculation of deviation.Centralized device management via the management platform."
+    },
+    {
+      "label": "Average Power Consumption  ",
+      "value": "<15W"
+    },
+    {
+      "label": "Power Input  ",
+      "value": "DC 12V"
+    },
+    {
+      "label": "Working Temperature  ",
+      "value": "-40°C~+70°C"
+    },
+    {
+      "label": "Weight ",
+      "value": "2KG"
+    },
+    {
+      "label": "Size  ",
+      "value": "147*162*215mm"
+    }
+  ]
+}

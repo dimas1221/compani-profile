@@ -1,0 +1,68 @@
+{
+  "introduction_id": "Sistem Pengenalan ID Kontainer terdiri dari terminal penangkap gambar nomor kontainer, algoritma identifikasi gambar nomor kontainer, dan platform manajemen sistem identifikasi nomor kontainer. Sistem ini menggunakan kamera AI cerdas front-end untuk menangkap dan mengenali nomor kontainer, dan hasil identifikasi secara otomatis dikirim ke platform manajemen sistem untuk mencapai manajemen jarak jauh identifikasi nomor kontainer di pos pemeriksaan. Sistem ini mencakup fungsi-fungsi seperti identifikasi nomor multi-jenis, identifikasi kontainer multi-jenis, statistik data operasi peralatan, statistik data identifikasi nomor kontainer, pengiriman data bisnis secara real-time, dan pemantauan jalur secara real-time. Sistem ini mewujudkan identifikasi nomor kontainer cerdas untuk izin kendaraan yang efisien, dan pos pemeriksaan tanpa awak.",
+  "product_id": "076fd962-03ce-4a0c-b4b2-8fbf29972779",
+  "features_en": [
+    "Efficiently Identify Multiple Types of Container Numbers",
+    "High System Stability",
+    "Continuous Operation Around the Clock",
+    "Deep Learning Technology",
+    "Ultra-high Identification Accuracy",
+    "Automatic Identification of Containers of Various Sizes and Types & Fast Passage of Trucks"
+  ],
+  "description_en": "Container ID Recognition System consists of a container number image capture terminal, a container number image identification algorithm, and a container number identification system management platform. The system uses the front-end Al inteligent camera to capture and recognize the container number, the identification result is automatically pushed to the system management platform to achieve remote management of container number identification at the checkpoint. The system includes functions such as multi-type number identification multi-type container identification, equipment operation data statistics, container number identification datastatistics, real-time business data push, and real-time lane monitoring. It realizes efficient vehicle clearance intelligent container number identification, and unmanned checkpoints.",
+  "introduction_en": "Container ID Recognition System consists of a container number image capture terminal, a container number image identification algorithm, and a container number identification system management platform. The system uses the front-end Al inteligent camera to capture and recognize the container number, the identification result is automatically pushed to the system management platform to achieve remote management of container number identification at the checkpoint. The system includes functions such as multi-type number identification multi-type container identification, equipment operation data statistics, container number identification datastatistics, real-time business data push, and real-time lane monitoring. It realizes efficient vehicle clearance intelligent container number identification, and unmanned checkpoints.",
+  "parameter_id": [
+    {
+      "label": "Container Number Identification Camera  ",
+      "value": "3"
+    },
+    {
+      "label": "Authorization Algorithm  ",
+      "value": "3"
+    },
+    {
+      "label": "System Control Cabinet ",
+      "value": "1"
+    },
+    {
+      "label": "System Management Platform  ",
+      "value": "1"
+    },
+    {
+      "label": "System Installation Rods (Including Accessories)  ",
+      "value": "1"
+    }
+  ],
+  "id": "e1537e65-9656-4c30-af59-f11926176f33",
+  "features_id": [
+    "Efficiently Identify Multiple Types of Container Numbers",
+    "High System Stability",
+    "Continuous Operation Around the Clock",
+    "Deep Learning Technology",
+    "Ultra-high Identification Accuracy",
+    "Automatic Identification of Containers of Various Sizes and Types & Fast Passage of Trucks"
+  ],
+  "description_id": "Sistem Pengenalan ID Kontainer terdiri dari terminal penangkap gambar nomor kontainer, algoritma identifikasi gambar nomor kontainer, dan platform manajemen sistem identifikasi nomor kontainer. Sistem ini menggunakan kamera AI cerdas front-end untuk menangkap dan mengenali nomor kontainer, dan hasil identifikasi secara otomatis dikirim ke platform manajemen sistem untuk mencapai manajemen jarak jauh identifikasi nomor kontainer di pos pemeriksaan. Sistem ini mencakup fungsi-fungsi seperti identifikasi nomor multi-jenis, identifikasi kontainer multi-jenis, statistik data operasi peralatan, statistik data identifikasi nomor kontainer, pengiriman data bisnis secara real-time, dan pemantauan jalur secara real-time. Sistem ini mewujudkan identifikasi nomor kontainer cerdas untuk izin kendaraan yang efisien, dan pos pemeriksaan tanpa awak.",
+  "parameter_en": [
+    {
+      "label": "Container Number Identification Camera  ",
+      "value": "3"
+    },
+    {
+      "label": "Algorithm Authorization ",
+      "value": " 3"
+    },
+    {
+      "label": "System Control Cabinet  ",
+      "value": "1"
+    },
+    {
+      "label": "System Management Platform  ",
+      "value": "1"
+    },
+    {
+      "label": "System Installation Rods (Including Accessories)  ",
+      "value": "1"
+    }
+  ]
+}
