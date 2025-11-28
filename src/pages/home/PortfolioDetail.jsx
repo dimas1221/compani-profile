@@ -36,8 +36,7 @@ export default function PortfolioDetail() {
   const gallery =
     item.gallery?.length > 0 ? item.gallery.map((g) => g.image) : [item.image];
 
-  const highlights =
-    lang === 'id' ? item.key_highlights_id : item.key_highlights_en;
+  const highlights = lang === 'id' ? item.highlights_id : item.highlights_en;
 
   // FIXED: main image changes with thumbnails
   const mainImage = gallery[mainImageIndex];
