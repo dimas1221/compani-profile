@@ -100,95 +100,90 @@ Silakan hubungi kami untuk kerjasama.`;
     <div className="w-full">
       {/* ================= HERO ================= */}
       <section
-        className="premium-bg relative w-full min-h-[90vh] overflow-hidden flex flex-col md:flex-row items-start md:items-center bg-black"
-        aria-label="Principle hero"
+        className="
+    premium-bg relative w-full min-h-[90vh] overflow-hidden
+    flex flex-col xl:flex-row
+    items-start xl:items-center 
+    bg-black
+  "
       >
-        {/* Parallax background */}
+        {/* Background */}
         <div
           ref={bgRef}
           className="absolute inset-0 bg-cover bg-center bg-no-repeat will-change-transform animate-bgParallax"
           style={{ backgroundImage: `url(${bgHeroMain})` }}
         />
 
-        {/* ================= HERO CARD (LEFT on desktop / TOP on mobile) ================= */}
+        {/* HERO CARD */}
         <div
           className="
-    hero-card
-    relative z-[20]
-    w-[92%] md:w-auto mx-auto mt-8 md:mt-0
-    px-6 py-6 md:px-10 md:py-10
-    max-w-md md:max-w-xl
-    md:absolute md:left-[6%] md:top-[50%] md:-translate-y-1/2
-    tilt-card
-  "
-          role="region"
-          aria-label="Principle hero card"
-        >
-          {/* glass shine */}
-          <div className="glass-shine" />
+      hero-card relative z-[20]
+      w-[92%] mx-auto mt-8
+      px-6 py-6
+      max-w-md sm:max-w-lg
 
-          {/* reflection */}
+      /* ABSOLUTE HANYA DI DESKTOP XL */
+      xl:w-auto xl:mx-0 xl:mt-0
+      xl:px-10 xl:py-10
+      xl:max-w-xl
+      xl:absolute xl:left-[6%] xl:top-1/2 xl:-translate-y-1/2
+      tilt-card
+    "
+        >
+          <div className="glass-shine" />
           <div className="hero-reflection" aria-hidden="true" />
 
-          {/* TITLE */}
-          <h1
-            className="
-      text-3xl md:text-5xl 
-      text-white font-semibold leading-tight 
-      drop-shadow-2xl neon-transforme font-clash
-      tracking-tight
-    "
-          >
+          <h1 className="text-3xl sm:text-4xl md:text-5xl text-white font-semibold leading-tight drop-shadow-2xl neon-transforme font-clash tracking-tight">
             {heroData.hero_title}
           </h1>
 
-          {/* SUBTITLE */}
-          <p
-            className="
-      mt-3 md:mt-4 
-      text-base md:text-xl 
-      text-white/90 font-light tracking-wide
-      text-pretty
-    "
-          >
+          <p className="mt-3 text-base sm:text-lg md:text-xl text-white/90 font-light tracking-wide">
             {heroData.hero_subtitle}
           </p>
 
-          {/* PREMIUM PARAGRAPH WRAPPER */}
-          <div className="mt-5 w-full flex justify-center md:justify-start">
+          <div className="mt-5 w-full flex justify-center xl:justify-start">
             <PremiumJustifiedParagraph
               className="
-        !indent-0 
-        max-w-[60ch] 
-        text-left 
-        mx-auto md:mx-0
-        text-white/85 
-        text-[15.5px] md:text-[17px]
-        tracking-[0.01em]
-        [text-wrap:pretty]
-      "
+          !indent-0 max-w-[60ch] 
+          text-left 
+          mx-auto xl:mx-0
+          text-white/85 
+          text-[15.5px] md:text-[17px]
+          tracking-[0.01em]
+        "
             >
               {heroData.hero_desc}
             </PremiumJustifiedParagraph>
           </div>
         </div>
 
-        {/* ================= RIGHT IMAGE (FLOATING PREMIUM) ================= */}
+        {/* HERO IMAGE */}
         <div
-          className="hero-image-wrap w-full relative flex justify-center md:block mt-6 md:mt-0 z-[10] pointer-events-none md:absolute md:right-[6%] md:bottom-0 md:left-auto"
-          aria-hidden="true"
+          className="
+      hero-image-wrap w-full relative 
+      flex justify-center 
+      mt-6 z-[10] pointer-events-none
+
+      /* ABSOLUTE HANYA DI DESKTOP XL */
+      xl:mt-0 xl:absolute xl:right-[6%] xl:bottom-0
+    "
         >
           <img
             src={bgHero}
             alt="Principle Visual"
             className="
-              object-contain opacity-95
-              hero-visual
-              drop-shadow-[0_12px_40px_rgba(0,0,0,0.45)]
-              
-              animate-premiumFloat
-              rounded-lg
-            "
+        object-contain opacity-95 
+        hero-visual
+        drop-shadow-[0_12px_40px_rgba(0,0,0,0.45)]
+        animate-premiumFloat rounded-lg
+
+        /* SIZE CONTROL — TABLET LANDSCAPE FIX */
+        max-h-[32vh]
+        sm:max-h-[40vh]
+        md:max-h-[42vh]
+        lg:max-h-[44vh]
+        xl:max-h-none
+      "
           />
         </div>
       </section>
