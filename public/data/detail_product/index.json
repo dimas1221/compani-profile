@@ -3949,6 +3949,128 @@
     ]
   },
   {
+    "introduction_id": "Di lokasi kebakaran, kondisi ekstrem seperti api yang besar, ledakan, suhu tinggi, asap tebal, gas beracun, dan kekurangan oksigen menyulitkan petugas pemadam kebakaran untuk melakukan operasi penyelamatan. Perusahaan kami telah mengembangkan robot pemadam kebakaran secara independen yang dapat menggantikan petugas pemadam kebakaran di area yang sangat berbahaya untuk pekerjaan pemadaman kebakaran dan penyelamatan. Robot-robot ini memainkan peran penting dalam meningkatkan keselamatan operasi pemadaman kebakaran dan mengurangi korban jiwa. Selain itu, robot-robot ini dilengkapi dengan berbagai fungsi seperti pemadaman api, pengintaian, dan penyelamatan, yang secara bertahap menjadi lebih otomatis dan cerdas, sehingga dapat digunakan dalam berbagai situasi penyelamatan yang kompleks.",
+    "product_id": "7c36ec97-93a4-4e84-9edf-16d7e1f2ca26",
+    "features_en": [
+      "360° Explosion-Proof PTZ Camera",
+      "Heavy Transport Capacity",
+      "Strong Towing Capability",
+      "Large-Flow Fire Cannon",
+      "Toxic Gas Detection"
+    ],
+    "description_en": "In a fire scene, extreme conditions such as fierce flames, explosions, high temperatures, thick smoke, toxic gases, and lack of oxygen make it difficult for firefighters to carry out rescue operations. Our company has independently developed fire-fighting robot that can replace firefighters in extremely hazardous areas for firefighting and rescue work. These robots play a crucial role in enhancing the safety of firefighting operations and reducing casualties. Additionally, they are equipped with multiple functions such as extinguishing fires, reconnaissance, and rescue, gradually becoming more automated and intelligent, allowing them to be utilized in a wider range of complex rescue situations.",
+    "introduction_en": "In a fire scene, extreme conditions such as fierce flames, explosions, high temperatures, thick smoke, toxic gases, and lack of oxygen make it difficult for firefighters to carry out rescue operations. Our company has independently developed fire-fighting robot that can replace firefighters in extremely hazardous areas for firefighting and rescue work. These robots play a crucial role in enhancing the safety of firefighting operations and reducing casualties. Additionally, they are equipped with multiple functions such as extinguishing fires, reconnaissance, and rescue, gradually becoming more automated and intelligent, allowing them to be utilized in a wider range of complex rescue situations.",
+    "parameter_id": [
+      {
+        "label": "Tegangan Baterai  ",
+        "value": "DC 48V"
+      },
+      {
+        "label": "Kecepatan Maksimum  ",
+        "value": "1,8 m/dtk"
+      },
+      {
+        "label": "Otonomi  ",
+        "value": "≥3,5 jam"
+      },
+      {
+        "label": "Waktu Pengisian Daya  ",
+        "value": "≤8 jam"
+      },
+      {
+        "label": "Peringkat IP  ",
+        "value": "IP66"
+      },
+      {
+        "label": "Peringkat IECEx  ",
+        "value": "Ex db eb mb IIB T4 Gb"
+      },
+      {
+        "label": "Mode Kontrol  ",
+        "value": "Layar 10,1 Inci dengan Remote Kontrol Nirkabel"
+      },
+      {
+        "label": "Laju Aliran Air  ",
+        "value": "80 L/dtk"
+      },
+      {
+        "label": "Jangkauan Semprotan Air  ",
+        "value": "≥85 m"
+      },
+      {
+        "label": "Tinggi Angkat Maksimum  ",
+        "value": "1650 mm"
+      },
+      {
+        "label": "Berat Produk  ",
+        "value": "≤570 kg"
+      },
+      {
+        "label": "Ukuran  ",
+        "value": "1690 x 1035 x 1245 mm"
+      }
+    ],
+    "id": "97d7668b-d601-4290-a95a-3267bce38d30",
+    "features_id": [
+      "Kamera PTZ 360° Anti-Ledakan",
+      "Kapasitas Angkut Berat",
+      "Kemampuan Menarik yang Kuat",
+      "Meriam Api Aliran Besar",
+      "Deteksi Gas Beracun"
+    ],
+    "description_id": "Di lokasi kebakaran, kondisi ekstrem seperti api yang besar, ledakan, suhu tinggi, asap tebal, gas beracun, dan kekurangan oksigen menyulitkan petugas pemadam kebakaran untuk melakukan operasi penyelamatan. Perusahaan kami telah mengembangkan robot pemadam kebakaran secara independen yang dapat menggantikan petugas pemadam kebakaran di area yang sangat berbahaya untuk pekerjaan pemadaman kebakaran dan penyelamatan. Robot-robot ini memainkan peran penting dalam meningkatkan keselamatan operasi pemadaman kebakaran dan mengurangi korban jiwa. Selain itu, robot-robot ini dilengkapi dengan berbagai fungsi seperti pemadaman api, pengintaian, dan penyelamatan, yang secara bertahap menjadi lebih otomatis dan cerdas, sehingga dapat digunakan dalam berbagai situasi penyelamatan yang kompleks.",
+    "parameter_en": [
+      {
+        "label": "Battery Voltage ",
+        "value": " DC 48V"
+      },
+      {
+        "label": "Maximum Speed  ",
+        "value": "1.8m/s"
+      },
+      {
+        "label": "Autonomy  ",
+        "value": "≥3.5h"
+      },
+      {
+        "label": "Charging Time ",
+        "value": " ≤8h"
+      },
+      {
+        "label": "IP Rating  ",
+        "value": "IP66"
+      },
+      {
+        "label": "IECEx Rating  ",
+        "value": "Ex db eb mb IIB T4 Gb"
+      },
+      {
+        "label": "Control Mode  ",
+        "value": "10.1-Inch Display with Wireless Remote Control"
+      },
+      {
+        "label": "Water Flow Rate  ",
+        "value": "80L/s"
+      },
+      {
+        "label": "Water Spray Range  ",
+        "value": "≥85m"
+      },
+      {
+        "label": "Maximum Lifting Height  ",
+        "value": "1650mm"
+      },
+      {
+        "label": "Product Weight ",
+        "value": " ≤570kg"
+      },
+      {
+        "label": "Size  ",
+        "value": "1690*1035*1245mm"
+      }
+    ]
+  },
+  {
     "id": "981de906-0b83-4733-93d2-c42ff250c3d8",
     "product_id": "2d48ae28-b2e6-4e22-ac9a-4f3bf59d68b2",
     "introduction_en": "Palm Vein Recognition Terminal is a biometric identification terminal based on Linux operating system launched by Maxvision. It uses infrared imaging technology and integrates visual and optical technology to obtain the palm vein image accurately. It is equipped with a self-developed Al recognition algorithm to achieve high-security biometric identification. This terminal has many significant advantages such as extremely high security, non-contact identification, live detection, strong anti-interference ability, and high identification accuracy. It can be integrated into access control systems, gate channels, and various self-service terminals to provide users with a convenient and safe identity authentication experience.",

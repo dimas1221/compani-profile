@@ -246,7 +246,9 @@ export default function PortfolioSection({
                       {/* IMAGE PART ⬇️ Anda bisa edit max-height di sini saat slide=1 */}
                       <div
                         className={`w-full aspect-[16/10] relative ${
-                          itemsPerSlide === 1 ? 'h-[80vh] max-h-[520px]' : ''
+                          itemsPerSlide === 1
+                            ? 'h-32 md:h-[80vh] max-h-[520px]'
+                            : ''
                         }`}
                       >
                         <ImageWithSkeleton src={item.image} alt={title} />
