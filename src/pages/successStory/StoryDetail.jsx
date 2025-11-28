@@ -38,7 +38,7 @@ export default function StoryDetail() {
   return (
     <article className="min-h-screen relative overflow-hidden">
       {/* === Background FX === */}
-      <div className="absolute inset-0 bg-gradient-to-b from-white to-gray-100 dark:from-gray-900 dark:to-gray-950" />
+      <div className="absolute inset-0" />
 
       {/* Noise Texture */}
       <div

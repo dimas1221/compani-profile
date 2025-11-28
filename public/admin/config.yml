@@ -339,6 +339,18 @@ collections:
               - { label: 'Title (EN)', name: 'title_en', widget: 'string' }
               - { label: 'Description (ID)', name: 'desc_id', widget: 'text' }
               - { label: 'Description (EN)', name: 'desc_en', widget: 'text' }
+               - label: "Key Highlights (ID)"
+                 name: "highlights_id"
+                 widget: "list"
+                 required: false
+                 hint: "Poin-poin highlight dalam Bahasa Indonesia"
+                 field: { label: "Poin Highlight", name: "item", widget: "string" }
+              - label: "Key Highlights (EN)"
+                name: "highlights_en"
+                widget: "list"
+                required: false
+                hint: "Highlight points in English"
+                field: { label: "Highlight", name: "item", widget: "string" }
               - label: 'Gallery'
                 name: 'gallery'
                 widget: 'list'
