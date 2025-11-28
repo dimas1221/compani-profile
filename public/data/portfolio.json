@@ -7,12 +7,12 @@
       "title_en": "Smart City Surveillance",
       "desc_id": "Implementasi sistem kamera cerdas dengan analitik real-time untuk pengawasan kota.",
       "desc_en": "Implementation of intelligent camera systems with real-time analytics for city monitoring.",
-      "key_highlights_id": [
+      "highlights_id": [
         "Analitik video real-time",
         "Deteksi kendaraan & pejalan kaki",
         "Monitoring pusat komando"
       ],
-      "key_highlights_en": [
+      "highlights_en": [
         "Real-time video analytics",
         "Vehicle & pedestrian detection",
         "Central command monitoring"
@@ -31,12 +31,12 @@
       "title_en": "Traffic Monitoring System",
       "desc_id": "Solusi manajemen lalu lintas terintegrasi dengan pelacakan kendaraan.",
       "desc_en": "Integrated traffic management solution with vehicle tracking.",
-      "key_highlights_id": [
+      "highlights_id": [
         "Tracking kendaraan otomatis",
         "Integrasi panel kontrol",
         "Monitoring kepadatan lalu lintas"
       ],
-      "key_highlights_en": [
+      "highlights_en": [
         "Automatic vehicle tracking",
         "Control panel integration",
         "Traffic density monitoring"
@@ -58,12 +58,12 @@
       "title_en": "Enterprise Security",
       "desc_id": "Sistem keamanan gedung dengan kontrol akses dan CCTV terpusat.",
       "desc_en": "Building security system with access control and centralized CCTV.",
-      "key_highlights_id": [
+      "highlights_id": [
         "Akses pintu otomatis",
         "Monitoring area sensitif",
         "Integrasi multi-lantai"
       ],
-      "key_highlights_en": [
+      "highlights_en": [
         "Automated door access",
         "Sensitive area monitoring",
         "Multi-floor integration"
@@ -76,12 +76,12 @@
       "title_en": "Retail Analytics",
       "desc_id": "Penerapan sistem analitik pengunjung dan heatmap.",
       "desc_en": "Deployment of visitor analytics and heatmap monitoring.",
-      "key_highlights_id": [
+      "highlights_id": [
         "Heatmap pengunjung",
         "Analitik usia & gender",
         "Optimasi area display"
       ],
-      "key_highlights_en": [
+      "highlights_en": [
         "Customer heatmap",
         "Age & gender analytics",
         "Display area optimization"
@@ -94,12 +94,12 @@
       "title_en": "Airport Security",
       "desc_id": "Integrasi kamera dan kontrol akses untuk area bandara.",
       "desc_en": "Camera and access control integration for airport security.",
-      "key_highlights_id": [
+      "highlights_id": [
         "CCTV terminal & gate",
         "Sistem kontrol akses",
         "Deteksi objek otomatis"
       ],
-      "key_highlights_en": [
+      "highlights_en": [
         "Terminal & gate CCTV",
         "Access control system",
         "Automatic object detection"
@@ -112,12 +112,12 @@
       "title_en": "Smart Campus Protection",
       "desc_id": "Pemasangan CCTV cerdas dan sistem peringatan darurat.",
       "desc_en": "Deployment of smart CCTV with emergency alert systems.",
-      "key_highlights_id": [
+      "highlights_id": [
         "Panic button kampus",
         "CCTV area terbuka",
         "Integrasi keamanan akademik"
       ],
-      "key_highlights_en": [
+      "highlights_en": [
         "Campus panic button",
         "Open-area CCTV",
         "Academic security integration"
@@ -130,12 +130,12 @@
       "title_en": "Factory Surveillance",
       "desc_id": "Pemantauan area produksi dan gudang dengan kamera termal.",
       "desc_en": "Monitoring of production and warehouse areas using thermal cameras.",
-      "key_highlights_id": [
+      "highlights_id": [
         "Kamera termal suhu tinggi",
         "Monitoring zona produksi",
         "Deteksi kebakaran dini"
       ],
-      "key_highlights_en": [
+      "highlights_en": [
         "High-temp thermal cameras",
         "Production zone monitoring",
         "Early fire detection"
@@ -148,12 +148,12 @@
       "title_en": "Harbor Monitoring",
       "desc_id": "Pengawasan dermaga dan lalu lintas kapal secara real-time.",
       "desc_en": "Real-time dock and vessel traffic monitoring.",
-      "key_highlights_id": [
+      "highlights_id": [
         "Pelacakan kapal otomatis",
         "Monitoring dermaga 24/7",
         "Integrasi radar"
       ],
-      "key_highlights_en": [
+      "highlights_en": [
         "Automated vessel tracking",
         "24/7 dock monitoring",
         "Radar integration"
@@ -166,12 +166,12 @@
       "title_en": "Hospital Security",
       "desc_id": "Sistem pemantauan 24/7 untuk area kritis dan publik.",
       "desc_en": "24/7 monitoring system for critical and public zones.",
-      "key_highlights_id": [
+      "highlights_id": [
         "CCTV ruang IGD",
         "Pemantauan koridor publik",
         "Integrasi data keamanan"
       ],
-      "key_highlights_en": [
+      "highlights_en": [
         "ER room CCTV",
         "Public corridor monitoring",
         "Security data integration"
@@ -184,12 +184,12 @@
       "title_en": "Government Building Security",
       "desc_id": "Solusi keamanan terintegrasi dengan kamera AI.",
       "desc_en": "Integrated security solution powered by AI cameras.",
-      "key_highlights_id": [
+      "highlights_id": [
         "AI face recognition",
         "Zona akses terkontrol",
         "Monitoring ruang rapat"
       ],
-      "key_highlights_en": [
+      "highlights_en": [
         "AI face recognition",
         "Controlled access zones",
         "Meeting room monitoring"
