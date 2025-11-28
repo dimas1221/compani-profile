@@ -107,7 +107,7 @@ export default function LearnMorePage() {
             <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent rounded-[1.5rem] pointer-events-none" />
           </motion.div>
 
-          <article className="md:flex-1 max-w-3xl prose prose-lg prose-neutral dark:prose-invert leading-relaxed text-justify">
+          <article className="md:flex-1 max-w-3xl prose prose-lg prose-neutral dark:prose-invert leading-relaxed">
             <h1 className="mb-6 text-xl md:text-3xl tracking-tight border-b-4 border-primary pb-3 font-clash">
               {lmTitle}
             </h1>
