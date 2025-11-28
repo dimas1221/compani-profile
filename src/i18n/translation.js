@@ -93,6 +93,16 @@ export const translations = {
     // ============================
     //      ABOUT PAGE (SAFE)
     // ============================
+    // aboutPage: {
+    //   aboutUs_title: 'About Us',
+    //   aboutUs_subtitle: 'Who We Are',
+    //   aboutUs_desc:
+    //     'PT Transforme Indonesia is the leading provider of end-to-end information technology solution to business corporations in Indonesia. Our creative solution combines the leverage of cutting edge technology and business process reengineering expertise in exploiting opportunities to create values to maximize the profit of our clients.',
+
+    //   vision_mission_title: 'Vision & Mission',
+    //   vision_mission_desc:
+    //     '"To create, exploit, and deliver maximum values to our clients by leveraging the cutting edge technology solution through passion, dedication, and excellence."',
+    // },
     aboutPage: {
       aboutUs_title: 'About Us',
       aboutUs_subtitle: 'Who We Are',
@@ -102,8 +112,31 @@ export const translations = {
       vision_mission_title: 'Vision & Mission',
       vision_mission_desc:
         '"To create, exploit, and deliver maximum values to our clients by leveraging the cutting edge technology solution through passion, dedication, and excellence."',
-    },
 
+      values_title: 'Our Core Values',
+      values_desc:
+        'We are driven by innovation, integrity, and commitment. These values shape the way we work, ensuring every solution we deliver aligns with the highest professional and ethical standards.',
+
+      commitment_title: 'Our Commitment',
+      commitment_desc:
+        'We are committed to delivering technology solutions that are reliable, scalable, and tailor-made to support the long-term growth of our clients in a rapidly evolving digital landscape.',
+
+      approach_title: 'Our Approach',
+      approach_desc:
+        'Through a combination of deep industry expertise, modern technology frameworks, and customer-centric methodologies, we deliver solutions that transform challenges into meaningful opportunities.',
+
+      why_title: 'Why Choose Us',
+      why_desc:
+        'With years of experience, strong technical capabilities, and a passion for excellence, PT Transforme Indonesia stands as a trusted technology partner for companies seeking sustainable competitive advantage.',
+
+      vision_title: 'Our Vision',
+      vision_desc:
+        'To become a trusted technology partner that empowers organizations in Indonesia to innovate, grow, and achieve digital excellence through intelligent, efficient, and future-ready solutions.',
+
+      mission_title: 'Our Mission',
+      mission_desc:
+        'Our mission is to deliver transformative technology solutions that enhance business performance, optimize operational efficiency, and create sustainable value by combining cutting-edge innovation, deep expertise, and client-focused dedication.',
+    },
     // ============================
     //  SERVICE / SOLUTION SECTION
     // ============================
@@ -271,6 +304,16 @@ export const translations = {
     // ============================
     //      ABOUT PAGE (SAFE)
     // ============================
+    // aboutPage: {
+    //   aboutUs_title: 'Tentang Kami',
+    //   aboutUs_subtitle: 'Siapa Kami',
+    //   aboutUs_desc:
+    //     'PT Transforme Indonesia adalah penyedia solusi teknologi informasi end-to-end terkemuka bagi perusahaan bisnis di Indonesia. Solusi kreatif kami menggabungkan pemanfaatan teknologi mutakhir dan rekayasa ulang proses bisnis untuk menciptakan nilai guna memaksimalkan keuntungan klien kami.',
+
+    //   vision_mission_title: 'Visi & Misi',
+    //   vision_mission_desc:
+    //     '"Menciptakan, memanfaatkan, dan memberikan nilai maksimal kepada klien kami dengan memanfaatkan solusi teknologi mutakhir melalui semangat, dedikasi, dan keunggulan."',
+    // },
     aboutPage: {
       aboutUs_title: 'Tentang Kami',
       aboutUs_subtitle: 'Siapa Kami',
@@ -280,8 +323,31 @@ export const translations = {
       vision_mission_title: 'Visi & Misi',
       vision_mission_desc:
         '"Menciptakan, memanfaatkan, dan memberikan nilai maksimal kepada klien kami dengan memanfaatkan solusi teknologi mutakhir melalui semangat, dedikasi, dan keunggulan."',
-    },
 
+      values_title: 'Nilai-Nilai Kami',
+      values_desc:
+        'Kami beroperasi berdasarkan inovasi, integritas, dan komitmen. Nilai-nilai ini membentuk cara kami bekerja dan memastikan setiap solusi yang kami berikan selalu memenuhi standar profesional dan etika tertinggi.',
+
+      commitment_title: 'Komitmen Kami',
+      commitment_desc:
+        'Kami berkomitmen menyediakan solusi teknologi yang andal, skalabel, dan dirancang khusus untuk mendukung pertumbuhan jangka panjang klien di era digital yang terus berkembang.',
+
+      approach_title: 'Pendekatan Kami',
+      approach_desc:
+        'Dengan perpaduan keahlian industri yang mendalam, kerangka teknologi modern, serta metodologi yang berfokus pada kebutuhan klien, kami menghadirkan solusi yang mampu mengubah tantangan menjadi peluang bermakna.',
+
+      why_title: 'Mengapa Memilih Kami',
+      why_desc:
+        'Dengan pengalaman bertahun-tahun, kemampuan teknis yang kuat, dan semangat untuk memberikan yang terbaik, PT Transforme Indonesia menjadi mitra teknologi terpercaya bagi perusahaan yang ingin meraih keunggulan kompetitif secara berkelanjutan.',
+
+      vision_title: 'Visi Kami',
+      vision_desc:
+        'Menjadi mitra teknologi terpercaya yang memberdayakan organisasi di Indonesia untuk berinovasi, berkembang, dan mencapai keunggulan digital melalui solusi cerdas, efisien, dan siap menghadapi masa depan.',
+
+      mission_title: 'Misi Kami',
+      mission_desc:
+        'Misi kami adalah menghadirkan solusi teknologi yang transformatif untuk meningkatkan kinerja bisnis, mengoptimalkan efisiensi operasional, dan menciptakan nilai berkelanjutan melalui inovasi mutakhir, keahlian mendalam, dan dedikasi kepada klien.',
+    },
     // ============================
     //   SERVICE / SOLUTION SECTION
     // ============================
