@@ -104,7 +104,7 @@ export default function ProductDetail() {
       ) : (
         <>
           {/* MAIN SECTION */}
-          <section className="relative py-20 sm:py-28 px-6 transition-colors duration-700 overflow-hidden">
+          <section className="relative px-6 transition-colors duration-700 overflow-hidden">
             <div className="max-w-7xl mx-auto relative z-10">
               <GlobalButton
                 // onClick={() => navigate("/product")}
@@ -134,7 +134,7 @@ export default function ProductDetail() {
 
               {/* MAIN CONTENT */}
               <motion.div
-                className="flex flex-col md:flex-row items-start gap-10"
+                className="flex flex-col lg:flex-row items-start gap-10"
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.6 }}
