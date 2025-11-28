@@ -26,12 +26,10 @@ export default function Home() {
       {/* Section 3: About & Vision */}
       <AboutSection />
       <br />
-      <br />
       {/* Section 2: Feature cards */}
       <FeatureSection />
       <br />
       <PrinsipleSection />
-      <br />
       <PartnerSection />
       <br />
       <PortfolioSection />

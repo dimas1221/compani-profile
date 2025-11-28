@@ -1,20 +1,20 @@
-import React, { useState, useEffect } from "react";
-import ProductCard from "./ProductCard";
-import { useI18n } from "../i18n/I18nProvider";
-import { useNavigate } from "react-router-dom";
+import React, { useState, useEffect } from 'react';
+import ProductCard from './ProductCard';
+import { useI18n } from '../i18n/I18nProvider';
+import { useNavigate } from 'react-router-dom';
 
 export default function SearchModal({ onClose }) {
-  const [query, setQuery] = useState("");
-  const [debouncedQuery, setDebouncedQuery] = useState("");
+  const [query, setQuery] = useState('');
+  const [debouncedQuery, setDebouncedQuery] = useState('');
   const [products, setProducts] = useState([]);
   const { lang } = useI18n();
   const navigate = useNavigate();
 
   useEffect(() => {
-    fetch("/data/products_flat/index.json")
+    fetch('/data/products_flat/index.json')
       .then((res) => res.json())
       .then((json) => setProducts(json))
-      .catch((err) => console.error("Error loading product data:", err));
+      .catch((err) => console.error('Error loading product data:', err));
   }, []);
 
   useEffect(() => {
@@ -27,7 +27,7 @@ export default function SearchModal({ onClose }) {
 
   const filteredProducts = debouncedQuery
     ? products.filter((product) => {
-        const name = lang === "id" ? product.name_id : product.name_en;
+        const name = lang === 'id' ? product.name_id : product.name_en;
         return name.toLowerCase().includes(debouncedQuery.toLowerCase());
       })
     : [];
@@ -42,7 +42,7 @@ export default function SearchModal({ onClose }) {
       className="fixed inset-0 z-[70] flex flex-col items-center pt-14 pb-8
                  bg-white dark:bg-gray-950 transition-all duration-300
                  overflow-y-auto"
-      style={{ WebkitOverflowScrolling: "touch" }} // smooth scrolling di iOS
+      style={{ WebkitOverflowScrolling: 'touch' }} // smooth scrolling di iOS
     >
       {/* Search Bar */}
       <div
@@ -56,13 +56,13 @@ export default function SearchModal({ onClose }) {
           placeholder="Search products..."
           className="w-full sm:flex-1 px-3 py-2 rounded-lg text-sm sm:text-base border border-gray-300 dark:border-gray-700
                      bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100 font-semibold
-                     focus:ring-2 focus:ring-indigo-500 focus:outline-none transition"
+                     focus:ring-2 focus:ring-primary-500 focus:outline-none transition"
           autoFocus
           spellCheck={false}
         />
         <button
           onClick={() => alert(`Searching for: ${query}`)}
-          className="w-full sm:w-auto px-4 py-2 rounded-lg bg-indigo-600 hover:bg-indigo-700
+          className="w-full sm:w-auto px-4 py-2 rounded-lg bg-primary-500 hover:bg-primary-600
                      text-white font-semibold text-sm shadow-md transition"
         >
           Search
@@ -84,7 +84,7 @@ export default function SearchModal({ onClose }) {
       >
         {debouncedQuery && filteredProducts.length === 0 && (
           <p className="col-span-full text-center text-gray-500 dark:text-gray-400 font-medium text-sm sm:text-base">
-            No products found for{" "}
+            No products found for{' '}
             <span className="italic">“{debouncedQuery}”</span>.
           </p>
         )}
@@ -97,7 +97,7 @@ export default function SearchModal({ onClose }) {
             role="button"
             tabIndex={0}
             onKeyDown={(e) =>
-              e.key === "Enter" && handleProductClick(product.id)
+              e.key === 'Enter' && handleProductClick(product.id)
             }
           >
             <ProductCard product={product} />

@@ -152,13 +152,15 @@ export default function PortfolioSection({
       : 'grid-cols-3 md:grid-cols-3';
 
   return (
-    <section className="w-full px-4 py-16">
+    <section className="w-full px-4 mt-5">
       {/* header */}
       <div className="text-center mb-10">
         <GlobalSectionTitle
-          title={t.section_portfolio?.headline || 'Our Portfolio'}
+          title={lang === 'en' ? 'Our Portfolio' : 'Portfolio Kami'}
           subtitle={
-            t.section_portfolio?.sub || 'Premium AI Surveillance Solutions'
+            lang === 'id'
+              ? 'Solusi Pengawasan AI Premium'
+              : 'Premium AI Surveillance Solutions'
           }
         />
         {!isMobile && (

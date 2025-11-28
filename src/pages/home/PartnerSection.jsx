@@ -48,7 +48,7 @@ export default function PartnerSection() {
       : 'We are proud to collaborate with leading institutions and organizations';
 
   return (
-    <section className="relative mx-auto px-6 py-10 bg-gradient-to-b from-white to-gray-50 dark:from-gray-950 dark:to-gray-900 transition-colors duration-500 overflow-hidden">
+    <section className="relative mx-auto px-6 bg-gradient-to-b from-white to-gray-50 dark:from-gray-950 dark:to-gray-900 transition-colors duration-500 overflow-hidden">
       <div className="max-w-6xl mx-auto px-6 text-center">
         <GlobalSectionTitle title={titleText} subtitle={subtitleText} />
       </div>

@@ -18,8 +18,8 @@ export const PrinsipleSection = () => {
 
   return (
     <section
-      className={`relative py-20 sm:py-28 px-6                 
-                  transition-colors duration-700 overflow-hidden`}
+      className={`relative px-6                 
+                  transition-colors duration-700 overflow-hidden mt-5`}
     >
       <GlobalSectionTitle
         title={lang == 'id' ? 'Prinsip Kami' : 'Our Principle'}
