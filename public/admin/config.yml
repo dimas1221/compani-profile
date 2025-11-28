@@ -346,3 +346,60 @@ collections:
                 hint: 'Tambahkan gambar-gambar untuk galeri detail (optional)'
                 fields:
                   - { label: 'Gambar', name: 'image', widget: 'image' }
+  # ==========================================================
+  # SUCCESS STORY SECTION
+  # ==========================================================
+  - name: 'success_story'
+    label: 'Success Story'
+    format: 'json'
+    extension: 'json'
+    editor:
+      preview: false
+
+    files:
+      - file: 'public/data/success_story.json'
+        label: 'Success Story Data'
+        name: 'success_story_json'
+
+        fields:
+          - { label: 'Title (EN)', name: 'title_en', widget: 'string' }
+          - { label: 'Title (ID)', name: 'title_id', widget: 'string' }
+
+          - { label: 'Subtitle (EN)', name: 'subtitle_en', widget: 'string' }
+          - { label: 'Subtitle (ID)', name: 'subtitle_id', widget: 'string' }
+
+          - label: 'Success Story Items'
+            name: 'items'
+            widget: 'list'
+            summary: '{{fields.title_en}}'
+            fields:
+              - { label: 'ID', name: 'id', widget: 'uuid' }
+              - {
+                  label: 'Date',
+                  name: 'date',
+                  widget: 'datetime',
+                  format: 'YYYY-MM-DD',
+                }
+              - { label: 'Title (EN)', name: 'title_en', widget: 'string' }
+              - { label: 'Title (ID)', name: 'title_id', widget: 'string' }
+              - {
+                  label: 'Subtitle (EN)',
+                  name: 'subtitle_en',
+                  widget: 'string',
+                }
+              - {
+                  label: 'Subtitle (ID)',
+                  name: 'subtitle_id',
+                  widget: 'string',
+                }
+              - {
+                  label: 'Description (EN)',
+                  name: 'description_en',
+                  widget: 'text',
+                }
+              - {
+                  label: 'Description (ID)',
+                  name: 'description_id',
+                  widget: 'text',
+                }
+              - { label: 'Image', name: 'image', widget: 'image' }

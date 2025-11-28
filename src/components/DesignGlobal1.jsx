@@ -3,16 +3,6 @@ import { motion } from 'framer-motion';
 import GlobalCard from './GlobalCard';
 import GlobalSectionTitle from './GlobalSectionTitle';
 
-/**
- * ✅ Reusable global grid layout for content sections.
- *
- * @param {string} title - Section title.
- * @param {string} subtitle - Section subtitle.
- * @param {Array} items - Data array (each item: { title, subtitle, image?, icon? }).
- * @param {boolean} useImage - Use image-based cards (Success Story, etc).
- * @param {boolean} useIcon - Use icon-based cards (Principle, etc).
- * @param {string} className - Additional class styling for the container.
- */
 export default function DesignGlobal1({
   title,
   subtitle,
@@ -24,13 +14,19 @@ export default function DesignGlobal1({
   useEffect(() => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }, []);
+
+  const layouts = ['classic', 'split', 'overlay', 'horizontal'];
+
+  const getRandomLayout = () => {
+    return layouts[Math.floor(Math.random() * layouts.length)];
+  };
+
   return (
     <section
-      className={`relative py-20 sm:py-28 px-6                 
-                  transition-colors duration-700 overflow-hidden ${className}`}
+      className={`relative py-20 sm:py-28 px-6 transition-colors duration-700 overflow-hidden ${className}`}
     >
       <div className="max-w-7xl mx-auto">
-        {/* === Title Section === */}
+        {/* Title */}
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
@@ -38,25 +34,12 @@ export default function DesignGlobal1({
           viewport={{ once: true }}
           className="text-center"
         >
-          {/* <h2
-            className="text-3xl sm:text-4xl font-extrabold
-                       bg-gradient-to-r from-blue-600 via-sky-500 to-cyan-400
-                       text-transparent bg-clip-text dark:from-cyan-400 dark:via-sky-400 dark:to-blue-600"
-          >
-            {title}
-          </h2>
-          {subtitle && (
-            <p className="mt-3 sm:mt-4 text-gray-600 dark:text-gray-300 text-sm sm:text-lg leading-relaxed">
-              {subtitle}
-            </p>
-          )} */}
-
           <GlobalSectionTitle title={title} subtitle={subtitle} />
         </motion.div>
 
-        {/* === Grid Section === */}
+        {/* Grid */}
         <motion.div
-          className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 sm:gap-8 mt-12"
+          className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8 mt-12"
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
@@ -65,19 +48,20 @@ export default function DesignGlobal1({
           {items.map((item, i) => (
             <GlobalCard
               key={i}
+              layout={getRandomLayout()} // ← DYNAMIC LAYOUT RANDOM
               title={item.title}
               subtitle={item.subtitle}
               date={item?.date}
               icon={useIcon ? item.icon : undefined}
               onClick={item.onClick}
               image={useImage ? item.image : undefined}
-              className="hover:-translate-y-2 hover:shadow-2xl transition-all duration-500"
+              className="hover:-translate-y-2 hover:shadow-2xl"
             />
           ))}
         </motion.div>
       </div>
 
-      {/* === Decorative Background === */}
+      {/* Background Illustration */}
       <motion.img
         src="/images/logo/ultra_light 1.png"
         alt="decor"

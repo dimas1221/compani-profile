@@ -60,13 +60,13 @@ export default function SearchModal({ onClose }) {
           autoFocus
           spellCheck={false}
         />
-        <button
+        {/* <button
           onClick={() => alert(`Searching for: ${query}`)}
           className="w-full sm:w-auto px-4 py-2 rounded-lg bg-primary-500 hover:bg-primary-600
                      text-white font-semibold text-sm shadow-md transition"
         >
           Search
-        </button>
+        </button> */}
         <button
           onClick={onClose}
           aria-label="Close Search Modal"

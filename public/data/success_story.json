@@ -1,0 +1,106 @@
+{
+  "title_en": "Success Stories",
+  "title_id": "Kisah Sukses",
+
+  "subtitle_en": "Innovation that drives transformation.",
+  "subtitle_id": "Inovasi yang mendorong transformasi.",
+
+  "items": [
+    {
+      "uid": "f7a2dd7a-96e1-4fa8-a9af-b8ed772b1a10",
+      "id": 1,
+      "date": "2024-08-02",
+      "title_en": "Plaza Low Yat, Malaysia",
+      "title_id": "Plaza Low Yat, Malaysia",
+      "subtitle_en": "Smart retail system powered by Jovision AI cameras.",
+      "subtitle_id": "Sistem ritel pintar dengan kamera AI Jovision.",
+      "description_en": "Jovision Deepcloud smart retailing system and face capture Camera (Model: JVS-FR3022) have been deployed successfully...",
+      "description_id": "Sistem ritel pintar Deepcloud dan kamera pengenal wajah Jovision (Model: JVS-FR3022) berhasil diterapkan...",
+      "image": "https://images.unsplash.com/photo-1582560475093-2f9b6dcb1d3f?auto=format&fit=crop&w=900&q=60"
+    },
+    {
+      "uid": "52c9acaf-0f7b-44fa-b9da-51c71f4e51b0",
+      "id": 2,
+      "date": "2024-08-02",
+      "title_en": "Smart Kitchen Solution – Paris Baguette, Malaysia",
+      "title_id": "Solusi Dapur Pintar – Paris Baguette, Malaysia",
+      "subtitle_en": "AI-based monitoring for kitchen hygiene and safety.",
+      "subtitle_id": "Pemantauan kebersihan dapur berbasis AI.",
+      "description_en": "Jovision Smart Kitchen Solution monitors staff behavior and hygiene compliance...",
+      "description_id": "Solusi Dapur Pintar Jovision digunakan untuk memantau perilaku staf...",
+      "image": "https://images.unsplash.com/photo-1565958011705-44e211bff3e1?auto=format&fit=crop&w=900&q=60"
+    },
+    {
+      "uid": "0df356f8-50ac-4719-a77c-9f13ea479b5c",
+      "id": 3,
+      "date": "2024-07-15",
+      "title_en": "Vietnam Smart Parking Deployment",
+      "title_id": "Penerapan Smart Parking Vietnam",
+      "subtitle_en": "AI-driven parking guidance and license plate recognition.",
+      "subtitle_id": "Panduan parkir dan pengenalan plat nomor berbasis AI.",
+      "description_en": "Advanced ANPR cameras improve parking efficiency and reduce congestion...",
+      "description_id": "Kamera ANPR canggih meningkatkan efisiensi parkir dan mengurangi kemacetan...",
+      "image": "https://images.unsplash.com/photo-1506521781263-d8422e82f27a?auto=format&fit=crop&w=900&q=60"
+    },
+    {
+      "uid": "cd7bcf7a-32fd-4eee-9c17-42fa6c9511c7",
+      "id": 4,
+      "date": "2024-06-28",
+      "title_en": "Thailand Mall Surveillance Upgrade",
+      "title_id": "Pembaruan Sistem Keamanan Mall Thailand",
+      "subtitle_en": "High-density surveillance with AI alerts.",
+      "subtitle_id": "Pengawasan berkepadatan tinggi dengan peringatan AI.",
+      "description_en": "Hundreds of AI cameras deployed to enhance security and visitor analysis...",
+      "description_id": "Ratusan kamera AI dipasang untuk meningkatkan keamanan dan analisa pengunjung...",
+      "image": "https://images.unsplash.com/photo-1592813630413-9ee7c89f0f42?auto=format&fit=crop&w=900&q=60"
+    },
+    {
+      "uid": "9ab667a6-6a00-4a06-8a0f-ec7ca3024523",
+      "id": 5,
+      "date": "2024-06-10",
+      "title_en": "Malaysia University Security Modernization",
+      "title_id": "Modernisasi Keamanan Universitas Malaysia",
+      "subtitle_en": "Campus-wide intelligent surveillance solution.",
+      "subtitle_id": "Solusi pengawasan cerdas di seluruh kampus.",
+      "description_en": "AI video analytics help improve student safety and facility monitoring...",
+      "description_id": "Analitik video AI membantu meningkatkan keamanan mahasiswa dan pemantauan fasilitas...",
+      "image": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?auto=format&fit=crop&w=900&q=60"
+    },
+    {
+      "uid": "b3c7630f-75d3-4c45-8d38-d53a8a0dc2c6",
+      "id": 6,
+      "date": "2024-05-21",
+      "title_en": "Indonesia Factory AI Monitoring",
+      "title_id": "Pemantauan Pabrik Berbasis AI Indonesia",
+      "subtitle_en": "Safety and production monitoring using DeepVision AI.",
+      "subtitle_id": "Pemantauan keselamatan dan produksi menggunakan DeepVision AI.",
+      "description_en": "AI ensures compliance, detects anomalies, and improves productivity...",
+      "description_id": "AI memastikan kepatuhan, mendeteksi anomali, dan meningkatkan produktivitas...",
+      "image": "https://images.unsplash.com/photo-1581090700227-1e37b190418e?auto=format&fit=crop&w=900&q=60"
+    },
+    {
+      "uid": "f98bdb89-2976-42e2-a318-9e8f62341d0c",
+      "id": 7,
+      "date": "2024-04-11",
+      "title_en": "Philippines Smart City Deployment",
+      "title_id": "Implementasi Smart City Filipina",
+      "subtitle_en": "City-wide surveillance and traffic monitoring.",
+      "subtitle_id": "Pengawasan kota dan pemantauan lalu lintas.",
+      "description_en": "Integrated AI cameras deployed across main city roads...",
+      "description_id": "Kamera AI terintegrasi dipasang di seluruh jalan utama kota...",
+      "image": "https://images.unsplash.com/photo-1486304873000-235643847519?auto=format&fit=crop&w=900&q=60"
+    },
+    {
+      "uid": "ebc016dc-cb6a-4a1d-9eed-45eb68d8f2f9",
+      "id": 8,
+      "date": "2024-03-05",
+      "title_en": "Singapore Retail AI Footfall Analysis",
+      "title_id": "Analisis Footfall Ritel AI Singapura",
+      "subtitle_en": "Customer behavior insights for retail optimization.",
+      "subtitle_id": "Wawasan perilaku pelanggan untuk optimasi ritel.",
+      "description_en": "AI-generated heatmaps help stores optimize product placement...",
+      "description_id": "Heatmap berbasis AI membantu toko mengoptimasi penempatan produk...",
+      "image": "https://images.unsplash.com/photo-1506617420156-8e4536971650?auto=format&fit=crop&w=900&q=60"
+    }
+  ]
+}

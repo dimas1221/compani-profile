@@ -1,24 +1,22 @@
-import React from "react";
-import clsx from "clsx";
-import { motion } from "framer-motion";
+import React from 'react';
+import clsx from 'clsx';
+import { motion } from 'framer-motion';
 
-/**
- * Premium GlobalCard with 3D tilt, gloss, and animated lighting
- */
 export default function GlobalCard({
   title,
   subtitle,
   image,
   icon,
-  className = "",
+  className = '',
   onClick,
   date,
+  layout = 'classic', // dynamic layout provided by DesignGlobal1
 }) {
   const formattedDate = date
-    ? new Date(date).toLocaleDateString("en-US", {
-        day: "numeric",
-        month: "short",
-        year: "numeric",
+    ? new Date(date).toLocaleDateString('en-US', {
+        day: 'numeric',
+        month: 'short',
+        year: 'numeric',
       })
     : null;
 
@@ -28,76 +26,130 @@ export default function GlobalCard({
       initial={{ opacity: 0, y: 20 }}
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, amount: 0.3 }}
-      whileHover={{ scale: 1.04, rotateX: 6, rotateY: -6 }}
-      whileTap={{ scale: 0.97 }}
-      transition={{ type: "spring", stiffness: 180, damping: 14 }}
+      whileHover={{ scale: 1.03 }}
       className={clsx(
-        "relative overflow-hidden rounded-3xl border border-white/20 dark:border-white/10",
-        "bg-white/40 dark:bg-gray-900/40 backdrop-blur-2xl shadow-xl",
-        "transition-all duration-500 cursor-pointer",
-        "hover:shadow-[0_20px_60px_rgba(0,0,0,0.25)]",
-        "premium-card group",
-        className
+        'relative overflow-hidden rounded-3xl border border-white/20 dark:border-white/10',
+        'bg-white/40 dark:bg-gray-900/40 backdrop-blur-2xl shadow-xl',
+        'cursor-pointer transition-all duration-500 premium-card group',
+        className,
+        // === Layout Split ===
+        layout === 'split' && 'flex flex-col sm:flex-row items-stretch h-auto'
       )}
     >
-      {/* Glass Shine */}
-      <div
-        className="absolute inset-0 z-20 opacity-0 group-hover:opacity-25 transition-opacity duration-500"
-        style={{
-          background:
-            "linear-gradient(125deg, rgba(255,255,255,0.45) 0%, rgba(255,255,255,0.05) 40%, transparent 70%)",
-        }}
-      />
+      {/* -------------------------------------- */}
+      {/* LAYOUT: SPLIT (Magz style)            */}
+      {/* -------------------------------------- */}
+      {layout === 'split' && (
+        <>
+          {image && (
+            <div className="w-full sm:w-1/2 h-48 sm:h-auto overflow-hidden">
+              <img
+                src={image}
+                alt={title}
+                className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
+              />
+            </div>
+          )}
 
-      {/* Animated Edge Glow */}
-      <motion.div
-        className="absolute -inset-[1px] rounded-3xl pointer-events-none"
-        initial={{ opacity: 0 }}
-        whileHover={{ opacity: 0.8 }}
-        transition={{ duration: 0.4 }}
-        style={{
-          background:
-            "linear-gradient(135deg, rgba(0,200,255,0.5), rgba(0,120,255,0.3), transparent)",
-          filter: "blur(14px)",
-        }}
-      />
+          <div className="p-6 sm:p-7 w-full sm:w-1/2 flex flex-col justify-between">
+            {formattedDate && (
+              <p className="text-xs text-gray-500 dark:text-gray-400 mb-2 italic">
+                {formattedDate}
+              </p>
+            )}
+            <h3 className="text-xl font-semibold text-gray-900 dark:text-gray-100">
+              {title}
+            </h3>
+            <p className="mt-2 text-gray-700 dark:text-gray-300 text-sm sm:text-base">
+              {subtitle}
+            </p>
+          </div>
+        </>
+      )}
 
-      {/* === Image Section === */}
-      {image && (
-        <div className="w-full h-48 sm:h-56 overflow-hidden rounded-t-3xl relative z-10">
+      {/* -------------------------------------- */}
+      {/* LAYOUT: OVERLAY                        */}
+      {/* -------------------------------------- */}
+      {layout === 'overlay' && image && (
+        <div className="relative w-full h-64 sm:h-72">
           <img
             src={image}
+            className="absolute inset-0 w-full h-full object-cover brightness-[0.85] group-hover:brightness-100 transition duration-700"
             alt={title}
-            loading="lazy"
-            className="w-full h-full object-cover object-center transition-transform duration-700 group-hover:scale-110"
           />
+
+          <div className="absolute bottom-0 left-0 p-6 bg-gradient-to-t from-black/60 to-transparent text-white">
+            {formattedDate && (
+              <p className="text-xs opacity-80 mb-1">{formattedDate}</p>
+            )}
+            <h3 className="text-xl font-bold">{title}</h3>
+            <p className="text-sm mt-2 opacity-90 line-clamp-2">{subtitle}</p>
+          </div>
         </div>
       )}
 
-      {/* === Content Section === */}
-      <div className="p-6 sm:p-7 relative z-10">
-        {icon && (
-          <div className="text-blue-600 dark:text-cyan-400 mb-4 text-3xl drop-shadow-md">
-            {icon}
-          </div>
-        )}
+      {/* -------------------------------------- */}
+      {/* LAYOUT: HORIZONTAL                      */}
+      {/* -------------------------------------- */}
+      {layout === 'horizontal' && (
+        <div className="flex gap-4 items-start p-5">
+          {image && (
+            <img
+              src={image}
+              className="w-24 h-24 rounded-xl object-cover flex-shrink-0"
+              alt={title}
+            />
+          )}
 
-        {formattedDate && (
-          <div className="flex justify-end">
-            <p className="mt-3 text-xs text-gray-500 dark:text-gray-400 italic">
-              {formattedDate}
+          <div className="flex flex-col">
+            {formattedDate && (
+              <p className="text-xs text-gray-500 dark:text-gray-400 mb-1">
+                {formattedDate}
+              </p>
+            )}
+            <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-100">
+              {title}
+            </h3>
+            <p className="text-sm mt-1 text-gray-600 dark:text-gray-300 line-clamp-2">
+              {subtitle}
             </p>
           </div>
-        )}
+        </div>
+      )}
 
-        <h3 className="text-lg sm:text-xl font-semibold text-gray-900 dark:text-gray-100 leading-snug drop-shadow-sm">
-          {title}
-        </h3>
+      {/* -------------------------------------- */}
+      {/* LAYOUT: CLASSIC (default)              */}
+      {/* -------------------------------------- */}
+      {layout === 'classic' && (
+        <>
+          {image && (
+            <div className="w-full h-48 sm:h-56 overflow-hidden rounded-t-3xl">
+              <img
+                src={image}
+                alt={title}
+                loading="lazy"
+                className="w-full h-full object-cover object-center transition-transform duration-700 group-hover:scale-110"
+              />
+            </div>
+          )}
 
-        <p className="mt-2 sm:mt-3 text-gray-700 dark:text-gray-300 text-sm sm:text-base leading-relaxed break-words whitespace-pre-line">
-          {subtitle}
-        </p>
-      </div>
+          <div className="p-6 sm:p-7">
+            {formattedDate && (
+              <p className="text-xs text-gray-500 dark:text-gray-400 italic mb-2">
+                {formattedDate}
+              </p>
+            )}
+
+            <h3 className="text-lg sm:text-xl font-semibold text-gray-900 dark:text-gray-100 leading-snug">
+              {title}
+            </h3>
+
+            <p className="mt-2 sm:mt-3 text-gray-700 dark:text-gray-300 text-sm sm:text-base leading-relaxed">
+              {subtitle}
+            </p>
+          </div>
+        </>
+      )}
     </motion.div>
   );
 }
