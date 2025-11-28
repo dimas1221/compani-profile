@@ -1,0 +1,130 @@
+{
+  "introduction_id": "Robot Pemadam Kebakaran (Penghisap Asap) adalah jenis robot pemadam kebakaran khusus yang berperan penting dalam operasi pemadaman kebakaran dan penyelamatan. Robot ini dilengkapi dengan fungsi-fungsi seperti penyedotan asap, pasokan udara, pemadaman kebakaran, penghilangan debu, serta pencarian dan penyelamatan. Robot ini secara efektif mengatasi masalah-masalah seperti ancaman keselamatan pribadi yang dihadapi petugas pemadam kebakaran di lingkungan berbahaya dengan gas beracun, kekurangan oksigen, atau asap tebal, serta tantangan dalam pengumpulan data yang memadai.",
+  "product_id": "044c8046-dff2-45fa-95a4-e4af70b9592a",
+  "features_en": [
+    "Powerful Smoke Extraction",
+    "Long-Range Wireless Control",
+    "Water Mist Cooling",
+    "Extended Battery Life",
+    "Obstacle Avoidance"
+  ],
+  "description_en": "Fire Fighting Robot (Smoke Extracting) is a type of special firefighting robot that plays a crucial role in fire extinguishing and rescue operations. This robot is equipped with functions such as smoke extraction, air supply, fire extinguishing, dust removal, and search and rescue. It effectively addresses issues such as the personal safety threats faced by firefighters in hazardous environments with toxic gases, oxygen deficiency, or heavy smoke, as well as the challenges of in sufficient data collection.",
+  "introduction_en": "Fire Fighting Robot (Smoke Extracting) is a type of special firefighting robot that plays a crucial role in fire extinguishing and rescue operations. This robot is equipped with functions such as smoke extraction, air supply, fire extinguishing, dust removal, and search and rescue. It effectively addresses issues such as the personal safety threats faced by firefighters in hazardous environments with toxic gases, oxygen deficiency, or heavy smoke, as well as the challenges of in sufficient data collection.",
+  "parameter_id": [
+    {
+      "label": "Tegangan Baterai  ",
+      "value": "DC 48V"
+    },
+    {
+      "label": "Kecepatan Maksimum  ",
+      "value": "1,8 m/dtk"
+    },
+    {
+      "label": "Otonomi  ",
+      "value": "≥3,5 jam"
+    },
+    {
+      "label": "Kapasitas Baterai ",
+      "value": " 200Ah"
+    },
+    {
+      "label": "Waktu Pengisian Daya  ",
+      "value": "≤8 jam"
+    },
+    {
+      "label": "Peringkat IP  ",
+      "value": "IP66"
+    },
+    {
+      "label": "Jarak Tanah  ",
+      "value": "165 mm"
+    },
+    {
+      "label": "Peringkat IECEx  ",
+      "value": "Ex db eb mb IIB T4 Gb"
+    },
+    {
+      "label": "Deteksi Gas  ",
+      "value": "EX, CO, O2, H2S, SO2, NH3, HCL, NO2 (Dapat Disesuaikan)"
+    },
+    {
+      "label": "Mode Kontrol  ",
+      "value": "Layar 10,1 Inci dengan Remote Kontrol Nirkabel"
+    },
+    {
+      "label": "Laju Aliran Udara ",
+      "value": " 25.000 m³/jam"
+    },
+    {
+      "label": "Berat  ",
+      "value": "≤560 kg"
+    },
+    {
+      "label": "Ukuran Produk  ",
+      "value": "1690*1035*1245 mm"
+    }
+  ],
+  "id": "2ecb8053-a47f-4648-bf0a-7d5763790faa",
+  "features_id": [
+    "Ekstraksi Asap yang Kuat",
+    "Kontrol Nirkabel Jarak Jauh",
+    "Pendinginan Kabut Air",
+    "Daya Tahan Baterai yang Lebih Lama",
+    "Penghindaran Rintangan"
+  ],
+  "description_id": "Robot Pemadam Kebakaran (Penghisap Asap) adalah jenis robot pemadam kebakaran khusus yang berperan penting dalam operasi pemadaman kebakaran dan penyelamatan. Robot ini dilengkapi dengan fungsi-fungsi seperti penyedotan asap, pasokan udara, pemadaman kebakaran, penghilangan debu, serta pencarian dan penyelamatan. Robot ini secara efektif mengatasi masalah-masalah seperti ancaman keselamatan pribadi yang dihadapi petugas pemadam kebakaran di lingkungan berbahaya dengan gas beracun, kekurangan oksigen, atau asap tebal, serta tantangan dalam pengumpulan data yang memadai.",
+  "parameter_en": [
+    {
+      "label": "Battery Voltage  ",
+      "value": "DC 48V"
+    },
+    {
+      "label": "Maximum Speed  ",
+      "value": "1.8m/s"
+    },
+    {
+      "label": "Autonomy  ",
+      "value": "≥3.5h"
+    },
+    {
+      "label": "Battery Capacity  ",
+      "value": "200Ah"
+    },
+    {
+      "label": "Charging Time  ",
+      "value": "≤8h"
+    },
+    {
+      "label": "IP Rating  ",
+      "value": "IP66"
+    },
+    {
+      "label": "Ground Clearance  ",
+      "value": "165mm"
+    },
+    {
+      "label": "IECEx Rating  ",
+      "value": "Ex db eb mb IIB T4 Gb"
+    },
+    {
+      "label": "Gas Detection  ",
+      "value": "EX, CO, O2, H2S, SO2, NH3, HCL, NO2 (Customizable)"
+    },
+    {
+      "label": "Control Mode  ",
+      "value": "10.1-Inch Display with Wireless Remote Control"
+    },
+    {
+      "label": "Air Flow Rate  ",
+      "value": "25,000m³/hr"
+    },
+    {
+      "label": "Weight  ",
+      "value": "≤560kg"
+    },
+    {
+      "label": "Product Size  ",
+      "value": "1690*1035*1245mm"
+    }
+  ]
+}
