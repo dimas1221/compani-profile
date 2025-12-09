@@ -1,0 +1,112 @@
+{
+  "introduction_id": "Terminal Analisis Maxvision AI memanfaatkan algoritma berbasis pembelajaran mendalam untuk menganalisis dan menginterpretasi citra keamanan sinar-X secara otomatis. Sistem ini dapat mengidentifikasi lebih dari seratus kategori barang terlarang, termasuk bahan korosif, bahan peledak, zat infeksius, bahan yang mudah terbakar spontan, zat padat dan cair yang mudah terbakar, zat yang bereaksi dengan air, peroksida organik, oksidator, zat beracun, gas beracun, dan barang selundupan seperti publikasi terlarang, media bajakan, dan barang bermerek palsu (deteksi barang tertentu mungkin memerlukan konfigurasi perangkat keras khusus). Sistem ini menawarkan akurasi tinggi, stabilitas operasional, pemrosesan data cerdas, dan kemampuan analitik yang canggih—memungkinkan deteksi ancaman yang efisien dan andal dalam lingkungan penyaringan keamanan modern.",
+  "product_id": "737a3f1b-51d7-445f-9aa9-ab5ea3168c47",
+  "features_en": [
+    "Streamlined Security Inspection",
+    "Intelligent and Trend-Driven Management",
+    "Digitalized Monitoring and Alarm Systems",
+    "Modular and Network-Enabled Devices"
+  ],
+  "description_en": "The Maxvision Al Analysis Terminal leverages deep learning-based algorithms to automatically analyze and interpret X-ray security images. It can identify over a hundred categories of prohibited items, including corrosives, explosives, infectious substances, spontaneously combustible materials, flammable solids and liquids, water-reactive substances, organic peroxides, oxidizers, toxic substances, poisonous gases, and contraband such as banned publications, pirated media, and counterfeit branded goods (detection of certain items may require specific hardware configurations). The system offers high accuracy, operational stability, intelligent data processing, and powerful analytics capabilities-enabling efficient and reliable threat detection in modern security screening environments.",
+  "introduction_en": "The Maxvision Al Analysis Terminal leverages deep learning-based algorithms to automatically analyze and interpret X-ray security images. It can identify over a hundred categories of prohibited items, including corrosives, explosives, infectious substances, spontaneously combustible materials, flammable solids and liquids, water-reactive substances, organic peroxides, oxidizers, toxic substances, poisonous gases, and contraband such as banned publications, pirated media, and counterfeit branded goods (detection of certain items may require specific hardware configurations). The system offers high accuracy, operational stability, intelligent data processing, and powerful analytics capabilities-enabling efficient and reliable threat detection in modern security screening environments.",
+  "parameter_id": [
+    {
+      "label": "Saluran Analisis Cerdas ",
+      "value": " 2 saluran"
+    },
+    {
+      "label": "Waktu Interpretasi Gambar  ",
+      "value": "< 500 ms per gambar"
+    },
+    {
+      "label": "Metode Pengenalan ",
+      "value": " Kotak pembatas + hamparan teks"
+    },
+    {
+      "label": "Jumlah Perangkat yang Didukung  ",
+      "value": "1-2 pemindai keamanan sinar-X"
+    },
+    {
+      "label": "Mode Tampilan  ",
+      "value": "Tampilan video satu saluran atau dua saluran"
+    },
+    {
+      "label": "Tegangan Operasional  ",
+      "value": "DC 12V±10%"
+    },
+    {
+      "label": "Daya Terukur  ",
+      "value": "<20W"
+    },
+    {
+      "label": "Suhu Operasional  ",
+      "value": "-40°C~+70°C"
+    },
+    {
+      "label": "Kelembapan Operasional  ",
+      "value": "10%~90%RH"
+    },
+    {
+      "label": "Berat  ",
+      "value": "0,7 kg"
+    },
+    {
+      "label": "Dimensi  ",
+      "value": "154x92x47 mm"
+    }
+  ],
+  "id": "8ef9be9f-340a-4028-87c6-1849f13cff17",
+  "features_id": [
+    "Inspeksi Keamanan yang Disederhanakan",
+    "Manajemen Cerdas dan Berbasis Tren",
+    "Sistem Pemantauan dan Alarm Digital",
+    "Perangkat Modular dan Berbasis Jaringan"
+  ],
+  "description_id": "Terminal Analisis Maxvision AI memanfaatkan algoritma berbasis pembelajaran mendalam untuk menganalisis dan menginterpretasi citra keamanan sinar-X secara otomatis. Sistem ini dapat mengidentifikasi lebih dari seratus kategori barang terlarang, termasuk bahan korosif, bahan peledak, zat infeksius, bahan yang mudah terbakar spontan, zat padat dan cair yang mudah terbakar, zat yang bereaksi dengan air, peroksida organik, oksidator, zat beracun, gas beracun, dan barang selundupan seperti publikasi terlarang, media bajakan, dan barang bermerek palsu (deteksi barang tertentu mungkin memerlukan konfigurasi perangkat keras khusus). Sistem ini menawarkan akurasi tinggi, stabilitas operasional, pemrosesan data cerdas, dan kemampuan analitik yang canggih—memungkinkan deteksi ancaman yang efisien dan andal dalam lingkungan penyaringan keamanan modern.",
+  "parameter_en": [
+    {
+      "label": "Intelligent Analysis Channels ",
+      "value": " 2 channels"
+    },
+    {
+      "label": "Image Interpretation Time  ",
+      "value": "< 500ms per image"
+    },
+    {
+      "label": "Recognition Method  ",
+      "value": "Bounding box + text overlay"
+    },
+    {
+      "label": "Supported Device Quantity  ",
+      "value": "1-2 X-ray security scanners"
+    },
+    {
+      "label": "Display Mode  ",
+      "value": "Single-channel or dual-channel video display"
+    },
+    {
+      "label": "Operating Voltage  ",
+      "value": "DC 12V±10%"
+    },
+    {
+      "label": "Rated Power  ",
+      "value": "<20W"
+    },
+    {
+      "label": "Operating Temperature  ",
+      "value": "-40°C~+70°C"
+    },
+    {
+      "label": "Operating Humidity  ",
+      "value": "10%~90%RH"
+    },
+    {
+      "label": "Weight  ",
+      "value": "0.7kg"
+    },
+    {
+      "label": "Dimensions  ",
+      "value": "154x92x47mm"
+    }
+  ]
+}
