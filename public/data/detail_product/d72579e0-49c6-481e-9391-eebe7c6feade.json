@@ -1,0 +1,20 @@
+{
+  "id": "d72579e0-49c6-481e-9391-eebe7c6feade",
+  "product_id": "475dcd8e-2db7-4a71-b18e-817be0174382",
+  "introduction_en": "Powered by deep learning and video analytics, the Traffic Incident Detection Algorithm suite accurately identifies a wide range of abnormal driving behaviors and risk events-including illegal parking, wrong-way driving, congestion, fatigue driving, pedestrian or animal intrusion, object dropping, emergency lane occupation, and lane departure. The system also incorporates intelligent driver attribute recognition, enabling comprehensive situational awareness of traffic participants. Designed for complex environments such as urban roads, highways, and transportation hubs, it enhances traffic management with greater automation, precision, and responsiveness.",
+  "description_en": "Powered by deep learning and video analytics, the Traffic Incident Detection Algorithm suite accurately identifies a wide range of abnormal driving behaviors and risk events-including illegal parking, wrong-way driving, congestion, fatigue driving, pedestrian or animal intrusion, object dropping, emergency lane occupation, and lane departure. The system also incorporates intelligent driver attribute recognition, enabling comprehensive situational awareness of traffic participants. Designed for complex environments such as urban roads, highways, and transportation hubs, it enhances traffic management with greater automation, precision, and responsiveness.",
+  "introduction_id": "Didukung oleh pembelajaran mendalam dan analitik video, rangkaian Algoritma Deteksi Insiden Lalu Lintas secara akurat mengidentifikasi berbagai perilaku mengemudi abnormal dan peristiwa berisiko—termasuk parkir ilegal, mengemudi di jalur yang salah, kemacetan, mengemudi karena kelelahan, gangguan pejalan kaki atau hewan, menjatuhkan benda, penggunaan jalur darurat, dan keluar jalur. Sistem ini juga menggabungkan pengenalan atribut pengemudi yang cerdas, yang memungkinkan kesadaran situasional yang komprehensif terhadap peserta lalu lintas. Dirancang untuk lingkungan kompleks seperti jalan perkotaan, jalan tol, dan pusat transportasi, sistem ini meningkatkan manajemen lalu lintas dengan otomatisasi, presisi, dan respons yang lebih baik.",
+  "description_id": "Didukung oleh pembelajaran mendalam dan analitik video, rangkaian Algoritma Deteksi Insiden Lalu Lintas secara akurat mengidentifikasi berbagai perilaku mengemudi abnormal dan peristiwa berisiko—termasuk parkir ilegal, mengemudi di jalur yang salah, kemacetan, mengemudi karena kelelahan, gangguan pejalan kaki atau hewan, menjatuhkan benda, penggunaan jalur darurat, dan keluar jalur. Sistem ini juga menggabungkan pengenalan atribut pengemudi yang cerdas, yang memungkinkan kesadaran situasional yang komprehensif terhadap peserta lalu lintas. Dirancang untuk lingkungan kompleks seperti jalan perkotaan, jalan tol, dan pusat transportasi, sistem ini meningkatkan manajemen lalu lintas dengan otomatisasi, presisi, dan respons yang lebih baik.",
+  "features_en": [
+    "Detection of Diverse Traffic Violations and Anomalies",
+    "Recognition of High-risk Events",
+    "Intelligent Driver Attribute Analysis",
+    "Seamless Integration"
+  ],
+  "features_id": [
+    "Deteksi Berbagai Pelanggaran dan Anomali Lalu Lintas",
+    "Pengenalan Peristiwa Berisiko Tinggi",
+    "Analisis Atribut Pengemudi yang Cerdas",
+    "Integrasi yang Mulus"
+  ]
+}
