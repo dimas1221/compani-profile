@@ -1,0 +1,22 @@
+{
+  "id": "ce84981b-3a09-4c97-a3a2-5d055da9d248",
+  "product_id": "07d81923-0299-4eb2-b093-38f43884e4aa",
+  "introduction_en": "Personnel Behavior Analysis Algorithms leverage deep learning and computer vision technologies to intelligently identify and analyze specific human behaviors. These algorithms provide real-time monitoring of abnormal behaviors in environments such as public spaces, commercial areas, and transportation hubs, enabling rapid response and security alerts. By accurately identifying behaviors such as loitering, boundary intrusion, abandoned items, crowd gathering, running, falling, fighting, and climbing, these algorithms enhance security and risk prevention capabilities. They are widely used in security surveillance, smart buildings, and public safety applications.",
+  "description_en": "Personnel Behavior Analysis Algorithms leverage deep learning and computer vision technologies to intelligently identify and analyze specific human behaviors. These algorithms provide real-time monitoring of abnormal behaviors in environments such as public spaces, commercial areas, and transportation hubs, enabling rapid response and security alerts. By accurately identifying behaviors such as loitering, boundary intrusion, abandoned items, crowd gathering, running, falling, fighting, and climbing, these algorithms enhance security and risk prevention capabilities. They are widely used in security surveillance, smart buildings, and public safety applications.",
+  "introduction_id": "Algoritma Analisis Perilaku Personel memanfaatkan teknologi pembelajaran mendalam dan visi komputer untuk mengidentifikasi dan menganalisis perilaku manusia tertentu secara cerdas. Algoritma ini menyediakan pemantauan real-time terhadap perilaku abnormal di lingkungan seperti ruang publik, area komersial, dan pusat transportasi, yang memungkinkan respons cepat dan peringatan keamanan. Dengan mengidentifikasi perilaku seperti berkeliaran, memasuki batas wilayah, barang terbengkalai, berkumpul di kerumunan, berlari, jatuh, berkelahi, dan memanjat secara akurat, algoritma ini meningkatkan kemampuan keamanan dan pencegahan risiko. Algoritma ini banyak digunakan dalam pengawasan keamanan, gedung pintar, dan aplikasi keselamatan publik.",
+  "description_id": "Algoritma Analisis Perilaku Personel memanfaatkan teknologi pembelajaran mendalam dan visi komputer untuk mengidentifikasi dan menganalisis perilaku manusia tertentu secara cerdas. Algoritma ini menyediakan pemantauan real-time terhadap perilaku abnormal di lingkungan seperti ruang publik, area komersial, dan pusat transportasi, yang memungkinkan respons cepat dan peringatan keamanan. Dengan mengidentifikasi perilaku seperti berkeliaran, memasuki batas wilayah, barang terbengkalai, berkumpul di kerumunan, berlari, jatuh, berkelahi, dan memanjat secara akurat, algoritma ini meningkatkan kemampuan keamanan dan pencegahan risiko. Algoritma ini banyak digunakan dalam pengawasan keamanan, gedung pintar, dan aplikasi keselamatan publik.",
+  "features_en": [
+    "Efficient Behavior Recognition",
+    "Intelligent Anomaly Detection",
+    "Multi-Scenario Adaptability",
+    "Real-Time Analysis and Early Warning",
+    "Flexible Deployment and Scalability"
+  ],
+  "features_id": [
+    "Pengenalan Perilaku yang Efisien",
+    "Deteksi Anomali Cerdas",
+    "Adaptasi Multi-Skenario",
+    "Analisis Real-Time dan Peringatan Dini",
+    "Penerapan dan Skalabilitas yang Fleksibel"
+  ]
+}
