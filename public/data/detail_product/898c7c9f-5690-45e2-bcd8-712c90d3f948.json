@@ -1,0 +1,179 @@
+{
+  "introduction_id": "Robot Pemadam Kebakaran (Penyemprotan Busa) adalah perangkat yang dirancang khusus untuk tugas pemadaman kebakaran. Perangkat ini terutama digunakan di area berbahaya seperti lokasi petrokimia, tangki minyak, gudang besar, dan bangunan di mana suhu tinggi, radiasi panas yang intens, dan potensi keruntuhan menyulitkan akses truk pemadam kebakaran dan personel. Dengan menggunakan robot busa pemadam kebakaran, korban jiwa personel dapat dihindari, dan pemadaman serta pendinginan yang efektif dapat tercapai.",
+  "product_id": "c28240a9-c3d8-4330-9c1e-b295cec00e3e",
+  "features_en": [
+    "Features a self-developed wheel chassis with superior performance",
+    "Utilizes a 10.1-inch screen wireless remote control",
+    "with a wireless control visibility distance of up to 1 kilometer",
+    "Uses an electrically controlled dual-purpose water/foam cannon with a water flow rate of 40 L/s and afoam flow rate of 96",
+    "000 L/min",
+    "enhancing firefighting efficiency",
+    "Includes a water mist cooling system for temperature reduction",
+    "enhancing its effectiveness inhigh-temperature scenarios",
+    "Comes with a high-capacity lithium battery",
+    "offering up to 3.5 hours of continuous operation",
+    "Features a highly integrated handheld wireless remote control with a display that provides real-timeinformation on temperature",
+    "battery level",
+    "toxic gas concentrations",
+    "and other robot status data",
+    "Eauipped with an ultrasonic radar obstacle avoidance system",
+    "automatically detecting obstacles andhalting movement when they are less than 50cm away",
+    ""
+  ],
+  "description_en": "Fire Fighting Robot (Foam Spraying) is a device specifically designed for firefighting tasks. It is primarily used in hazardous areas such as petrochemical sites, oil tank farms, large warehouses, and buildings where high temperatures, intense heat radiation, and potential collapses make it difficult for fire trucks and personnel to access. By using the firefighting foam robot, personnel casualties can be avoided, and effective firefighting and cooling can be achieved.",
+  "introduction_en": "Fire Fighting Robot (Foam Spraying) is a device specifically designed for firefighting tasks. It is primarily used in hazardous areas such as petrochemical sites, oil tank farms, large warehouses, and buildings where high temperatures, intense heat radiation, and potential collapses make it difficult for fire trucks and personnel to access. By using the firefighting foam robot, personnel casualties can be avoided, and effective firefighting and cooling can be achieved.",
+  "parameter_id": [
+    {
+      "label": "Tegangan Baterai  ",
+      "value": "DC 48V"
+    },
+    {
+      "label": "Kecepatan Maksimum  ",
+      "value": "1,8 m/dtk"
+    },
+    {
+      "label": "Otonomi  ",
+      "value": "≥3,5 jam"
+    },
+    {
+      "label": "Kapasitas Baterai  ",
+      "value": "200Ah"
+    },
+    {
+      "label": "Waktu Pengisian Daya  ",
+      "value": "≤8 jam"
+    },
+    {
+      "label": "Peringkat IP ",
+      "value": " ≤IP66"
+    },
+    {
+      "label": "Jarak Bebas ke Tanah  ",
+      "value": "165 mm"
+    },
+    {
+      "label": "Peringkat IECEx  ",
+      "value": "Ex db eb mb IIB T4 Gb"
+    },
+    {
+      "label": "Deteksi Gas  ",
+      "value": "EX, CO, O2, H2S, SO2, NH3, HCI, NO2 (Dapat Disesuaikan)"
+    },
+    {
+      "label": "Mode Kontrol  ",
+      "value": "Layar 10,1 Inci dengan Remote Kontrol Nirkabel"
+    },
+    {
+      "label": "Laju Aliran Air  ",
+      "value": "40 L/dtk"
+    },
+    {
+      "label": "Laju Aliran Busa  ",
+      "value": "96.000 L/mnt"
+    },
+    {
+      "label": "Jangkauan Semprot Busa  ",
+      "value": "≥45 m"
+    },
+    {
+      "label": "Konsumsi Busa  ",
+      "value": "1,8 L/dtk"
+    },
+    {
+      "label": "Berat  ",
+      "value": "≤560 kg"
+    },
+    {
+      "label": "Produk Ukuran  ",
+      "value": "1690*1035*1245mm"
+    }
+  ],
+  "id": "898c7c9f-5690-45e2-bcd8-712c90d3f948",
+  "features_id": [
+    "Dilengkapi sasis roda yang dikembangkan sendiri dengan performa superior",
+    "Menggunakan remote control nirkabel layar 10",
+    "1 inci",
+    "dengan jarak pandang kontrol nirkabel hingga 1 kilometer",
+    "Menggunakan meriam air/busa serbaguna yang dikontrol secara elektrik dengan laju aliran air 40 L/dtk dan laju aliran busa 96.000 L/mnt",
+    "meningkatkan efisiensi pemadaman kebakaran",
+    "Dilengkapi sistem pendingin kabut air untuk menurunkan suhu",
+    "meningkatkan efektivitasnya dalam skenario suhu tinggi",
+    "Dilengkapi baterai litium berkapasitas tinggi",
+    "menawarkan hingga 3",
+    "5 jam pengoperasian terus menerus",
+    "Dilengkapi remote control nirkabel genggam yang sangat terintegrasi dengan layar yang memberikan informasi waktu nyata tentang suhu",
+    "level baterai",
+    "konsentrasi gas beracun",
+    "dan data status robot lainnya",
+    "Dilengkapi dengan sistem penghindaran rintangan radar ultrasonik",
+    "yang secara otomatis mendeteksi rintangan dan menghentikan gerakan ketika jaraknya kurang dari 50 cm",
+    ""
+  ],
+  "description_id": "Robot Pemadam Kebakaran (Penyemprotan Busa) adalah perangkat yang dirancang khusus untuk tugas pemadaman kebakaran. Perangkat ini terutama digunakan di area berbahaya seperti lokasi petrokimia, tangki minyak, gudang besar, dan bangunan di mana suhu tinggi, radiasi panas yang intens, dan potensi keruntuhan menyulitkan akses truk pemadam kebakaran dan personel. Dengan menggunakan robot busa pemadam kebakaran, korban jiwa personel dapat dihindari, dan pemadaman serta pendinginan yang efektif dapat tercapai.",
+  "parameter_en": [
+    {
+      "label": "Battery Voltage  ",
+      "value": "DC 48V"
+    },
+    {
+      "label": "Maximum Speed  ",
+      "value": "1.8m/s"
+    },
+    {
+      "label": "Autonomy ",
+      "value": " ≥3.5h"
+    },
+    {
+      "label": "Battery Capacity  ",
+      "value": "200Ah"
+    },
+    {
+      "label": "Charging Time  ",
+      "value": "≤8h"
+    },
+    {
+      "label": "IP Rating ",
+      "value": " ≤IP66"
+    },
+    {
+      "label": "Ground Clearance  ",
+      "value": "165mm"
+    },
+    {
+      "label": "IECEx Rating  ",
+      "value": "Ex db eb mb IIB T4 Gb"
+    },
+    {
+      "label": "Gas Detection ",
+      "value": " EX, CO, O2, H2S, SO2, NH3, HCI, NO2 (Customizable)"
+    },
+    {
+      "label": "Control Mode  ",
+      "value": "10.1-Inch Display with Wireless Remote Control"
+    },
+    {
+      "label": "Water Flow Rate  ",
+      "value": "40L/s"
+    },
+    {
+      "label": "Foam Flow Rate  ",
+      "value": "96,000L/min"
+    },
+    {
+      "label": "Foam Spray Range  ",
+      "value": "≥45m"
+    },
+    {
+      "label": "Foam Consumption  ",
+      "value": "1.8L/s"
+    },
+    {
+      "label": "Weight ",
+      "value": " ≤560kg"
+    },
+    {
+      "label": "Product Size  ",
+      "value": "1690*1035*1245mm"
+    }
+  ]
+}
