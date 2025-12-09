@@ -1,0 +1,92 @@
+{
+  "introduction_id": "Robot Pembersih Cerdas Luar Ruangan dirancang untuk lingkungan semi-terbuka, menawarkan kemampuan menyapu yang sepenuhnya otonom. Dilengkapi dengan serangkaian sensor canggih, robot ini mengintegrasikan teknologi pemosisian visual berbasis LiDAR dan persepsi titik awan untuk memungkinkan pengemudian otonom, navigasi cerdas, dan penghindaran rintangan yang aman. Dirancang untuk permukaan luar ruangan yang kompleks dan bervariasi, robot ini memberikan kinerja pembersihan yang andal dengan daya tahan baterai yang lebih lama dan kontrol cerdas. Ideal untuk pembersihan tanpa awak dan pemeliharaan lingkungan di plaza, kampus, kawasan industri, area pemandangan, dan ruang luar ruangan berskala besar lainnya.",
+  "product_id": "a004ebc9-0591-4dcf-b234-274d626e361c",
+  "features_en": [
+    "Professional Sweeping",
+    "Powerful Cleaning Performance",
+    "High-Efficiency Cleaning",
+    "Extended Battery Life",
+    "Superior Obstacle-Crossing Capability",
+    "Enhanced Safety",
+    "Al-Powered Intelligence",
+    "Fully Autonomous Operation",
+    "Digitalized Operation & Maintenance",
+    "Multi-Terminal Scheduling"
+  ],
+  "description_en": "The Outdoor Intelligent Cleaning Robot is designed for semi-open environments, offering fully autonomous sweeping capabilities. Equipped with a suite of advanced sensors, it integrates LiDAR-based visual positioning and point cloud perception technologies to enable autonomous driving, smart navigation, and safe obstacle avoidance. Engineered for complex and variable outdoor surfaces, it delivers powerful cleaning performance with extended battery life and intelligent control. Ideal for unmanned cleaning and environmental maintenance in plazas, campuses, industrial parks, scenic areas, and other large-scale outdoor spaces.",
+  "introduction_en": "The Outdoor Intelligent Cleaning Robot is designed for semi-open environments, offering fully autonomous sweeping capabilities. Equipped with a suite of advanced sensors, it integrates LiDAR-based visual positioning and point cloud perception technologies to enable autonomous driving, smart navigation, and safe obstacle avoidance. Engineered for complex and variable outdoor surfaces, it delivers powerful cleaning performance with extended battery life and intelligent control. Ideal for unmanned cleaning and environmental maintenance in plazas, campuses, industrial parks, scenic areas, and other large-scale outdoor spaces.",
+  "parameter_id": [
+    {
+      "label": "Kapasitas Baterai  ",
+      "value": "48V 150Ah"
+    },
+    {
+      "label": "Efisiensi Pembersihan  ",
+      "value": "5500m³/jam"
+    },
+    {
+      "label": "Waktu Kerja Baterai  ",
+      "value": "4 jam"
+    },
+    {
+      "label": "Jangkauan Operasional ",
+      "value": " 20 km"
+    },
+    {
+      "label": "Kapasitas Tangki Air Kotor  ",
+      "value": "110 L"
+    },
+    {
+      "label": "Kapasitas Tangki Air Bersih  ",
+      "value": "50 L"
+    },
+    {
+      "label": "Lebar Pembersihan  ",
+      "value": "1400 mm"
+    }
+  ],
+  "id": "703ecd99-dbe1-4118-b80a-dce28d3de821",
+  "features_id": [
+    "Pembersihan Profesional",
+    "Performa Pembersihan yang Kuat",
+    "Pembersihan Efisiensi Tinggi",
+    "Daya Tahan Baterai Lebih Lama",
+    "Kemampuan Melewati Rintangan yang Unggul",
+    "Keamanan yang Ditingkatkan",
+    "Kecerdasan Berbasis AI",
+    "Operasi Sepenuhnya Otonom",
+    "Operasi & Perawatan Digital",
+    "Penjadwalan Multi-Terminal"
+  ],
+  "description_id": "Robot Pembersih Cerdas Luar Ruangan dirancang untuk lingkungan semi-terbuka, menawarkan kemampuan menyapu yang sepenuhnya otonom. Dilengkapi dengan serangkaian sensor canggih, robot ini mengintegrasikan teknologi pemosisian visual berbasis LiDAR dan persepsi titik awan untuk memungkinkan pengemudian otonom, navigasi cerdas, dan penghindaran rintangan yang aman. Dirancang untuk permukaan luar ruangan yang kompleks dan bervariasi, robot ini memberikan kinerja pembersihan yang andal dengan daya tahan baterai yang lebih lama dan kontrol cerdas. Ideal untuk pembersihan tanpa awak dan pemeliharaan lingkungan di plaza, kampus, kawasan industri, area pemandangan, dan ruang luar ruangan berskala besar lainnya.",
+  "parameter_en": [
+    {
+      "label": "Battery Capacity  ",
+      "value": "48V 150Ah"
+    },
+    {
+      "label": "Cleaning Efficiency ",
+      "value": " 5500m³/h"
+    },
+    {
+      "label": "Battery Runtime  ",
+      "value": "4h"
+    },
+    {
+      "label": "Operating Range  ",
+      "value": "20km"
+    },
+    {
+      "label": "Dirty Water Tank Capacity  ",
+      "value": "110L"
+    },
+    {
+      "label": "Clean Water Tank Capacity  ",
+      "value": "50L"
+    },
+    {
+      "label": "Cleaning Width  ",
+      "value": "1400mm"
+    }
+  ]
+}
